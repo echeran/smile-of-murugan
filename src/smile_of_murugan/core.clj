@@ -2,9 +2,9 @@
   (:require [clojure.java.io :as io]
             [clojure.string :as string]
             [babashka.fs :as fs]
-            [happyapi.providers.google :as google]
             [happyapi.google.youtube-v3 :as youtube]
             [happyapi.google.vision-v1 :as gimg]
+            [happyapi.google.documentai-v1 :as docai]
             [smile-of-murugan.dictionary :as d]
             [smile-of-murugan.transform :as t]
             [org.httpkit.encode :as enc]))
@@ -16,7 +16,8 @@
 
 (defn f2
   []
-  )
+  (let [ ;; location (docai/projects-locations-list)
+        processor (docai/projects-locations-processors-create )]))
 
 (defn file-path->base64
   [file-path]
