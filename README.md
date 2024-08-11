@@ -25,3 +25,9 @@ so those words will need to be corrected.
 ## Prerequisites
 
 * Java 11 or greater
+* clojure-lsp
+  -  [Installation of CLI](https://clojure-lsp.io/installation/)
+    * [Usage instructions](https://clojure-lsp.io/api/cli/) 
+    * The commands `clojure-lsp format`, `clojure-lsp clean-ns`, and `clojure-lsp diagnostics` should pass
+  - [Installation of IDE plugins](https://clojure-lsp.io/clients/)
+    *  [Plugin for IntelliJ](https://github.com/clojure-lsp/clojure-lsp-intellij)
