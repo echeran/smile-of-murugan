@@ -13,3 +13,9 @@ pom.xml.asc
 .nrepl-port
 .cpcache/
 .idea/
+
+# Cursive Clojure
+*.iml
+
+# Happy API
+tokens/

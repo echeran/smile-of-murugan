@@ -21,3 +21,7 @@ These Tamil and Sanskrit words use the [ISO 15919](https://en.wikipedia.org/wiki
 method of transliteraiton.
 The diacritics required for ISO 15919 might not get detected correctly,
 so those words will need to be corrected.
+
+## Prerequisites
+
+* Java 11 or greater

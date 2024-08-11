@@ -1,5 +1,8 @@
 {:deps {org.clojure/clojure {:mvn/version "1.11.4"}
-        io.github.timothypratley/happyapi {:mvn/version "0.1.108-alpha"}
-        io.github.timothypratley/happyapi.google {:mvn/version "0.1.3-alpha"}
+        io.github.timothypratley/happyapi {:mvn/version "0.1.110-alpha"}
+        io.github.timothypratley/happyapi.google {:mvn/version "0.1.4-alpha"}
         http-kit/http-kit {:mvn/version "2.9.0-alpha1"}
-        cheshire/cheshire {:mvn/version "5.13.0"}}}
+        cheshire/cheshire {:mvn/version "5.13.0"}
+        babashka/fs {:mvn/version "0.5.20"}
+        org.apache.lucene/lucene-core {:mvn/version "9.10.0"}
+        org.apache.lucene/lucene-analysis-common {:mvn/version "9.10.0"}}}
