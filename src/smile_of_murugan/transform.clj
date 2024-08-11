@@ -1,13 +1,12 @@
 (ns smile-of-murugan.transform
-  (:require [clojure.string :as string]
-            [smile-of-murugan.dictionary :as d]))
+  (:require
+   [clojure.string :as string]
+   [smile-of-murugan.dictionary :as d]))
 
 (def STOP-PHRASES
   "Phrases to remove from the extracted text when they appear as a full line"
   #{"The Smile of Murugan"
-    "Introduction"
-    })
-
+    "Introduction"})
 
 (defn parse-int-or-nil
   [s]

@@ -1,23 +1,27 @@
 (ns smile-of-murugan.core
-  (:require [clojure.java.io :as io]
-            [clojure.string :as string]
-            [babashka.fs :as fs]
-            [happyapi.google.youtube-v3 :as youtube]
-            [happyapi.google.vision-v1 :as gimg]
-            [happyapi.google.documentai-v1 :as docai]
-            [smile-of-murugan.dictionary :as d]
-            [smile-of-murugan.transform :as t]
-            [org.httpkit.encode :as enc]))
+  (:require
+   [babashka.fs :as fs]
+   [clojure.java.io :as io]
+   [clojure.string :as string]
+   [happyapi.google.documentai-v1 :as docai]
+   [happyapi.google.vision-v1 :as gimg]
+   [happyapi.google.youtube-v3 :as youtube]
+   [org.httpkit.encode :as enc]
+   [smile-of-murugan.dictionary :as d]
+   [smile-of-murugan.transform :as t]))
 
 (defn f
   []
   (let [resp (youtube/channels-list "contentDetails,statistics" {:forUsername "ClojureTV"})]
     resp))
 
+(defn f3 []
+  (let [x (string/split)]))
+
 (defn f2
   []
-  (let [ ;; location (docai/projects-locations-list)
-        processor (docai/projects-locations-processors-create )]))
+  (let [;; location (docai/projects-locations-list)
+        processor (docai/projects-locations-processors-create)]))
 
 (defn file-path->base64
   [file-path]
@@ -37,19 +41,15 @@
                   (> 0.8))
       (:text full-text-annotation))))
 
-
-
 (defn response-for-file-path
   "Spit the OCR output for a file at file-path."
   [file-path]
   ;;(credentials/init!)
-  (gimg/images-annotate {:requests [{:image        {
-                                              :content (file-path->base64 file-path)
+  (gimg/images-annotate {:requests [{:image        {:content (file-path->base64 file-path)
                                               ;;:source {:imageUri "https://i0.wp.com/static.flickr.com/102/308775600_4ca34de425_o.jpg"}
-                                              },
-                               :features     [{:type "DOCUMENT_TEXT_DETECTION"}],
-                               :imageContext {:languageHints ["Tamil" "English"]}}]})
-  )
+                                                    },
+                                     :features     [{:type "DOCUMENT_TEXT_DETECTION"}],
+                                     :imageContext {:languageHints ["Tamil" "English"]}}]}))
 
 (defn extract-text-for-file-path
   "Spit the OCR output for a file at file-path."

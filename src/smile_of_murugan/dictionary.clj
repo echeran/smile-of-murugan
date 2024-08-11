@@ -1,10 +1,11 @@
 (ns smile-of-murugan.dictionary
-  (:require [babashka.fs :as fs]
-            [clojure.java.io :as jio])
-  (:import (java.io InputStream)
-           [org.apache.lucene.store NIOFSDirectory]
-           [org.apache.lucene.analysis.hunspell Dictionary
-                                                Hunspell]))
+  (:require
+   [babashka.fs :as fs]
+   [clojure.java.io :as jio])
+  (:import
+   (java.io InputStream)
+   [org.apache.lucene.analysis.hunspell Dictionary Hunspell]
+   [org.apache.lucene.store NIOFSDirectory]))
 
 (def ^:private temp-dir (atom nil))
 
@@ -31,8 +32,8 @@
         ^InputStream dict-resc (jio/input-stream (jio/resource "en_US.dic"))
         ^InputStream affix-resc (jio/input-stream (jio/resource "en_US.aff"))
         hd (Dictionary. lucene-dir
-                          temp-dir-prefix
-                          affix-resc
-                          dict-resc)
+                        temp-dir-prefix
+                        affix-resc
+                        dict-resc)
         hunspell (Hunspell. hd)]
     (reset! dict hunspell)))

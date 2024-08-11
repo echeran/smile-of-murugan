@@ -19,3 +19,7 @@ pom.xml.asc
 
 # Happy API
 tokens/
+
+# clojure-lsp (Clojure style & linting)
+.clj-kondo/
+.lsp/
