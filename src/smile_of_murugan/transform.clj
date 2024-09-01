@@ -6,7 +6,8 @@
 (def STOP-PHRASES
   "Phrases to remove from the extracted text when they appear as a full line"
   #{"The Smile of Murugan"
-    "Introduction"})
+    "Introduction"
+    "DISTINCTIVE FEATURES OF TAMIL LITERATURE"})
 
 (defn parse-int-or-nil
   [s]
