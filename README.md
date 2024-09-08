@@ -31,3 +31,23 @@ so those words will need to be corrected.
     * The commands `clojure-lsp format`, `clojure-lsp clean-ns`, and `clojure-lsp diagnostics` should pass
   - [Installation of IDE plugins](https://clojure-lsp.io/clients/)
     *  [Plugin for IntelliJ](https://github.com/clojure-lsp/clojure-lsp-intellij)
+
+## Why Happy API?
+
+The Internet Archive incorrectly tagged this book's language as Sansrkit, not English.
+And Sansrkit is not even the subject matter language, which is Tamil.
+That means that the plain text download of the text offered by the Internet Archive is in Devanagari script, not English.
+
+Also, for whatever reason, the OCR software used by the Internet Archive to create the PDF of the image scans does overlay the plain text of the scanned text on top of the PDF where the text occurs.
+However, whatever OCR software is being used has shortcomings:
+* diacritics are not preserved
+* there are spaces introduced or deleted (including hyphens at the end of a line when a word wraps a line)
+* etc.
+
+Therefore, converting the PDF using PDF parsing tools / editors (ex: Adobe Acrobat) to a rich text format that can handle text and styling (such as DOCX) will not be able to fix those pre-existing problems in the original PDF.
+
+However, Google's OCR software implicitly used by DocAI and other APIs does a much better job:
+* many diacritics in the plain text are preserved
+* fewer spaces introduced/deleted
+* better detection of symbols like hyphens, quote marks, etc.
+* more accurate detection of which text subsequences have styling
