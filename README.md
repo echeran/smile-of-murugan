@@ -51,3 +51,21 @@ However, Google's OCR software implicitly used by DocAI and other APIs does a mu
 * fewer spaces introduced/deleted
 * better detection of symbols like hyphens, quote marks, etc.
 * more accurate detection of which text subsequences have styling
+
+## Design Considerations
+
+### Producing Output
+
+Options:
+
+1. Concatenating strings of Markdown directly
+2. Producing Hiccup (Clojure HTML data) and rendering that to HTML directly
+3. Creating map-based AST tree using the Clojure representation of the [Pandoc intermediate JSON form](https://pandoc.org/filters.html), 
+as described by the [`pandoc` section of `nextjournal/markdown`](https://nextjournal.github.io/markdown/notebooks/pandoc/)
+4. Create the map-based tree using Clojure data that is the input to the `md-type->transform` function from [`nextjournal/markdown`](https://github.com/nextjournal/markdown) that will produce the same output described in the previous option.
+
+We will start with Option 1 (concatening strings of Markdown directly)
+since it is simplest given the information we get from the API response JSON.
+The API response JSON data gives us the entire plain text
+of the OCR output along with segment boundaries of text,
+and information about styles (if they apply) of those segments.
