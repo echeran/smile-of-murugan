@@ -32,16 +32,30 @@
                      (conj next-line))
                  (rest remaining-lines)))))))
 
-(defn- token->stylized-string
-  [text token] 
-  (let [is-italic (get-in token ["styleInfo" "italic"])
-        substr (str/join (for [text-segment (get-in token ["layout" "textAnchor" "textSegments"])]
-                           (let [start-index (Integer/parseInt (get text-segment "startIndex" "0"))
-                                 end-index (Integer/parseInt (get text-segment "endIndex" "0"))] 
-                             (subs text start-index end-index))))] 
-    (if is-italic
-      (str "*" substr "*")
-      substr)))
+(defn- is-token-italic?
+  [token]
+  (get-in token ["styleInfo" "italic"]))
+
+(defn- stylize-tokens
+  "partition token seq based on whether they are stylized (italicized) or not,
+   then concatenate the partitions' respective text together,
+   and return the seq of concatenated text"
+  [text tokens]
+  (let [partitioned-tokens (partition-by is-token-italic? tokens)]
+    (for [partition partitioned-tokens]
+      (let [first-token (first partition)
+            first-segment (-> (get-in first-token ["layout" "textAnchor" "textSegments"])
+                              first)
+            is-italic (is-token-italic? first-token)
+            last-token (last partition)
+            last-segment (-> (get-in last-token ["layout" "textAnchor" "textSegments"])
+                             last)
+            start-index (Integer/parseInt (get first-segment "startIndex" "0"))
+            end-index (Integer/parseInt (get last-segment "endIndex" "0"))
+            substr (subs text start-index end-index)]
+        (if is-italic
+          (str "*" substr "*")
+          substr)))))
 
 (defn- get-stylized-text
   "Convert the DocAI response JSON into the Markdown version
@@ -51,8 +65,9 @@
   (let [text (get resp "text")
         tokens (for [page (get resp "pages")
                      token (get page "tokens")]
-                 token)]
-    (str/join (map #(token->stylized-string text %) tokens))))
+                 token)
+        stylized-tokens (stylize-tokens text tokens)]
+    (str/join stylized-tokens)))
 
 (defn docai-json-to-md
   "Convert the DocAI response JSON directly into Markdown"

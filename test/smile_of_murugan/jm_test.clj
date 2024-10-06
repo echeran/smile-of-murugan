@@ -47,3 +47,15 @@
         (prn "word2:" word2)
         (prn "word3:" word3))
       (is (= true false)))))
+
+(deftest json-style-test-3
+  (testing "Extract italicized set of words `love-poetry, `"
+    (let [json-file-name "sample/docai-doc-ocr.json"
+          json-file (fs/file json-file-name)
+          json-str (slurp json-file)
+          resp (json/parse-string json-str)
+          text (get resp "text")]
+      (let [word1 (subs text 8151 8164)]
+        (prn "(class text):" (class text))
+        (prn "word1:" word1))
+      (is (= true false)))))
