@@ -11,10 +11,8 @@
           json-file (fs/file json-file-name)
           json-str (slurp json-file)
           md-lines (jm/docai-json-to-md json-str)
-          ]
-      (->> md-lines
-           (take 150)
-           (run! println))
+          test-out-file-name "temp.md"]
+      (spit test-out-file-name (string/join \newline md-lines))
       (is (= true false)))))
 
 (deftest json-style-test-1
