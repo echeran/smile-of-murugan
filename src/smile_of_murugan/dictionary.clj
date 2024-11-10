@@ -24,16 +24,17 @@
 
 (defn load-dictionary
   []
-  (close-dictionary)
-  (reset! temp-dir (fs/create-temp-dir))
-  (assert (not (nil? @temp-dir)) "temp dir should have been initialized")
-  (let [^NIOFSDirectory lucene-dir (NIOFSDirectory. (fs/path @temp-dir))
-        ^String temp-dir-prefix "tmp"
-        ^InputStream dict-resc (jio/input-stream (jio/resource "en_US.dic"))
-        ^InputStream affix-resc (jio/input-stream (jio/resource "en_US.aff"))
-        hd (Dictionary. lucene-dir
-                        temp-dir-prefix
-                        affix-resc
-                        dict-resc)
-        hunspell (Hunspell. hd)]
-    (reset! dict hunspell)))
+  ;; (close-dictionary)
+  ;; (assert (not (nil? @temp-dir)) "temp dir should have been initialized")
+  (when-not @dict
+    (reset! temp-dir (fs/create-temp-dir))
+    (let [^NIOFSDirectory lucene-dir (NIOFSDirectory. (fs/path @temp-dir))
+          ^String temp-dir-prefix "tmp"
+          ^InputStream dict-resc (jio/input-stream (jio/resource "en_US.dic"))
+          ^InputStream affix-resc (jio/input-stream (jio/resource "en_US.aff"))
+          hd (Dictionary. lucene-dir
+                          temp-dir-prefix
+                          affix-resc
+                          dict-resc)
+          hunspell (Hunspell. hd)]
+      (reset! dict hunspell))))

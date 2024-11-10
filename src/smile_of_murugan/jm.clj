@@ -1,7 +1,7 @@
 (ns smile-of-murugan.jm
   (:require [cheshire.core :as json]
             [clojure.string :as string]
-            [clojure.string :as str]))
+            [smile-of-murugan.transform :as transform]))
 
 (def END-OF-PARAGRAPH-CHAR-LIMIT 55)
 
@@ -89,7 +89,7 @@
                      token (get page "tokens")]
                  token)
         stylized-tokens (stylize-tokens text tokens)]
-    (str/join stylized-tokens)))
+    (string/join stylized-tokens)))
 
 (defn docai-json-to-md
   "Convert the DocAI response JSON directly into Markdown"
@@ -97,5 +97,6 @@
   (let [resp (json/parse-string resp-json)
         text (get-stylized-text resp)
         lines (string/split-lines text)
-        lines-with-paragraphs (insert-paragraph-lines lines)]
+        unhyphenated-lines (transform/join-hyphenated-line-ends lines)
+        lines-with-paragraphs (insert-paragraph-lines unhyphenated-lines)]
     lines-with-paragraphs))

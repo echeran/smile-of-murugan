@@ -37,6 +37,7 @@
                                 (= 34 (- file-num num)))))))
     line))
 
+;; TODO: don't split on whitespace to tokenize each line b/c it is a lossy transform to rejoin
 (defn join-hyphenated-line-ends
   [lines]
   (let [lines-split-into-words (loop [result []
