@@ -36,8 +36,30 @@
   [token]
   (get-in token ["styleInfo" "italic"]))
 
-(defn- format-stylized-text-substring-for-markdown
+(def TERMINAL-WS-REGEX #"\s+$")
+
+(defn- reformat-newline-in-italics
+  "Newlines inside an italics region in Markdown lead to
+   improper rendering. They empirically confuse the renderer.
+   Instead, add more Markdown italics delimiters around the newline
+   to prevent the problem (thereby excising the newline from
+   the region of italics styling)."
+  [s]
+  (let [newline-search-regex #"(\s*)(\n)(\s*)(\S)"]
+    (string/replace s newline-search-regex #(str (nth % 1) "*\n*" (nth % 3) (nth % 4)))))
+
+(defn- swap-order-of-terminal-whitespace-in-italics
+  "find terminal whitespace in the string coming after the end delimiter
+   of italicized text and swap the order
+   of the close italic symbol with the terminal whitespace."
+  [s]
+  (if (re-find TERMINAL-WS-REGEX s)
+    (string/replace s TERMINAL-WS-REGEX #(str "*" %1))
+    (str s "*")))
+
+(defn format-stylized-text-substring-for-markdown
   "Return the Markdown-formatted output for stylized substring text.
+   Input = substring text that was marked as italicized style.
    When extracting maximal length substrings of the original text
    that are stylized (italicized), it is not enough to merely apply
    the Markdown italics syntax on the substring.
@@ -46,17 +68,15 @@
    symbol is confusing to the Markdown parser & renderer, in practice.
    Therefore, we need to find such terminal whitespace and swap the order
    of the close italic symbol with the terminal whitespace.
-   This problem may also occur for whitespace _in the middle of the substring_,
-   but we haven't yet identified such cases so far in our testing."
+   This problem also occurs for whitespace _in the middle of the substring_."
   [preformatted-str]
   (let [is-str-all-non-letters (re-matches #"[^\p{L}\p{N}]*" preformatted-str)]
     (if is-str-all-non-letters
       preformatted-str
-      (let [terminal-ws-regex #"\s+$"
-            str-with-close-italic-symbol (if (re-find terminal-ws-regex preformatted-str)
-                                           (string/replace preformatted-str terminal-ws-regex #(str "*" %1))
-                                           (str preformatted-str "*"))]
-        (str "*" str-with-close-italic-symbol)))))
+      (-> preformatted-str
+          reformat-newline-in-italics
+          swap-order-of-terminal-whitespace-in-italics 
+          (->> (str "*"))))))
 
 (defn- stylize-tokens
   "partition token seq based on whether they are stylized (italicized) or not,

@@ -73,9 +73,45 @@ tion of their"
 
 (deftest json-style-test-4
   (testing "Fix stylizing text that wraps a newline" 
-    (comment TODO: look for adjacent lines that wrap like this:
+    #_(comment "TODO: look for adjacent lines that wrap like this:"
              "called *manai,
 akam*, il")
-    (comment TODO: allow for hyphenated compound word to be on one line
-             by modifying the unhyphenation fn accordingly)
-    (is false)))
+    #_(comment "TODO: allow for hyphenated compound word to be on one line
+             by modifying the unhyphenation fn accordingly")
+    (let [input "manai,
+akam"
+          expected "*manai,*
+*akam*"
+          actual (jm/format-stylized-text-substring-for-markdown input)]
+      (is (= expected actual)))))
+
+(deftest json-style-test-5
+  (testing "Fix stylizing text that wraps a newline - Example 2"
+    (let [input "élite\n"
+          expected "*élite*\n"
+          actual (jm/format-stylized-text-substring-for-markdown input)]
+      (is (= expected actual)))))
+
+;; If we see this, we can worry about it
+#_(deftest json-style-test-6
+  (testing "Fix stylizing text that wraps a newline - Example 3" 
+    (let [input "manai
+,"
+          expected "*manai*
+,"
+          actual (jm/format-stylized-text-substring-for-markdown input)]
+      (is (= expected actual)))))
+
+;; TODO: start here next time
+(deftest json-style-dehyphentation-combo-test
+    (testing "Fix a stylized word that is hyphentated and wraps a newline"
+      (d/load-dictionary)
+      (let [input "Tolkāppi-
+yam"
+            expected "*Tolkāppiyam*"
+            actual (-> input
+                       jm/format-stylized-text-substring-for-markdown
+                       string/split-lines
+                       transform/join-hyphenated-line-ends)]
+        (is (= expected actual)))
+      (d/close-dictionary)))
