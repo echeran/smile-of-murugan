@@ -111,6 +111,46 @@
         stylized-tokens (stylize-tokens text tokens)]
     (string/join stylized-tokens)))
 
+(defn get-word-index-scores
+  [resp]
+  (let [text (get resp "text")
+        text-length (count text)
+        context-length 20
+        word-index-scores (for [page (get resp "pages")
+                                token (get page "tokens")]
+                            (let [confidence (get-in token ["layout" "confidence"])
+                                  first-segment (-> (get-in token ["layout" "textAnchor" "textSegments"])
+                                                    first)
+                                  last-segment (-> (get-in token ["layout" "textAnchor" "textSegments"])
+                                                   last)
+                                  start-index (Integer/parseInt (get first-segment "startIndex" "0"))
+                                  end-index (Integer/parseInt (get last-segment "endIndex" "0"))
+                                  substring (subs text start-index end-index)]
+                              {:confidence confidence
+                               :start-index start-index
+                               :end-index end-index
+                               :substring substring
+                               :context (subs text
+                                              (max 0 (- start-index context-length))
+                                              (min text-length (+ end-index context-length)))}))]
+    word-index-scores))
+
+(def SPELLING-CORRECTIONS
+  {"paṇar" "pāṇar"
+   "canrōr" "cāṉṟōr"})
+
+"cāṉṟōr" ;; Elango edition - NFD form
+"cāṉṟōr" ;; Internet inspired - NFC form
+
+
+
+
+(defn filter-word-index-scores
+  [word-index-scores]
+  (let [no-punctuation (remove #(re-matches #"[\p{Space}\p{Punct}]+" (:substring %)) word-index-scores)]
+    ;; TODO: remove all words of a high confidence score that match the English dictionary
+    no-punctuation))
+
 (defn docai-json-to-md
   "Convert the DocAI response JSON directly into Markdown"
   [resp-json]

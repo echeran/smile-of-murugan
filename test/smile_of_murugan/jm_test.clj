@@ -115,3 +115,33 @@ yam"
                        transform/join-hyphenated-line-ends)]
         (is (= expected actual)))
       (d/close-dictionary)))
+
+#_(deftest response-confidence-score-test
+  (testing "Examine the regions where the confidence score is low"
+    (let [json-file-name "sample/docai-doc-ocr.json"
+          json-file (fs/file json-file-name)
+          json-str (slurp json-file)
+          resp (json/parse-string json-str)
+          text (get resp "text")]
+      (let [word1-99 (subs text 3919 3924)
+            word2-80 (subs text 3924 3930)
+            word3-53 (subs text 3930 3931)
+            word4-98 (subs text 3931 3939)]
+        (prn "word1 with 99 confidence:" word1-99)
+        (prn "word2 with 80 confidence:" word2-80)
+        (prn "word3 with 53 confidence:" word3-53)
+        (prn "word4 with 98 confidence:" word4-98)))))
+
+(deftest inspect-low-confidence-tokens
+  (testing "Print out the lowest N confidence scores from tokens in response object"
+    (let [json-file-name "sample/docai-doc-ocr.json"
+          json-file (fs/file json-file-name)
+          json-str (slurp json-file)
+          resp (json/parse-string json-str)
+          word-index-scores (jm/get-word-index-scores resp)
+          ordered-word-index-scores (->> word-index-scores
+                                         (jm/filter-word-index-scores)
+                                         (sort-by :confidence))
+          cutoff-n 500]
+      (println "lowest" cutoff-n "confidence score words:")
+      (run! prn (take cutoff-n ordered-word-index-scores)))))
