@@ -6,7 +6,8 @@
             [clojure.test :refer [deftest testing is]]
             [babashka.fs :as fs]
             [cheshire.core :as json]
-            [smile-of-murugan.dictionary :as d]))
+            [smile-of-murugan.dictionary :as d]
+            [clojure.string :as str]))
 
 (deftest json-parse-and-convert-test
   (testing "Context of the test assertions"
@@ -132,8 +133,15 @@ yam"
         (prn "word3 with 53 confidence:" word3-53)
         (prn "word4 with 98 confidence:" word4-98)))))
 
+(defn print-word-index-score
+  [word-index-score]
+  (println (str (pr-str (:substring word-index-score))
+                \tab
+                (pr-str (:context word-index-score)))))
+
 (deftest inspect-low-confidence-tokens
   (testing "Print out the lowest N confidence scores from tokens in response object"
+    (d/load-dictionary)
     (let [json-file-name "sample/docai-doc-ocr.json"
           json-file (fs/file json-file-name)
           json-str (slurp json-file)
@@ -141,7 +149,8 @@ yam"
           word-index-scores (jm/get-word-index-scores resp)
           ordered-word-index-scores (->> word-index-scores
                                          (jm/filter-word-index-scores)
-                                         (sort-by :confidence))
+                                         (sort-by (comp str/lower-case :substring)))
           cutoff-n 500]
       (println "lowest" cutoff-n "confidence score words:")
-      (run! prn (take cutoff-n ordered-word-index-scores)))))
+      (run! print-word-index-score (take cutoff-n ordered-word-index-scores)))
+    (d/close-dictionary)))

@@ -1,7 +1,9 @@
 (ns smile-of-murugan.jm
   (:require [cheshire.core :as json]
             [clojure.string :as string]
-            [smile-of-murugan.transform :as transform]))
+            [smile-of-murugan.transform :as transform]
+            [smile-of-murugan.dictionary :as d]
+            [clojure.string :as str]))
 
 (def END-OF-PARAGRAPH-CHAR-LIMIT 55)
 
@@ -135,21 +137,60 @@
                                               (min text-length (+ end-index context-length)))}))]
     word-index-scores))
 
+
+
+(def CORRECT-SPELLINGS
+  {;; words & names using diacritics in transliterations
+   "Aruṇakiri" #{}
+   "Aňciṟaittumpi" #{"Anciraittumpi"}
+   "Akam" #{}
+   "cāṉṟōṉ" #{"cāṇrōn" "canrōn"}
+   "cāṉṟōr" #{"canrōr" "cānṛōr" "cāṇṛōr" "canyōr"}
+   "Kailasapathy" #{}
+   "kāňci" #{}
+   "kēḷ" #{"kēļ"} 
+   "nāgarika" #{}
+   "nāṇ" #{}
+   "pāṇ" #{}
+   "pāṇar" #{"paṇar"}
+   "pāṇi" #{}
+   "Pukaḻēnti" #{"Pukaļēnti"}
+   "pulavar" #{}
+   "Sangam" #{}
+   "yāḻ" #{"yal"}
+   ;; abbreviations & names 
+   "DBIA" #{}
+   "DED" #{}
+   "Kur" #{}
+   ;; puncutation
+   "”" #{}
+   "“" #{}
+   "—" #{}
+   ;; REMOVE
+   ;;   (relies on the fact that number of repeated whitespace is not significant in Markdown)
+   ;;   Note: we have the 'remove' category because of a human marking in the margin that got interpreted as a "×"
+   "" #{"×"}})
+
 (def SPELLING-CORRECTIONS
-  {"paṇar" "pāṇar"
-   "canrōr" "cāṉṟōr"})
+  (into {} (for [[k vs] CORRECT-SPELLINGS
+                 v vs]
+             [v k])))
 
 "cāṉṟōr" ;; Elango edition - NFD form
 "cāṉṟōr" ;; Internet inspired - NFC form
 
-
-
-
 (defn filter-word-index-scores
   [word-index-scores]
-  (let [no-punctuation (remove #(re-matches #"[\p{Space}\p{Punct}]+" (:substring %)) word-index-scores)]
+  (let [trimmed-words (map #(update-in % [:substring] str/trim) word-index-scores)
+        no-punctuation (remove #(re-matches #"[\p{Space}\p{Punct}]+" (:substring %)) trimmed-words)
+        no-english (remove #(d/is-word? (:substring %)) no-punctuation)
+        no-correct-non-english (remove #(CORRECT-SPELLINGS (:substring %)) no-english)
+        no-visited-incorrect-non-english (remove #(SPELLING-CORRECTIONS (:substring %)) no-correct-non-english)]
     ;; TODO: remove all words of a high confidence score that match the English dictionary
-    no-punctuation))
+    no-visited-incorrect-non-english))
+
+
+
 
 (defn docai-json-to-md
   "Convert the DocAI response JSON directly into Markdown"
