@@ -133,11 +133,11 @@ yam"
         (prn "word3 with 53 confidence:" word3-53)
         (prn "word4 with 98 confidence:" word4-98)))))
 
-(defn print-word-index-score
+(defn format-word-index-score-output
   [word-index-score]
-  (println (str (pr-str (:substring word-index-score))
-                \tab
-                (pr-str (:context word-index-score)))))
+  (str (pr-str (:substring word-index-score))
+       \tab
+       (pr-str (:context word-index-score))))
 
 (deftest inspect-low-confidence-tokens
   (testing "Print out the lowest N confidence scores from tokens in response object"
@@ -150,7 +150,8 @@ yam"
           ordered-word-index-scores (->> word-index-scores
                                          (jm/filter-word-index-scores)
                                          (sort-by (comp str/lower-case :substring)))
-          cutoff-n 500]
-      (println "lowest" cutoff-n "confidence score words:")
-      (run! print-word-index-score (take cutoff-n ordered-word-index-scores)))
+          out-file-name "sample/low-confidence-tokens.txt"]
+      (spit out-file-name (->> ordered-word-index-scores
+                               (map format-word-index-score-output) 
+                               (string/join \newline))))
     (d/close-dictionary)))

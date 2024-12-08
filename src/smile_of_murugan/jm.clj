@@ -143,7 +143,12 @@
   {;; words & names using diacritics in transliterations
    "Aruṇakiri" #{}
    "Aňciṟaittumpi" #{"Anciraittumpi"}
+   "akam" #{}
    "Akam" #{}
+   "bhakti" #{}
+   "Bharati" #{}
+   "Brahmin" #{}
+
    "cāṉṟōṉ" #{"cāṇrōn" "canrōn"}
    "cāṉṟōr" #{"canrōr" "cānṛōr" "cāṇṛōr" "canyōr"}
    "Kailasapathy" #{}
@@ -156,9 +161,12 @@
    "pāṇi" #{}
    "Pukaḻēnti" #{"Pukaļēnti"}
    "pulavar" #{}
+   "puram" #{}
+   "Puram" #{}
    "Sangam" #{}
    "yāḻ" #{"yal"}
    ;; abbreviations & names 
+   "BSOAS" #{}
    "DBIA" #{}
    "DED" #{}
    "Kur" #{}
