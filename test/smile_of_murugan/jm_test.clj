@@ -3,7 +3,7 @@
             [smile-of-murugan.jm :as jm]
             [smile-of-murugan.transform :as transform]
             [clojure.string :as string]
-            [clojure.test :refer [deftest testing is]]
+            [clojure.test :refer [deftest testing is are]]
             [babashka.fs :as fs]
             [cheshire.core :as json]
             [smile-of-murugan.dictionary :as d]
@@ -155,3 +155,14 @@ yam"
                                (map format-word-index-score-output) 
                                (string/join \newline))))
     (d/close-dictionary)))
+
+(deftest token-markdown-syntax-matcher
+  (testing "Regex separates out leading and trailing markdown syntax from token"
+    (are [token groups] (= groups (rest (re-matches jm/TOKEN-MARKDOWN-SYNTAX-MATCHER token)))
+      "hello" ["" "hello" ""],
+      "*hello" ["*" "hello" ""]
+      "hello*" ["" "hello" "*"]
+      "*hello*" ["*" "hello" "*"]
+      "***hel*lo**" ["***" "hel*lo" "**"]
+      "_***hel*l_o**_" ["_***" "hel*l_o" "**_"]
+      "*hello*," ["*" "hello" "*,"])))

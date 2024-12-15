@@ -2,8 +2,7 @@
   (:require [cheshire.core :as json]
             [clojure.string :as string]
             [smile-of-murugan.transform :as transform]
-            [smile-of-murugan.dictionary :as d]
-            [clojure.string :as str]))
+            [smile-of-murugan.dictionary :as d]))
 
 (def END-OF-PARAGRAPH-CHAR-LIMIT 55)
 
@@ -148,7 +147,6 @@
    "bhakti" #{}
    "Bharati" #{}
    "Brahmin" #{}
-
    "cāṉṟōṉ" #{"cāṇrōn" "canrōn"}
    "cāṉṟōr" #{"canrōr" "cānṛōr" "cāṇṛōr" "canyōr"}
    "Kailasapathy" #{}
@@ -189,7 +187,7 @@
 
 (defn filter-word-index-scores
   [word-index-scores]
-  (let [trimmed-words (map #(update-in % [:substring] str/trim) word-index-scores)
+  (let [trimmed-words (map #(update-in % [:substring] string/trim) word-index-scores)
         no-punctuation (remove #(re-matches #"[\p{Space}\p{Punct}]+" (:substring %)) trimmed-words)
         no-english (remove #(d/is-word? (:substring %)) no-punctuation)
         no-correct-non-english (remove #(CORRECT-SPELLINGS (:substring %)) no-english)
@@ -198,7 +196,21 @@
     no-visited-incorrect-non-english))
 
 
+(def TOKEN-MARKDOWN-SYNTAX-MATCHER
+  #"([\*_]*)(.*?)([\*_\p{Punct}]*)")
 
+(defn correct-spelling-in-token
+  [token]
+  (let [groups (re-matches TOKEN-MARKDOWN-SYNTAX-MATCHER token)
+        [_ leading word trailing] groups
+        word-corrected-spelling (get SPELLING-CORRECTIONS word word)]
+    (str leading word-corrected-spelling trailing)))
+
+(defn correct-spellings-on-line
+  [line]
+  (let [tokens (string/split line #"\s+")
+        tokens-corrected-spelling (map correct-spelling-in-token tokens)]
+    (string/join " " tokens-corrected-spelling)))
 
 (defn docai-json-to-md
   "Convert the DocAI response JSON directly into Markdown"
@@ -207,5 +219,6 @@
         text (get-stylized-text resp)
         lines (string/split-lines text)
         unhyphenated-lines (transform/join-hyphenated-line-ends lines)
-        lines-with-paragraphs (insert-paragraph-lines unhyphenated-lines)]
-    lines-with-paragraphs))
+        lines-with-paragraphs (insert-paragraph-lines unhyphenated-lines)
+        lines-with-paragraphs-corrected-spelling (map correct-spellings-on-line lines-with-paragraphs)]
+    lines-with-paragraphs-corrected-spelling))
