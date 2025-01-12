@@ -69,3 +69,28 @@ since it is simplest given the information we get from the API response JSON.
 The API response JSON data gives us the entire plain text
 of the OCR output along with segment boundaries of text,
 and information about styles (if they apply) of those segments.
+
+### Footnotes
+
+Response object gives information per page.
+A page in the response object is a PDF (input doc) page.
+However, the Smile of Murugan PDF had scanned two book pages per PDF page.
+Therefore, book page != input PDF page.
+
+Within a response object page, it provides 3 different granularities of information of interest:
+- blocks
+- paragraphs
+- tokens
+
+Blocks are continuous stretches of text that are not separated by an empty line or other noticeable distinguishing whitespace, etc.
+Paragraphs are computed from the blocks.
+In other words, paragraphs are subdivisions from the blocks.
+Tokens are more or less all of the words from beginning to end on the page.
+
+We think that footnotes can be identified by looking for blocks that begin with a number (almost always "1") followed by a space. There will be text after the space.
+However, page numbers are also detected in their own blocks, but empirically, they are followed only by a newline character.
+There is an instance of a footnote that is so large that is split across two pages.
+Footnotes seem to be numbered by the publisher resetting to 1 after each page.
+There is an instance of a page with multiple footnotes, and in that case, the numbering went up to 2.
+In most cases, the footnote is the only one on the page, so the footnote number is "1".
+
