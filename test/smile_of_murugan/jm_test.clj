@@ -11,14 +11,13 @@
 
 (deftest json-parse-and-convert-test
   (testing "Context of the test assertions"
-    (d/load-dictionary)
-    (let [json-file-name "sample/docai-doc-ocr.json"
-          json-file (fs/file json-file-name)
-          json-str (slurp json-file)
-          md-lines (jm/docai-json-to-md json-str)
-          test-out-file-name "temp.md"]
-      (spit test-out-file-name (string/join \newline md-lines)))
-    (d/close-dictionary)))
+    (with-open [_ (d/load-dictionaries)] 
+      (let [json-file-name "sample/docai-doc-ocr.json"
+            json-file (fs/file json-file-name)
+            json-str (slurp json-file)
+            md-lines (jm/docai-json-to-md json-str)
+            test-out-file-name "temp.md"]
+        (spit test-out-file-name (string/join \newline md-lines))))))
 
 (deftest json-style-test-1
   (testing "Extract italicized word Cankam"
@@ -62,15 +61,14 @@
 
 (deftest unhyphenated-lines-test
   (testing "Remove hyphenation from lines wrapped around a line break with a hypen"
-    (d/load-dictionary)
-    (let [text-str "without any determina-
+    (with-open [_ (d/load-dictionaries)]
+      (let [text-str "without any determina-
 tion of their"
-          lines (string/split-lines text-str)
-          unhyphenated-lines (transform/join-hyphenated-line-ends lines)
-          expected ["without any determination"
-                    "of their"]]
-      (is (= expected unhyphenated-lines)))
-    (d/close-dictionary)))
+            lines (string/split-lines text-str)
+            unhyphenated-lines (transform/join-hyphenated-line-ends lines)
+            expected ["without any determination"
+                      "of their"]]
+        (is (= expected unhyphenated-lines))))))
 
 (deftest json-style-test-4
   (testing "Fix stylizing text that wraps a newline" 
@@ -106,16 +104,15 @@ akam"
 ;; TODO: start here next time
 (deftest json-style-dehyphentation-combo-test
     (testing "Fix a stylized word that is hyphentated and wraps a newline"
-      (d/load-dictionary)
-      (let [input "Tolkāppi-
+      (with-open [_ (d/load-dictionaries)]
+        (let [input "Tolkāppi-
 yam"
-            expected "*Tolkāppiyam*"
-            actual (-> input
-                       jm/format-stylized-text-substring-for-markdown
-                       string/split-lines
-                       transform/join-hyphenated-line-ends)]
-        (is (= expected actual)))
-      (d/close-dictionary)))
+              expected "*Tolkāppiyam*"
+              actual (-> input
+                         jm/format-stylized-text-substring-for-markdown
+                         string/split-lines
+                         transform/join-hyphenated-line-ends)]
+          (is (= expected actual))))))
 
 #_(deftest response-confidence-score-test
   (testing "Examine the regions where the confidence score is low"
@@ -141,20 +138,19 @@ yam"
 
 (deftest inspect-low-confidence-tokens
   (testing "Print out the lowest N confidence scores from tokens in response object"
-    (d/load-dictionary)
-    (let [json-file-name "sample/docai-doc-ocr.json"
-          json-file (fs/file json-file-name)
-          json-str (slurp json-file)
-          resp (json/parse-string json-str)
-          word-index-scores (jm/get-word-index-scores resp)
-          ordered-word-index-scores (->> word-index-scores
-                                         (jm/filter-word-index-scores)
-                                         (sort-by (comp str/lower-case :substring)))
-          out-file-name "sample/low-confidence-tokens.txt"]
-      (spit out-file-name (->> ordered-word-index-scores
-                               (map format-word-index-score-output) 
-                               (string/join \newline))))
-    (d/close-dictionary)))
+    (with-open [_ (d/load-dictionaries)]
+      (let [json-file-name "sample/docai-doc-ocr.json"
+            json-file (fs/file json-file-name)
+            json-str (slurp json-file)
+            resp (json/parse-string json-str)
+            word-index-scores (jm/get-word-index-scores resp)
+            ordered-word-index-scores (->> word-index-scores
+                                           (jm/filter-word-index-scores)
+                                           (sort-by (comp str/lower-case :substring)))
+            out-file-name "sample/low-confidence-tokens.txt"]
+        (spit out-file-name (->> ordered-word-index-scores
+                                 (map format-word-index-score-output) 
+                                 (string/join \newline)))))))
 
 (deftest token-markdown-syntax-matcher
   (testing "Regex separates out leading and trailing markdown syntax from token"

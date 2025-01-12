@@ -73,26 +73,17 @@
        file-seq
        (filter #(.isFile %))))
 
-(defn setup
-  []
-  (d/load-dictionary))
-
-(defn teardown
-  []
-  (d/close-dictionary))
-
 (defn convert-images
   [dir]
-  (setup)
-  (let [file-paths (->> (find-all-file-paths dir)
-                        (filter #(string/ends-with? (str %) ".png")))
-        sorted-paths (->> (sort file-paths))]
-    (doseq [[idx path] (map-indexed vector sorted-paths)]
-      (some-> path
-              extract-text-for-file-path
-              (t/clean-parsed-text (inc idx))
-              (spit-text-to-file path))))
-  (teardown))
+  (with-open [_ (d/load-dictionaries)]
+    (let [file-paths (->> (find-all-file-paths dir)
+                          (filter #(string/ends-with? (str %) ".png")))
+          sorted-paths (->> (sort file-paths))]
+      (doseq [[idx path] (map-indexed vector sorted-paths)]
+        (some-> path
+                extract-text-for-file-path
+                (t/clean-parsed-text (inc idx))
+                (spit-text-to-file path))))))
 
 (defn chapter-id
   [page-num]
@@ -107,26 +98,25 @@
 
 (defn combine-chapters
   [in-dir out-dir]
-  (setup)
-  (let [file-paths (->> (find-all-file-paths in-dir)
-                        (filter #(string/ends-with? (str %) ".txt")))
-        sorted-paths (sort file-paths)]
-    (letfn [(concat-file [chapters-map path]
-              (let [file (fs/file path)
-                    file-name (.getName file)
-                    file-num-str (-> (re-seq #"(\d+).txt" file-name)
-                                     first
-                                     (nth 1))
-                    file-num (Integer/parseInt file-num-str)
-                    chapter (chapter-id file-num)
-                    text (slurp file)]
-                (update-in chapters-map [chapter] str \newline text)))]
-      (let [combined-chapters-map (-> (reduce concat-file {} sorted-paths)
-                                      (dissoc nil))]
-        (doseq [[chapter text] combined-chapters-map]
-          (let [text-lines (string/split-lines text)
-                unhyphenated-lines (t/join-hyphenated-line-ends text-lines)
-                chapter-file-name (str (name chapter) ".txt")
-                chapter-file (fs/file out-dir chapter-file-name)]
-            (spit chapter-file (string/join \newline unhyphenated-lines)))))))
-  (teardown))
+  (with-open [_ (d/load-dictionaries)]
+    (let [file-paths (->> (find-all-file-paths in-dir)
+                          (filter #(string/ends-with? (str %) ".txt")))
+          sorted-paths (sort file-paths)]
+      (letfn [(concat-file [chapters-map path]
+                (let [file (fs/file path)
+                      file-name (.getName file)
+                      file-num-str (-> (re-seq #"(\d+).txt" file-name)
+                                       first
+                                       (nth 1))
+                      file-num (Integer/parseInt file-num-str)
+                      chapter (chapter-id file-num)
+                      text (slurp file)]
+                  (update-in chapters-map [chapter] str \newline text)))]
+        (let [combined-chapters-map (-> (reduce concat-file {} sorted-paths)
+                                        (dissoc nil))]
+          (doseq [[chapter text] combined-chapters-map]
+            (let [text-lines (string/split-lines text)
+                  unhyphenated-lines (t/join-hyphenated-line-ends text-lines)
+                  chapter-file-name (str (name chapter) ".txt")
+                  chapter-file (fs/file out-dir chapter-file-name)]
+              (spit chapter-file (string/join \newline unhyphenated-lines)))))))))

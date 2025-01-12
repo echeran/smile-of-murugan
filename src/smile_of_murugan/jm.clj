@@ -139,35 +139,124 @@
 
 
 (def CORRECT-SPELLINGS
+  "The key is the correct spelling. The value is a set of incorrect spellings
+   as they occur in the OCR text.
+   If the word actually appears correctly spelled in the text, then
+   the value set of strings should be kept empty."
+
+
   {;; words & names using diacritics in transliterations
+   "āciriyam" #{"aciriyam"}
+   "āciriyan" #{"aciri yan"}
+   "akavalar" #{}
+   "akavaṉ" #{"akavan"}
+   "akavar" #{}
+   "akavu" #{}
+   "akavunar" #{}
+   "artha" #{}
+   "atuviṉṟeṉ" #{"atuvinren"}
    "Aruṇakiri" #{}
    "Aňciṟaittumpi" #{"Anciraittumpi"}
+   "Auvaiyār" #{}
+   "Ayodhyā" #{}
    "akam" #{}
    "Akam" #{}
+   "bhaktas" #{}
    "bhakti" #{}
    "Bharati" #{}
    "Brahmin" #{}
+   "Caṅkam" #{"Cankam"}
    "cāṉṟōṉ" #{"cāṇrōn" "canrōn"}
    "cāṉṟōr" #{"canrōr" "cānṛōr" "cāṇṛōr" "canyōr"}
+   "ceyyuḷ" #{"ceyyu" "ceyyul"}
+   "choroi" #{}
+   "cīrtti" #{"cirtti"}
+   "cittar" #{}
+   "Cuvāmi" #{}
+   "cāl" #{}
+   "cālpu" #{}
+   "Cēral" #{}
+   "dramatis" #{}
+   "Eḻuttāḷaṉ" #{"Eluttālan"}
+   "explicitly" #{"explicitely"} ;; the rare instance of a misspelled English word!
+   "Gaṇapati" #{}
+   "gloire" #{}
+   "glossators" #{}
+   "gray" #{}
+   "il" #{}
+   "Iḷampūraṇar" #{"Ilampūraṇar"}
+   "Jaina" #{}
    "Kailasapathy" #{}
+   "Kailasapathy's" #{}
+   "Kampaṉ's" #{"Kampan's"}
+   "kiḻār" #{"kilār"}
    "kāňci" #{}
-   "kēḷ" #{"kēļ"} 
+   "kaṭaṉ" #{"katan"}
+   "kēḷ" #{"kēļ"}
+   "kiḷavi" #{"kilavi"}
+   "Kiḷimaṅkalaṅ-" #{"Kilimankalan-"}
+   "Kiḷimaṅkalaṅkiḻār" #{"Kilimankalankilār"}
+   "kiḷa" #{"kiļa"}
+   "kiṇai" #{"kiņai"}
+   "koṭukkuvar" #{"koṭukkuvar"}
+   "Kunstdichtung" #{}
+   "kūttar" #{"kuttar"}
+   "kūtti" #{"kutti"}
+   "Kuṟaḷ" #{"Kuṛaļ"}
+   "Kuṭṭuvaṉ" #{}
+   "kāma" #{}
+   "kēḷir" #{"kēļir"}
+   "kēḷvi" #{"kēļvi"}
+   "Languedoc" #{}
+   "liṅka" #{"linka"}
+   "liveable" #{"livable"} ;; seems like another English misspelling, right? 
+   "makaḷir" #{"makalir"}
+   "maṉai" #{"manai"}
+   "maṇpukku" #{"manpukku"}
+   "mantic" #{"mantic"}
+   "Maturai" #{}
+   "monistic" #{}
+   "Montaignesque" #{}
+   "Murukaṉ" #{"Murukan"}
+   "Mutukoṟ-" #{"Mutukor-"}
+   "Mutukoṟ" #{"Mutukor"}
+   "Māmūlaṉār" #{"Māmūlaṇār"}
+   "māyvatu" #{}
+   "Nampi" #{}
+   "Nandivarman" #{}
+   "Nantikkalampakam" #{}
    "nāgarika" #{}
    "nāṇ" #{}
-   "pāṇ" #{}
-   "pāṇar" #{"paṇar"}
-   "pāṇi" #{}
+   "niṟīit" #{"nirīit"}
+   "Pallava" #{}
+   "paṇpuṭaiyār" #{"panpuṭaiyar"}
+   "Parimēlaḻakar" #{"Parimēlaļakar"}
+   "paṇ" #{}
+   "perumpeyar" #{}
+   "politikon" #{}
+   "porunar" #{}
+   "pre" #{}
+   "pukaḻ" #{"pukal"}
+   "pukaḻeṉiṉ" #{"pukalenin"}
    "Pukaḻēnti" #{"Pukaļēnti"}
+   "pukaḻnta" #{"pukalnta"}
    "pulavar" #{}
    "puram" #{}
    "Puram" #{}
+   "pāṇ" #{}
+   "pāṇar" #{"paṇar"}
+   "pāṇi" #{}
    "Sangam" #{}
+   "worldly" #{"wordly"}
    "yāḻ" #{"yal"}
    ;; abbreviations & names 
    "BSOAS" #{}
    "DBIA" #{}
    "DED" #{}
    "Kur" #{}
+   "e.g." #{}
+   "i.e." #{}
+   "lw" #{}
    ;; puncutation
    "”" #{}
    "“" #{}
