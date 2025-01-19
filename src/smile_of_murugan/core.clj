@@ -3,6 +3,7 @@
    [babashka.fs :as fs]
    [clojure.java.io :as io]
    [clojure.string :as string]
+   [happyapi.providers.google :as google]
    [happyapi.google.documentai-v1 :as docai]
    [happyapi.google.vision-v1 :as gimg]
    [happyapi.google.youtube-v3 :as youtube]
@@ -12,16 +13,10 @@
 
 (defn f
   []
-  (let [resp (youtube/channels-list "contentDetails,statistics" {:forUsername "ClojureTV"})]
+  (let [req (youtube/channels-list "contentDetails,statistics" {:forUsername "ClojureTV"})
+        resp (google/api-request req)]
     resp))
 
-(defn f3 []
-  (let [x (string/split)]))
-
-(defn f2
-  []
-  (let [;; location (docai/projects-locations-list)
-        processor (docai/projects-locations-processors-create)]))
 
 (defn file-path->base64
   [file-path]
@@ -44,12 +39,18 @@
 (defn response-for-file-path
   "Spit the OCR output for a file at file-path."
   [file-path]
-  ;;(credentials/init!)
-  (gimg/images-annotate {:requests [{:image        {:content (file-path->base64 file-path)
-                                              ;;:source {:imageUri "https://i0.wp.com/static.flickr.com/102/308775600_4ca34de425_o.jpg"}
-                                                    },
-                                     :features     [{:type "DOCUMENT_TEXT_DETECTION"}],
-                                     :imageContext {:languageHints ["Tamil" "English"]}}]}))
+  ;; (gimg/images-annotate {:requests [{:image        {:content (file-path->base64 file-path)
+  ;;                                             ;;:source {:imageUri "https://i0.wp.com/static.flickr.com/102/308775600_4ca34de425_o.jpg"}
+  ;;                                                   },
+  ;;                                    :features     [{:type "DOCUMENT_TEXT_DETECTION"}],
+  ;;                                    :imageContext {:languageHints ["Tamil" "English"]}}]})
+  
+  (let [;; location (docai/projects-locations-list) 
+        processor (docai/projects-locations-processors-create)]
+    
+    (google/api-request (docai/projects-locations-list "us"))
+    )
+  )
 
 (defn extract-text-for-file-path
   "Spit the OCR output for a file at file-path."
