@@ -176,6 +176,7 @@
    "cāl" #{}
    "cālpu" #{}
    "Cēral" #{}
+   "democratism" #{}
    "dramatis" #{}
    "Eḻuttāḷaṉ" #{"Eluttālan"}
    "explicitly" #{"explicitely"} ;; the rare instance of a misspelled English word!
@@ -203,7 +204,7 @@
    "kūttar" #{"kuttar"}
    "kūtti" #{"kutti"}
    "Kuṟaḷ" #{"Kuṛaļ"}
-   "Kuṭṭuvaṉ" #{}
+   "Kuṭṭuvaṉ" #{"Kuṭṭuvan"}
    "kāma" #{}
    "kēḷir" #{"kēļir"}
    "kēḷvi" #{"kēļvi"}
@@ -222,12 +223,14 @@
    "Mutukoṟ" #{"Mutukor"}
    "Māmūlaṉār" #{"Māmūlaṇār"}
    "māyvatu" #{}
+   "moralizations" #{}
    "Nampi" #{}
    "Nandivarman" #{}
    "Nantikkalampakam" #{}
    "nāgarika" #{}
    "nāṇ" #{}
    "niṟīit" #{"nirīit"}
+   "paṭṭuṉ" #{"paṭṭun"}
    "Pallava" #{}
    "paṇpuṭaiyār" #{"panpuṭaiyar"}
    "Parimēlaḻakar" #{"Parimēlaļakar"}
@@ -240,15 +243,49 @@
    "pukaḻeṉiṉ" #{"pukalenin"}
    "Pukaḻēnti" #{"Pukaļēnti"}
    "pukaḻnta" #{"pukalnta"}
+   "pulaitti" #{}
    "pulavar" #{}
-   "puram" #{}
-   "Puram" #{}
+   "puṟam" #{}
+   "Puṟam" #{"Puram"}
+   "Puṟapporuḷ" #{"Purapporul"}
+   "Putumaippittaṉ" #{"Putumaippittan"}
    "pāṇ" #{}
    "pāṇar" #{"paṇar"}
    "pāṇi" #{}
+   "Pārati" #{}
+   "reflexion" #{}
+   "religio" #{}
    "Sangam" #{}
+   "Sanskritic" #{}
+   "Sanskritized" #{}
+   "scholiasts" #{}
+   "superstratum" #{} 
+   "tampukaḷ" #{"tampukaļ"}
+   "taṭāri" #{} 
+   "Tirukkuṟaḷ" #{"Tirukkural" "Tirukkuraļ"}
+   "trobadors" #{}
+   "tāmmāyntaṉar" #{"tāmmāyntaṇar"}
+   "tulakam" #{}
+   "Tulu" #{}
+   "unimpassioned" #{}
+   "urai" #{}
+   "Uṟaiyūr" #{"Uraiyur" "Uraiyūr"}
+   "uyiruṅ" #{"uyiruń"}
+   "Vedic" #{}
+   "Venkataswamy" #{}
+   "veṇpāmālai" #{"veņpāmālai"}
+   "viḻuppuṇ" #{"viluppun"}
+   "viṟaliyar" #{"viraliyar"}
+   "Volksliteratur" #{}
+   "vākai" #{}
    "worldly" #{"wordly"}
    "yāḻ" #{"yal"}
+   "yātum" #{}
+   "yāvaruṅ" #{"yāvarun"}
+   "zoon" #{}
+   "élite" #{}
+   "āṭunar" #{}
+   "ūrē" #{}
    ;; abbreviations & names 
    "BSOAS" #{}
    "DBIA" #{}
