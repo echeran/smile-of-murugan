@@ -340,13 +340,18 @@
         tokens-corrected-spelling (map correct-spelling-in-token tokens)]
     (string/join " " tokens-corrected-spelling)))
 
-(defn docai-json-to-md
+(defn docai-to-md
   "Convert the DocAI response JSON directly into Markdown"
-  [resp-json]
-  (let [resp (json/parse-string resp-json)
-        text (get-stylized-text resp)
+  [resp]
+  (let [text (get-stylized-text resp)
         lines (string/split-lines text)
         unhyphenated-lines (transform/join-hyphenated-line-ends lines)
         lines-with-paragraphs (insert-paragraph-lines unhyphenated-lines)
         lines-with-paragraphs-corrected-spelling (map correct-spellings-on-line lines-with-paragraphs)]
     lines-with-paragraphs-corrected-spelling))
+
+(defn docai-json-to-md
+  "Convert the DocAI response JSON directly into Markdown"
+  [resp-json]
+  (let [resp (json/parse-string resp-json)]
+    (docai-to-md resp)))
