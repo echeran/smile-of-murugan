@@ -180,6 +180,7 @@
    "dramatis" #{}
    "Eḻuttāḷaṉ" #{"Eluttālan"}
    "explicitly" #{"explicitely"} ;; the rare instance of a misspelled English word!
+   "foetus" #{}
    "Gaṇapati" #{}
    "gloire" #{}
    "glossators" #{}
@@ -294,6 +295,7 @@
    "e.g." #{}
    "i.e." #{}
    "lw" #{}
+   "Skt" #{}
    ;; puncutation
    "”" #{}
    "“" #{}
