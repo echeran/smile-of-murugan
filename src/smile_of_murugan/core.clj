@@ -31,24 +31,94 @@
                                                    {"computeStyleInfo" true}}}}
                          :scopes ["https://www.googleapis.com/auth/cloud-platform"]})))
 
-(comment
-  ;; Note: only run this once, because OCR AI logic can change over time,
+(defn batch-response-for-file-path
+  "Spit the OCR output for a file at file-path."
+  [file-path]
+  ;; https://cloud.google.com/document-ai/docs/send-request
+  (let [content (file-path->base64 file-path)]
+    (google/api-request {:method :post,
+                         :url "https://us-documentai.googleapis.com/v1/projects/1074643770883/locations/us/processors/65e4acb69466373:batchProcess"
+                         :query-params {},
+                         :body {
+                                "inputDocuments" {
+                                    "gcsDocuments" {
+                                      "documents" [
+                                                   {
+                                                    "gcsUri" "gs://echeran/Smile-of-Murugan-On-Tamil-Literature-of-South-India-Kamil-Zvelebil-Brill.pdf",
+                                                    "mimeType" "application/pdf"
+                                                    }
+                                                   ]
+                                    }
+                                  }
+                                "documentOutputConfig" {
+                                    "gcsOutputConfig" {
+                                      "gcsUri" "gs://echeran/smile-of-murugan",
+                                      ;; "fieldMask" "FIELD_MASK"
+                                    }
+                                  },
+                                }
+                         :scopes ["https://www.googleapis.com/auth/cloud-platform"]})))
+
+
+(defn process-response
+  [docai-resp file-name]
+  (let [resp-document (get docai-resp "document")
+        md-lines (jm/docai-to-md resp-document)]
+    (spit file-name (string/join \newline md-lines))))
+
+
+(comment 
+
+  ;; Sample doc - online processing
+
+  ;; Note: only run these commands once, because OCR AI logic can change over time,
   ;; and the input scan quality is always on the border of legibility for differnet Latin diacritics
   ;; Spit the result to a file
   (def resp (response-for-file-path "sample/sample-smile.pdf"))
+  (spit "sample/docai-resp.edn" (pr-str resp))
+
+  ;; Run these commands as many times as needed, now that the response object has been persisted to a file
+  (def resp (clojure.edn/read-string (slurp "sample/docai-resp.edn")))
+  ;; Note: remember to detect spelling error, just like in the `inspect-low-confidence-tokens`
+  ;; unit test, before running `process-response`. Detecting spelling errors
+  ;; is a parallel pipeline because it needs info from the response object as well.
+  ;; Detecting spelling errors and then checking the result of `process-response` is an iterative process.
+  (process-response resp "sample/docai-resp-output.md")
   )
 
-(defn process-response
-  [docai-resp]
-  (let [resp-document (get docai-resp "document")
-        md-lines (jm/docai-to-md resp-document)]
-    (spit "docai-resp-output.md" (string/join \newline md-lines))))
+(comment
 
-(comment 
+  ;; Full doc - batch processing
+
+  ;; Note: only run these commands once, because OCR AI logic can change over time,
+  ;; and the input scan quality is always on the border of legibility for differnet Latin diacritics
+  ;; Spit the result to a file
+  (def resp (batch-response-for-file-path "originals/Smile-of-Murugan-On-Tamil-Literature-of-South-India-Kamil-Zvelebil-Brill.pdf"))
+  (spit "docai-resp.edn" (pr-str resp))
+
+  ;; Run these commands as many times as needed, now that the response object has been persisted to a file
   (def resp (clojure.edn/read-string (slurp "docai-resp.edn")))
   ;; Note: remember to detect spelling error, just like in the `inspect-low-confidence-tokens`
   ;; unit test, before running `process-response`. Detecting spelling errors
   ;; is a parallel pipeline because it needs info from the response object as well.
   ;; Detecting spelling errors and then checking the result of `process-response` is an iterative process.
-  (process-response resp)
-  )
+  (process-response resp "docai-resp-output.md"))
+
+
+(comment
+
+  ;; Full doc - online processing
+
+  ;; Note: only run these commands once, because OCR AI logic can change over time,
+  ;; and the input scan quality is always on the border of legibility for differnet Latin diacritics
+  ;; Spit the result to a file
+  (def resp (response-for-file-path "originals/Smile-of-Murugan-On-Tamil-Literature-of-South-India-Kamil-Zvelebil-Brill.pdf"))
+  (spit "docai-resp.edn" (pr-str resp))
+
+  ;; Run these commands as many times as needed, now that the response object has been persisted to a file
+  (def resp (clojure.edn/read-string (slurp "docai-resp.edn")))
+  ;; Note: remember to detect spelling error, just like in the `inspect-low-confidence-tokens`
+  ;; unit test, before running `process-response`. Detecting spelling errors
+  ;; is a parallel pipeline because it needs info from the response object as well.
+  ;; Detecting spelling errors and then checking the result of `process-response` is an iterative process.
+  (process-response resp "docai-resp-output.md"))
