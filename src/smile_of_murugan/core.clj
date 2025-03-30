@@ -4,7 +4,10 @@
    [clojure.string :as string]
    [happyapi.providers.google :as google]
    [org.httpkit.encode :as enc]
-   [smile-of-murugan.jm :as jm]))
+   [smile-of-murugan.jm :as jm]
+   [cheshire.core :as json]
+   [clojure.string :as str]
+   [babashka.fs :as fs]))
 
 (happyapi.setup/prepare-config :google nil)
 
@@ -65,6 +68,37 @@
   (let [resp-document (get docai-resp "document")
         md-lines (jm/docai-to-md resp-document)]
     (spit file-name (string/join \newline md-lines))))
+
+(defn process-response-2
+  [docai-resp file-name]
+  (let [md-lines (jm/docai-to-md docai-resp)]
+    (spit file-name (string/join \newline md-lines))))
+
+
+(defn slurp-json
+  [json-file]
+  (-> (slurp json-file)
+      (json/parse-string)))
+
+(defn target-file-path
+  [input-file]
+  (let [basename (fs/file-name input-file)
+        output-file (fs/path "outputs" basename)]
+    (-> (str output-file)
+        (str/replace #".json$" ".md"))))
+
+(defn process-output
+  [input-dir]
+  (let [files (->> (file-seq (io/file input-dir))
+                   (filter #(.isFile %)))]
+    (doseq [file-path files]
+      (process-response-2 (slurp-json file-path) (target-file-path file-path)))))
+
+(comment
+  ;; Process response - process output files from batch processing 
+
+  (process-output "inputs")
+  )
 
 
 (comment 

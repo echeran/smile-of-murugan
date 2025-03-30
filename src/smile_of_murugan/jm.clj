@@ -341,7 +341,6 @@
     (string/join " " tokens-corrected-spelling)))
 
 (defn docai-to-md
-  "Convert the DocAI response JSON directly into Markdown"
   [resp]
   (let [text (get-stylized-text resp)
         lines (string/split-lines text)
@@ -351,7 +350,6 @@
     lines-with-paragraphs-corrected-spelling))
 
 (defn docai-json-to-md
-  "Convert the DocAI response JSON directly into Markdown"
   [resp-json]
   (let [resp (json/parse-string resp-json)]
     (docai-to-md resp)))
