@@ -7,7 +7,8 @@
    [smile-of-murugan.jm :as jm]
    [cheshire.core :as json]
    [clojure.string :as str]
-   [babashka.fs :as fs]))
+   [babashka.fs :as fs]
+   [clojure.string :as s]))
 
 (happyapi.setup/prepare-config :google nil)
 
@@ -94,8 +95,30 @@
     (doseq [file-path files]
       (process-response-2 (slurp-json file-path) (target-file-path file-path)))))
 
+(defn get-number
+  "Get the first number from a File or stringified File path, and return as an integer"
+  [f]
+  (Integer/parseInt
+   (re-find #"\d+" (str f))))
+
+(defn combine-md-files
+  "Combine the markdown files into one"
+  [dir output-file-name]
+  (let [md (->> (jm/get-files-from-dir dir)
+                (sort-by get-number)
+                (map slurp)
+                (str/join \newline))]
+    (spit output-file-name md)))
+
+
+(comment 
+  (combine-md-files "outputs" "smile.md")
+
+  (jm/inspect-low-confidence-tokens-from-dir "inputs" "misspellings.txt")
+  )
+
 (comment
-  ;; Process response - process output files from batch processing 
+  ;; Process response - process output files from batch processing - what we did
 
   (process-output "inputs")
   )
@@ -103,7 +126,7 @@
 
 (comment 
 
-  ;; Sample doc - online processing
+  ;; Sample doc - online processing - did not do
 
   ;; Note: only run these commands once, because OCR AI logic can change over time,
   ;; and the input scan quality is always on the border of legibility for differnet Latin diacritics
@@ -122,7 +145,7 @@
 
 (comment
 
-  ;; Full doc - batch processing
+  ;; Full doc - batch processing - what we did
 
   ;; Note: only run these commands once, because OCR AI logic can change over time,
   ;; and the input scan quality is always on the border of legibility for differnet Latin diacritics
@@ -141,7 +164,7 @@
 
 (comment
 
-  ;; Full doc - online processing
+  ;; Full doc - online processing - did not do
 
   ;; Note: only run these commands once, because OCR AI logic can change over time,
   ;; and the input scan quality is always on the border of legibility for differnet Latin diacritics

@@ -130,27 +130,10 @@ yam"
         (prn "word3 with 53 confidence:" word3-53)
         (prn "word4 with 98 confidence:" word4-98)))))
 
-(defn format-word-index-score-output
-  [word-index-score]
-  (str (pr-str (:substring word-index-score))
-       \tab
-       (pr-str (:context word-index-score))))
 
-(deftest inspect-low-confidence-tokens
+(deftest inspect-low-confidence-tokens-on-sample
   (testing "Print out the lowest N confidence scores from tokens in response object"
-    (with-open [_ (d/load-dictionaries)]
-      (let [json-file-name "sample/docai-doc-ocr.json"
-            json-file (fs/file json-file-name)
-            json-str (slurp json-file)
-            resp (json/parse-string json-str)
-            word-index-scores (jm/get-word-index-scores resp)
-            ordered-word-index-scores (->> word-index-scores
-                                           (jm/filter-word-index-scores)
-                                           (sort-by (comp str/lower-case :substring)))
-            out-file-name "sample/low-confidence-tokens.txt"]
-        (spit out-file-name (->> ordered-word-index-scores
-                                 (map format-word-index-score-output) 
-                                 (string/join \newline)))))))
+    (jm/inspect-low-confidence-tokens ["sample/docai-doc-ocr.json"] "sample/low-confidence-tokens.txt")))
 
 (deftest token-markdown-syntax-matcher
   (testing "Regex separates out leading and trailing markdown syntax from token"

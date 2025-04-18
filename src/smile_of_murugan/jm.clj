@@ -1,8 +1,11 @@
 (ns smile-of-murugan.jm
-  (:require [cheshire.core :as json]
-            [clojure.string :as string]
-            [smile-of-murugan.transform :as transform]
-            [smile-of-murugan.dictionary :as d]))
+  (:require
+   [babashka.fs :as fs]
+   [cheshire.core :as json]
+   [clojure.string :as string]
+   [clojure.string :as str]
+   [smile-of-murugan.dictionary :as d]
+   [smile-of-murugan.transform :as transform]))
 
 (def END-OF-PARAGRAPH-CHAR-LIMIT 55)
 
@@ -313,7 +316,7 @@
 "cāṉṟōr" ;; Elango edition - NFD form
 "cāṉṟōr" ;; Internet inspired - NFC form
 
-(defn filter-word-index-scores
+(defn keep-misspelled-non-english-words
   [word-index-scores]
   (let [trimmed-words (map #(update-in % [:substring] string/trim) word-index-scores)
         no-punctuation (remove #(re-matches #"[\p{Space}\p{Punct}]+" (:substring %)) trimmed-words)
@@ -322,6 +325,41 @@
         no-visited-incorrect-non-english (remove #(SPELLING-CORRECTIONS (:substring %)) no-correct-non-english)]
     ;; TODO: remove all words of a high confidence score that match the English dictionary
     no-visited-incorrect-non-english))
+
+(defn format-word-index-score-output
+  [word-index-score]
+  (str (pr-str (:substring word-index-score))
+       \tab
+       (pr-str (:context word-index-score))))
+
+(defn inspect-low-confidence-tokens
+  "Take a response JSON body document from the Doc AI API, analyze word confidence,
+   and print the lowest confidence words (confidence in OCR output/quality) to a text file"
+  [in-file-seq out-file]
+  (with-open [_ (d/load-dictionaries)]
+    (spit out-file (->> (for [in-file in-file-seq]
+                          (let [json-file (fs/file in-file)
+                                json-str (slurp json-file)
+                                resp (json/parse-string json-str)
+                                word-index-scores (get-word-index-scores resp)
+                                ordered-word-index-scores (->> word-index-scores
+                                                               (keep-misspelled-non-english-words))]
+                            ordered-word-index-scores))
+                        (mapcat identity)
+                        (sort-by (comp str/lower-case :substring))
+                        (map format-word-index-score-output)
+                        (string/join \newline)))))
+
+(defn get-files-from-dir
+  [dir]
+  (->> (fs/file dir)
+       (file-seq)
+       (filter #(.isFile %))))
+
+(defn inspect-low-confidence-tokens-from-dir
+  [dir out-file]
+  (let [files (get-files-from-dir dir)]
+    (inspect-low-confidence-tokens files out-file)))
 
 
 (def TOKEN-MARKDOWN-SYNTAX-MATCHER
