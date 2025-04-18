@@ -149,13 +149,118 @@
 
 
   {;; words & names using diacritics in transliterations
+
+   ;; Ls - ḷ ḻ
+   ;; Rs - ṟ
+   ;; Ns - ṉ ṇ
+   ;;
+   ;; NG - ṅ
+   ;;
+   ;; T - ṭ
+   ;;
+   ;; upper long vowels - Ā
+   ;; lower long vowels - ā ē ī ō ū
+
+   "absolutive" #{}
+   "absolutives" #{}
+   "absolutely" #{"absolutly"}
+   "acai" #{}
+   "acais" #{}
+   "Ācān" #{"Acān"}
+   "Ācāryas" #{"Acāryas"}
+   "acaṭarkaḷ" #{"acaṭarkaļ"}
+   "accam" #{}
+   "accamē" #{"accame"}
+   "Āccāṉ" #{"Accan" "Accān"}
+   "accommodation" #{"accomodation"}
+   "accompli" #{}
+   "accu" #{}
+   "āciri" #{"aciri"}
+   "ācirikar" #{"acirikar"}
+   "āciriyaccīr" #{"aciriyaccir"}
+   "āciriyaṉ" #{"aciriyan" "aciri yan"}
+   "Ancient" #{"Acient"}
    "āciriyam" #{"aciriyam"}
-   "āciriyan" #{"aciri yan"}
+   "adbhuta" #{}
+   ;; skip "Adigal" because we have a conflict:
+   ;; "Prince Ilangô Adigal" is correct, but
+   ;; "Maraimalai Adigal" should be "Maṟaimalai Adigaḷ"
+   "adages" #{"adiges"}
+   "Ādipurāṇa" #{"Adipurāṇa"}
+   "Āditya" #{"Aditya"}
+   "advaita" #{}
+   "aestetic" #{"aesthetic"}
+   "āgamas" #{"agamas"}
+   "āgamic" #{"agamic"}
+   "Ahalyā" #{"Ahalya"}
+   "Ahalyā's" #{"Ahalya's"}
+   "AHALYĀ" #{}
+   "ahṟiṇai" #{"ahrinai" "ahriņai"}
+   "ahtu" #{}
+   "ai" #{}
+   "aimpattoṉpatiṉmar" #{"aimpattonpatinmar"}
+   "aimperuṅkāppiyam" #{"aimperunkāppiyam" "aimperuńkāppiyam"}
+   "aindra" #{}
+   "Ainkuṟunūṟu" #{"Ainkuruniru" "Ainkurunuru" "Ainkurunūru"}
+   "ainkuṟunūṟum" #{"ainkurunurum"}
+   "aintavittān" #{"aintavittän"}
+   "aintiṇai" #{"aintinai" "aintiņai"}
+   "aintiram" #{}
+   "aintu" #{}
+   "aivar" #{}
+   "aiyā" #{"aiya"}
+   "aiyaṉ" #{"aiyan"}
+   ;; skipping "Aiyatika" because final l of "Aiyaṭikaḷ" was recognized as a non-letter punctuation
+   "ajīva" #{}
+   "akalam" #{}
+   "akalavurai" #{}
+   "akaṅkāram" #{"akankāram" "akaǹkāram"}
+   "Akanāṉūṟu" #{"Akanānūru" "Akanāṇūru"}
+   "Akapporuḷ" #{"Akapporul" "Akapporuļ"}
+   "akappēy" #{}
+   "akaram" #{}
+   "akāra" #{}
+   "akāram" #{}
+   "Akastiyar" #{}
+   "Akattiṇai" #{"Akattinai"}
+   "Akattiṇaiyiyal" #{"Akattinaiyiyal"}
+   "Akattiyam" #{}
+   "akattiyamum" #{}
+   "Akattiyan" #{}
+   "Akattiyar" #{}
+   "Akattiyar's" #{}
+   "akattiṇai" #{"akattiņai"}
+   "akaval" #{}
    "akavalar" #{}
+   "akavalpā" #{}
+   "akavalum" #{}
    "akavaṉ" #{"akavan"}
    "akavar" #{}
    "akavu" #{}
    "akavunar" #{}
+   "Akilan" #{}
+   "Akilan's" #{}
+   "al" #{}
+   "Alai" #{}
+   "Alaikaḷ" #{"Alaikal"}
+   ;; skipping "alaku" because it is both aḻaku (beauty) and alaku (bird beak)
+   "Ālankuṭi" #{"Alaṅkuți"}
+   "Āḷavantār" #{"Alavantār"}
+   "alba" #{}
+   "Allmost" #{}
+   "alloform" #{}
+   "Aḷḷur" #{"Allur"}
+   "allākkāl" #{}
+   "allō" #{}
+   "aḻukai" #{"alukai"}
+   "Āḻuṭaiya" #{"Alutaiya"}
+   "Alvars" #{}
+   "Āḻvār" #{"Alvãr" "Alvär" "Alvār"}
+   "Āḻvārs" #{"Alvārs"}
+   "amahat" #{}
+   "Amalaṉ" #{"Amalan"}
+   "amar" #{}
+   "aṅkaṇam" #{"aňkaņam"}
    "artha" #{}
    "atuviṉṟeṉ" #{"atuvinren"}
    "Aruṇakiri" #{}
@@ -164,21 +269,120 @@
    "Ayodhyā" #{}
    "akam" #{}
    "Akam" #{}
+   "Ammaiyār" #{}
+   "Ammaiyār's" #{}
+   "Ammā" #{}
+   "Anandarangam" #{}
+   "Annamalai" #{}
+   "anorganic" #{}
+   "anpu" #{}
+   "anthologization" #{}
+   "antāti" #{} 
+   "Añcali" #{}
+   "Añci" #{}
+   "añcal" #{"aňcal"}
+   "añcu" #{"aňcu"}
+   "aṅkaṇam" #{"aňkaņam"} 
+   "Appar" #{}
+   "Appar's" #{}
+   "Appu" #{}
+   "argumentum" #{}
+   "Aricil" #{}
+   "Arikamedu" #{}
+   "aṟivu" #{"arivu"}
+   "Arthaśāstra" #{}
+   "arukaṉ" #{"arukan"}
+   "aruṇakiri" #{"arunakiri"}
+   "Aruṇakiri" #{"Arunakiri" "Aruņakiri"}
+   "Aruṇakiri's" #{"Arunakiri's" "Aruņakiri's"}
+   "Aruṇakirinātar" #{}
+   "Aruṇācala" #{}
+   "Aruṇācalam" #{}
+   "Arya" #{}
+   "arya" #{}
+   "aryas" #{}
+   "Aryas" #{}
+   "āsanas" #{"asanas"}
+   "assonances" #{}
+   "Ataṅkōṭu" #{"Atankōṭu"}
+   "ataṅkōṭṭu" #{"atankōṭṭu"}
+   "Ataṅkōṭṭāciriyar" #{}
+   "Ataṅkōṭṭācāṉ" #{"Atankōṭṭācān" "Atankōṭṭācāṇ"}
+   "Aṭikaḷ" #{"Atikal" "Ațikal" "Ațikaļ"}
+   "atikāram" #{}
+   "Ātittaṉ" #{"Atittan"}
+   "aṭi" #{"ați"}
+   "Aṭiyārkkunallār" #{}
+   "Aṭiyārkkunallār's" #{}
+   "Auvai" #{}
+   "avai" #{}
+   "avar" #{}
+   "avarkalāl" #{}
+   "avarkku" #{}
+   "avarukku" #{}
+   "avarul" #{} 
+
    "bhaktas" #{}
    "bhakti" #{}
    "Bharati" #{}
    "Brahmin" #{}
-   "Caṅkam" #{"Cankam"}
+   "Brāhmī" #{"Brāhmi"}
+   "Brahmi" #{}
+   "Campantaṉ" #{"Campantan"}
+   "caṅka" #{"canka"}
+   "caṅkam" #{"cankam"}
+   "Caṅkam" #{"Cankam" "Cańkam" "Caǹkam"}
+   "CAṆKAM" #{"CANKAM" "CAŃKAM"}
+   "caṅkattamiḻ" #{"cańkattamil"}
    "cāṉṟōṉ" #{"cāṇrōn" "canrōn"}
    "cāṉṟōr" #{"canrōr" "cānṛōr" "cāṇṛōr" "canyōr"}
+   "cantam" #{}
+   "Cenkuṭṭuvan" #{"Ceṅkuṭṭuvan"}
+   "Cenkuṭṭuvan's" #{}
+   "centamiḻ" #{}
+   "Centamiḻ" #{"Centamil"}
+   "centamiḻnaṭai" #{"centamilnațai"}
    "ceyyuḷ" #{"ceyyu" "ceyyul"}
    "choroi" #{}
+   "cilampu" #{}
+   "Cilappatikāram" #{"Cilappatikaram"}
+   "Ciṟappatikāram" #{"Cirappatikāram"}
+   "ciṟappin" #{"cirappin"}
+   "ciṟappu" #{"cirappu"}
+   "ciṟappuppāyiram" #{"cirappuppayiram"}
+   "circumambulated" #{}
+   "ciṟitu" #{"ciritu"}
+   "ciṟitē" #{"ciritē"}
    "cīrtti" #{"cirtti"}
+   "Ciṟupāṇ" #{"Cirupāṇ"}
+   "Ciṟupāṇāṟṟuppaṭai" #{"Cirupāṇārruppatai" "Cirupāṇārruppaṭai"}
+   "Citamparaṉār" #{"Citamparaṇār"}
+   "cittan" #{}
    "cittar" #{}
+   "Cittar" #{}
+   "CITTAR" #{}
+   "cittavaittiyam" #{}
+   "Cīvakacintāmaṇi" #{"Civakacintāmaṇi" "Civakacintamani"}
+   "civam" #{}
+   "civan" #{}
+   "Civaperumāṉ" #{"Civaperumān"}
+   "Civapurāṇam" #{"Civapuraṇam"}
+   "Civaväkkiyar" #{"Civavākkiyar"}
+   "civayam" #{"civayam"}
+   "Civañāṉa" #{"Civaňāṇa" "Civañāṇa"}
+   "civāyam" #{}
+   "Collatikāram" #{}
+   "commentatorial" #{}
+   "contraire" #{}
+   "coṟporuḷ" #{"corporul"}
+   "Cuntaraṉ" #{"Cuntaran"}
+   "Cuntarar" #{}
+   "Cuntarar's" #{}
    "Cuvāmi" #{}
    "cāl" #{}
    "cālpu" #{}
    "Cēral" #{}
+   "cuttiram" #{}
    "democratism" #{}
    "dramatis" #{}
    "Eḻuttāḷaṉ" #{"Eluttālan"}
@@ -205,6 +409,7 @@
    "kiṇai" #{"kiņai"}
    "koṭukkuvar" #{"koṭukkuvar"}
    "Kunstdichtung" #{}
+   "kuruṭarkaḷ" #{"kuruṭarkaļ"}
    "kūttar" #{"kuttar"}
    "kūtti" #{"kutti"}
    "Kuṟaḷ" #{"Kuṛaļ"}
@@ -228,6 +433,7 @@
    "Māmūlaṉār" #{"Māmūlaṇār"}
    "māyvatu" #{}
    "moralizations" #{}
+   "Muciṟi" #{"Muciri"}
    "Nampi" #{}
    "Nandivarman" #{}
    "Nantikkalampakam" #{}
@@ -263,10 +469,11 @@
    "Sanskritic" #{}
    "Sanskritized" #{}
    "scholiasts" #{}
-   "superstratum" #{} 
+   "superstratum" #{}
    "tampukaḷ" #{"tampukaļ"}
-   "taṭāri" #{} 
+   "taṭāri" #{}
    "Tirukkuṟaḷ" #{"Tirukkural" "Tirukkuraļ"}
+   "Tolkāppiyam" #{}
    "trobadors" #{}
    "tāmmāyntaṉar" #{"tāmmāyntaṇar"}
    "tulakam" #{}
@@ -291,10 +498,78 @@
    "āṭunar" #{}
    "ūrē" #{}
    ;; abbreviations & names 
+   "A.C." #{}
+   "A.D" #{}
+   "A.D." #{}
+   "A.K." #{}
+   "Acknowl" #{"Acknowl"}
+   "acutangula" #{}
+   "Agastya" #{}
+   "Agastya's" #{}
+   "Agravala" #{}
+   "Aink" #{}
+   "Aiṅk" #{"Aiñk" "Aiňk"}
+   "Aiyangar" #{}
+   "Aiyangar's" #{}
+   "Aiyaṅkār" #{"Aiyankār"}
+   "Aiyaṅkār's" #{"Aiyankār's"}
+   "Aiyaṉār" #{"Aiyaṇār"}
+   "Aiyar" #{}
+   "Aiyar's" #{}
+   "Aiyengar" #{}
+   "Ak" #{}
+   "Akademi" #{"Akadami"}
+   "Akapp" #{}
+   "Akat" #{}
+   "Akatt" #{}
+   "Alagirisami" #{}
+   "Alagiriswamy" #{}
+   "Alain" #{}
+   "Albertine" #{}
+   "Albin" #{}
+   "Amaiyappa" #{}
+   "Arangasami" #{}
+   "Aravintan" #{}
+   "Asher" #{}
+   "Asiatique" #{}
+   "Ayyangar" #{}
+   "Ayyankār" #{}
+   "Ayyappan" #{}
+   "Ayyar" #{}
+   "B.C." #{}
+   "Babington" #{}
+   "Balakrishna" #{}
+   "Balakrishnan" #{}
+   "Balasubramaniam" #{}
+   "Barringtonia" #{}
+   "Beschi" #{}
+   "Beschi's" #{}
+   "CAMARPPAṆAM" #{"CAMARPPAŅAM"}
+   "cca" #{}
+   "Campantar" #{}
+   "Chellappa" #{}
+   "Chellappa's" #{}
+   "Chelliah" #{}
+   "Chera" #{}
+   "Cheranad" #{}
+   "Cheras" #{}
+   "Chettiar" #{}
+   "Chidambara" #{}
+   "Chidambaram" #{}
+   "Chidambaranatha" #{}
+   "Chokkalingam" #{}
+   "Chola" #{}
+   "Cholas" #{}
    "BSOAS" #{}
    "DBIA" #{}
    "DED" #{}
+   "Jaffna" #{}
+   "Jains" #{}
+   "Janakiraman" #{}
+   "Jesudasan" #{}
+   "Jeyakanthan" #{}
    "Kur" #{}
+   "Ramaswamy" #{}
    "e.g." #{}
    "i.e." #{}
    "lw" #{}
