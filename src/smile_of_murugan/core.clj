@@ -114,7 +114,7 @@
 (comment 
   (combine-md-files "outputs" "smile.md")
 
-  (jm/inspect-low-confidence-tokens-from-dir "inputs" "misspellings.txt")
+  (time (jm/inspect-low-confidence-tokens-from-dir "inputs" "misspellings.txt"))
   )
 
 (comment

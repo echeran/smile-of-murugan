@@ -6,7 +6,8 @@
         cheshire/cheshire {:mvn/version "5.13.0"}
         babashka/fs {:mvn/version "0.5.20"}
         org.apache.lucene/lucene-core {:mvn/version "9.10.0"}
-        org.apache.lucene/lucene-analysis-common {:mvn/version "9.10.0"}}
+        org.apache.lucene/lucene-analysis-common {:mvn/version "9.10.0"}
+        clj-thamil/clj-thamil {:mvn/version "0.2.0"}}
  
  :paths ["src" 
          "resources"]

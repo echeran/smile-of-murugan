@@ -5,7 +5,8 @@
    [clojure.string :as string]
    [clojure.string :as str]
    [smile-of-murugan.dictionary :as d]
-   [smile-of-murugan.transform :as transform]))
+   [smile-of-murugan.transform :as transform]
+   [smile-of-murugan.translit :as translit]))
 
 (def END-OF-PARAGRAPH-CHAR-LIMIT 55)
 
@@ -134,6 +135,10 @@
                                :start-index start-index
                                :end-index end-index
                                :substring substring
+                               :transliteration  (-> substring
+                                                     string/trim
+                                                     string/lower-case
+                                                     translit/iso15919->தமிழ்)
                                :context (subs text
                                               (max 0 (- start-index context-length))
                                               (min text-length (+ end-index context-length)))}))]
@@ -750,6 +755,8 @@
 (defn format-word-index-score-output
   [word-index-score]
   (str (pr-str (:substring word-index-score))
+       \tab
+       (pr-str (:transliteration word-index-score))
        \tab
        (pr-str (:context word-index-score))))
 
