@@ -156,7 +156,11 @@
    ;;
    ;; NG - ṅ
    ;;
+   ;; NY - ň 
+   ;;
    ;; T - ṭ
+   ;;
+   ;; SH - ṣ
    ;;
    ;; upper long vowels - Ā
    ;; lower long vowels - ā ē ī ō ū
@@ -216,7 +220,7 @@
    "akalavurai" #{}
    "akaṅkāram" #{"akankāram" "akaǹkāram"}
    "Akanāṉūṟu" #{"Akanānūru" "Akanāṇūru"}
-   "Akapporuḷ" #{"Akapporul" "Akapporuļ"}
+   "Akapporuḷ" #{"Akapporul" "Akapporuļ" "Akapporu!"}
    "akappēy" #{}
    "akaram" #{}
    "akāra" #{}
@@ -263,7 +267,6 @@
    "aṅkaṇam" #{"aňkaņam"}
    "artha" #{}
    "atuviṉṟeṉ" #{"atuvinren"}
-   "Aruṇakiri" #{}
    "Aňciṟaittumpi" #{"Anciraittumpi"}
    "Auvaiyār" #{}
    "Ayodhyā" #{}
@@ -277,12 +280,11 @@
    "anorganic" #{}
    "anpu" #{}
    "anthologization" #{}
-   "antāti" #{} 
+   "antāti" #{}
    "Añcali" #{}
    "Añci" #{}
    "añcal" #{"aňcal"}
    "añcu" #{"aňcu"}
-   "aṅkaṇam" #{"aňkaņam"} 
    "Appar" #{}
    "Appar's" #{}
    "Appu" #{}
@@ -320,7 +322,7 @@
    "avarkalāl" #{}
    "avarkku" #{}
    "avarukku" #{}
-   "avarul" #{} 
+   "avarul" #{}
 
    "bhaktas" #{}
    "bhakti" #{}
@@ -362,7 +364,7 @@
    "Cittar" #{}
    "CITTAR" #{}
    "cittavaittiyam" #{}
-   "Cīvakacintāmaṇi" #{"Civakacintāmaṇi" "Civakacintamani"}
+   "Cīvakacintāmaṇi" #{"Civakacintāmaṇi" "Civakacintamani" "Cīvakacintamani" "Cīvakacintāmaņi"}
    "civam" #{}
    "civan" #{}
    "Civaperumāṉ" #{"Civaperumān"}
@@ -381,22 +383,97 @@
    "Cuvāmi" #{}
    "cāl" #{}
    "cālpu" #{}
+   "Cāminātaiyar" #{"Cāmiņātaiyar"}
+   "Cēkkiḻār" #{"Cēkkilär" "Cēkkiļār"}
    "Cēral" #{}
+   "Cēralātaṉ" #{"Cēralātan" "Cēralātaṇ"}
+   "Cēramāṉ" #{"Cēramān" "Cēramāṇ"}
+   "cēri" #{}
+   "Cēṉāvaraiyar" #{"Cēṇāvaraiyar"}
+   "Cēṉāvaraiyar's" #{"Cēṇāvaraiyar's"}
+   "Cōḻa" #{"Cōla"}
+   "Cōḻaṉ" #{"Cōlan"}
+   "Cōḻanāṭu" #{"Cōlanāțu" "Cōlanǎțu"}
    "cuttiram" #{}
    "democratism" #{}
    "dramatis" #{}
+   "Durgā" #{"Durga"}
+   "Duryodhana" #{}
    "Eḻuttāḷaṉ" #{"Eluttālan"}
+   "Eḻuttatikāram" #{"Eluttatikarām" "Eluttatikāram"}
+   "eḻuttatikāram" #{"eluttatikāram"}
+   "eḻuttu" #{"eluttu"}
+   "Eḻuttu" #{"Eluttu"}
+   "eḻutukiṟēṉ" #{"elutukiren"}
+   "eṉpa" #{"enpa"}
+   "eṇperuttokai" #{"enperuttokai"}
+   "epigraphic" #{}
+   "epos" #{}
+   "eruditory" #{}
+   "et" #{}
+   "Eṭṭuttokai" #{"Ettuttokai"}
+   "etukai" #{}
+   "Etukai" #{}
+   "expliciteness" #{"expliciteness"}  ;; the rare instance of a misspelled English word!
    "explicitly" #{"explicitely"} ;; the rare instance of a misspelled English word!
+   "exposé" #{}
    "foetus" #{}
-   "Gaṇapati" #{}
+   "Gajabāhu" #{"Gajabahu" "Gajabähu"}
+   "Gaṇapati" #{"Ganapati"}
+   "Gaṅgā" #{"Gangā" "Ganga"}
+   "Gaṇeṣa" #{"Gaņeṣa"}
+   "Gaṇeśa" #{}
+   "Geschichte" #{}
    "gloire" #{}
    "glossators" #{}
    "gray" #{}
+   "hagiographic" #{}
+   "icai" #{}
    "il" #{}
-   "Iḷampūraṇar" #{"Ilampūraṇar"}
+   "ilakkaṇam" #{"ilakkanam" "ilakkaņam"}
+   "Ilakkiya" #{}
+   "ilakkiyam" #{}
+   "Ilakkiyam" #{}
+   "Ilangô" #{}
+   "Iḷaṅkōvaṭikaḷ" #{"Ilankovațikaļ" "Ilankōvaṭikaļ" "Iļankōvațikal"}
+   "Iḷaṅkōvaṭikaḷ's" #{"Ilankovaṭikal's" "Ilankōvațikal's"}
+   "Iḷaṅkō" #{"Ilankō" "Iļankō"}
+   "Iḷaṅkō's" #{"Ilankō's"}
+   "Imayavarampaṉ" #{"Imayavarampan" "Imayavarampaŋ" "Imayavarampaṇ"}
+   "Indianness" #{}
+   "Indo" #{}
+   "Indragopa" #{}
+   "Indragopa's" #{}
+   "Indu" #{}
+   "Indu's" #{}
+   "Inscriptional" #{}
+   "inscriptional" #{}
+   "intellection" #{}
+   "invocatory" #{}
+   "iṟaicci" #{"iraicci"}
+   "Iṟaiyaṉār" #{"Iraiyanar" "Iraiyanār" "Iraiyaṇār"}
+   "Iṟaiyaṉār's" #{"Iraiyaṇār's"}
+   "Irumpoṟai" #{"Irumporai"}
+   "iruntu" #{}
+   "iruttal" #{}
+   "Irākava" #{}
+   "Irāmāvatāram" #{}
+   "Irāvaṇaṉ" #{"Irāvaṇan" "Irāvaṇaṇ"}
+   "iyal" #{}
+   "iyaṟcīr" #{"iyarcir" "iyaṛcir"}
+   "Iḷampūraṇar" #{"Iļampūraṇar" "Ilampūraṇar"}
+   "Iḷampūraṇar's" #{"Iļampūraṇar's"}
+   "iṭaiccankam" #{}
+   "Iṭaiccankam" #{} 
    "Jaina" #{}
    "Kailasapathy" #{}
    "Kailasapathy's" #{}
+   "Kaḷaviyal" #{"Kalaviyal"}
+   "kaḷavu" #{"kalavu"}
+   "kali" #{}
+   "Kalittokai" #{}
+   "Kalki" #{}
+   "Kalki's" #{}
    "Kampaṉ's" #{"Kampan's"}
    "kiḻār" #{"kilār"}
    "kāňci" #{}
@@ -561,14 +638,83 @@
    "Chola" #{}
    "Cholas" #{}
    "BSOAS" #{}
+   "Damodaram" #{}
+   "Daniélou" #{}
+   "dans" #{}
+   "dateable" #{}
+   "de" #{}
    "DBIA" #{}
    "DED" #{}
+   "Ded" #{}
+   "der" #{}
+   "des" #{}
+   "Desikan" #{}
+   "Dessigane" #{}
+   "Deva" #{}
+   "Digambara" #{}
+   "Dikshitar" #{}
+   "Dikshitar's" #{}
+   "distichs" #{}
+   "Doraiswami" #{}
+   "Doraiswamy" #{}
+   "Dravidians" #{}
+   "Dupleix" #{}
+   "Duraiswami" #{}
+   "e.g" #{}
+   "E.g." #{}
+   "Eliade" #{}
+   "Emeneau" #{}
+   "Emeneau's" #{}
+   "Engl" #{}
+   "François" #{}
+   "ftn" #{}
+   "Glasenapp" #{}
+   "Glazov" #{}
+   "Gnanasambandan" #{}
+   "Gondi" #{}
+   "Gonzalves" #{}
+   "Gooroo" #{}
+   "Gopalie" #{}
+   "Gover" #{}
+   "Graeco" #{}
+   "Govinda" #{}
+   "Govindaraja" #{}
+   "Gros" #{}
+   "Guha" #{}
+   "Gōpālakṛṣṇa" #{}
+   "Hamm" #{}
+   "Hanumān" #{"Hanuman"}
+   "Hari" #{}
+   "henolocotheism" #{}
+   "henolocotheistic" #{}
+   "Henrique" #{}
+   "Henriques" #{}
+   "Higginbotham" #{}
+   "Hoole" #{}
+   "HSI" #{}
+   "HTL" #{}
+   "HTLL" #{}
+   "ib" #{}
+   "II2" #{}
+   "II3" #{}
+   "II4" #{}
+   "IIJ" #{}
+   "Introd" #{}
+   "Iravatham" #{}
+   "Iyengar" #{}
+   "Iyer" #{}
+   "Iyer's" #{}
+   "Jagannathan" #{}
    "Jaffna" #{}
    "Jains" #{}
    "Janakiraman" #{}
    "Jesudasan" #{}
+   "Jesudasans" #{}
    "Jeyakanthan" #{}
+   "Jeyakanthan's" #{} 
    "Kur" #{}
+   "K.Z." #{}
+   "Ka" #{}
    "Ramaswamy" #{}
    "e.g." #{}
    "i.e." #{}
