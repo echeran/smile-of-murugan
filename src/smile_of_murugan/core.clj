@@ -7,8 +7,7 @@
    [smile-of-murugan.jm :as jm]
    [cheshire.core :as json]
    [clojure.string :as str]
-   [babashka.fs :as fs]
-   [clojure.string :as s]))
+   [babashka.fs :as fs]))
 
 (happyapi.setup/prepare-config :google nil)
 
