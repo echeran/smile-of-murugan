@@ -737,7 +737,8 @@
 (def SPELLING-CORRECTIONS
   (into {} (for [[k vs] CORRECT-SPELLINGS
                  v vs]
-             [v k])))
+             (let [k-iso15919 (translit/தமிழ்->iso15919 k)]
+               [v k-iso15919]))))
 
 "cāṉṟōr" ;; Elango edition - NFD form
 "cāṉṟōr" ;; Internet inspired - NFC form
