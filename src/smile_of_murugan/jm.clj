@@ -339,7 +339,7 @@
    "caṅka" #{"canka"}
    "caṅkam" #{"cankam"}
    "Caṅkam" #{"Cankam" "Cańkam" "Caǹkam"}
-   "CAṆKAM" #{"CANKAM" "CAŃKAM"}
+   [:u "சங்கம்"] #{"CANKAM" "CAŃKAM"}
    "caṅkattamiḻ" #{"cańkattamil"}
    "cāṉṟōṉ" #{"cāṇrōn" "canrōn"}
    "cāṉṟōr" #{"canrōr" "cānṛōr" "cāṇṛōr" "canyōr"}
@@ -479,7 +479,17 @@
    "Kalittokai" #{}
    "Kalki" #{}
    "Kalki's" #{}
+   "கைக்கிளை" #{"kaikkilai" "kaikkiļai"}
+   [:t "கலிங்கத்துப்பரணி"] #{"Kalinkattupparani" "Kalinkattupparaṇi"}
+   "kallā" #{}
+   "Kallāṭar" #{}
+   "Kaliyāṇacuntara" #{}
+   "Kalyāṇacuntara" #{}
+   "Kalyāṇacuntaram" #{}
+   [:t "கமலாம்பாள்"] #{"Kamalāmpāl" "Kamalāmpāļ"}
+   "Kampaṉ" #{"Kampan"}
    "Kampaṉ's" #{"Kampan's"}
+   [:t "கண்ணகி"] #{"Kannaki"}
    "kiḻār" #{"kilār"}
    "kāňci" #{}
    "kaṭaṉ" #{"katan"}
@@ -737,8 +747,16 @@
 (def SPELLING-CORRECTIONS
   (into {} (for [[k vs] CORRECT-SPELLINGS
                  v vs]
-             (let [k-iso15919 (translit/தமிழ்->iso15919 k)]
-               [v k-iso15919]))))
+             (let [
+                   [f token] (if (string? k)
+                               [identity k]
+                               (let [[fk token] k]
+                                 [(case fk
+                                    :u str/upper-case
+                                    :t str/capitalize)
+                                  token]))
+                   k-iso15919 (translit/தமிழ்->iso15919 token)]
+               [v (f k-iso15919)]))))
 
 "cāṉṟōr" ;; Elango edition - NFD form
 "cāṉṟōr" ;; Internet inspired - NFC form
