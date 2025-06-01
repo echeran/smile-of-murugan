@@ -111,19 +111,6 @@
 
 
 (comment 
-  (combine-md-files "outputs" "smile.md")
-
-  (time (jm/inspect-low-confidence-tokens-from-dir "inputs" "misspellings.txt"))
-  )
-
-(comment
-  ;; Process response - process output files from batch processing - what we did
-
-  (process-output "inputs")
-  )
-
-
-(comment 
 
   ;; Sample doc - online processing - did not do
 
@@ -178,3 +165,20 @@
   ;; is a parallel pipeline because it needs info from the response object as well.
   ;; Detecting spelling errors and then checking the result of `process-response` is an iterative process.
   (process-response resp "docai-resp-output.md"))
+
+
+
+
+(comment
+  ;; Process response - process output files from batch processing - what we did
+  ;; In other words: Combine `.json` files from API into cleaned up & processed `.md` files
+
+  (process-output "inputs"))
+
+
+
+(comment
+  ;; Combine `.md` files into one, and analyze misspellings
+  (combine-md-files "outputs" "smile.md")
+
+  (time (jm/inspect-low-confidence-tokens-from-dir "inputs" "misspellings.txt")))
