@@ -154,7 +154,7 @@
 
 
   {;; words & names using diacritics in transliterations
-
+   
    ;; Ls - ḷ ḻ
    ;; Rs - ṟ
    ;; Ns - ṉ ṇ
@@ -169,7 +169,7 @@
    ;;
    ;; upper long vowels - Ā
    ;; lower long vowels - ā ē ī ō ū
-
+   
    "absolutive" #{}
    "absolutives" #{}
    "absolutely" #{"absolutly"}
@@ -264,12 +264,13 @@
    "aḻukai" #{"alukai"}
    "Āḻuṭaiya" #{"Alutaiya"}
    "Alvars" #{}
-   "Āḻvār" #{"Alvãr" "Alvär" "Alvār"}
-   "Āḻvārs" #{"Alvārs"}
+   "Āḻvār" #{"Alvãr" "Alvär" "Alvār" "Ālvār" "Āļvār"}
+   "Āḻvārs" #{"Alvārs" "Āļvārs"}
    "amahat" #{}
    "Amalaṉ" #{"Amalan"}
    "amar" #{}
    "aṅkaṇam" #{"aňkaņam"}
+   "ஆரல்" #{}
    "artha" #{}
    "atuviṉṟeṉ" #{"atuvinren"}
    "Aňciṟaittumpi" #{"Anciraittumpi"}
@@ -293,12 +294,15 @@
    "Appar" #{}
    "Appar's" #{}
    "Appu" #{}
+   "ஆராய்ச்சி" #{}
+   [:t "ஆராய்ச்சி"] #{}
    "argumentum" #{}
    "Aricil" #{}
    "Arikamedu" #{}
    "aṟivu" #{"arivu"}
    "Arthaśāstra" #{}
    "arukaṉ" #{"arukan"}
+   [:t "ஆறுமுக"] #{"Ārumuka"}
    "aruṇakiri" #{"arunakiri"}
    "Aruṇakiri" #{"Arunakiri" "Aruņakiri"}
    "Aruṇakiri's" #{"Arunakiri's" "Aruņakiri's"}
@@ -469,12 +473,14 @@
    "Iḷampūraṇar" #{"Iļampūraṇar" "Ilampūraṇar"}
    "Iḷampūraṇar's" #{"Iļampūraṇar's"}
    "iṭaiccankam" #{}
-   "Iṭaiccankam" #{} 
+   "Iṭaiccankam" #{}
    "Jaina" #{}
    "Kailasapathy" #{}
    "Kailasapathy's" #{}
+   [:t "காக்கைபாடினியார்"] #{"Kākkaippāṭiniyār" "Kākkaipāṭiniyār" "Kākkaipāṭiṇiyār"}
+   "காலம்" #{}
    "Kaḷaviyal" #{"Kalaviyal"}
-   "kaḷavu" #{"kalavu"}
+   "kaḷavu" #{"kalavu" "kaļavu"}
    "kali" #{}
    "Kalittokai" #{}
    "Kalki" #{}
@@ -484,112 +490,647 @@
    "kallā" #{}
    "Kallāṭar" #{}
    "Kaliyāṇacuntara" #{}
+   "கள்வன்" #{"kaļvan"}
    "Kalyāṇacuntara" #{}
    "Kalyāṇacuntaram" #{}
+   [:t "காம"] #{"Kāma"}
    [:t "கமலாம்பாள்"] #{"Kamalāmpāl" "Kamalāmpāļ"}
+   "காமம்" #{}
+   [:t "காமத்துப்பால்"] #{}
    "Kampaṉ" #{"Kampan"}
    "Kampaṉ's" #{"Kampan's"}
-   [:t "கண்ணகி"] #{"Kannaki"}
+   [:t "கணக்காயனார்"] #{"Kaṇakkāyaṇār"}
+   "கணக்காயனார்" #{"kaṇakkāyaṇār"}
+   "காஞ்சி" #{"kāñci"}
+   [:t "காஞ்சி"] #{"Kāñci" "Kāňcī"}
+   [:t "காஞ்சிபுரம்"] #{"Kāñcipuram" "Kāñcīpuram" "Kāňcipuram" "Kāňcīpuram"}
+   [:t "கண்ணகி"] #{"Kannaki" "Kaņṇaki"}
+   [:t "கண்ணகி's"] #{"Kaņṇaki's"}
+   [:t "கண்ணனார்"] #{"Kaṇṇaṇār"}
+   [:t "கண்ணப்பர்"] #{"Kaņṇappar"}
+   [:t "கண்ணதாசன்"] #{"Kaṇṇatācan"}
+   "காந்தள்" #{"kāntal" "kāntaļ"}
+   [:t "காரைக்கால்"] #{}
+   "கற்பு" #{"karpu"}
+   [:t "கற்பு"] #{"Karpu"}
+   "karu" #{}
+   "Karu" #{}
+   "கருப்பொருள்" #{"karupporu" "karupporul"}
+   "karuttu" #{}
+   "karutturai" #{}
+   "katai"	#{}
+   "Katai"	#{}
+   [:t "கடைச்சங்கம்"] #{"Kaṭaiccankam"}
+   "கடைச்சங்கம்" #{"kaṭaiccankam" "kaṭaiccańkam"}
+   "காதல்"	#{"katal"}
+   "கடவுளும்" #{"kaṭavulum"}
+   "கடவுள்" #{"kaṭavuļ"}
+   "கடவுள்வாழ்த்து" #{"kaṭavuļvāļttu"}
+   "காட்சி" #{}
+   [:t "காட்டுவாத்து"] #{"Kāṭṭuvattu"}
+   "Kauṭilya" #{"Kautilya"}
+   "Kauṭilya's" #{"Kauṭilya's" "Kautilya's"}
+   "காவல்" #{}
+   [:t "காவல்"] #{}
+   "kavi" #{}
+   "Kavi" #{}
+   "Kavirājamārga" #{}
+   "Kavirāyar" #{}
+   [:t "காவிரி"] #{}
+   "kavitai" #{}
+   "Kavunti" #{}
+   "Kayavāku" #{}
+   "kayavāku" #{}
    "kiḻār" #{"kilār"}
    "kāňci" #{}
    "kaṭaṉ" #{"katan"}
    "kēḷ" #{"kēļ"}
+   "Kerala" #{}
+   [:t "கிழார்"] #{"Kilār" "Kiļār"}
+   [:t "கிழான்"] #{"Kilān" "Kilāņ"}
    "kiḷavi" #{"kilavi"}
    "Kiḷimaṅkalaṅ-" #{"Kilimankalan-"}
    "Kiḷimaṅkalaṅkiḻār" #{"Kilimankalankilār"}
    "kiḷa" #{"kiļa"}
+   "Kilpakkam" #{}
+   "Kilpauk" #{}
    "kiṇai" #{"kiņai"}
+   "கீர்த்தனை" #{"kirttanai"}
+   "Kokilam" #{}
+   "கொக்கு" #{}
+   "கொல்லாமை" #{}
+   "Kongu" #{}
+   "கொங்கு" #{"Konku"}
+   "கொற்கை" #{"Korkai"}
+   [:t "கொர்ரவை"] #{"Korravai"}
+   "கோவை" #{}
+   "Kovalan" #{}
+   [:t "கோவலன்"] #{"Kōvalan" "Kōvalaṇ"}
+   [:t "கோவலன்'s"] #{"Kōvalan's"}
    "koṭukkuvar" #{"koṭukkuvar"}
+   "Krishnaswami" #{}
+   "Krishnaswamy" #{}
+   "Kṛṣṇa" #{}
+   "Kṛṣṇa's" #{}
+   "Kuala" #{}
+   "Kuiper" #{}
+   "குலசேகர" #{}
+   [:t "குழந்தை"] #{"Kulantai"}
+   [:t "குலோத்துங்க"] #{"Kulōttunka"}
+   [:t "குலோத்துங்கன்"] #{"Kulōttunkan"}
+   [:t "குமரி"] #{}
+   [:t "குமட்டூர்க்"] #{}
    "Kunstdichtung" #{}
+   [:t "குறள்"] #{"Kural" "Kuraļ" "Kurral" "Kurraļ" "Kuṛaļ"}
+   "குரவை" #{}
+   [:t "குறிஞ்சிப்பாட்டு"] #{"Kurincippaṭṭu" "Kurincippāṭṭu"}
+   "குறிப்பு" #{"kurippu"}
+   "குறிப்புரை" #{"kurippurai"}
+   "குறிஞ்சி" #{"kuriñci" "kuriňci" "kuriйci"}
+   [:t "குறுந்தொகை"] #{"Kuruntokai"}
+   "குறுந்தொகை" #{"kuruntokai"}
    "kuruṭarkaḷ" #{"kuruṭarkaļ"}
+   [:t "குடி"] #{"Kuți"}
+   "குடி" #{"kuți"}
    "kūttar" #{"kuttar"}
    "kūtti" #{"kutti"}
-   "Kuṟaḷ" #{"Kuṛaļ"}
    "Kuṭṭuvaṉ" #{"Kuṭṭuvan"}
+   "குவளை" #{"kuvalai" "kuvaļai"}
+   "குயில்" #{}
+   [:t "குயில்"] #{}
    "kāma" #{}
    "kēḷir" #{"kēļir"}
    "kēḷvi" #{"kēļvi"}
+   "Lakṣmaṇa" #{}
    "Languedoc" #{}
+   [:t "லங்கா"] #{}
+   "Lesky" #{}
+   "lettres" #{}
+   "L'Inde" #{}
+   "l'Inde" #{}
    "liṅka" #{"linka"}
+   "Literatur" #{}
+   "Literaturen" #{}
+   "literatures" #{}
    "liveable" #{"livable"} ;; seems like another English misspelling, right? 
+   "Lumpur" #{}
+   "Mahadevan" #{}
+   "Mahendravarman" #{}
+   "Mahfil" #{}
+   "Mahābhārata" #{}
+   "Mahābhāṣya" #{}
+   "Mahāvaṃso" #{"Mahāvamso"}
    "makaḷir" #{"makalir"}
+   "மலை" #{}
+   [:t "மலை"] #{}
+   "மாலை" #{}
+   [:t "மலைபடுகடாம்"] #{"Malaipatukatām" "Malaipatukaṭām" "Malaipaṭukaṭām"}
+   "Māmūlaṉār" #{"Māmūlaṇār"}
    "maṉai" #{"manai"}
+   "Mangulam" #{}
+   "மணி" #{"mani"}
+   "Manickam" #{}
+   "மணிகள்" #{"manikal"}
+   [:t "மாங்குடி"] #{"Mānkuţi" "Mānkuți"}
+   "மணிமாலை" #{}
+   [:t "மணிமேகலை"] #{}
+   "மணிப்ரவாள" #{"maṇipravāļa"}
+   "மணிப்ரவாளம்" #{"maṇipravāļaம்"}
+   [:t "மங்கையர்க்கரசியின்"] #{"Mankaiyarkkavaciyin" "Mankaiyarkkaraciyin"}
    "maṇpukku" #{"manpukku"}
    "mantic" #{"mantic"}
-   "Maturai" #{}
+   "மந்திரம்" #{}
+   "Maraimalai" #{}
+   "மரணம்" #{}
+   "Marr" #{}
+   "மறுமலர்ச்சி" #{"marumalarcci"}
+   "மருந்து" #{}
+   "மருதம்" #{}
+   [:t "மருதம்"] #{}
+   [:t "மருதனார்"] #{"Marutaṇār"}
+   [:t "மாதவி"] #{}
+   "மடமை" #{}
+   "மாத்திரை" #{}
+   [:t "மாணிக்கவாசகர்"] #{"Māņikkavācakar"}
+   "mātrā" #{}
+   "மதுரை" #{}
+   [:t "மதுரை"] #{}
+   [:t "மதுரைக்"] #{}
+   [:t "மதுரைக்காஞ்சி"] #{"Maturaikkañci" "Maturaikkaňci" "Maturaikkānci" "Maturaikkāñci" "Maturaikkāňci"}
+   "Mauni" #{}
+   "māyvatu" #{}
+   "Mayilâpûr" #{}
+   "Mayilāpur" #{}  ;; ""English" (Latin script) spelling here doesn't quite match மயிலாப்பூர், but that's how it's spelled in the book
+   "Meenakshisundaran" #{}
+   "millennium" #{"millenium"} ;; English misspelling
+   "millenniums" #{"milleniums"} ;; English misspelling
+   "Minnal" #{}
    "monistic" #{}
    "Montaignesque" #{}
+   "moralizations" #{}
+   "morphophonemic" #{}
+   "Mudaliar" #{}
+   "Mudaliyar" #{}
+   "மூலம்" #{}
+   "முல்லை" #{}
+   [:t "முல்லைப்"] #{}
+   [:t "முல்லைப்பாட்டு"] #{"Mullaippaṭṭu" "Mullaippattu"}
+   [:t "மும்மணிக்கோவை"] #{}
+   "மும்மணிக்கோவை" #{"mummanikkovai" "mummaņikkovai" "mummaņikkōvai" "mummaṇikkovai" "mummaṇikkövai"}
+   "munsif" #{}
+   "Murugan" #{}
    "Murukaṉ" #{"Murukan"}
+   "Murukaṉ's" #{"Murukan's"}
+   "முதல்" #{}
+   [:t "முதலியார்"] #{}
+   "Mutaliār" #{}
+   "முதற்பொருள்" #{"mutarporul"}
+   [:t "முதற்பொருள்"] #{"mutarporul"}
+   "Muttusami" #{}
    "Mutukoṟ-" #{"Mutukor-"}
    "Mutukoṟ" #{"Mutukor"}
-   "Māmūlaṉār" #{"Māmūlaṇār"}
-   "māyvatu" #{}
-   "moralizations" #{}
    "Muciṟi" #{"Muciri"}
+   "Mylapore" #{}
+   [:t "நச்செள்ளையார்"] #{"Naccellaiyar" "Nacceļļaiyār"}
+   [:t "நச்சினார்க்கினியர்"] #{"Naccinārkkiniyar" "Nacciṇārkkiniyar" "Nacciṇārkkiṇiyar"}
+   "Nagarcoil" #{}
+   "Nagaswamy" #{}
+   [:t "நக்கீரர்"] #{"Nakkirar"}
+   [:t "நக்கீரர்'s"] #{"Nakkirar's"}
+   [:t "நக்கீரர்s"] #{"Nakkirars"}
+   [:t "நக்கீரதேவர்"] #{}
+   [:t "நக்கீரனார்"] #{"Nakkīraṇār"}
+   [:t "நல்லியக்கோடன்"] #{"Nalliyakkōṭan"}
+   "நமசிவாயம்" #{"namacivayam"}
    "Nampi" #{}
+   "Nandakumar" #{}
    "Nandivarman" #{}
+   [:t "நன்னன்"] #{"Nannan"}
+   [:t "நன்னூல்"] #{"Nannul" "Nannūl"}
    "Nantikkalampakam" #{}
    "nāgarika" #{}
+   [:t "நாலடியார்"] #{}
    "nāṇ" #{}
+   "ஞானம்" #{"ňāṇam"}
+   "நாநூறும்" #{"nānūrum"}
+   "நப்பூதனார்" #{"Napputaṇār"}
+   [:t "நாராயண்"] #{}
+   "Narayanan" #{}
+   "நற்றிணை" #{"narrinai" "narriņai" "narvinai" "narviņai"}
+   [:t "நற்றிணை"] #{"Narrinai" "Narriņai" "Narvinai"}
+   "Nattar" #{}
+   "Nāṭyaśāstra" #{}
+   [:t "நாவலர்"] #{}
+   "Nayagam" #{}
+   "neo" #{}
+   "நேர்" #{}
+   [:t "நெடுனல்"] #{"Nețunal"}
+   [:t "நெடுனல்வாடை"] #{"Nețunalvāṭai"}
+   [:t "நெடுஞ்செழியன்"] #{"Nețuñceliyan" "Nețuňceliyan"}
+   "நெய்தல்" #{}
+   [:t "நெய்தல்"] #{}
+   "Nilakanta" #{}
+   "Nilakantan" #{}
+   "நிலம்" #{}
+   "Nilgiri" #{}
+   "Nilgiris" #{}
    "niṟīit" #{"nirīit"}
+   "நூல்" #{"nul"}
+   "நூற்பா" #{"nurpā"}
+   "நூற்பாs" #{"nurpās"}
+   "ஓசை" #{}
+   [:t "ஓசை"] #{}
+   "ஓம்" #{}
+   "ஓரை" #{}
+   "ஒரு" #{}
+   "outcaste" #{}
+   "Padmanabhan" #{}
+   "palaeography" #{}
    "paṭṭuṉ" #{"paṭṭun"}
+   "பாலை" #{"palai"}
+   [:t "பாலை"] #{"Palai"}
    "Pallava" #{}
+   "Pallavan" #{}
+   "Pallavas" #{}
+   "pāṇ" #{}
+   "pāṇar" #{"paṇar"}
+   "pāṇi" #{}
+   "pandit" #{}
+   "pandits" #{}
+   "Pandya" #{}
+   "Pandyas" #{}
+   [:t "Pāṇini"] #{"Pāņini"}
+   "Panneerselvam" #{}
    "paṇpuṭaiyār" #{"panpuṭaiyar"}
-   "Parimēlaḻakar" #{"Parimēlaļakar"}
+   [:t "பாண்டியன்"] #{"Pāṇṭiyan"}
+   "பாண்டியன்" #{"Pāṇṭiyan"}
+   "Paraiya" #{}
+   [:t "பரணர்"] #{}
+   [:t "பாரதம்"] #{}
+   "Pārati" #{}
+   [:t "பாரி"] #{}
+   "Parimēlaḻakar" #{"Parimēlaļakar" "Parimēlalakar"}
+   "Parimēlaḻakar's" #{"Parimēlalakar's"}
+   "பரிபாடல்" #{"Paripatal" "Paripaṭal" "Paripāțal" "Paripāṭal" "Paripățal"}
    "paṇ" #{}
+   "Patanjali" #{}
+   "Patanjali's" #{}
+   "பதிகம்" #{}
+   [:t "பதிகம்"] #{}
+   "பதிகம்s" #{}
+   [:t "பதிற்"] #{"Patir"}
+   [:t "பதிற்றுப்"] #{"Patirrup"}
+   [:t "பதிற்றுப்பத்து"] #{"Patirruppattu"}
+   [:t "பட்டினத்தர்"] #{"Paṭṭinattar" "Paṭṭinattār" "Paṭṭiṇattār"}
+   [:t "பத்தினி"] #{"Pattini" "Pattiņi"}
+   "பாட்டு" #{}
+   [:t "பத்துப்பாட்டு"] #{"Pattupattu" "Pattuppattu" "Pattuppaṭṭu"}
+   "பத்துப்பாட்டு" #{}
+   [:t "பவணந்தி"] #{}
+   "பாயிரம்" #{}
+   [:t "பேராசிரியர்"] #{}
+   [:t "பேராசிரியர்'s"] #{}
+   [:t "பெரியபுரணம்"] #{"Periyapurānam" "Periyapuraṇam"}
+   [:t "பெருந்கதை"] #{"Perunkatai"}
+   [:t "பெருங்குன்றூர்"] #{"Perunkunrur"}
    "perumpeyar" #{}
+   [:t "பெருஞ்சேரல்"] #{"Peruñcēral"}
+   [:t "பெருந்தேவணார்"] #{}
+   [:t "பெருந்தேவணார்'s"] #{}
+   "பெருந்திணை" #{"peruntiņai"}
+   [:t "பெருந்தொகை"] #{}
+   "பேய்" #{}
+   "phonaesthetic" #{}
+   "physiographic" #{}
+   "Pichamurti" #{}
+   "Piccamūrtti" #{"Piccamurthi" "Piccamürtti"}
+   "Pillai" #{}
+   "Pillai's" #{}
+   [:t "பிள்ளை"] #{"Piļļai"}
+   [:t "பிள்ளைத்தமிழ்"] #{"Pillaittamil"}
+   "பிள்ளைத்தமிழ்" #{"pillaittamil"}
+   "பிள்ளையார்" #{"pillaiyār"}
+   [:t "பிள்ளையார்"] #{"Pillaiyār" "Piļļaiyār"}
+   "பிராணம்" #{}
+   "பிரிதல்" #{}
+   "பிரிவு" #{}
    "politikon" #{}
-   "porunar" #{}
+   "pointe" #{}
+   "Pondicherry" #{}
+   "Pondichery" #{}
+   "Pondichéry" #{}
+   [:t "பொருள்"] #{"Porul" "Poruļ"}
+   "பொருள்" #{"porul" "poruļ"}
+   [:t "பொருளதிகாரம்"] #{"Porulatikāram" "Poruļatikāram"}
+   [:t "பொருநர்"] #{}
+   [:t "பொருநராற்றுப்படை"] #{"Porunararruppatai" "Porunararruppaṭai" "Porunarārruppațai" "Porunarārruppaṭai" "Porunarāṛruppatai" "Porunarāṛruppaṭai" "Porunavärruppaṭai"}
+   "பொதுவியல்" #{}
    "pre" #{}
+   "prosodic" #{}
+   "Proto" #{}
    "pukaḻ" #{"pukal"}
    "pukaḻeṉiṉ" #{"pukalenin"}
    "Pukaḻēnti" #{"Pukaļēnti"}
    "pukaḻnta" #{"pukalnta"}
    "pulaitti" #{}
    "pulavar" #{}
-   "puṟam" #{}
+   [:t "புலவர்"] #{}
+   "புளியமரத்தின்" #{"puliyamarattin"}
+   "puṟam" #{"puram"}
    "Puṟam" #{"Puram"}
+   "Puṟ" #{"Pur"}
+   "Purāṇam" #{}
+   "purāṇam" #{}
+   "purāṇas" #{"purāņas" "purānas"}
+   "purāṇic" #{}
+   "Purāṇic" #{}
+   [:t "பறநானூறு"] #{"Puranaṇuru" "Puranaṇūru" "Puranānūru" "Puranānūṛu" "Puranāṇūru" "Puṛanānūru" "Puṛanānūṛu" "Puṛanāṇūru"}
+   "புறப்பொருள்" #{"purapporuļ"}
    "Puṟapporuḷ" #{"Purapporul"}
+   "Purnalingam" #{}
    "Putumaippittaṉ" #{"Putumaippittan"}
-   "pāṇ" #{}
-   "pāṇar" #{"paṇar"}
-   "pāṇi" #{}
-   "Pārati" #{}
+   "Puthumaippittan" #{}
+   "Puthumaippitthan" #{}
+   "Putra" #{}
+   "PVM" #{}
+   "Raghava" #{}
+   "Raghunathan" #{}
+   "Raj" #{}
+   "Raja" #{}
+   "Rajagopala" #{}
+   "Rajagopalachari" #{}
+   "Rajagopalan" #{}
+   "Rajam" #{}
+   "Rām" #{}
+   "Rāma" #{}
+   "rāma" #{}
+   "Rāma's" #{}
+   "Ramachandra" #{}
+   [:t "ராமலிங்க"] #{"Rāmalinga" "Rāmalinka"}
+   [:t "ராமலிங்கர்"] #{"Rāmalinkar"}
+   "Ramamirtham" #{}
+   "Ramamirtham's" #{}
+   "Rāmānuja" #{}
+   "Ramaswami" #{}
+   "Rāmatēvar" #{}
+   "Rāmāyaṇa" #{"Rāmāyana"}
+   "rāmāyaṇam" #{}
+   "Rāmāyaṇas" #{}
+   "Ranganathamuni" #{}
+   "Ranganathan" #{}
+   "Ranganāthamuni" #{}
+   "rasa" #{}
+   "Rāvaṇa" #{}
    "reflexion" #{}
    "religio" #{}
+   "Rōma" #{}
+   "Sahitya" #{}
+   "Saiva" #{}
+   "Śaiva" #{"Šaiva"}
+   "ŚAIVA" #{}
+   "Saivism" #{}
+   "Saivite" #{}
+   "Saivites" #{}
+   "Samājam" #{}
+   "sandhi" #{}
    "Sangam" #{}
    "Sanskritic" #{}
+   "Sanskritization" #{}
    "Sanskritized" #{}
+   "Santhanam" #{}
+   "Sarasvati" #{}
+   "Saraswathi" #{}
+   "Sastri" #{}
+   "Śātavāhana" #{"Satavahana"}
+   "Śātavāhans" #{"Satavahanas"}
+   "Schiffman" #{}
+   "scholiast" #{}
    "scholiasts" #{}
+   "Schomerus" #{}
+   "Seenisami" #{}
+   "Selvam" #{}
+   "Seshagiri" #{}
+   "Shankar" #{}
+   "Shanmugam" #{}
+   "Shanmugasundaram" #{}
+   "Shilappadikaram" #{}
+   "Siddha" #{}
+   "Siddhānta" #{"Siddhanta"}
+   "Siddhar" #{}
+   "siddhar" #{}
+   "Siddhars" #{}
+   "Siddhas" #{}
+   "Siddhism" #{}
+   "Silappadigáram" #{}
+   "Silappadikaram" #{}
+   "silentio" #{}
+   "Sītā" #{}
+   "S.I.S.S." #{}
+   "Śiva" #{"Šiva"}
+   "Śiva's" #{}
+   "Sivaraja" #{}
+   "Sivaramu" #{}
+   "Skanda" #{}
+   "socio" #{}
+   "Somasundara" #{}
+   "Somasundaram" #{}
+   "Sreenivasan" #{}
+   "Śrî" #{}
+   "Śrī" #{}
+   "Srinivas" #{}
+   "Srinivasa" #{}
+   "stanzaic" #{}
+   "Subbiah" #{}
+   "Subrahmanian" #{} 
+   "Subrahmaniya" #{}
+   "Subrahmanya" #{}
+   "Subrahmanyam" #{}
+   "Subramania" #{}
+   "Subramaniam" #{}
+   "Subramanya" #{}
+   "Subramanyam" #{}
+   "Subramoniam" #{}
+   "sujet" #{}
+   "sujets" #{}
+   "Sundara" #{}
+   "Sundararajan" #{}
    "superstratum" #{}
+   "sūtra" #{"sutra"}
+   "sūtras" #{"sutras"}
+   "Svami" #{}
+   "Svāmī" #{}
+   "Swaminatha" #{}
+   "synchronic" #{}
+   "synchronism" #{}
+   "Synchronism" #{}
+   [:t "தலைச்சங்கம்"] #{"Talaiccankam"}
+   "தலைச்சங்கம்" #{"talaiccankam"}
+   "தலைவன்" #{"talaivan"}
+   "தமிழ்" #{"tamil"}
+   [:t "தமிழகம்"] #{"Tamilakam"}
+   [:t "தமிழ்ச்"] #{"Tamilc"}
+   "Tamilian" #{}
+   "Tamilnad" #{}
+   [:t "தமிழ்நாடு"] #{"Tamilnāțu"}
+   [:t "தாமோதரம்"] #{}
+   "tamoul" #{}
+   "Tamoul" #{}
+   "tamoule" #{}
+   "tamouls" #{}
    "tampukaḷ" #{"tampukaļ"}
+   "தனித்தமிழ்" #{"tanittamil"}
+   "Tanjavur" #{}
+   "Tanjore" #{}
+   "தண்டியலங்காரம்" #{"Tantiyalankaram" "Tantiyalaṁkāram"}
+   "tantric" #{}
    "taṭāri" #{}
+   [:t "தாயுமானவர்"] #{"Tāyumāṇavar"}
+   "Terminalia" #{}
+   [:t "தேவகுலத்தார்"] #{}
+   [:t "தேவாரம்"] #{}
+   "Thani" #{}
+   "Thiru" #{}
+   "Thooran" #{}
+   "திணை" #{"tinai" "tiņai"}
+   "திணைs" #{"tinais" "tiņais"}
+   [:t "திணை"] #{"Tinai" "Tiņai"}
+   [:t "திணைs"] #{"Tinais" "Tiņais"}
+   [:t "திரணதூமாக்கினி"] #{"Tiraṇatūmākkini" "Tiraṇatūmākkiņi"}
    "Tirukkuṟaḷ" #{"Tirukkural" "Tirukkuraļ"}
-   "Tolkāppiyam" #{}
+   "Tiru" #{}
+   "Tiruk" #{}
+   [:t "திருக்கோவயார்"] #{"Tirukkōvaiyar"}
+   [:t "திருமாலிசை"] #{"Tirumalicai"}
+   [:t "திருமங்கை"] #{"Tirumankai"}
+   "Tirumantiram" #{}
+   [:t "திருமுறை"] #{"Tirumurai"}
+   [:t "திருமுருகாற்றுப்படை"] #{"Tirumurukärruppatai" "Tirumurukärruppaṭai" "Tirumurukārṛuppațai" "Tirumurukārṛuppaṭai" "Tirumurukāṛruppatai" "Tirumurukāṛruppaṭai"}
+   "Tirumūlar" #{}
+   "Tirumūlar's" #{}
+   "திருநாவுக்கரசர்" #{"Tirunavukkaracar"}
+   "Tirunelveli" #{}
+   "Tirupati" #{}
+   [:t "திருப்புகழ்"] #{"Tiruppukal"}
+   [:t "திருத்தணி"] #{"Tiruttani"}
+   [:t "திருத்தொண்டத்தொகை"] #{"Tiruttontattokai"}
+   [:t "திருவள்ளுவமாலை"] #{"Tiruvalluvamalai" "Tiruvalluvamālai"}
+   ;;  [:t "திருவள்ளுவர்"] #{"Tiruvalluvar"} # sometimes written with diacritics, sometimes not (esp when quoting someone else)
+   [:t "திருவள்ளுவர்'s"] #{"Tiruvalluvar's"}
+   "திருவந்தாதி" #{"tiruvantāti"}
+   [:t "திருவந்தாதி"] #{"Tiruvantāti"}
+   "Tiruvaṇṇāmalai" #{} 
+   "Tiruvācakam" #{}
+   "Tiruvārūr" #{}
+   "Tiruvātavūrār" #{}
+   [:t "திருவேறகம்"] #{"Tiruvēṛakam" "Tiruvērakam"}
+   "Tiruvicaippā" #{"Tiruvicaippa"}
+   [:t "திருவொற்றியூர்"] #{"Tiruvorriyūr" "Tiruvorriyür" "Tiruvorriyur"}
+   "Toda" #{}
+   "Todas" #{}
+   "தொகை" #{}
+   "தொல்" #{}
+   "Tolk" #{}
+   "Tolkāppiyam" #{"Tolkappiyam"}
+   "tolkāppiyam" #{"tolkäppiyam"}
+   [:t "தொல்காப்பியன்"] #{"Tolkäppiyan" "Tolkāppiyan"}
+   [:t "தொல்காப்பியன்'s"] #{"Tolkäppiyan's" "Tolkāppiyan's"}
+   "TOLKĀPPIYAM" #{}
+   "Tolkāppiyar" #{}
+   [:t "தொல்காப்பியனார்"] #{"Tolkāppiyaṇār"}
+   "தொண்டன்" #{"tontan"}
+   "தொண்டர்" #{"tontar" "toṇṭar"}
+   [:t "தொண்டைமான்"] #{"Toṇṭaimāṇ"}
+   [:t "தொண்டி"] #{"Tonti" "Tonți"}
+   "தொடை" #{"toțai" "toṭai"}
+   [:t "தொடை"] #{"Toțai"}
+   "toto" #{} 
+   "Trivandrum" #{}
    "trobadors" #{}
    "tāmmāyntaṉar" #{"tāmmāyntaṇar"}
    "tulakam" #{}
    "Tulu" #{}
+   "துறை" #{"turai"}
+   [:t "துறை"] #{"Turai"}
+   [:t "துரைசாமி"] #{"Turaicāmi" "Turaicami"}
+   "துறவறம்" #{"turavaram"}
+   "உலகம்" #{}
+   "உழவர்" #{"ulavar"}
+   "உள்ளுரை" #{"ullurai"}
+   "und" #{}
    "unimpassioned" #{}
    "urai" #{}
+   "உரையாசிரியர்" #{"uraiyäciriyar"}
+   "உரையாசிரியர்கள்" #{"Uraiyāciriyarkal" "Uraiyāciriyarkaļ"}
    "Uṟaiyūr" #{"Uraiyur" "Uraiyūr"}
+   "உரி" #{}
+   [:t "உரி"] #{}
+   "உரிப்பொருள்" #{"uripporul"}
+   "Urtext" #{}
+   [:t "உருத்திரன்"] #{"Uruttiran"}
+   "உரு" #{}
+   "உருவு" #{}
+   [:t "உதியன்"] #{"Utiyan" "Utiyaň"}
+   "உவமம்" #{}
+   "உயிர்" #{}
    "uyiruṅ" #{"uyiruń"}
+   [:t "வசந்தமாலை"] #{}
+   [:t "வைகை"] #{}
+   "Vaiṣṇava" #{}
+   "Vaiṣṇavism" #{}
+   "Vaiṣṇavite" #{}
+   "Vaitheeswaran" #{}
+   "Vaiyapuri" #{}
+   "Vallikkannan" #{}
+   "வள்ளுவன்" #{"valluvan"}
+   ;; "Valluvar" sometimes with diacritics, sometimes not
+   "Vālmīki" #{"Vālmiki"}
+   "வஞ்சி" #{"vanci" "vañci"}
+   [:t "வஞ்சி"] #{"Vanci" "Vañci"}
+   "வண்ணம்" #{"vannam"}
+   "வந்தால்" #{"vantāļ"}
+   "வந்தொண்டர்" #{"vantontar"}
+   "Varadarajan" #{}
+   "வரலாறு" #{"varalāru" "varalāṛu"}
+   "வட்டம்" #{}
+   "Vedanayagam" #{}
    "Vedic" #{}
+   "Venkatacalam" #{}
+   "Venkatachalam" #{}
    "Venkataswamy" #{}
+   "வெண்பா" #{"venpā"}
+   [:t "வெண்பா"] #{"Venpā"}
    "veṇpāmālai" #{"veņpāmālai"}
+   "Venugopala" #{}
+   "Venugopalan" #{}
+   "venus" #{}
+   "Vijaya" #{}
+   "Vijayanagara" #{}
    "viḻuppuṇ" #{"viluppun"}
    "viṟaliyar" #{"viraliyar"}
+   "விருத்தம்" #{}
+   "Vithiananthan" #{}
+   "விளக்கு" #{"viļakku"}
+   "Viṣṇu" #{}
+   "v.l." #{}
    "Volksliteratur" #{}
+   "von" #{}
    "vākai" #{}
+   "Wellek" #{}
+   "Winternitz" #{}
    "worldly" #{"wordly"}
    "yāḻ" #{"yal"}
    "yātum" #{}
+   ;; "Yavanas" sometimes with and sometimes without diacritics
    "yāvaruṅ" #{"yāvarun"}
+   "Zbavitel" #{}
+   "Zvelebil" #{}
    "zoon" #{}
    "élite" #{}
    "āṭunar" #{}
    "ūrē" #{}
    ;; abbreviations & names 
+   "10" "IO"
+   "101" "IOI"
    "A.C." #{}
    "A.D" #{}
    "A.D." #{}
@@ -726,15 +1267,23 @@
    "Jesudasan" #{}
    "Jesudasans" #{}
    "Jeyakanthan" #{}
-   "Jeyakanthan's" #{} 
+   "Jeyakanthan's" #{}
    "Kur" #{}
    "K.Z." #{}
    "Ka" #{}
+   "Kalit" #{}
+   "Kamil" #{}
+   "Kannadasan" #{}
+   "Kannappa" #{}
+   "Nar" #{}
    "Ramaswamy" #{}
    "e.g." #{}
    "i.e." #{}
    "lw" #{}
    "Skt" #{}
+   "ss" #{}
+   "Ss" #{}
+   "TP" #{}
    ;; puncutation
    "”" #{}
    "“" #{}
