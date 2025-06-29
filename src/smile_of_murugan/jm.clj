@@ -151,6 +151,12 @@
    as they occur in the OCR text.
    If the word actually appears correctly spelled in the text, then
    the value set of strings should be kept empty."
+  
+
+  ;; Known bad diacritics to look for once the spelling fixes are done:
+  ;;
+  ;; ń ǹ ļ ț ṛ ä ţ
+  ;;
 
 
   {;; words & names using diacritics in transliterations
@@ -1030,7 +1036,7 @@
    "தொகை" #{}
    "தொல்" #{}
    "Tolk" #{}
-   "Tolkāppiyam" #{"Tolkappiyam"}
+   "Tolkāppiyam" #{"Tolkappiyam" "Tolkäppiyam"}
    "tolkāppiyam" #{"tolkäppiyam"}
    [:t "தொல்காப்பியன்"] #{"Tolkäppiyan" "Tolkāppiyan"}
    [:t "தொல்காப்பியன்'s"] #{"Tolkäppiyan's" "Tolkāppiyan's"}
@@ -1293,19 +1299,25 @@
    ;;   Note: we have the 'remove' category because of a human marking in the margin that got interpreted as a "×"
    "" #{"×"}})
 
+(defn f
+  [k]
+  (let [[f token] (if (string? k)
+                    [identity k]
+                    (let [[fk token] k]
+                      [(case fk
+                         :u str/upper-case
+                         :t str/capitalize)
+                       token]))
+        k-iso15919 (translit/தமிழ்->iso15919 token)]
+    (f k-iso15919)))
+
+(def CORRECT-SPELLINGS-LATINIZED
+  (update-keys CORRECT-SPELLINGS f))
+
 (def SPELLING-CORRECTIONS
-  (into {} (for [[k vs] CORRECT-SPELLINGS
+  (into {} (for [[k vs] CORRECT-SPELLINGS-LATINIZED
                  v vs]
-             (let [
-                   [f token] (if (string? k)
-                               [identity k]
-                               (let [[fk token] k]
-                                 [(case fk
-                                    :u str/upper-case
-                                    :t str/capitalize)
-                                  token]))
-                   k-iso15919 (translit/தமிழ்->iso15919 token)]
-               [v (f k-iso15919)]))))
+             [v k])))
 
 "cāṉṟōr" ;; Elango edition - NFD form
 "cāṉṟōr" ;; Internet inspired - NFC form
@@ -1315,7 +1327,7 @@
   (let [trimmed-words (map #(update-in % [:substring] string/trim) word-index-scores)
         no-punctuation (remove #(re-matches #"[\p{Space}\p{Punct}]+" (:substring %)) trimmed-words)
         no-english (remove #(d/is-word? (:substring %)) no-punctuation)
-        no-correct-non-english (remove #(CORRECT-SPELLINGS (:substring %)) no-english)
+        no-correct-non-english (remove #(CORRECT-SPELLINGS-LATINIZED (:substring %)) no-english)
         no-visited-incorrect-non-english (remove #(SPELLING-CORRECTIONS (:substring %)) no-correct-non-english)]
     ;; TODO: remove all words of a high confidence score that match the English dictionary
     no-visited-incorrect-non-english))

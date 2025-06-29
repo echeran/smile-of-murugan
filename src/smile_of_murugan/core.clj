@@ -169,6 +169,12 @@
 
 
 
+;; This is the stuff that we run regularly. In particular:
+;;   - evaluate jm.clj and then evaluate core.clj
+;;   - run process-output in order to apply the changed conversion of .json and .md
+;;   - run combine-md-files to combine the markdown files into one
+;;   - run jm/inspect-low-confidence-tokens-from-dir to regenerate misspellings.txt
+
 (comment
   ;; Process response - process output files from batch processing - what we did
   ;; In other words: Combine `.json` files from API into cleaned up & processed `.md` files
@@ -178,7 +184,7 @@
 
 
 (comment
-  ;; Combine `.md` files into one, and analyze misspellings
+  ;; Combine `.md` files into one, in order to run the next step to analyze misspellings, and then run the step to analyze misspellings
   (combine-md-files "outputs" "smile.md")
 
   (time (jm/inspect-low-confidence-tokens-from-dir "inputs" "misspellings.txt")))
