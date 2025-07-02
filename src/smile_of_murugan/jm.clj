@@ -151,13 +151,13 @@
    as they occur in the OCR text.
    If the word actually appears correctly spelled in the text, then
    the value set of strings should be kept empty."
-  
+
 
   ;; Known bad diacritics to look for once the spelling fixes are done:
   ;;
   ;; ń ǹ ļ ț ṛ ä ţ
   ;;
-
+  
 
   {;; words & names using diacritics in transliterations
    
@@ -297,9 +297,12 @@
    "Añci" #{}
    "añcal" #{"aňcal"}
    "añcu" #{"aňcu"}
+   [:t "அண்டாள்"] #{"Aṇṭāl"}
+   [:t "அண்டார்"] #{}
    "Appar" #{}
    "Appar's" #{}
    "Appu" #{}
+   "அறம்" #{"aṛam"}
    "ஆராய்ச்சி" #{}
    [:t "ஆராய்ச்சி"] #{}
    "argumentum" #{}
@@ -320,15 +323,19 @@
    "aryas" #{}
    "Aryas" #{}
    "āsanas" #{"asanas"}
+   "Aśoka" #{}
+   "Aśoka's" #{}
    "assonances" #{}
    "Ataṅkōṭu" #{"Atankōṭu"}
    "ataṅkōṭṭu" #{"atankōṭṭu"}
    "Ataṅkōṭṭāciriyar" #{}
    "Ataṅkōṭṭācāṉ" #{"Atankōṭṭācān" "Atankōṭṭācāṇ"}
-   "Aṭikaḷ" #{"Atikal" "Ațikal" "Ațikaļ"}
+   "Aṭikaḷ" #{"Atikal" "Ațikal" "Ațikaļ" "Aṭikaļ"}
    "atikāram" #{}
    "Ātittaṉ" #{"Atittan"}
    "aṭi" #{"ați"}
+   "அடியார்" #{"ațiyar" "ațiyār"}
+   "அடியான்" #{"ațiyān"}
    "Aṭiyārkkunallār" #{}
    "Aṭiyārkkunallār's" #{}
    "Auvai" #{}
@@ -338,10 +345,24 @@
    "avarkku" #{}
    "avarukku" #{}
    "avarul" #{}
-
+   "அய்தம்" #{}
+   "Ayurvedic" #{}
+   "Bhāgavatapurāṇa" #{}
    "bhaktas" #{}
    "bhakti" #{}
+   "bhakta" #{}
+   "Bhakti" #{}
+   "BHAKTI" #{}
+   "Bharata" #{}
+   "Bharata's" #{}
+   "Bharathi" #{}
+   "Bharathi's" #{}
    "Bharati" #{}
+   "Bharati's" #{}
+   "Bharatidasan" #{}
+   "Bharatiya" #{}
+   "Bharatiyar" #{}
+   "bhāṣāsamskytayogam" #{}
    "Brahmin" #{}
    "Brāhmī" #{"Brāhmi"}
    "Brahmi" #{}
@@ -354,11 +375,15 @@
    "cāṉṟōṉ" #{"cāṇrōn" "canrōn"}
    "cāṉṟōr" #{"canrōr" "cānṛōr" "cāṇṛōr" "canyōr"}
    "cantam" #{}
+   "Carittirak" #{}
+   "carittiram" #{}
+   "Carittiram" #{}
    "Cenkuṭṭuvan" #{"Ceṅkuṭṭuvan"}
    "Cenkuṭṭuvan's" #{}
-   "centamiḻ" #{}
+   "centamiḻ" #{"centamil"}
    "Centamiḻ" #{"Centamil"}
    "centamiḻnaṭai" #{"centamilnațai"}
+   "செந்தொடை" #{}
    "ceyyuḷ" #{"ceyyu" "ceyyul"}
    "choroi" #{}
    "cilampu" #{}
@@ -409,6 +434,7 @@
    "Cōḻa" #{"Cōla"}
    "Cōḻaṉ" #{"Cōlan"}
    "Cōḻanāṭu" #{"Cōlanāțu" "Cōlanǎțu"}
+   "சுடர்" #{"cuțar"}
    "cuttiram" #{}
    "democratism" #{}
    "dramatis" #{}
@@ -435,6 +461,7 @@
    "foetus" #{}
    "Gajabāhu" #{"Gajabahu" "Gajabähu"}
    "Gaṇapati" #{"Ganapati"}
+   "gandharva" #{}
    "Gaṅgā" #{"Gangā" "Ganga"}
    "Gaṇeṣa" #{"Gaņeṣa"}
    "Gaṇeśa" #{}
@@ -450,10 +477,12 @@
    "ilakkiyam" #{}
    "Ilakkiyam" #{}
    "Ilangô" #{}
-   "Iḷaṅkōvaṭikaḷ" #{"Ilankovațikaļ" "Ilankōvaṭikaļ" "Iļankōvațikal"}
+   "Iḷaṅkōvaṭikaḷ" #{"Ilankovațikaļ" "Ilankōvaṭikaļ" "Iļankōvațikal" "Iļankovațikaļ" "Iļankōvațikaļ"}
    "Iḷaṅkōvaṭikaḷ's" #{"Ilankovaṭikal's" "Ilankōvațikal's"}
    "Iḷaṅkō" #{"Ilankō" "Iļankō"}
    "Iḷaṅkō's" #{"Ilankō's"}
+   [:t "இலந்திரையம்"] #{"Ilantiraiyam"}
+   [:t "இலந்திரையன்"] #{"Ilantiraiyan"}
    "Imayavarampaṉ" #{"Imayavarampan" "Imayavarampaŋ" "Imayavarampaṇ"}
    "Indianness" #{}
    "Indo" #{}
@@ -510,13 +539,18 @@
    "காஞ்சி" #{"kāñci"}
    [:t "காஞ்சி"] #{"Kāñci" "Kāňcī"}
    [:t "காஞ்சிபுரம்"] #{"Kāñcipuram" "Kāñcīpuram" "Kāňcipuram" "Kāňcīpuram"}
-   [:t "கண்ணகி"] #{"Kannaki" "Kaņṇaki"}
+   [:t "கண்ணகி"] #{"Kannaki" "Kaņṇaki" "Kanṇaki"}
    [:t "கண்ணகி's"] #{"Kaņṇaki's"}
    [:t "கண்ணனார்"] #{"Kaṇṇaṇār"}
    [:t "கண்ணப்பர்"] #{"Kaņṇappar"}
    [:t "கண்ணதாசன்"] #{"Kaṇṇatācan"}
    "காந்தள்" #{"kāntal" "kāntaļ"}
+   [:t "கபாடபுரம்"] #{}
+   "கபிலர்" #{}
+   [:t "கபிலர்"] #{}
    [:t "காரைக்கால்"] #{}
+   [:t "கரிகால்"] #{}
+   [:t "கரிகாலன்"] #{"Karikālaṇ"}
    "கற்பு" #{"karpu"}
    [:t "கற்பு"] #{"Karpu"}
    "karu" #{}
@@ -574,6 +608,8 @@
    [:t "கோவலன்"] #{"Kōvalan" "Kōvalaṇ"}
    [:t "கோவலன்'s"] #{"Kōvalan's"}
    "koṭukkuvar" #{"koṭukkuvar"}
+   "கோயில்" #{}
+   [:t "கோயில்"] #{}
    "Krishnaswami" #{}
    "Krishnaswamy" #{}
    "Kṛṣṇa" #{}
@@ -609,11 +645,12 @@
    "kēḷvi" #{"kēļvi"}
    "Lakṣmaṇa" #{}
    "Languedoc" #{}
-   [:t "லங்கா"] #{}
+   [:t "லங்கா"] #{"Lankā"}
    "Lesky" #{}
    "lettres" #{}
    "L'Inde" #{}
    "l'Inde" #{}
+   "lingam" #{}
    "liṅka" #{"linka"}
    "Literatur" #{}
    "Literaturen" #{}
@@ -637,9 +674,10 @@
    "மணி" #{"mani"}
    "Manickam" #{}
    "மணிகள்" #{"manikal"}
+   [:t "மாணிக்கவாசகர்'s"] #{}
    [:t "மாங்குடி"] #{"Mānkuţi" "Mānkuți"}
    "மணிமாலை" #{}
-   [:t "மணிமேகலை"] #{}
+   [:t "மணிமேகலை"] #{"Maņimēkalai"}
    "மணிப்ரவாள" #{"maṇipravāļa"}
    "மணிப்ரவாளம்" #{"maṇipravāļaம்"}
    [:t "மங்கையர்க்கரசியின்"] #{"Mankaiyarkkavaciyin" "Mankaiyarkkaraciyin"}
@@ -648,7 +686,11 @@
    "மந்திரம்" #{}
    "Maraimalai" #{}
    "மரணம்" #{}
+   "மரபு" #{}
    "Marr" #{}
+   "முருக" #{}
+   [:t "முருக"] #{}
+   [:t "முருகு"] #{}
    "மறுமலர்ச்சி" #{"marumalarcci"}
    "மருந்து" #{}
    "மருதம்" #{}
@@ -699,6 +741,7 @@
    "Mylapore" #{}
    [:t "நச்செள்ளையார்"] #{"Naccellaiyar" "Nacceļļaiyār"}
    [:t "நச்சினார்க்கினியர்"] #{"Naccinārkkiniyar" "Nacciṇārkkiniyar" "Nacciṇārkkiṇiyar"}
+   [:t "நச்சினார்க்கினியர்'s"] #{"Naccinārkkiniyar's" "Nacciṇārkkiniyar's" "Nacciṇārkkiṇiyar's"}
    "Nagarcoil" #{}
    "Nagaswamy" #{}
    [:t "நக்கீரர்"] #{"Nakkirar"}
@@ -724,10 +767,13 @@
    "Narayanan" #{}
    "நற்றிணை" #{"narrinai" "narriņai" "narvinai" "narviņai"}
    [:t "நற்றிணை"] #{"Narrinai" "Narriņai" "Narvinai"}
+   "நட்பு" #{"natpu"}
    "Nattar" #{}
    "Nāṭyaśāstra" #{}
    [:t "நாவலர்"] #{}
    "Nayagam" #{}
+   "நாயன்மார்" #{"nāyaṇmār"}
+   [:t "நாயன்மார்"] #{"nāyaṇmār"}
    "neo" #{}
    "நேர்" #{}
    [:t "நெடுனல்"] #{"Nețunal"}
@@ -740,6 +786,7 @@
    "நிலம்" #{}
    "Nilgiri" #{}
    "Nilgiris" #{}
+   "நிறை" #{"nirai"}
    "niṟīit" #{"nirīit"}
    "நூல்" #{"nul"}
    "நூற்பா" #{"nurpā"}
@@ -749,6 +796,8 @@
    "ஓம்" #{}
    "ஓரை" #{}
    "ஒரு" #{}
+   [:t "ஒட்டக்கூத்தன்"] #{"Oṭṭakküttan" "Oṭṭakkūttan"}
+   [:t "ஒட்டக்கூத்தர்"] #{"Oṭṭakküttar" "Oṭṭakkūttar"}
    "outcaste" #{}
    "Padmanabhan" #{}
    "palaeography" #{}
@@ -766,8 +815,10 @@
    "Pandya" #{}
    "Pandyas" #{}
    [:t "Pāṇini"] #{"Pāņini"}
+   "Pāṇinīan" #{"Pāṇinian"}
    "Panneerselvam" #{}
    "paṇpuṭaiyār" #{"panpuṭaiyar"}
+   [:t "பாண்டிக்கோவை"] #{"Pāṇṭikkovai"}
    [:t "பாண்டியன்"] #{"Pāṇṭiyan"}
    "பாண்டியன்" #{"Pāṇṭiyan"}
    "Paraiya" #{}
@@ -787,6 +838,7 @@
    [:t "பதிற்"] #{"Patir"}
    [:t "பதிற்றுப்"] #{"Patirrup"}
    [:t "பதிற்றுப்பத்து"] #{"Patirruppattu"}
+   [:t "பட்டினப்பலை"] #{"Pattinappalai" "Pattinappālai"}
    [:t "பட்டினத்தர்"] #{"Paṭṭinattar" "Paṭṭinattār" "Paṭṭiṇattār"}
    [:t "பத்தினி"] #{"Pattini" "Pattiņi"}
    "பாட்டு" #{}
@@ -796,7 +848,10 @@
    "பாயிரம்" #{}
    [:t "பேராசிரியர்"] #{}
    [:t "பேராசிரியர்'s"] #{}
-   [:t "பெரியபுரணம்"] #{"Periyapurānam" "Periyapuraṇam"}
+   [:t "பெரிய"] #{}
+   [:t "பெரியபுரணம்"] #{"Periyapurānam" "Periyapuraṇam" "Periyapuranam"}
+   [:t "பெரும்பாணாற்றுப்படை"] #{"Perumpāṇārruppatai" "Perumpāṇārruppaṭai"}
+   "பெரும்பொழுது" #{"perumpolutu"}
    [:t "பெருந்கதை"] #{"Perunkatai"}
    [:t "பெருங்குன்றூர்"] #{"Perunkunrur"}
    "perumpeyar" #{}
@@ -872,10 +927,12 @@
    "rāma" #{}
    "Rāma's" #{}
    "Ramachandra" #{}
+   "Ramalinga" #{}
    [:t "ராமலிங்க"] #{"Rāmalinga" "Rāmalinka"}
    [:t "ராமலிங்கர்"] #{"Rāmalinkar"}
    "Ramamirtham" #{}
    "Ramamirtham's" #{}
+   "Ramnad" #{}
    "Rāmānuja" #{}
    "Ramaswami" #{}
    "Rāmatēvar" #{}
@@ -894,6 +951,7 @@
    "Saiva" #{}
    "Śaiva" #{"Šaiva"}
    "ŚAIVA" #{}
+   "SAIVA" #{}
    "Saivism" #{}
    "Saivite" #{}
    "Saivites" #{}
@@ -947,7 +1005,7 @@
    "Srinivasa" #{}
    "stanzaic" #{}
    "Subbiah" #{}
-   "Subrahmanian" #{} 
+   "Subrahmanian" #{}
    "Subrahmaniya" #{}
    "Subrahmanya" #{}
    "Subrahmanyam" #{}
@@ -1024,7 +1082,7 @@
    [:t "திருவள்ளுவர்'s"] #{"Tiruvalluvar's"}
    "திருவந்தாதி" #{"tiruvantāti"}
    [:t "திருவந்தாதி"] #{"Tiruvantāti"}
-   "Tiruvaṇṇāmalai" #{} 
+   "Tiruvaṇṇāmalai" #{}
    "Tiruvācakam" #{}
    "Tiruvārūr" #{}
    "Tiruvātavūrār" #{}
@@ -1049,7 +1107,7 @@
    [:t "தொண்டி"] #{"Tonti" "Tonți"}
    "தொடை" #{"toțai" "toṭai"}
    [:t "தொடை"] #{"Toțai"}
-   "toto" #{} 
+   "toto" #{}
    "Trivandrum" #{}
    "trobadors" #{}
    "tāmmāyntaṉar" #{"tāmmāyntaṇar"}
@@ -1086,6 +1144,7 @@
    "Vaiṣṇavite" #{}
    "Vaitheeswaran" #{}
    "Vaiyapuri" #{}
+   [:t "வள்ளி"] #{"Valli"}
    "Vallikkannan" #{}
    "வள்ளுவன்" #{"valluvan"}
    ;; "Valluvar" sometimes with diacritics, sometimes not
