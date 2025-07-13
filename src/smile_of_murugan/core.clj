@@ -59,6 +59,9 @@
                                       ;; "fieldMask" "FIELD_MASK"
                                     }
                                   },
+                                "processOptions" {"ocrConfig"
+                                                  {"premiumFeatures"
+                                                   {"computeStyleInfo" true}}},
                                 }
                          :scopes ["https://www.googleapis.com/auth/cloud-platform"]})))
 
@@ -131,7 +134,7 @@
 
 (comment
 
-  ;; Full doc - batch processing - what we did
+  ;; Full doc - batch processing - what we did - output goes into a single file
 
   ;; Note: only run these commands once, because OCR AI logic can change over time,
   ;; and the input scan quality is always on the border of legibility for differnet Latin diacritics
@@ -168,7 +171,11 @@
 
 
 
-
+;; Prerequisite:
+;;   - run (batch-response-for-file-path "originals/Smile-of-Murugan-On-Tamil-Literature-of-South-India-Kamil-Zvelebil-Brill.pdf")
+;;   - wait for it to finish. might take 1-2 minutes.
+;;   - download response object files to the "inputs" directory using gsutil
+;;
 ;; This is the stuff that we run regularly. In particular:
 ;;   - evaluate jm.clj and then evaluate core.clj
 ;;   - run process-output in order to apply the changed conversion of .json and .md

@@ -104,7 +104,7 @@
           (format-stylized-text-substring-for-markdown substr)
           substr)))))
 
-(defn- get-stylized-text
+(defn get-stylized-text
   "Convert the DocAI response JSON into the Markdown version
    of the text in which the styles (ex: italics) have already
    been applied"
