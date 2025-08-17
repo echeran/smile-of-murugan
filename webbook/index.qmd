@@ -1,0 +1,4455 @@
+# Preface {.unnumbered}
+
+THE SMILE OF MURUGAN
+ON TAMIL LITERATURE OF SOUTH INDIA
+THE SMILE OF MURUGAN
+ON TAMIL LITERATURE OF SOUTH INDIA
+BY
+KAMIL ZVELEBIL
+With 3 plates and a folding map
+SUB
+AEGIDE PA
+TUTA
+PALLAS.
+
+God *Murugan riding a peacock*. South Indian bronze.
+
+From the collections of the Rijksmuseum voor *volkenkunde*,
+Leiden, Holland. Obj.no.: 1403-2843.
+
+LEIDEN
+E. J. BRILL
+1973
+This book was printed with financial support of the Netherlands
+Organization for the Advancement of Pure Research (Z.W.O.)
+ISBN 90 04 03591 5
+Copyright 1973 by E. *J. Brill,* Leiden, Netherlands
+*All* rights *reserved*. No part of this book may be *reproduced* or
+translated in any form, by print, photoprint, microfilm, microfiche
+or any other means without written permission from the publisher
+PRINTED IN THE NETHERLANDS
+*CAMARPPAṆAM*
+DEDICATION
+The great drums beat
+As Asura warriors marched.
+
+Their burning rage cut asunder
+Corpses scattered
+Scorched with a spark
+From your radiant smile
+O leader of men
+With leaf-edged spear
+Lover of Vaḷḷi the gypsy
+O lord who resides on Tiruttaṇi hills!
+(Arunakiri, *Tiruppukaḻ* 5.71)
+Transl. S. Kokilam
+Somehow or other, Murugan, the youthful god of victorious war,
+is ubiquitous in Tamil writing and culture; he is present in the
+earliest classical poems of Tamil as well as in the splendid "Lay of
+the Anklet", in the ruby-red and sea-blue and golden songs of
+Aruṇakiri as well as in the very recent prayers to Murugan by
+A. K. Ramanujan.
+
+His wars are, of course, not only victorious, but just. He destroys
+evil, decay, death. His smile is the light of life and eternal youth.
+"His face shoots forth myriad rays of light, removing darkness from
+the world" (*Tirumurukärruppaṭai* 91-92).
+
+CONTENTS
+Acknowledgments
+Preface.
+
+List of Abbreviations.
+
+Note on Transliteration and Pronunciation.
+
+I.
+
+Introductory
+II. Distinctive Features of Tamil Literature
+IX
+☑
+XIII
+XV
+I
+9
+III. Problems of Dating, Relative and Absolute Chronology.
+IV. The *Caṅkam* Legend. The Texts.
+
+V. Analysing Classical Poetry
+275
+23
+45
+65
+VI.
+
+The Theory of "Interior Landscape".
+
+85
+VII. Themes, Motives, Formulae.
+
+VIII. Late Classical Poetry
+IX. *Tolkāppiyam*
+III
+119
+131
+X. The Book of Lofty Wisdom.
+
+155
+XI. The Lay of the Anklet .
+
+XII. Śaiva Bhakti-Two Approaches.
+
+XIII. The Imperial Poet.
+
+172
+185
+207
+XIV. The *Cittar*: An Enigma.
+
+XV. Aruṇakiri, the Great Magician.
+
+XVI. The Prose of the Commentators.
+
+and the Theoretical Problem.
+
+XVIII.
+
+Tamil Renaissance.
+
+XIX. The Prose of Today
+218
+237
+247
+XVII. Origins of Modern Tamil Prose. The Historical
+264
+277
+288
+XX. The "New Poetry”.
+
+Conclusion
+Select Annotated Bibliography.
+
+Index
+313
+336
+339
+347
+ACKNOWLEDGMENTS
+If "even a little book has large debts", what should I say about a
+large book? I am indeed very grateful to the many colleagues,
+students and friends at the Universities of Chicago, Rochester,
+Leiden and London, who discussed with me many points of the
+book, who suggested changes in the English of the text, in short,
+who made this book possible-to J. A. B. van Buitenen, Milton
+Singer, Don Nelson, F. B. J. Kuiper and particularly to J. R. Marr.
+In a very special way I am indebted to A. K. Ramanujan, whose
+views and whose penetrating understanding and interpretation of
+Tamil culture were most inspiring to me. I also thank him for his
+kind permission to use his translations.
+
+I am grateful to Mrs. Kokilam Subbiah for the English translation
+of some Tamil poems, and for her thought-provoking comments on
+the form and content of the text.
+
+Finally, I acknowledge with profound thanks and deep respect
+the debt I owe to my Tamil guru, Mahavidvan M. V. Venugopala
+Pillai.
+
+Leiden,
+Spring 1971
+K. Z.
+
+PREFACE
+The Dravidians, and in particular the Tamils, have contributed a
+great deal to the cultural *richesse* of the world: Pallava and Chola
+temple architecture, Chola bronze sculpture, the dance-form known
+as Bharatanatyam, the so-called Carnatic system of music. But
+probably the most significant contribution is that of Tamil literature,
+which still remains to be "discovered" and enjoyed by the nonTamilians
+and adopted as an essential and remarkable part of
+universal heritage. If it is true that liberal education should “liberate"
+by demonstrating the cultural values and norms foreign to us,
+by revealing the relativity of our own values, then the "discovery"
+and enjoyment of Tamil literature, and even its teaching (as a
+critical part of the teaching of Indian literatures) should find its
+place in the systems of Western training and instruction in the
+humanities.
+
+However, frankly speaking, I do not think that anybody is
+capable, at the present state of affairs, of bringing out a sufficiently
+formalized, detailed and exhaustive synthesis of Tamil literature
+comparable to such magnificent works as, say, Jan Rypka's
+*Persian Literature* or Maurice Winternitz's *History* of *Indian*
+*Literature*.
+
+Much, much more detailed, analytic work must be performed and
+many monographs on various aspects, trends, literary works, writers
+and even entire periods have yet to be written and published before
+a synthetic and detailed treatment of Tamil literature can be
+attempted. There are still quite enormous blank spaces on the map
+of our knowledge of the subject; fundamental knowledge is lacking,
+e.g., with regard to the extremely interesting and even thrilling
+poetry of the *cittar*; who can say that he has mastered in a critical
+way the vast sphere of the Tamil *purāṇas*, or the much neglected
+Muslim contribution to Tamil writing? Not only that: we must, at
+the same time, learn to enter sympathetically and with professional
+precision another culture, remote in space and time; we must learn
+to understand the function of literature in India, to appreciate and
+enjoy it in terms of cultural norms and literary taste which is not
+only different from our approach but often in direct contrast to it.
+And, last but not least, we must try to formulate the results of our
+XII
+PREFACE
+analysis in a manner which will be increasingly more formalized
+and explicit and less intuitive and informal.
+
+Since, then, as I believe, no accurate and systematic synthesis of
+the subject is as yet possible, it is obviously inevitable that a choice
+made, a selection of topics and themes, which will necessarily be
+biased owing to one's own abilities and inabilities and one's own
+personal preferences and dislikes.
+
+But apart from subjective motivations, there must be, and I
+believe there are, objective criteria of evaluation indicating which
+literary works are characteristic, typical, truly representative of
+a national writing. My selection of works, authors and topics was
+fundamentally based on such criteria. I made a choice (it must be
+frankly admitted that this selection was made under the shadow of
+despair caused by a true *embarras du choix*) which is reflected in the
+twenty chapters where I have dealt with what I consider to be the
+most characteristic, pivotal and topical works and trends of Tamil
+literature. I can hear the indignant, offended and even enraged
+critics: why the Saivite and not the Vaishnavite poets? No discussion
+of the brilliant *Cīvakacintāmaṇi*? Why has nothing been said
+about our greatest modern poet Bharati? Etc. etc. I do not apologize.
+I try to explain in the pertinent chapters. One of the reasons for this
+selective approach is that I believe in strict professionalism; I do not
+like to pretend and to speak about matters which I do know only
+as an enthusiastic dilettante; and, unfortunately, dilettantism,
+however much it might have been motivated by passionate enthusiasm,
+is one of the maladies which have affected studies in Tamil
+literature to a dangerous extent.
+
+The annotated bibliography, appended to this volume, though far
+from complete and very selective, may to some extent fill the gaps.
+The present volume is therefore emphatically not even an approximation
+to a complete historical treatment of Tamil literature. It is a
+fragmentary collection of essays on Tamil literature, intended to
+arouse interest and to provoke discussion.
+
+LIST OF ABBREVIATIONS
+Aink.
+
+*Ainkuṟunūṟu*
+*Akanāṉūṟu*
+Ak.
+
+*Akatt*.
+
+anonym.
+
+*BSOAS*
+*Ciṟupāṇ.*
+
+Col.
+
+comm.
+
+*DBIA*
+*DED*
+DEDS
+ed.
+
+E.I.
+
+*Elutt*.
+
+ftn.
+
+*HSI*
+*HTL*
+*HTLL*
+*Akattiṇaiyiyal*
+anonymous
+Bulletin of the School of Oriental and African Studies, London
+*Ciṟupāṇāṟṟuppaṭai*
+*Collatikāram* of Tolk.
+
+commentary
+*Dravidian* Borrowings *from Indo-Aryan* (1962) by T. Burrow
+and M. B. Emeneau
+*Dravidian Etymological Dictionary* (1961) by T. Burrow and
+M. B. Emeneau
+*Dravidian Etymological Dictionary*--Supplement (1968)
+edition, edited
+Epigrafia Indica
+*Eḻuttatikāram* of *Tolk*.
+
+foot-note
+A *History* of *South* India (1955) by K. A. Nilakanta Sastri
+A *History* of *Tamil Literature* (1965) by T. P. Meenakshisundaran
+*History* of Tamil *Language* and *Literature* (1956) by S.
+Vaiyapuri Pillai
+*Iṟaiyaṉār Akapporu!*
+*Kalittokai*
+*ΙΑ*
+*ibid.*
+
+*ibidem*
+id.
+
+Ka.
+
+idem
+Kannada, Kanarese
+*Kalit*.
+
+*Kur*.
+
+*Kuṟuntokai*
+K.Z.
+
+Kamil Zvelebil
+LTa.
+
+Literary Tamil
+lw.
+
+loan-word
+Malayalam
+Ma.
+
+*Malaipatuk*. *Malaipaṭukaṭām*
+*Mānavadharmaśāstra*
+*Mānav*.
+
+*Maturaik*.
+
+*Meyp*.
+
+*Mullaip*.
+
+Nacciņārk.
+
+*Nāṭyaś*.
+
+*Nav.*
+
+*Neṭuṉal.*
+
+OTa.
+
+*Pat.*
+
+Patiṟ*.*
+
+*Perumpāṇ.*
+
+Pkt.
+
+*Porunar*.
+
+*Poruḷ.*
+
+*Maturaikkāňci*
+*Meyppāṭṭiyal*
+*Mullaippāṭṭu*
+Nacciṉārkkiṉiyar
+*Nāṭyaśāstra*
+Naṟṟiṇai
+*Neṭuṉalvāṭai*
+Old Tamil
+Patikam
+*Patiṟṟuppattu*
+*Perumpāṇāṟṟuppaṭai*
+Prakrit
+*Porunarāṟṟuppaṭai*
+*Poruḷatikāram* of Tolk.
+
+XIV
+LIST OF ABBREVIATIONS
+prob.
+
+Puṟ*.*
+
+*PVM*
+Rām.
+
+*S.*
+
+Skt.
+
+SS.
+
+probably
+Puṟam, *Paṟanāṉūṟu*
+*Purapporulvenpāmālai*
+*Rāmāyaṇa*
+*sūtra*
+Sanskrit
+*sūtras*
+st.
+
+Ta.
+
+*Tāṭakaip*.
+
+*Tiruk*.
+
+*TL*
+To.
+
+Tolk*.*
+
+*Tolk*. Col.
+
+Tolk. Elutt.
+
+Tolk. *Poruḷ.*
+
+trans.
+
+Uvam.
+
+v.l.
+
+stanza
+Tamil
+*Tāṭakaippaṭalam*
+*Tirukkuṟaḷ*
+*Tamil* Lexicon, University of Madras, 1936
+Toda
+Tolkāppiyam
+Tolkāppiyam, *Collatikāram*
+Tolkāppiyam, *Eḻuttatikāram*
+*Tolkāppiyam*, *Poruḷatikāram*
+translator, translated by, translation
+*Uvamaiyiyal*
+alternative reading
+NOTE ON TRANSLITERATION AND PRONUNCIATION
+The transcription used for Tamil words in this book is a strict
+transliteration, a system adopted by the Madras University *Tamil*
+*Lexicon.* The only exception are names of modern and contemporary
+Tamil writers where I follow mostly their own anglicized spelling.
+The following Roman letters are used for the Tamil characters:
+*Vowels*
+Long
+а
+Short
+a
+i
+u
+ū
+e
+10 10
+ē
+O
+au
+*Consonants*
+Lips Teeth
+Ridge behind
+Hard
+Soft
+upper teeth
+palate palate
+Stops
+Nasals
+Liquids
+P
+t
+ţ
+C
+k
+m
+n
+n
+ñ
+r
+1
+r
+Semivowels V
+The Tamil long vowels are simply long vowels, unlike their
+English diphthongized counterparts. Final -ai is pronounced
+approximately like -ey.
+
+Tamil has two series of consonants unfamiliar to English speakers:
+the dentals t, n and the retroflexes t, n, 1, 1. The dentals are pronounced
+with the tongue at the teeth, the retroflexes are produced by
+curling the tongue back towards the roof of the mouth (cf. American
+pronunciation of *girl,* sir).
+
+In the middle of Tamil words, long consonants occur. In transliteration,
+they are indicated by double letters (cf. *Nakkīrar*, *pāṭṭu*).
+English has long consonants between words, cf. Mac Kinley, four
+roads, *hot* tea.
+
+XVI
+NOTE ON TRANSLITERATION AND PRONUNCIATION
+The Tamil r is flapped or trilled as in some European languages
+like Spanish, Italian or Czech. The 1 is somewhat like the American
+variety of r; r and r are not distinguished by most modern Tamil
+speakers, but long rr is pronounced like tr in English trap or tt in
+hot tea; nr is pronounced ndr as in *laundry*.
+
+p, t, t, c, k are pronounced differently according to their positions:
+initially, p, t, and k are pronounced as voiceless stops, ț does not
+occur, and c is initially pronounced as s or sh. Between vowels, p, t, ț
+are voiced into b, d, and d and pronounced as lax voiced stops; k and
+c are pronounced as gh or h and s or sh. After nasals, all stops are
+voiced into b, d, d, j, g.
+
+Instances: *akam* is pronounced usually aham, *caṅkam* is pronounced
+sangam, *kapilar* is pronounced kabilar, *kuṟuntokai* as kurundohey,
+*naṟṟiṇai* as natriney or nattiney, *tolkāppiyam* as tolhaapiyam.
+Pakistan
+Kashmiri
+Panjabi
+80°E
+MAJOR LANGUAG
+SIMPLIFIED AND S
+INDOARYAN
+Bangla
+Desh
+Kachi
+WESTERN
+EASTERN
+Bengali
+Gujarati
+Hindi
+Tulu
+Marathi
+Telugu
+Kannada
+DRAVIDIAN
+Oriya
+Madras
+Kāňcipuram
+TAMIL
+Malayalam
+-10°Madurai
+N
+Tamil
+Singhalese
+80°E
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INDEX
+"A good index can hardly be too prolix". I want this Index to be more
+than simply an inventory of items found in the book. Therefore, whenever
+necessary and possible, the entries are glossed. The order of items is strictly
+according to the order of the English alphabet. The unfortunately rather
+frequent variation in the transcription of some names and titles is purportful
+since it reflects the actual state of affairs, and the reader should make
+himself acquainted with the bewildering variety of transcriptions (and
+transliterations). The principles outlined in the Note on Transliteration could
+not have been adhered to strictly at this moment.
+
+The Index comprises five parts: I. Authors, II. Persons other than authors,
+III. Titles of books (modern expository books are not included), IV. Geographical
+names, V. Other items.
+
+I. AUTHORS
+Agastya, see also Akattiyan, Akattiyar
+10, 47, 134, *136-7*, 219, *222-3*
+Agravala, V.S. 144 n. 2
+Aiyaṉār Itaṇār 85, 90
+Aiyar Swaminatha, Dr. U. V., see
+Swaminatha Aiyar, U. V.
+
+Aiyar, V. V. S.,208 n. 2, 256, 257,
+286, *291-2*
+Akilan
+Akattiyan, Akattiyar, see also Agastya
+134, *136-7*, 222, 227
+289, 291 n. 1, 295 n. I
+Alagiriswamy, K. 303, 337
+Alankuți Vankaṇār
+Aḷḷur Nanmullai 72
+Amitacākarar 173
+Ammūvaṇār 50
+77
+Anandarangam Pillai 272-5
+Annadurai ΙΟ
+Annamalai, E. 76, 78, 80, 84
+Antal 45 n. 1, 192
+Appan, Appar 36, 45, 186, 192,
+195, 196, 197, 202-3, 203 n. 1, 2
+Arangasami Ayyangar, T. S. 51
+Aravamuthan, T. G. 46 n. I
+Aravintan, M. V. 255, 256 n.
+
+264 n. I
+Aricil Kiḻār 53, 80
+Ariel, M.
+
+168 n. 2
+Arulappan, A.
+
+136 n. 2
+his date 240
+his name
+237 n. I
+legend of his life 239-40
+Aruṇakirinātar, see also Aruṇakiri
+237 n. I
+Asher, R. E. 280, 282 n. 1
+Aṭiyārkkunallār 172, 175, 250 n. 1,
+*256-7*, 260, 271
+Auvaiyār 14, 26, 45 n. 1, 80, 81
+Ayyappan, A.
+
+35 n. 2
+Ayyar, K. V. S. 39
+Babington, Benjamin 276, n. 1
+Basham 173
+Belvalkar 146 n. 3
+144 n. 4
+Beschi, C. J. 268, 271, 276 n. *1*
+Bhadragiri, see Pattirakiri 235
+Bhandarkar, P. R.
+
+Bharata
+Bharati, Subrahmanya Pref., 19,
+221, 245, 278, 281, 286, 292, 313,
+314, 332, 337
+138, 144
+Bharatidasan 247, 247 n. 4, 285
+Bhave 294
+2,
+Bloch, Jules
+172
+Böhme, J. 190
+Bower, H. 269
+Āṟumuka Nāvalar 254, 258, *272,*
+277
+Aruṇācala Kavirāyar 277
+Aruṇakiri, see also Aruṇakirinātar
+Ded., 19, *237-46*, 332
+Bowra 115
+Bright, W. 278 n. I
+Buitenen, J. A. B. van
+180
+Burnouf, E.
+
+Burrow, T.
+
+168 n. 2
+13, 170
+Acknowl.,
+348
+INDEX
+Caldwell, Robert 28, 139 n. I
+Cāmi Citamparaṉār 175 n. 2, 191
+Cāminātaiyar (Cāmiņātaiyar), U.
+
+Vē., see also Cuvāmināt'aiyar,
+Swaminatha Aiyar 247 n. 3, 268,
+269
+Campantaṉ, Campantar 36, 186,
+192, 197, *202,* 203 n. 2, 204, 238
+Campāciva Piḷḷai, Mā. 220 n. I
+Canmuka Cuppaiyā, see Shanmuga
+Subbiah 288 n. I
+Casal, J. M. 35 n. 2
+Cattaṇār 179
+Cāttantaiyår 79
+Catti Nātaṇār
+67,73
+Cayankoṇṭār 126 n. 1, 207 n. 3, 238
+n. 3
+Cēkkiḻār 45 n. 1, 186, 187, 192
+Celvam, see also Selvam 331 n. I
+"Cempulapeyalnīrār"
+75
+Cēṉāvaraiyar 135, 135 n. 2, 256
+Cēramāṉ Perumā!
+Desikan, R. N. 172 n. 3
+Dhanamjaya 180
+Dikshitar, V. R., see also Ramachandra
+Dikshitar 37, 37 n. 2
+Dinakara, Rao, N. P. 39
+Doraiswami Pillai, Auvai S. 26
+Drew 157 n. I
+Dumas, Alexander
+Duraiswami, T. K.
+
+Durvinita
+290
+323
+32 n. I
+144 n. 2
+224, 258 n. I
+Eliot, T. S.
+
+320
+Edgerton, Franklin
+Eliade, M.
+
+Ellis 266
+Emeneau, M. B. 2 n. I, 9, 10,
+131 n. 2, 144 n. 2, 170
+Erumai Veliyaṇār 81
+186, 192, 196
+Faucheaux, L. 35 n. 2
+Fergusson, Charles A.
+
+St Francis, Xavier
+278 n. 1
+267 n. I
+Chadwick 89
+Charlesworth, M. P.
+
+35 n. 2
+Chekhov 292
+Chellappa, C. S. 288, 288 n. 1, 295
+n. 1, 303, 313, 316, 317, 318, 319,
+320, 323, 337
+Chelliah
+58 n. I
+Chidambaranatha Chettiar, A. 293
+n. I
+Chidambaranatha Mudaliyar, T. K.
+
+284
+Chitty, Simon Casie
+221 n. I
+Chokkalingam 179 n. I
+Civañāṉa Munivar
+259
+Civaväkkiyar 219 n. 2, 221, 227,
+227 n. 1, *229-32*
+Cōḻaṉ Nalluruttiran
+123
+Cuntaramūrtti, see also Cuntaraṉ
+187
+Cuntaraṉ, Cuntarar 26, 186, 187,
+192, 193, 195, 196, 198, 202, 203,
+203 n. 2, 3, 204, 225
+Cuvāmināt'aiyar, U. V. see Cāminātaiyar,
+U. Vē. 251, 254
+Damodaram Pillai, S. V. see also
+Tāmōtaram Pillai 30, 123, 269,
+270, 283
+Dandin 3
+Daniélou, A. 172 n. 3, 177 n. 2, 3,
+182 n. 1, 275 n. I
+Ganeshalingam, K. 303
+Gaur, Albertine
+Ghosh, A.
+
+267 n. I
+35 n. 2
+Glasenapp, H. von
+207 n. I
+Glazov, J. J. 169 n. 3, 258
+Gonzalves 267
+Gōpālakṛṣṇa Pārati
+Gopalie, S.
+
+277
+317 n. 1, 320 n. 1, 326,
+329, 335, 335 n. I
+Gover, G. E. 229, 265 n. 2
+Govindaraja Mudaliar, K. R.
+
+n. I
+Gros, F. 24
+Gumperz, John J. 278 n. 1
+Hamsun, Knut 304
+Hemingway 304
+Henriques, Henrique 267 n. 1
+Homer 207 n. 3
+Hoole, Elijah 265 n. 2
+Hudson, W. H. 91 n. I
+46
+Iḷampūraṇar 19, 26, 34, 88 n. 1, 92,
+106, 114, 124 n. I, 134, 135, 135
+n. 3, 136 n. 4, 254 n. 1, *256*
+Ilangô Adigal, see Iḷaṅkōvaṭikaḷ
+172 n. 3
+Iḷaṅkō, see also Iḷaṅkōvaṭikaḷ 174,
+179, 337
+INDEX
+Iḷaṅkōvaṭikaḷ 168 n. 3, 173, 176,
+178, 336
+Iṟaiyaṉār 27 n. 1, 32, 43, 68, 75, 85,
+86 n. 1, 87, 88, 89, 90, 92, 96, 134,
+222, 254
+Irākava Aiyaṅkār, see also Raghava
+Iyengar, M. 24
+Irattina Kavirāyar, T.
+
+Iswaran, Manjeri S. 304
+Iṭaikkāṭṭuccittar
+249
+221, 229
+Iyengar, P. T. S. 37 n. 2, 85 n. I
+Iyengar, S. K. 38, 190 n. 1
+Jagannathan, K. V. 284
+Janakiraman, T. 288 n. 1, 295-300,
+303, 337
+Jerome K., Jerome 290
+Jesudasan, C. and H. 49, 84, 116
+n. 1, 120, 126 n. 1, 141 n. 3, 156
+n. 1, 181 n. I, 207, 209 n. 1, 237
+n. 2, 3, 238 n. 1, 254 n. 2, 256 n. 1,
+257 n. 1, 258 n. 1, 277 n. 1, 290,
+290 n. 2
+Jeyakanthan 295, 300-2, 303, 304
+Johnson, Samuel 271
+Jouveau-Dubreuil, G.
+
+Juan de la Cruz 190
+Kabir 210
+34
+Kailasapathy, K. 13, 16, 17, 19,
+20, 24, 38, 41, 52, 54, 55, 57, 58,
+58 n. 1, 60, 64, 65 n. 2, 66, 66 n. 1,
+2, 69, 89, 90, 103, 106, 11I, III n.
+
+I, 112, 113 n. 1, 114, 114 n. 1, 115,
+115 n. 1, 117, 125 n. 1, 126 n. 1,
+133 n. 1, 264 n. 1, 288
+Kākkaipāṭiṉiyār Nacceḷḷaiyār 53
+Kālamēkam 214 n. I
+Kālidāsa 3, 337
+Kaliyāṇacuntara Mutaliyār, Tiruvārūr
+Viruttācala, see also Kalyāṇacuntara
+284
+Kalki, see also Krishnamurti, R.
+
+289, 290-1, 295 n. I
+Kallāṭar 135, 155 n. 1, 186
+Kallil Attiraiyanṇār 83
+Kalyāṇacuntara Mutaliyār, Tiru.
+
+Vi., see also Kaliyāṇacuntara 254
+Kalyāṇacuntaram, Paṭṭukkōṭṭai
+313
+Kampaṉ, Kampar 5, 19, 45 n. 1,
+168 n. 3, *207-17*, 286, 336, 337
+his date 208
+Kampavarman 207
+Kanakasabhai Pillai, V.
+
+37 n. 1, 38
+349
+33 n. 1,
+Kannadasan, see also Kaṇṇatācaṇ
+IO, 247, 247 n. 4
+Kannappa (Kannapa) Mudaliyar, B.
+
+59 n. I, 139 n. I
+Kaṇṇatācaṉ, see also Kannadasan
+313
+Kantiyār
+24
+Kapilar 26, 50, 53, 58, 83, 116, 117,
+123, 168 n. 3
+Kāppiyaṛruk Kāppiyaṇār 53
+Kāraikkāl Ammaiyār 87 n. 1, 186,
+194, 198 n. 1, 199
+Kātyāyana 143 n. 1
+Kauṭilya 138, 144, 171
+Kavaimakan 77
+Keith, A. B. 143 n. 3, 145
+Kiļimankalankilār 13
+Kirar 27 n. I
+Kokilam, S. Ded., 75, 76, 139 n. 1,
+160 n. 1, 177 n. 1, 204, 206, 242,
+243, 244, 245, 321, 322, 326, 328,
+329, 330
+Kōrakkar 219 n. 2
+Krishna Deva 35 n. 2
+Krishnamurti - Kalki, R.
+
+287
+Krishnamurti, R., see also Kalki
+289, *290-1*
+Krishna Sastri, H. K. 39 n. 3
+Krishnaswami Aiyengar 38
+Krishnaswamy, G. 289
+Krishnaswami Iyengar, S. 49
+Kuiper, F. B. J. Acknowl., 35 n. 2
+Kulacēkara Āḻvār 192
+Kuḻantai Pulavar
+212 n. I
+Kumaraguruparar 238 n. 2
+Kumāran Ācān 263
+Kumaṭṭūrk Kaṇṇanār 52
+Kumudini 293
+Kuṇankuțimastān
+221 n. I
+Kuṭṭuvaṉ Kiraṇār 27 n. I
+Lesky, Albin 35 n. 2
+Lyons, J. 146 n. 3
+Lytton, Lord 290
+Mackenzie 266
+Mahadevan, Iravatham
+140 n. 1, 141
+Mali, V. 332, 333
+39, 40, 43,
+350
+Māmūlaṉār 13, 54
+INDEX
+Mani, C., see also Mani 319, 320,
+321, 337
+Mani, see also Mani, C. 319
+Māṇikkavācakar
+186, 192, 193, 198
+n. 1, 202, *203-6,* 256
+Māṅkuṭi Kiḻār, see also Māṅkuṭi
+Marutaṉār 60
+Māṅkuṭi Marutaṉār, see also Māṅkuṭi
+Kiḻār 60
+Mantalapurutar 275
+Manuel, M. 91 n. I
+Marai Malai Aṭikaḷ, see also Vēṭācalam,
+Svāmī 254, 285, 285 1. I
+Marr, J. R. Acknowl., 41, 44, 52,
+53, 58, 59, 65 n. 2, 4, 66 n. 1, 75,
+92, 103
+Marutan Ilanākaṇār 123
+Mātirttan 49
+Maturai Eḻuttāḷaṉ 13
+Maturaik Kaṇakkāyaṉār Makan
+Nakkīrar 27 n. I
+Maturai Marutaniļanākaṇār, see also
+Marutan Ilanākaṇār
+81
+Maturai Nakkīrar 27 n. I
+Maturai Tamilakkūttaṇār
+109
+Mauni 288 n. 1, 293, 337
+Maupassant 292
+Mayilainātar 25, 34
+Meenakshisundaran, T. P. 23 n. 1,
+33 n. 1, 141, 141 n. 3, 146 n. 1,
+165 n. 1, 2, 167 n. 2, 169 n. 1, 174
+n. 2, 182, 182 n. 2, 183 n. 1, 186
+n. 2, 187, 194, 194 n. 1, 207, 208,
+209, 217 n. 1, 222 n. 3, 254, 256,
+290
+Meile, P.
+
+35 n. I
+de Melho, Philip 267
+Minakshisundaram Pillai, see also
+Mīņāṭcicuntaram Pillai
+*271-2*
+Mīņāṭcicuntaram Pillai 283
+Murdoch, John 268
+Murugesa Mudaliar 250
+Muṭattāmakkaṇṇiyār 56
+Muținākaṇār 107
+Muttaiya Pillai, E.
+
+Muttusami Pillai
+269
+266
+Nacciṉārkkiṉiyar 24, 26, 30 n. 1,
+33 n. 1, 34, 51, 103, 106, 112, 120,
+126 n. 1, 135, 136, 209, 222, 257,
+262, 288 n. I
+Nagaswamy, R.
+
+39 n. 1, 43
+Nakkīrar 26, 27, 27 n. 1, 32, 33,
+33 n. 1, 46, 46 n. 1, 48, 59, 85, 88,
+96, 97, 98, 101, 115-6, 117, 125,
+134, 222, 247 n. 2, 249, 250, 254,
+271
+Nakkīratēvar, see also Nakkīrar
+186
+Nakulan 288 n. I
+Nallantuvaṇār
+120, 123
+Nammāļvār 6, 192
+Nampi Aṇṭār Nampi 186, 186 n. 1,
+187, 192, 196 n. 1, 238 n. 3
+Nampi Kuttuvan
+Nannaya 3
+13
+Nandakumar, Prema
+314, 314 n. I
+Nanṇākaiyār 76
+Nappūtaṇār 61
+Narayanan, R.
+
+33 n. I
+Narrattaṇār 61
+Narayanaswami Aiyar, P. A.
+
+Nau, Heinrich 220 n. I
+de Nobili, Roberto
+271
+52
+Nelson, Donald A. Acknowl., 306
+Neville, H.
+
+173 n. 5
+Nilakanta Sastri, K. A. 2, 6, 28, 37,
+38, 41, 44, 49, 136, 137, 175, 176,
+186 n. 1, 207
+Nilantaru Tiruvir Pāṇṭiyaṉ 138 n.
+
+2
+Nṛpatunga 3
+Okkūr Mācāttiyār 79
+Ōrampōki 50
+"Ōrēruļavaṇār” 75
+Ōtalāntai 50
+Oṭṭakkūttaṉ, Oṭṭakkūttar 26, 207
+n. 3, 208, 238 n. 3.
+
+Padmanabhan, N.
+
+Pālaik Kautamaṇār
+Pampa
+Pāmpāṭṭi Cittar
+3
+288 n. I, 337
+52
+221, 229, 232
+Paṇampāraṇār 137, 138 n. 2, 146
+n. 2, 261
+Pāṇini 11, 131, 138, 143, 143 n. 1,
+144, 144 n. 2, 146, 146 n. 3, 147
+Panneerselvam, R. 38 n. 1, 43
+Paraṇar 25, 53, 77, *115*, 117, 168
+n. 3
+Părati, see Bharati
+Păratitācan, see
+n. 4
+INDEX
+Parimēlaḻakar 19, 124, 135, 155
+n. I, 157, 158, 248, 249, *257*
+Parry, M. III n. I
+Patanjali 11, 138, 143, 143 n. 1, 2,
+225, 235
+Pațikkǎcu Pulavar 266
+Patmanāpan, Nila., see Padmanabhan,
+N. 288 n. I
+Pattabiramin, P. *Z.*
+
+35 n. 2
+Pattirakiri, Pattirakiriyar 221, 227,
+235
+Paṭṭiṉattar, the Elder 186, 229 n.
+
+1, 232, 233 n. 1, 238 n. 3
+Paṭṭiṉattar, the Great 219 n. 2,
+221, 227, 229, 232-6, 337
+Pavaṇanti 135, 135 n. 3, 252
+Pērāciriyar 25, 34, 45 n. 1, 51, *66*,
+10б, 113, 136, 222, 247, 247 n. I,
+*256*
+Percival, P. 265 n. 2, 268, 270, 272
+Periya Āccāṉ Pillai 208
+Periyālvār 192, 195 n. 1, 196
+Pēreyin Muruvalār 78
+Perumal, Mudaliar, M. R.
+
+Perumaparrap Puliyūr Nampi 47
+Perunkatunkōn 123
+Peruṅkuṉṟūr Kiḻār 48, 53
+293
+Peruṅkuṉṟūr Perunkaucikaṇār 59
+Peruntēvaṇār 25, 30, 48, 50, 51, 53,
+54, 55, 260, 275
+Peterson 48 n. 2
+Pēyan, Pēyaṇār 50, 76
+Piccamūrtti, N., see also Pichamurti,
+N. 288 n. 1, 316
+Pichamurti, N., see also, Piccamūrtti
+281, 295, 296 n. 1, 303, 313, 316,
+317, 337
+Pillai, Henry Albert Krishna 265 n. I
+Pillai, K. K.
+
+39
+Pillai, M. E. M. 38 n. 1, 64
+Pillai, V. S. C. 33 n. I
+Pirenne, J. 35 n. 2
+Pliny the Elder 35 n. 2
+Pōkanātar 219 n. 2
+Pope, G. U. 156, 156 n. 2, 157, 157
+n. 1, 158 n. 1, 164, 165, 166, 168,
+168 n. 2, 3, 169, 205
+Popley, H. A.
+
+167, 167 n. I
+Pōtakuru 219 n. 2
+Ptolemy 35 n. 2, 222 n. 2
+Pukalēnti
+19
+Pulatturai Murriya Kūṭalūr Kiḻār
+19
+Bharatidasan, 247
+50
+Purnalingam Pillai, M. S.
+
+n. 1, 196, 218, 271
+351
+60, 85
+Puthumaippittan, see also Putumaippittaṉ
+300, 313
+Puttiramittiran 258
+Putumaippittaṉ, see also Puthumaippittan
+19, 287, 288, 292-3,
+316, 337
+Pyatigorsky 191, 199 n. I
+Raghava Iyengar (Ayyangar), M.
+
+41, 135 n. 2, 141, 141 n. 1, 156 n. 3.
+
+Raghava Iyengar (Ayyangar), R.
+
+141, 141 n. I
+Raghunathan, T. M. C. 288, 293,
+300, 316
+Rajagopalachari 293
+Rajagopala Iyengar, V. 54
+Rajagopalan, K. P.
+
+313, 316
+Rajagopala Pillai 219 n. 2
+Raja Manickam, see also Rajamanikkam
+85 n. I
+Rajamanikkam, see also Raja Manickam
+123
+Rajam Iyer 281-2
+Rājappa Kavirāyar 277
+Rajendra Kavi 240
+Rakunātan, C., see also Raghunathan,
+T. N. C. 191
+Rāmacāmi, Ayyankār, Va., see also
+Ramaswamy, V.
+
+292
+Ramachandra Dikshitar, V. R.
+
+n. I
+172
+Ramalinga Mudaliyar 219 n. 2
+Rāmaliṅka Cuvami, see also Rāmaliṅkar
+19, 221, 233
+Rāmaliṅkar, see
+Cuvāmi 235
+also Rāmaliṅka
+Ramamirtham, L. S., 22, 228 n. 1,
+293, 294, *303-12*, 337
+Rāmanātan, Aru.
+
+Ramanujan, A. K.
+
+219 n. I
+Ded., Acknowl.,
+4, 11, 17, 18, 30, 67, 70, 72, 73, 76,
+77, *78*, 79, 80, 81, 82, 83, 84, 105,
+118, 120, 149 n. 1, 204, 210, 211,
+212, 213, 268, 278, n. 1, 302
+Ramaswami Aiyar, L. V. 138 n. 1
+Ramaswamy, Sundara 293, 295
+n.1, 303, 319, 337
+Ramaswamy, V. 287, 292
+Rāmatēvar 219 n. 2
+Ranganathan, T. J. 304
+Rice, E. P. 48 n. 2
+352
+Robinson, E. J. 256 n. 2
+Roma Rişi 228
+Rost 28
+Rypka, Jan Pref.
+
+Santhanam, K. 293
+INDEX
+Sarvabhauma Dindima Kavi 240
+Sastri, H. K.
+
+Satyanesan, D.
+
+Sāyaṇa 6
+39
+288 n. I
+Schiffman, H.
+
+76, 78, 80
+Schoff, W. H.
+
+35 n. 2
+Schomerus, H. W.
+
+37, 123
+Schweitzer, A. 155
+Scott, Sir Walter 290
+Seenisami, Tuṟai 332, 333
+Selvam 331 n. 1, 332
+Selva Raj 293
+Seshagiri, Sastri 38
+Sesha Iyer, G. K. 28
+Sewell, R. 38, 39 n. 2
+Shakespeare 207 n. 3
+Shankar Ram 295
+Shanmugam Pillai, M.
+
+Shanmuga Subbiah 288 n. 1, 332,
+334, 337
+278 n. I
+Shanmugasundaram, R. 303, 337
+Singer, Milton Acknowl., 2 n. I
+Sircar, D. C. 39 n. 2
+Sivakōti 3
+Sivaraja Pillai, K. N.
+
+59, 123
+Sivaramu, Dharmu 321, 331, 337
+Smirnova 191
+Subroya Mudaliyar, T. 265
+Sundararajan, P. P. 309 n. 1
+Suryanarayana Sastri 271
+Swamikannu Pillai 28
+Swaminatha Aiyar, Dr. U. V., see
+also Caminātaiyar, Cuvāmināt'aiyar
+23, 26, 30, 37 n. 2, 38 n. 1,
+44, 51, 53, 55, 124, 130, 172 n. 7,
+*268-9*, 269 n. 1, 277, 283
+Swaminatha Desikar 266
+Swaminathan, K. 293
+Tagore 286, 337
+Tāmōtaram Pillai, Ci. Vay, see also
+Damodaram Pillai 23 n. I
+Tandavaraya Mudaliyar 266
+Tanvantiri 219 n. 2
+Taylor, W.
+
+220 n. 1, 265 n. 2
+Tāyumāṉavar 203, 221, 233, 235,
+239
+Tēvakulattār 51, 70, 73
+Tēypuripalankayiṛraṇār 76
+Teyvaccilaiyār 135
+Thani Nayagam, X. S. 49 n. 1,
+58 n. I
+Thiagarajah, M. A. 52
+"Thiru. Vi. Ka.", see Kaliyāṇacuntara
+Mutaliyār 284
+Thooran, Periyaswami 293
+"Ti. Kē. Ci.", see Chidambaranatha
+Tulsīdās 210
+Turaicāmi Pillai, Auvai S.
+
+Twain, Mark 290
+Ulōccaṇār 49, 78
+INDEX
+353
+Venkatarajulu Reddiar, V. 14I,
+5I, 55
+141 n. 2
+Uṟaiyūr Mutukorran 13
+Uruttiraṉ Kaṇṇaṉār, Uruttira Kaṇṇaṉār
+56, 57
+Uruttiraṉ 51
+Vaiyapuri Pillai, S., see also Vaiyāpuri
+Pillai, Es. 28, 33 n. 1, 37, 38,
+41, 44, 48 n. 1, 54, 64, 85 n. 1,
+130 n. 1, 137, 137 n. 2, 141, 143,
+143 n. 1, 144, 145, 155 n. 1, 156
+n. 1, 169, 170, 190, 191, 197, 248
+n. 2, 254 n. 1, 269 n. 2, 284
+Vaiyāpuri Piḷḷai, Es., see also Vaiyapuri
+Pillai, S. 123 n. 1, 156 n. 1,
+208 n. 4, 6
+Vaitheeswaran, S. 323, 326, 33º,
+337
+Vallathol 337
+Vallikkannan 293, 295 n. I
+Valluvar, see also Tiruvalluvar 156,
+157, 166
+Vālmīki 47, 210, 211, 212, 213, 217,
+286, 337
+Vanamamalai, N.
+
+173 n. 4
+"Va. Rā.", see Ramaswamy, V.
+
+292
+Varadarajan, M. 58 n. 1, 85 n. 1,
+102 n. I, 109
+Vātavūrār, see also Tiruvātavūrār
+Thyagaraja Chettiar 272
+Mudaliyar 284
+Tipputtōlār 107
+2
+Somasundara Bharati, Dr. 284
+Somasundaram Pillai, J. M.
+
+Sreenivasan, Hari 288 n.
+
+333, 337
+Tirumālicai Āḻvār 229 n. 1, 238,
+131 n. I
+1, 332,
+238 n. 3
+193
+Tirumaṅkai Āḻvār 45 n. 1, 192, 238
+Vātsāyana 166 n. I
+n. 3
+Srinivasa Iyengar, P. T.
+
+175 n. 2
+Tirumūlar 186, 198, 221, 223, 225,
+226, 230, 337
+*81*
+Veļļivītiyar 155 n. I
+Srinivas, M. N. 2 n. I
+156,
+Venkatacalam Pillai, R.
+
+Vēnkaṭacāmi, M. C., see also Venkataswamy,
+M. S. 23 n. I
+54
+Srinivasa Aiyangar, M. 221 n. I
+Vedanayagam Pillai, Samuel
+279Vēnkatarājulu
+Reṭṭiyār, see also
+Venkatarajulu 141 n. 2
+Venkataswami, M. S., see also Vēnkaṭacāmi
+17, 43
+Venkataswamy Nattar, N. M. 54
+Venugopalan, T. S. 323, 326, 330,
+337
+Venugopala Pillai, M. V. see also
+Vēņukōpālap Pillai Acknowl., 46
+n. 1, 221 n. 2, 222 n. 1, 258 n. 1
+Vēņukōpālap Pillai, Mē. VI., see also
+Venugopala Pillai
+219 n. I
+Veripāṭiya Kāmakkaṇiyār 78
+Vēṭācalam Pillai, Svami 285
+Viļankīraṇār 27 n. I
+Villi 238 n. 3
+Vinson, Julien 27, 28
+Viswanatha Pillai 270
+Vithiananthan, S. 58 n. 1, 65 n. 2
+Vivekananda, Svami
+Vyāsa 286
+281
+Warmington, E. H. 35 n. 2
+Warren, Austin 336, 336 n. I
+Wellek, René 86 n. 1, 336, 336 n. I
+Wheeler, Sir R. E. M. 35 n. 2
+Whitman, Walt 316
+Winternitz, Maurice Pref., 144 n. 2.
+
+3, 145 n. I
+Yogi, S. D. S. 313
+Zbavitel, D. 275 n. 3, 276 n. 2
+Zvelebil, K. V. 35 n. 1, 40, 43, 44,
+46 n. 1, 65 n. 1, 75, 77, 81, 84, 140
+n. 1, 172 n. 5, 278 n. 1, 317, 318,
+319, 320, 321, 322, 323, 325, 327,
+334, 335
+Stevenson, Sinclair 137 n. 2
+Subbiah, V. S. 293
+Subrahmanian, N. 51
+Subrahmaniya (Subramania) Aiyar
+A. V. 226 n. 4, 236 n. 1
+Subrahmanya Ayyar, K. V. 39 n. 3
+Subrahmanyam, K. N. 167, 282
+n. 1, 288, 290, 291, 295 n. 1, 297,
+303, 337
+Subramaniam, Ka. Naa., see also
+Subrahmanyam, K. N. 290 n. 2
+Subramanyam, Chidambara 303
+Subramoniam, V. I. 136 n. 2
+Tirunāļaippōvār 192
+Tiruppāṇāļvār 192
+Tiruvalluvar, see also Valluvar
+157, 160 n. 1, 164, 165, 168, 169,
+171, 198
+Tiruvātavūrār, see also Vātavūrār
+45 n. I
+Tol-Kapilar 26
+Tolkāppiyaṉ, Tolkāppiyaṉār, Tolkāppiyar
+10, 27, 88, *136-8*, 143,
+144, 145, 146, 146 n. 2, 147, 148,
+149, 262
+Tolstoy 290, 304
+Tontarațiyālvār 196
+II. PERSONS OTHER THAN AUTHORS
+213
+Āditya, Chola king 186 n. 1
+Āditya, sun-god 99
+Ahalyā, wife of Gautama
+Āḷavantār, Vaiṣṇava preceptor 6
+Anhilwâd Pâthan 48 n. 2
+Ardhanarisvara, The Hermaphrodite
+(Śiva) 261
+Arundhati, Faithfulness, wife of
+Vasistha 177
+Aśoka, Emperor 25, 140
+Ataṅkōṭṭācāṉ, Teacher of Ataṅkōṭu
+138 n. 2
+Atankōṭṭāciriyar, Teacher of Ataṅkōṭu
+262-3
+Atanunkan, chief of Venkatam 82
+Ātittaṉ, Chola king 186 n. I
+Atiyamān Nețumān Añci, chief of
+Takatur 55
+23
+354
+INDEX
+Atukōṭpāṭṭuc Cēralātaṉ, Chera king
+53
+Bhagavati, goddess Durgā 99
+Bhima, hero of *Mahābhārata-* 123
+Bukka I, king of Vijayanagara 6
+Camatakkini, see also Jamadagni
+136
+Cāṇakya, minister, politician 165
+Cankili, wife of Cuntarar 198
+Caraṇtās, guru 221 n. I
+Caṭaiyan, Caṭaiyappan, patron of
+Kampaṉ 208
+CelvakkaṬunkō Vāliyātan,
+king 40, 53
+Chera
+Cenkuttuvan, Chera king 37, 38,
+52, 53, 174, 175, 177, 178, 179, 183
+Cēralatan Imayavarampaṉ, Chera
+king 179
+Cevvēļ, see also Murukaṉ
+Cēy, see also Murukaṉ
+124
+130
+Chamundi, goddess Kālī 314
+Cūrppanakai, sister of Irāvaṇaṉ
+214
+Devanandi 48 n. 2
+Deva Raya II, king of Vijayanagara
+240
+Devasena 48 n. 2
+Draupadi, heroine of *Mahābhārata*
+129 n. I
+Dupleix, Joseph François, governor
+of Pondichery 273
+Durgā, goddess 99
+Durga-Bhagavati, goddess 173 n. 4
+Duryodhana, hero of *Mahābhārata*
+123
+Ekampan, god Śiva of Kāňci
+Gajabāhu I, king of Ceylon, see also
+Kayavāku 37, 37 b. I, 38, 53,
+175, 177, 179
+Gaṇapati, god, see also Gaṇeśa 15
+Ganesá, god, see also Gaṇapati 242
+Ganga-dhara, Bearer of the Gaṅgā,
+Śiva 261
+Gangali, goddess Kāli
+314
+213
+Gautama, Vedic seer
+Guha, god Skanda 242, 243
+Hamm, Ludwig 223
+Hanumān, god, hero of *Rāmāyaṇa*
+215, 216
+Imayavarampaṉ Nețuñcēral Atan,
+see also Cēralātaṉ Imayavarampaṉ
+52, 53
+Indra, god
+101, 213, 238 n. 2
+, as cat 213
+Irāvaṇaṉ, anti-god, hero of *Rāmāya-*
+*na,* see also Rāvaṇa 214
+Iruñcēral Irumpoṟai, Chera king 53
+Jamadagni, Vedic seer, see also
+Camatakkini 136 n. 3
+Kalankakkaṇṇi Nārmuțic Cēral, Chera
+king 53
+Kāma, god of lust 122, 123
+Kamsa, enemy of Kṛṣṇa 123
+Kanagaraga Mudaliar, divan of Pondichery
+273
+Kaṇṇaki, see Kaṇṇaki 177
+Kaṇṇaki, heroine of *Cilappatikāram*
+52, 129 n. 1, 173, 174, 175, *177-82,*
+183, 183 n. 1
+Kannaki-Pattini, see also Kaṇṇaki
+176, 179
+Kannappan, Kanṇappar, Saiva devotee
+186, 193 n. I
+Kāri, chieftain 55
+Karikāl, Chola king, see also Karikālan
+56, 57
+Karikalan, Chola king, see also Karikāl
+55
+Karni, see Kaṇṇaki
+173
+Kāṭukilāļ, goddess 124 n. I
+Kāval 37 n. 2
+Kavunti Aṭikaḷ, Jain nun 178
+Kayavāku, king of Ceylon, see Gajabāhu
+I 37, 37 n. 2
+Kō Atan Cellirumporai, Chera king
+4º
+Korravai, goddess 60, 124 n. 1, 126
+n. I, 129
+Kovalan, see Kōvalaṉ 177
+Kōvalaṉ, hero of *Cilappatikāram*
+173, 175, 177, 179, *180*, 181, 182,
+209
+Kōvalom, see Kōvalaṉ 173
+Kṛṣṇa 6, 54, 123, 198 n. 1, 201, 212
+Kubera, god 47
+Kulōttuṅka Cōḻa, Chola king 126
+n. I
+INDEX
+Kulōttuṅka II, Chola king 208
+Kulōttuṅka III, Chola king 208,
+291
+Kuṭakkō Neṭuñcēralātaṇ, Chera
+king 55
+Lakṣmaṇa, hero of *Rāmāyaṇa*
+Laurie, H. W. 269
+212
+Lopāmudrā, wife of Agastya 136,
+222
+Macchiavelli 165
+Madana, god of lust
+Madhavi, see Mātavi
+Mahakali, goddess
+241
+177
+314
+Mahendravarman I, Pallava king
+6, 197
+Makati, see Mātavi 173
+Māravarman Kulacēkara Pāṇṭiyaṉ,
+Pandya king 135 n. 2
+Māriyamman, goddess 208
+Masaryk, T. G.
+
+280
+Mātavi, heroine of *Cilappatikāram*
+173, 173 n. 3, 179, 180, 181
+Maturai Uppüri Kuṭi Kiḻāṉ 54
+Michelangelo 85 n. I
+Murugan, god, see also Muruka, Murukaṉ
+Ded.
+
+Muruka, Murukaṉ, god, see also
+Cevvēl, Cēy, Murugan, Murukavēļ
+15, 47, 57, 97, 123, 124, 124
+n. 1, 125, 126, 127, 130, 238 n. 2,
+240, 241, 338, 245, 246
+Murukavēl, god 97
+Muțattirumāraṇ, Pandya king 47
+Nainiyappa Pillai 272
+Nallērmutiyan, chief of Vēňkatam
+82
+61
+Nalliyakkōṭaṉ, chieftain
+Nānak, guru, founder of Sikhism
+221 n. I
+Nandi, Bull, vehicle of Siva 261
+Nandivarman III, Pallava king 14.
+
+Naṉṉaṉ, chieftain
+59
+Nārada, musician, messanger of gods
+215
+Narasimhavarman I, Pallava king
+197
+Nārāyaṇ, Nārāyaṇan, god Viṣṇu
+214 n. 1
+Nețumāran, Pandya king 254 n. I
+355
+Neṭuňceḻiyaṉ, Pandya king 40, 60,
+61
+Nedunjeliyan, see Neṭuňceḻiyaṉ
+180
+Nilakaṇṭan, Nīlakaṇṭaṇār, Nīlakaṇțar
+33, 33 n. 1, 88, 249
+Nilakantha, Blue-throated, Siva
+261
+Palyāṇaic Celkelu Kuṭṭuvaṉ, Chera
+king 52
+Pandavas, of the *Mahābhārata*
+123
+Panṇāṭutanta Pāṇṭiyaṉ Māraṇ Vaļuti,
+Pandya king 52
+Pantaenus of Alexandria
+156
+Pāṇṭiyaṉ Māran, Pandya king 88
+Pār, chieftain 55
+Paraśurāma, Rāma with the Ax,
+Visnu's incarnation 54
+Paravai, Cuntarar's wife 198
+Pattiṉi, goddess of chastity, see also
+Kaṇṇaki 172, 173, 173 n. 5, 179
+Pēkan, chieftain 55
+Peruňcēral Irumpoṟai, Chera king
+53
+Pirakattan, Aryan king 58
+Plotinus 307
+Pope Julius 85 n. I
+Prahlada, anti-god
+125
+Praudhadevaraya, ruler (of Vijayanagara?)
+240
+Pujyapāda 48
+Pürikkō, king(?) 51
+Raghava, name of Rāma 213
+Rāma, incarnation of Visņu, hero of
+*Rāmāyaṇa* 54, 209, 210, 212,
+212 n. 1, 213, 214, 215, 216, 217,
+230
+Rāmacuvāmi Mutaliār, see also Ramaswamy
+268
+Ramana Mahāṛṣi, Śrī 237 n. 1
+Rāmānanda, religious teacher
+Rāmānuja, Śrī, Vaiṣṇava teacher,
+209
+philosopher 5, 6, 209
+Ramaswamy, munsif 268
+Ranganathamuni, Vaiṣṇava preceptor
+6
+Rāvaṇa, anti-god, hero of *Rāmāyaṇa*
+123, 212 n. 1, 215
+Sankara, god Śiva 215
+Sankara, philosopher 6
+356
+INDEX
+Sarasvati, goddess of art 302
+Siva, god 32, 47, 53, 55, 86 n. 1, 87,
+119, 123, 193, 194, 195, 198, 198
+n. I, 201, 202, 203 n. 2, 204, 205,
+206, 207, 209, 225, 227, 230, 236,
+242, 261, 316, 328
+Sītā, heroine of *Rāmāyaṇa*
+210, 212 n. 1, 215, 216
+Skanda, god 129
+129 n. I,
+Śrî Pujyapâda 48 n. 2
+Subbiah, Kokilam Acknowl.
+
+Sugrīva, monkey-hero of *Rāmāyaṇa*
+212
+Sun-god 99
+Surapadma, anti-god 123, 125
+Tārā, monkey-heroine of *Rāmāyaṇa*
+212
+Tarumi, a Brahmin 45 n. I
+Teyvayāṇai, wife of Murukaṉ
+129 n. 1, 238 n. 2
+129,
+Tilottamā, water-nymph 123
+Tiraṇatūmākkiṉi, Vedic seer, see also
+136, 262
+Triṇadhūmāgni
+Tirumal, god Vişnu 124, 124 n. I
+Tiruvengada Pillai, father of Anandarangam
+272
+Toṇṭaimāṉ Ilantiraiyaṉ, chieftain
+57
+Triṇadhūmāgni, Vedic seer, see also
+Tiraṇatūmākkiṉi 136 n. 3
+Ukkiraperuvaluti, Pandya king 47,
+53,87
+Umai, goddess 242
+Uruttiracanman 54, 88
+Urvasi, heavenly courtesan 123
+Utiyaṉ Cēral, Chera king 52, 107
+Uttama, Chola king 208
+Vacantamālai, servant-girl of Kaṇṇaki
+173 n. 3
+Vajranandi 48, 48 n. 2
+Vajrānandi, see Vajranandi 48 n. 2
+Vāli, monkey-king, hero of *Rāmāya-*
+na
+212
+Vaḷḷi, see also Vaḷḷi Ded.
+
+Vaḷḷi, Murukaṉ's wife, see also Vaḷḷi
+129, 238 n. 2, 242, 246
+Varunan, god 98
+Vasantamālā, see Vacantamālai
+173
+Vasistha, Vedic seer
+222
+Vasudeva, god Viṣṇu 99
+Vēļ, chieftain
+55
+Vinayaka, god Gaṇeśa 225
+Vişņu, god 199, 201, 228
+Vṛṣabha-dhvaja, He whose banner
+is the Bull, Siva 261
+Yacōtai, Kṛṣṇa's adoptive mother
+198 n.1
+Yama, god of death
+123
+Yamunācārya, Vaiṣṇava preceptor
+6
+Yāṇaikkat Cey Māntarañ Cēral Irumpoṟai,
+Chera king 50
+Yayāti, a king (*Mahābhārata*) 123
+III. TITLES OF BOOKS, PARTS OF BOOKS, JOURNALS
+*The Adventures of Gooroo Paramartan*
+276 n. I
+*Agastya Vyakaraṇam* 219 n. 2
+*Agni and Other* Poems 245
+*Ainkuṟunūṟu* 25, 30, 41, 44, *50-1*,
+76, 111, 112, 113, 116, 142
+Akam, see also *Akanāṉūṟu* 19, 20,
+26, 35 n. 1, 40, 41, 52, 102, 112,
+114, 115, 116, 117, 209
+*Akanāṉūṟu,* see also Akam 25, 30,
+41, *53-4,* III, 248
+*Akapporuḷ,* see also *Iṟaiyaṉār* Akap*porul*,
+*Kaḷaviyal* 32, 43, 46 n. 1,
+68, 85, 86 n. 1, 90, 92, 93, 96, 134,
+222, 254, 269
+*Akastiyar ñānam*
+222 n. I
+*Akattiṇai iyal* 133, 147, 148 n. 3,
+149
+*Akattiyam* 47, 136, 137, 139 n. 1,
+251 n. 2
+Alaikaḷ, "*Waves*"
+305
+*Alai Ōcai*, "The *Tumult* of *Waves"*
+290, 291
+*Alankarappaṭalam* 30 n. I
+*Ammā vantāl, "Mother* Came" 288
+n. 1, 296, 297-9
+Apitā 305
+*Anantavikatan*, a journal 288 n. 1,
+291
+*Añcali*, *"Gesture of Worship*" 305
+Arattuppal 158, 160-1
+Ārāycci, a journal 289
+*Arivukaṭal,* a journal 285
+138, 144
+*Arthaśāstra*
+*Bhagavadajjuka* 6
+*Bhāgavatapurāṇa* 6, 201
+*Byhatkathā* 32 n. I
+*Caivavināviṭai* 272
+*Caturakarāti*
+268
+*Ceyyuliyal* 124 n.1
+INDEX
+*The Chintamani*, see *Cīvakacintāmaṇi*
+269
+Cilappatikāram, see also The Lay of
+the Anklet 22, 28, 33, 37, 38, 39,
+40, 51, 52, 53, 172-184, 209, 220,
+250 n. 1, 260, 268, 269, 275, 289
+*Ciṟappatikāram*, see *Cilappatikāram*
+269
+*Cirukataik kalañciyam* 293 n. I
+*Ciṟupāṇāṟṟuppaṭai* 41, 46 n. I,
+61-2, III, 112, 113
+*Cīvakacintāmaṇi*
+Pref., 24, 33 n. 1,
+113, 254 n. 1, 268, 269
+*Civakāmiyin capatam*, "The Vow of
+*Sivakāmi*"
+290
+*Civānanta pōtam* 231 n. I
+*Civappurikṣā,* "The *Red* Riksha"
+269
+*Civapurāṇam* 205, 206
+*Civayōkacāram* 221 n. I
+Collatikāram
+41, 132, 134, 135, 136,
+136 n. 2, 142, 143, 143 n. 1, 2
+*Cutecamittiran*, a daily, see also
+*Swadeshamitran*
+270, 271
+Daśarupa 180
+*Diary*, of Anandarangam Pillai
+*273-4*, 275
+*Doutrina* Christe 267 n. 1
+*Eḻuttatikāram* 41, 137, 138, 142
+n. I, 144, 150
+*Eḻuttu,* a journal 288, 288 n. 1, 316,
+319, 330, 331
+En carittiram, "*My* Life-*story"*
+283 n. I
+Epigraphia *Zeylanica* 37 n. 2
+*Etaykaka eḻutukiṟēṉ*, "Why do I
+write" 288 n. I
+*Eṭṭuttokai* 25, 28, 29, 30, 41, 46 n. 1,
+269
+*The Fatal* Rumour, see also *Kamalām-*
+pā! Carittivam
+*281-2*
+357
+Fort St *George Gazette* 267
+*Friendly Instructor*, a journal 270
+*Great Purāṇam*, see also *Periyapu-*
+*rāṇam* 187
+*Guide* to Lord *Muruku,* see also *Ti-*
+*rumurukärruppaṭai* 88
+Ilakkiya *Vattam*, journal 289, 337
+*Ilantiraiyam* 251 n. 2
+*Iṟaiyaṉār Akapporuḷ,* see also Akap*porul,
+Kaḷaviyal* 26, *27*, 32 n. 1,
+46, 52, 125, 129, 247 n. 2, 249, 250
+*Irāmanāṭakam* 277
+*Irāmāvatāram*, see also *Kamparā-*
+*māyaṇam* 207, 209, *207-17*, 210,
+217
+*Iravana Kāppiyam* 212 n. I
+*Irunūrrañcu* 222 n. 4
+*Italkal*, *"Petals"*
+305
+*Janani* 305
+*Janāścrayachandas* 3
+*Kacatatapara*, a journal 289
+*Kalaimakal,* a journal 288 n. 1
+*Kaḷaviyal,* see also *Akapporuḷ*, *Irai-*
+*yanar* Akapporu! 27 n. 1, 32 n. 1,
+46 n. 1, 85, 87, 247 n. 2, 250, 251
+n. 2, 254
+*Kaliṅkattupparaṇi* 126 n. 1, 207
+n. 3
+*Kalittokai* 23 n. 1, 28, 29, 46 n. 1,
+48, 111, 113, 115, 117*, 119-23,* 145,
+269
+*Kalki*, a journal 288 n. 1, 291
+*Kamalāmpāḷ* Carittiram, "The Life*story*
+of *Kamalāmpā!*", see also
+*The Fatal Rumour* 281-2
+*Kamalavijayam* 292
+*Kāmāndaka*
+171
+Kamasutra 138, 145
+*Kāmattuppal* 158, 162-3, 165, 166,
+166 n. 1, 198
+*Kampadarāmāyaṇa* 209
+*Kamparāmāyaṇa*, see also *Ivāmāva-*
+tāram
+Kankā
+207-17, 212 n. I
+305
+*Kaṇṇaki Purāṇam* 173
+*Kantaralankāram*
+241
+*Kantaranuputi* 241, 243, 244
+*Kapilavakaval* 26
+*Karunāṭiccüttivam* 223
+*Katir*, a journal 289
+358
+*Kāṭṭuvāttu*, "*Wild Duck"*
+316, 317
+*Kavirājamārga* 3
+*Kāvyadarśa* 3
+*Kivistuvavaṇakkam* 267
+*Kōvalankatai* 173, 277
+INDEX
+288 n. 1,
+*Kōyil nanmanimālai* 233 n. I
+*Kōyilpurāṇam* 259
+*Kulōttunkacōlanulā* 208 n. 5
+*Kulōttuṅkaṉ* Piḷḷaittamiḻ 207 n. 3
+*Kuṟaḷ,* see also *Tirukkuṟaḷ* 19, 155
+n. 1, 163, 168 n. 3, 169
+*Kuriñcippattu* 41, 58-9, 116
+*Kurvālakkuravañci* 277
+*Kuṟuntokai* 13, 25, 30, 32, 41, *51*,
+52, 54, 67, 70, 71, 72, 73, 74, 75, 76,
+77, 78, 83, 87, 102, 107, 108, 111,
+112, 113, 114, 115, 116, 122, 247
+n. 4, 251
+*Kuruparamparā pirapāvam* 229 n.1
+*Kuttārǎrruppaṭai* 59
+*Kuyirpattu* 204
+*Lamentations*, see also *Meyññānap-*
+*pulampal* 227
+The *Lay of the Anklet*, see also *Cilap-*
+*patikāram* Ded., 37, 172, 176,
+256, 336
+*The Life* and *Adventures* of *Prathapa*
+*Mudaliyar* 279
+Lilātikalam 3, 257 n. 2
+The *Mackenzie* Collection 219 n. 2
+*Mahābhārata* 3, 30, 136 n. 3, 209,
+222, 261
+*Mahābhāṣya* 143, 143 n. I
+*Mahāvaṃso* 37 n. 2
+*Malaipaṭukaṭām* 41, 59, 142, 142
+n. I
+*Mānavadharmaśāstra* 138, 144, 171
+*Mandukyopanisad* 225
+*Manikkoți*, a journal 292
+*Manimekalai* 52, 53, 179, 181, 222
+*Maṅkaiyarkkaraciyiṉ Kātal* 286 n.
+
+I, 291
+*Manmatan Katai*
+23 n. I
+*Manu,* see also *Manavadharmaśāstra,*
+Manusmyti 157
+*Manusmrti*, see also *Mānavadharma-*
+*śāstra, Manu* 261
+*Marapiyal* 137
+*Mattavilāsa* 6
+*Maturaikkāňci* 41, 46 n. 1, *60-1,*
+II3, 142 n. I
+*Meghadūta* 3
+*Meуññānappulampal,* see also *La-*
+*mentations* 235
+*Minnal, "Lightning*" 331
+*Missionary Glance,* a journal 270
+*Moaning* Cry of *True Wisdom*, see
+also *Меуññãпаppulampal* 235
+*Mōkamu!,* "The Thorn of Passion"
+296, 297
+*Mukkuṭalpallu*
+277
+*Mullaippāṭṭu* 35 n. 1, 41, 61, 64,
+III, II2
+*Muppal*, see *Tirukkuṟaḷ* 155 n. 1,
+158
+*Murukärruppaṭai*, see *Tirumurukāṛ-*
+*ruppatai* 48
+*Muttollayiram* 247 n. 4
+*The Nails of Your Hand* 318
+*Nālaṭiyār* 51, 155 n. I
+*Nālu* veli nilam, "*Four* velis of *land"*
+296
+*Nanapōtini,* a monthly 271
+*Nānam*, *"Enlightenment"* 329
+Na *nam*
+228
+*Ñānacikāram*, a journal 285
+*Nan kantatum kēṭṭatum*, "*What* I
+saw *and heard"* 283 n. 2
+*Naṉṉūl* 25, 135, 135 n. 3, 138 n. 2,
+139 n. 1, 251 n. I, 252, 259
+*Nantanar* Carittirak *Kirttanai*
+14
+319
+277
+Nantikkalampakam
+Narakam, "*Hell"*
+*Naṟṟiṇai* 25, 30, 41, *51-2*, 54, 76,
+77, III, 112, 114, 116, 130, 173,
+173 n. I
+*Națai,* a journal 289, 323, 331 n. I
+*Nāṭyaśāstra*
+138, 144
+*Neṭuṉalvāṭai*
+115, 142
+32, 35 n. 1, 41, 59,
+Netuntokai, see also *Akam*, *Akanān-*
+*ūru* 53
+*New Testament,* in Tamil 267
+*Nunporul malai* 250
+*Oru puḷiyamarattiṉ katai,* “*The Story*
+of *a* Tamarind *Tree"*
+295 n. I
+*Paccaikkanavu*, "Green *Dream"*
+305, 306
+INDEX
+*Palaiyatum puti yatum*, "*The Old and*
+the New" 283 n. 2
+*Palamolinānūru* 174
+*Pālatipikai,* a journal 270
+*Panamparanam* 138 n. 2
+*Pannirupaṭalam* 90, 136 n. 4, 251
+n. 2
+Pāṇṭikkōvai 32 n. 1, 88, 254 n. I
+*Paramārtta kuruvin katai,* "*The Story*
+*of* guru *Paramärtta”*, see also "*The*
+*adventures*" 276 n. I
+*Pāratam* 30, 260, 275
+*paripāṭal* 24, 28, 29, 36 n. 1, 48, 51,
+117, 119, *123-5*, 145, 249
+Patinenkilkkanakku 25
+*Patiṟṟuppattu* 34, 37, 38, 38 n. 1,
+39, 40, 41, 50 n. 1, 52-3, 56, 107,
+III, 114, 126 n. 1, 142, 142 n. I,
+176, 179
+*Paṭṭiṉappalai* 41, 56, 57-8, 142
+*Pattinattar Pāțal* 233
+*Pattuppāṭṭu* 25, 28, 29, 41, 46 n. 1,
+56, 58 n. 1, 64, 66, 125, 130, 186
+*Periyapuraṇam*, see also *Great Pură-*
+nam 24, 186, 187
+in prose
+272
+*Perumpāṇāṟṟuppaṭai* 35 n. 1, 41,
+56-7, 64, 142 n. I
+Perunkatai
+32 n. I
+*Perunkuriñci* 58
+*Peruntokai* 24
+*Pettikkatai Nāvaṇan*, *"Petty* shop*keeper
+Naranan"* 317
+*Piratapa Mutaliyār* Carittiram, see
+also "The Life *and Adventures*"
+279
+293, 293
+The *Plough and* the *Stars*
+n. I, 297 n. 1, 303 n. I
+*Ponniyin celvan*, "The Darling of
+*Ponni"* 290
+*Poruḷatikāram* 25, 32, 33 n. 1, 68,
+85, 89, 105, 106, 113, 133, 139, 142,
+144, 144 n. 4, 145, 148 n. 3, 149,
+269, 336
+*Porunarāṟṟuppaṭai* 41, 56, 61 n. 2,
+64, 142
+*Porutpatalam* 30 n. I
+Porutpal 158, *161-2*
+*Potumurai,* see also *Tirukkuṟaḷ* 156
+*Poyyamoli*, see also Tirukkuṟaḷ 156
+*Prabuddha Bhārata*, a journal 281
+Pukkäri, "The Flower*-girl"* 317
+*Puṟam*, see also *Paṟanāṉūṟu* 13, 15,
+359
+17, 18, 19, 20, 25, 26, 34, 35 n. I,
+40, 41, 46 n. 1, 48, 52, 56, 60, 61,
+108, 109, 111, 112, 113, 114, 126
+n. I, 131 n. 1, 142, 142 n. 1, 173,
+173 n. 1, 209, 275 n. 2
+*Pūraṇacuttiram*
+222 11. 4
+*Paṟanāṉūṟu,* see also *Puṟam*
+25, 26,
+30, 41, 44, 54-6, 78, 79, 80, 81, 82,
+90, 107, 249, 260
+*Puṟapporuḷ* veṇpāmālai 16, 85, *90,*
+105, 136 n. 4
+*Purattinaiyiyal* 30 n. 1, 133
+*Purattirattu* 52, 124
+*Putra,*
+310
+"Son" 288 n. 1, 305, 309,
+*Putukkuralkal*, "New *Voices*"
+n. 1, 313, 316, 319
+*Rāja Tēcinku* 277
+*Rāmānucar* Nurrantāti
+209
+288
+*Rāmāyaṇa* 5, 47, 113, 136 n. 3, 209,
+222, 289, 336
+*Rgveda* 136 n. 3, 222
+*Rōma* rişi *ñānam* 224
+*Saraswathi*, a journal 289
+Sivavākkiyam 220 n. I
+*Śrīpurāṇam* 275
+The *Story* of a *Tamarind* Tree, see
+also Oru *puḷiyamarattiṉ katai*
+295 n. I
+*Takkayakapparani* 207 n. 3
+*Tākṭarukku maruntu,* "The *Medicine*
+for the Doctor"
+296t
+*Talaimuraikal,* "*Generaions*" 288
+n. I
+*Tamarai,* a journal 289
+A *Tamel* Expositor 265
+*Tamilppattivikai (Tamilital*), a journal
+270
+*Tamilmarai*, see also *Tirukkuṟaḷ*
+155 n. 1, 156
+*Tamilmununul*, see also *Tirukkuṟaḷ*
+155 n. I
+*Tamilnavalar caritai* 208
+The Tamil Upanisad 206
+*taṇṭiyalaṅkāram* 135
+*Tarpōtakam*, a journal 270
+*Täṭakaippaṭalam*
+113
+*Tattuvapōtini*, a journal 270 n. I
+*Tayā* 300
+360
+*Tēvāram*
+INDEX
+36, 186, 197, 203 n. 1, 3,
+207, 265 n. I
+*Teyvanul*, see also Tirukkuṟaḷ 156
+*Tinavarttamani*, a weekly 270
+*Tīpam*, a journal 289
+*Tiruccantaviruttam* 238 n. 3.
+
+Tiru *Ēkampamuṭaiyār Tiruvantāti*
+233 n. I
+*Tirukkalumala* mummaṇikkōvai
+233 n. I
+*Tirukkōvaiyār* 186, 198, n. 1, 256
+*Tirukkuṟaḷ*, see also *Kura!* 18, 19,
+28, 50 n. 1, 51, 52, 56, 113, 142 n. 1,
+*155-71,* 174, 274, 289, 336
+*Tirukkuṟaḷ,* date of
+156
+language of 169-71
+lexis of 170
+*Tirumantiram* 186, 223, 225-6
+*Tirumuṟai* 27, 130, 185, 186, 225,
+233
+*Tirumurukāṟṟuppaṭai*, see also *Mu-*
+*vukārṛuppaṭai* Ded., 27, 27 n. 1,
+29, 32, 87 n. 1, 117, 119, *125-30*,
+186, 246, 338
+Tiruppukaḻ Ded., 239, 239 n. 1,
+240, 241, 242, 244, 245
+*Tirupputtur Tāṇṭakam* 45
+*Tiruttoṇṭattokai* 187, 225
+*Tiruvācakam* 186, 203, 204, 205,
+206
+*Tiruvaḷḷuvamālai*, see also *Tirukku-*
+val 155 n. I
+*Tiruvalluvappayan*, see also Tirukkura!
+155 n. I
+*Tiruvicaippā* 185
+*Tiruvilaiyāṭalpurāṇam* 47
+*Tiruvitaimarutür Mummaṇikkōvai*
+229 n. I, 233 n. I
+*Tiruvoṟṟiyūr* orupa *orupahtu* 233
+n. I
+*Tiviyappirapantam* 208
+*Tolkāppiyam* 5, 10, 16, 24, 27, 30
+n. I, 32, 33 n. 1, 34, 39, 40, 45 n. 1,
+46 n. 1, 47, 52, 68, 85, 88, 89, 90,
+99, 105, 106, 112, 113, 114, 124,
+124 n. 1, 126 n. 1, *131-54,* 169, 209,
+247 n. 1, 256, 261, 263, 269, 275,
+336
+its date 138-47
+its name
+I3I n. I
+Payiram 46 n. 1, *261-3*
+*Urtext* of
+139
+*Ūlikkuttu,* "The Dance of Doom"
+314
+Unnunili *Sandeśam* 3
+*Ur-Tolkāppiyam* 40, 41
+*Utaya cüriyan*, "The Rising *Sun"*
+296
+*Uttaravētam*, see also *Tirukkuṟaḷ*
+156
+*Uvamaiyiyal* 113
+*Vaḍḍārādhane* 3
+*Vaiṣyapurāṇa* 173
+Vañcineṭumpāṭṭu 57
+*Vānmīkicūttiva ñānam*
+225
+*Vāyuraivālttu*, see also *Tirukkuṟaḷ*
+156
+*Viracōliyam* 4 n. 1, 30 n. 1, 251,
+258, 269
+*Vivēkacintamani*, a journal 281
+Vivēkavilakkam, a journal 270 n. 1
+*War* and *Peace* 290
+*Yapparuńkalakārikai* 155 n. I
+*Yapparuňkalam* 135, 138 n. 2, 173
+*Yapparunkalavirutti* 124 n. 1, 173
+*Yogasūtra* 225, 235
+IV. GEOGRAPHICAL NAMES
+Ambalakkadu 267, 276 n. 1
+Aruņa, hill, see also Aruṇācalam,
+Tiruvanṇāmalai 237 n. I
+Aruṇācalam hill 239
+Ataṅkōṭu, see also Tiruvatānkōṭu
+138 n. 2
+Ayodhyā 19, 209, 212
+Badami 190
+Benares 123
+Bengal 265, 278
+Bettigo 222 n. 2
+Bombay 264
+Brahmapuram
+Calcutta 264
+202
+Cape Comorin 262
+Castiglione nelle Striviere 276 n. I
+Ceylon 37, 38, 173, 173 n. 5, 174,
+179, 321
+Cheranad 179
+Chidambaram 186 n. I
+Cholamandalam 238
+Cōḻanāṭu 56
+Copenhagen 219 n. 2
+Cranganore 173
+Culli river 54
+Deccan 38, 48 n. 2
+Delhi 296
+Gaṅgā 123, 261
+Ghats, Western
+Goa 267 n. I
+Gujarat 190 n. I
+222 n. 2
+Himalayas 52, 136, 178
+Hyderabad 39
+Jaffna 33 n. 1, 272
+Jambū 129
+Kadalur 300
+Kailäsa mountain 123
+Kaladi 6
+Kampanāțu 208
+INDEX
+Kāňci, Kāňci, see also Kāňcipuram
+57, 207, 234
+Kāňcipuram, see also Kāňci
+Kapāṭapuram 47
+Kashmir 226 n. 4
+6, 257
+Kāvēri river, see also Kāviri 238
+Kāviri river, see also Kāvēri 56,
+242, 297, 298, 331
+Kävirippattinam 57, 98 n. 7, 175
+52, 54, 138, 173, 209, 263,
+Kerala
+289
+Southern
+137, 263
+*Khaberis* Emporion, see Kāvirippaţținam
+35 n. 2
+Kilpakkam 98 n. 8
+Kilpauk 98 n. 8
+*Kolchoi*, see koṟkai 35 n. 2
+196
+Kōli
+Kolli 196
+Kongu, see also koṅku
+37
+koṅku, see also Kongu 186 n. 1,
+196
+Konkunātu, see also Kongu, koṅku
+186 n. I
+Kudagu
+37
+Kumari, cape, see also Cape Comorin
+261
+Kumari river 262
+Kūțal 196
+Languedoc
+Laṅkā
+20
+212 n. 1, 215, 216
+Lisabon 219 n. 2
+361
+Madras 6, 98 n. 8, 9, 141, 220, 262,
+264, 265, 271, 272, 289, 296, 298,
+304, 305, 316, 320
+Madras Presidency 271
+Madura, see Madurai 48 n. 2
+Madurai, see also Maturai 28, 40,
+283
+Maharastra
+Malva 37
+Mankai 196
+190 n. I
+Mangulam 40
+Marina 320
+Mārōkkam 135 n. 2
+Matura 48 n. 2
+Maturai, see also Madurai
+13, 45,
+45 n. 1, 48, 60, 61, 64, 88, 123, 124
+n. I, 125, 155 n. 1, 173, 174, 178,
+181, 183, 196
+Mayavaram 279
+Mayilāpur, see also Mylapore 156,
+157 n. I
+Mayilâpûr, see Mayilāpur 157 n. 2
+*Modoura,* see Maturai 35 n. 2
+Muciṟi 33, 35 n. 1, 2
+Murañciyūr 107
+*Muziris*, see Muciṟi 35 n. 2
+Mylapore, see also Mayilāpur 270
+n. I
+Mysore 209
+Nagarcoil 270
+Nilgiri mountains
+2 n. I, IO
+Nungambakkam 98 n. 8
+Palamcottah 270
+Palamutircōlai 126
+*Райсари,* Panjab
+Paris 219 n. 2
+Pirambūr 272
+221 n. I
+Pondichéry, Pondicherry 35 n. 2,
+272, 273
+Potiyil 222, 222 n. 2
+Provence 20
+Pukalur 40
+Pukār 201
+Ramnad 99 n. I
+Salem 289
+362
+South India
+191
+INDEX
+1, 8, 28, 168, 175, 190,
+South Indian 210, 233, 239, 296
+Southern Maturai 47
+Śrīperumpūtūr 6
+Śrīrankam 6
+Takaṭūr 53
+Talaiyālankāṇam 60
+Tamiḻakam 320
+Tamilnad 197
+ancient 45
+medieval 193, 240, 248
+modern 173
+-, 19th Century 264
+of today
+Southern
+320
+263
+Tanjavur, see also Tanjore 296
+Tanjore, see also Tanjavur 218
+Tenkumari, see also Kumarimunai,
+Cape Comorin 262
+Thevangudi 295
+Tibet 23
+Tiruccīr 125
+Tirupati
+262
+Tirupparankunṛam 125
+Tiruttaṇi Ded., 245
+Tiruvālankǎțu 194
+Tiruvaļināțu 196
+Tiruvaluntur 208
+Tiruvanantapuram 125
+Tiruvaṇṇāmalai 239
+Tiruvarur 187, 198
+Tiruvatānkōṭu 138
+Tiruvāviņaṇkuți 125
+Tiruvēňkaṭam 125
+Tiruvēṟakam 126, 242
+Tiruvoṟṟiyūr 198
+Toṇṭi 35 n. 2, 114
+Tranquebar 267
+Travancore, North 6
+-, South
+137, 138 n. 2
+Trincomalee 173 n. 5
+Triplicane 141
+Trivandrum 288 n. I
+*Tyndis*, see also Toṇṭi 35 n. 2, 114
+Upper Maturai, see also Uttara Maturai
+47
+Uṟaiyūr 13
+Uttarakōcamankai 204, 205
+Uttara Maturai 47
+Vaikai river
+Vaňci 178
+124, 124 n. 1, 136
+Varangal 208
+Vaṭavenkatan, see
+Vēnkațam 262
+Vatican 219 n. 2
+Vattalakundu 281
+Venezia 276 n. 1
+Vēnkaṭam 82, 261
+Venni 56
+Vidarbha 222
+Vijayanagara 6, 233
+Vindhyas 222
+also Tirupati,
+Virapatnam-Arikamedu
+V. OTHER ITEMS
+Academy, ancient Tamil 32, 45,
+46 n. 1, 47, 86 n. 1, 155 n. 1, 283
+*acai*, metrical unit 65, 65 n. 2, 66,
+67, 331, 332
+*acai*-based metrics 238
+*ācai,* desire 227
+*ācārya,* preceptor, teacher 13, 137,
+286
+13,
+Ācāryas, Vaiṣṇava preceptors 6
+*āciviyaccir*, kind of foot 65
+*āciriyam*, metre, see also *akaval*
+65, 66, 67, 83, 120, 234, 254
+*āciri yan*, teacher, preceptor 13, 263
+*advaita* philosophy 6
+advaitic vedantin: Tirumūlar 226
+aestetic function of literature 168,
+279
+35 n. 2
+aestetic theories, Western 175-6
+Indian 176
+*āgamas* 200
+*āgamic* texts
+225
+tradition 220, 226
+*ahṟiṇai*, grammatical class of nonpersonal
+nouns 4 n. 1, 149 n. 2
+*aimperuṅkāppiyam*, the five large
+epics 25
+*aindra* grammatical system 146,
+262
+*aintiṇai*, the five physiographic regions,
+see also *tiṇai* 50, 92, 97,
+122, 210
+aintiram, see *aindra* 137, 146, 262
+*akalavurai,* detailed exposition, see
+also akalam 251
+*akam,* house 15
+INDEX
+akam, love, cros, private life; erotic
+genre, see also *akapporul* 15 n. 1,
+21, 32, 45, 51, 53, 68, 69, 71, 72, 73,
+74, 86, 90-101, 103, 105, 106, 108,
+111, 118, 119, 165, 171, 176, 198,
+241
+90-101
+13,
+*akaṅkāram*, egoism 227
+*akapporul*, see also *akam*
+*akaval,* metre, see also *āciriyam*
+52, 56, 57, 58, 58, 60, 61, 65, 66,
+66 n. 1, 67, 83, 120, 125, 132 n. 1,
+204, 254
+akavalar, heralds, see also *akavar,*
+akavunar
+14
+*akaval ōcai*, narrative musical tone
+255
+14
+*akavaṉ makaliv,* women heralds
+*akavar*, heralds, see also *akavalar,*
+*akavunar* 13, 14
+*akavunar*, heralds, see also *akavar,*
+*akavalar* 14
+*alavați*, kind of verse 66
+alchemy 222, 222 n. 4, 224
+Alexandrian school 156
+allegory 109
+All India Radio 296
+alliteration 66, 116, 239 n. 1, 254,
+309, 311
+Āḻvārs, Vaiṣṇava devotional poets
+5, 6, 185, 229 n. I
+*amahat,* gender-class of Telugu nouns
+4 n. I
+ambiguous language 228
+American poetry
+314
+analogy 106
+Andhra, Andhras 38, 39
+anger, sin of 227
+"angry young men" 289
+ani, rhetoric 133, 134, 262
+anklets, of Kaṇṇaki 178, *182-3,*
+183 n. 1
+Annamalai University 51
+*anril* bird IO2
+*antāti*, medieval genre 64, 271
+anti-Buddhist 197
+anti-Jain 197
+antisocial 194, 195
+anxiety, phase of love
+aphorism, of expository work 253.
+
+apparatus criticus 219
+101, 103
+*apsarā,* water-nymph, heavenly courtesan
+307
+363
+*aracu*, a commentary to Tolk. Col.
+
+136 n. 2
+*āral* fish 83, 84, 102, 117
+*ayam*, moral order 155, 157, 160,
+212, 263
+Aranyakas, late Vedic texts 6
+*arccanā*, ritual of temple worship
+226
+*Argha,* Jaina god 263
+Arikamedu graffiti 40
+aristocratic
+",
+307
+15 n. 1, 192, 336
+convictions, of Ramamirtham
+*aṟivu*, knowledge, wisdom, see also
+*ñānam* 230, 231, 231 n. I
+*arruppatai*, a classical genre ("guide")
+56
+*artha,* wealth 21, 157
+*arukaṉ,* the pure one, Jaina god 263
+*arul*, grace 160, 164, 190, 193, 204
+*arumpatavurai,* glossary of rare terms
+251
+Arya, Aryan 21, 37, 51, 52, 58, 61,
+116, 118, 123, 124, 130, 135, 136
+n. 3, 170, 174, 178, 179, 212 n. 1,
+241, 242, 262
+Aryan-Dravidian synthesis IO, 172
+Aryan-oriented 4 n. 1
+*āsana,* yogic posture 223, 223 n. 3
+ascetic 158, 262
+asceticism 198
+ash, sacred 202
+*āśvam*, in Tiruvaṇṇāmalai
+237 D. I
+assonance 66, 116, 239 n. 1, 254
+association, technique of
+astrology 223
+*asuras*, anti-gods
+222
+*aṭi*, footstep of god 202
+311
+*aṭi*, prosodic line, verse
+66, 332
+Aṭikaḷ, saint, ascetic
+179, 285
+*atikāram*, book, division 131, 133,
+182, 262
+*ātikavi*, original poet 210
+*aṭiyāṉ*, *aṭiyār*, the god's slave(s),
+devotee(s) 187, 193 n. 1, 194
+*ațunar,* dancing minstrels
+Augustan, Augustan era 49
+*aum*, mystical sound
+232
+autobiography 283
+14
+*avai,* assembly, council 46 n. 1
+*avatar*, incarnation of Viṣṇu 201,
+209, 217
+364
+INDEX
+*avattai*, physical and mental state
+145
+*aytam,* a Tamil sound 132 n. 3, 150
+*Ayurveda* 223
+Ayurvedic medicine 223.
+
+ballads 277
+*bandha,* lock (type of yogic posture)
+223
+barons
+12, 15, 238 n. 2
+bard, bards 13, 14, III, 115,114
+n. I, 133
+bardic 336
+art 89, III
+corpus 141
+court-poetry 140, 141, 172,
+192, 241
+grammar 89, 133
+poets 4, 107
+tradition 20, 114
+baroque poets, Catholic
+battle, as heroic situation
+baroque, Spanish 309
+190
+105
+beauties, ten, of literary work 253
+beggary stanzas
+235
+behaviour-patterns 141
+*belle*, Pariah 308
+*belles*-*lettres*, Tamil 284, 292, 294
+belletristic writing, in Tamil 264,
+277, 283
+Bengali, language 278
+literature 283
+*bhakta, bhaktas,* religious devotee(s)
+19, 125, 192, 194, 197, 198, 198 n. 1,
+202, 238, 245, 289
+*bhakti*, see also devotion, religious
+6, 21, 36, 50 n. 1, 87 n. 1, 123, 125,
+130, 133 n. 2, 156, 185-206, 207,
+209, 213, 220, 225, 226, 227, 228,
+230, 232, 233, 235, 238, 239, 248
+n. 1, 258, 286, 332, 336
+Bharatanatyam Pref.
+
+*bhāṣā*, language 3
+*bhāṣāsamskṛtayogam*, see *manipra-*
+*vāla* 3, 257 n. 2
+Bible, translations of into Tamil
+259, 272
+Bibliothèque nationale, Paris
+n. 2
+biculturalism 9
+bilingual monks
+141
+biography 283
+body, and soul 228
+219
+Brāhmaṇas, late Vedic texts 6
+Brahmanic 129, 233, 257
+Brahmanism 16, 21, 218
+Brāhmī, inscriptions
+140
+36, 38, 138,
+script 11, 39, 140
+Brahmin, Brahmins 6, 13, 51, 52,
+93, 126 n. 1, 135, 141, 156, 157, 178,
+192, 193, 197, 218, 226, 226 n. 2,
+229, 230, 257, 281, 296, 297, 303
+Brahmins, Kanarese 5
+Kerala 5, 6
+Tamil 5
+Brahmin community, portrayal of
+282
+Brahminic, ideology 118
+influence 87
+way of life 230
+Brahminization 87, 257
+breathing, yogic 224
+*bṛhat* (Skt.), great 58
+British administrators 256, 266
+British Museum 173 n. 5, 219 n. 2,
+267 n. I
+British rule 264
+Buddhism 14, 16, 28, 55, 118, 179,
+191, 195, 196, 197, 199
+Buddhist, Buddhists
+222, 258
+II, 195, 197,
+Buddhist, grammar 4 n. I
+n. I
+ideology 13, 87, 87 n. 1, 126
+monks 140, 141
+monasteries 57, 60
+texts 12, 268
+cadjan leaves
+23
+*cakvavāka* bird 102, 273
+*calitbhāṣā,* spoken Bengali 278
+Cālūkyas, dynasty, see also Chalukyas
+196
+*campū*, genre 30
+*caṅka ilakkiyam*, see also *Caṅkam*
+literature 45
+*caṅkam*, *Caṅkam*, see also Academy,
+Sangam 12, 26, 32, 34, 35 n. I, 2.
+
+38, 40, 41, 45-50, 87, 88, 134, 136,
+140, 142, 156, 165, 169, 174, 238
+n. 2, 248
+*Caṅkam*, literature 45, 49-50, 91
+n. I, 220, 327
+*cankattamil* 45
+cannibalism 126 n. I
+INDEX
+365
+*cānrōn, cāṉṟōr* the perfect one(s) 17,
+18
+Christian Knowledge Society Press
+269
+*cāṉṟōr ceyyuḷ*, poetry of the perfect
+17
+*cantam*, rhythmic pattern 238, 238
+n. 2, 239 n. 1, 244
+Carnatic music Pref.
+
+*carpu,* the supporting work, see also
+*puțai* 252
+caste 192, 194, 227, 231
+casteism 227
+caste-system 226, 279
+catalogue, in poetry 58, 58 n. I
+catch-words 69
+Catholic missionaries 265, 267
+cattle-raid, as heroic situation 103,
+II3 n. I
+*centamiḻ*, the correct (standard ?)
+Tamil 5, 132, 262
+*centamiḻnaṭai*, polished, academic
+Tamil prose 283
+*centoțar*, verse without rhyme and
+alliteration 331
+*Cēral* dynasty, see also Chera 13,
+37, 38, 50, 52-3, 55, 90, 107, 174,
+178, 179
+*Cēral Irumpoṟai* ruling house 40
+*cēri*, low-caste village 301
+Ceylonese 37 n. 2, 173 n. 5
+*ceyyuḷ*, poetry; poetic language 5,
+132 n. 4, 262
+Chalukyas, dynasty, see also Cãlūkyas
+190
+champak 211
+*chandas*, see *cantam*
+*chanson* de *geste*
+238
+214
+characterization, in Tamil short
+stories
+294
+chastity 129 n. 1
+gentle 129 n. I
+stern 129 n. 1, 182
+chela, pupil 268
+Chera dynasty, see also *Cēral* 37,
+38, 40, 52, 55, 176, 178
+child-marriage 279
+Chola dynasty, see also *Cōḻa* Pref.,
+26, 53, 55, 56, 57, 176, 208, 290
+Chola temples 186
+choral drama 14
+*choroi*, Greek
+14
+Christian, Christians 156, 157 n. I
+Christian doctrine and ethics 265
+Christianity 157, 265
+Christian, missionaries 259, 265
+missionary writings 272
+-oriented Tamil journals 270
+poets 265 n.1
+propaganda 267
+chronological stratification
+chronology, absolute, of early Tamil
+texts 36 ff.
+
+II7
+_, relative, internal, of classical
+poetry 116-7
+cilampu, anklet 178, 182
+Cinnamanur plate(s) 46 n. 1
+*cir,* metrical foot 65, 331, 332
+*cirappuppāyiram*, specific preface
+251, 252
+to Tolk. 261-3
+cirupolutu, time of day 93.
+
+*cittar, Cittar*, see also Siddha, Siddhar,
+Siddhas Pref., 21, 203, 218*36*,
+314
+Çittar, see *cittar* 221 n. I
+*cittarkal patineṇmār*, the eighteen
+Siddhas 219 n. 2
+*cittavaittiyam*, see also Siddha medicine,
+Siddha *vaiydya* 223
+cittivakkavi, picture-poem 332
+*civam*, godhead 227, 230
+*civan*, Siva 227
+*civayam*, a *mantra*
+clannish 336
+232
+*civāyanama,* a mantra
+232
+class-origin, of devotional poets
+class-society 191
+192
+classical, age 85 n. 1, 134
+II, 12, 49,
+class-struggle 192
+Tamil literature
+86 n. I
+III, 120, 210, 336
+*col*, word 134, 135, 262
+*Cōḻa* dynasty, see also Chola 55
+*collatikāram*, word-division
+college *(cankam*) 49
+College of Fort St. George 265
+colloquial 117, 132 n. 4, 259, 262
+colloquialism 113
+colophons 124, 176
+commentaries, commentary 6, 222,
+*247-63*
+commentary, first in Tamil 88, 96
+to *Tirukkuṟaḷ* 155 n. I
+to *Tolk*. 134-6
+366
+commentator(s)
+271
+INDEX
+68
+diagnostic features
+157, 175, *247-63,*
+*The Commentator*
+34, 134
+commentatorial, literature
+dialects, of Tamil 132
+dialogues 120
+didactic
+247, 278
+tradition 247, 254, 258, 282
+comparative analysis, of bhakti 187
+comparison 69, 70, 73, 74
+conceptual framework, of Tolkāppi*yam*
+148
+concordance 251
+consonance 66, 166
+contoid phonemes
+244
+conventions 69, 85 n. I, 109, 110,
+115, 120, 133
+109
+coṟporuḷ, surface meaning
+creation, as god's activity 228
+criticism, positive 248
+*cuttivai*, aphorism
+256
+*cuttiram,* aphorism 253
+cynicism 235
+Czech 172, 172 n. 5, 280
+dailies, Tamil 271
+*daimonion* 229
+*daitya* kings
+222
+danseuse 14
+Dantists
+207
+democratic
+democratism 194
+145
+118
+function of literature.
+
+"didactic heresy" 336
+didactic, poetry 13
+short stories
+294
+tradition, Indian
+Digambara 48 n. 2
+*diglossia,* in Tamil
+enlightenment 265
+INDEX
+*eṇperuttokai,* the eight great anthologies
+25
+enstasis 228
+279
+epithets, in *bhakti* hymns 201, 202
+epos
+186
+171
+278, 278 n. 1
+228
+disease, in Siddha medicine
+divan, of Pondichéry 273.
+
+D.K., political party in Madras 212
+n. I
+D.M.K., political party in Madras
+212 n. I
+drama
+22, 337
+*dramatis personae* 15 n. 1, 120
+Dravida Samgha 48 n. 2
+*Dravida Sangha* 48
+Dravidian, Dravidians 4, II, 126
+n. I, 170, 171, 212 n. 1, 262
+ΙΟ
+I
+Dravidian-Aryan synthesis
+Dravidian, languages
+literatures I, 5
+movement
+*evos*
+337
+national Tamil
+166 n. I
+erotic poetry 203
+eroticism 198
+erotology 166 n. 1
+erukkam buds 78
+esoteric 220, 225
+essay 22, 283, 337
+ethical tradition, Indian
+171
+ethics 155, 168
+empirical 171
+*etukai,* consonance 66, 67, 167
+etymology 132
+European 157 n. I
+275-6
+influences, on Tamil prose
+experimental thinking 227
+experimentation with language 314
+expository style 253, 253 n. 1, 256
+fantastic, in Tamil literature
+IO, 212 n. I
+drugs, use of
+n. I
+223
+states of
+drum
+fate
+14
+dubashi, interpreter 260
+*dūta,* messenger
+3
+Early Old Tamil
+43
+Early Old Literary Tamil
+147
+*eccil*, see also saliva
+231
+egalitarian 192
+egalitarianism 194
+egoism 227
+Darśanasâra, Digambara 48 n. 2
+*daśāvasthāḥ,* the ten
+body and mind
+*dāviḍa-sangho* 48
+death
+224, 228
+democracy 165, 194
+political 194
+social 194
+spiritual 187, 194
+15, 187, 192, 336
+demon 126 n. 1, 194, 198 n. 1, 242
+de-Sanskritized Tamil
+14
+destruction, as god's activity 228
+*deus* ex *machina*
+*devadāsī*
+173
+devil 126 n. 1, 194
+devotee, religious, see also *bhakta*
+187, 192, 193, 198
+devotion, see also bhakti 227
+devotional 226, 238
+_, poetry 130
+*dharma*, the moral order
+171, 212, 262, 329
+Eight Anthologies, see *Eṭṭuttokai*
+elegy 55, 105
+*eḻuttatikāram*, sound division
+*eḻuttu,* sound; letter
+262
+Eḻuttu press, in Madras 288 n. 1
+174
+Dharma, see *dharma*
+*dharmic* interpretation
+28
+180-1
+faults, ten, of literary work 252
+fauna 58 n. I
+feet, metric
+65, 166, 167, 331
+feudal, early 336
+feudalism 190
+flora 58 n. I
+folklore, material
+motive
+folkmotif 119
+253
+213
+folk-songs 117, 120, 253
+foot, of the Lord 202
+footstep, of the Lord
+202
+formalism, empty 332 n. 2
+formalistic skill
+86 n.1
+132, 133, 150,
+form 71, 310, 332
+237
+formal style, in Bengali
+"emic" features 9
+empirical thinking 228
+*enfant terrible*, of Tamil writing
+21, 157,
+282 n. 1, 284, 298
+literature
+279
+180
+181-2
+300
+English 118, 131 n. 2, 258, 274,
+its impact on Tamil
+Englishmen 266
+277
+formalist, in literature 237
+278
+form-meaning composite 113
+form, short 337
+126
+formula, formulae 69, 86 n. 1,
+III-8, 249
+formula, double
+II2
+Frankish, disease 222 n. 4
+remedy 222 n. 4
+free-verse experiments 314
+French 172, 266, 274
+administrators
+266
+British war, 1760-61 273
+literature 279
+poetry 314
+rule 264
+function of the cult 199
+367
+Gajabāhu synchronism 32, *37-8*,
+174, 175
+*Gajabēṭekāra* 240
+*gandharva*, pertaining to celestial
+musicians 87
+4 n. I
+gender categories
+genres 90, 103, 133
+German 207
+ghee, see also ghi 211
+*ghi*, melted butter 201
+gnomic poetry 13, 166
+gnoseological attitude, of *Tolkāppi-*
+*yam* 148
+goddess of art
+302
+gold, in alchemy 224
+Gondi
+126 n. I
+grace 190, 193, 204
+Graeco-Roman
+34, 114
+grammar 133, 133 n. 2, 136, 139,
+139 n. 1, 143, 143 n. 2, 146, 147
+grammarians 4, 147
+grammar of Tamil, Latin 265
+grammars of Tamil, modern 265
+Portuguese 265
+grammar, synchronic, descriptive
+147
+grammatical, terminology 4 n. I
+work, Indian 143, 143 n. 1,
+146, 146 n. 3, 147
+graphemics 132, 138
+Greek
+14, 20, 34, 35 n. 2, 36, 145,
+175, 276 n. I
+poetry II
+gruesome, in Tamil literature
+n. I
+126
+"guide" genre 32, 56, 61, 125
+*guvu*, religious preceptor 27, 220,
+243, 258, 263
+hagiographic, literature, Saiva 193
+stories 193 n. 2
+harlots, harlotry 93, 102, 103
+harp 97
+Hebrew 276 n. I
+368
+INDEX
+INDEX
+369
+henolocotheism
+201, 226
+henolocotheistic
+202
+14
+heralds
+heroic, poetry
+15,90, III
+situations II3 n. I
+heroism
+91,
+106
+militant 212
+hero-stone 107
+Himalayan 211
+131 n. 2, 157, 199, 220, 229,
+Hindu
+265
+Hindû Cupid 157 n. I
+Hinduism 28, 125, 191
+Hindustani language
+221 n. I
+historical allusions II7
+hōrā 145
+humour, sense of
+281
+hybrid jargon, of Sanskrit and Tamil
+258
+iambic 65
+*icai*, tune 124
+*Ich*-form 280
+idealistic philosophy 307
+idol worship 198, 227, 230
+ignorance 228
+il, house 15
+133, 133 n. 2,
+ilakkaṇam, grammar
+143
+*ilavēnil,* a season of the year 95
+*illaram,* domestic virtue 158, *160*
+illusion, cosmic 228, 232
+imitation 85 n. 1, *114-5*
+immortality 224, 228
+implication 109, 110
+improvisation 69, 112
+*inam*, stanzaic structure
+Indian, aestetic theories
+literatures
+"
+Indianness ΙΟ
+Indo-Aryan
+200
+I
+332
+176
+etymology 131 n. 1, 135 n. I
+loanwords
+51, 52, 54, 135 n. I
+purge of 285
+Indologists, Western
+Indragopa, red insect
+265
+129
+inference, see also suggestion 69,
+72, 73, 74, 109
+information, in *bhakti* hymns 199
+initiatory structure of learning 248,
+249, 258
+inscriptions, in Brāhmī 138
+instrumentovka 67
+integration of Sanskritic and Tamil
+cultures
+237
+intellectual élite of India 265
+intellectual poet
+323
+intelligibility, of classical poetry
+118
+interpolations 146, 229
+introspection 305
+*intustāni pāṣai,* Hindustani language
+221 n. I
+103
+invasion, as a heroic situation
+iṟaicci, suggestion, 72, 74, 101, *102,*
+109
+*irankal,* pining, a love-situation
+101, 105, 149
+*Irumpoṟai*, ruling house, see also
+*Cēral* Irumpoṟai 53
+*iruttal*, patient waiting, phase of
+love
+101, 103, 149
+*iṣṭadevatā,* chosen, personal god 227
+*iṭaiccankam*, second Academy 47
+*itatiyinam*, liquids, semivowels 67
+Italian 276 n. I
+*iyal,* chapter 131
+172
+*iyalicaināṭakapporultoṭarnilaiccey-*
+*yul,* definition of epic poem
+*iyaṟcīr,* kind of metrical foot 65, 331
+Iyengar, Brahmin
+141
+Jain, Jaina, Jains II, 24, 48, 49,
+126 n. 1, 134, 137, 146, 155, 157,
+195, 196, 197, 202
+Jaina, Arhat
+Jaina, ascetic
+ascetism
+157
+137, 180, 262
+197
+ideology 13, 49, 87, 87 n. 1,
+137, 157
+monks 140, 141
+monasteries 57,60
+moral code 157
+nun
+178
+saints 3, 275
+technical terms 157
+texts
+17, 268
+Tīrthankara
+3
+Jainism 3, 14, 16, 28, 55, 118, 179,
+191, 195, 196, 197, 199
+Jewish 14
+*jīvātmā*, personal soul 228
+journal, for children, Tamil 270
+journalism, Tamil 264, 267, 270-1
+journals, Tamil, Christian-oriented
+270
+*kaikkiḷai*, see love, one-sided 92,
+105, 118, 119, 119 n. 1
+Kalabhras, dynasty 29
+*kālam,* time 72, 74, 148
+kalampakam, medieval genre
+271
+kaḷavu, secret love 87, 91, 92, 96,
+133, *162*
+*kali* metre
+119, 120, 134, 213
+*kaliviruttam* metre 226
+kallu, liquor 299
+*kāma,* lust, love-passion 21, 158
+*kāmam,* lust, love-passion
+157 n. 1, *162-3*
+Kâman 157 n. I
+155, 157,
+*Kāmaśāstras*, textbooks of sexual
+pleasure 166 n. I
+Kambanologists 207
+*kāňci*, hint, moral epistle 16,60, 81,
+105, 118
+Kannada, Kannada 2, 3, 126 n. 1,
+147, 168 n. 3, 209, 265
+Kannada literature 3.
+
+*kanṇalitturai,* splitting commentary,
+see also *patavurai* 250
+*kāntaḷ* flower 127
+*kāṇṭam*, book, volume 210
+*kāntāram*, tune 124
+*kantaruva*, see *gandharva* 87
+*kāṇṭikai*, commentary-paraphrase
+251, 259
+*kār*, rainy season
+95
+*karma* 4 n. 1, 161, 174, 182, 205,
+206, 227, 228, 243
+*karmic* interpretation 181-2
+*kaṟpu*, chastity; wedded love 87,
+91, 92, 93, 96, 129 n. 1, 133, *163*
+*karu*, *karupporuḷ,* concrete representations
+of *tiṇais* 69, 71, 73, 74,
+95, 97, 101, 148, 149
+*karuttu*, conception 148, 148 n. 1
+*karutturai,* sense-commentary 250
+*karuvilam*, type of metric foot 65
+*kaṭaiccaṅkam*, the third Academy
+47
+katampu tree 128
+*kaṭaṉ*, debt, duty
+*katappa* blossom
+13
+245
+*katavulvalttu,* invocatory stanza in
+praise of god 260
+*kāṭci,* preception 148, 148 n. I
+*kavi*, poet 240
+*kavicakravarti*, emperor of poets
+336
+*kaviccakkiravartti*, emperor of poets
+207 n. 3
+*kavya*, epic poem; epic poetry;
+Sanskrit classical poetry 108,
+131 n. 1, 210
+*kelvi*, learning, oral transmission
+kiḷavi, speech 13
+kiḷavi, *kilavōl,* heroine 98 n. I
+*kilavōn*, hero 98 n. I
+kinai, drum
+14
+13
+*kīrttaṉai,* late medieval genre 239
+knowledge 227, 231 n. I
+*kollāmai,* non-killing 157, 161
+Det Kongelike Bibliotek, Copenhagen
+219 n. 2
+konrai flower 260, 261
+kōpam, anger 227
+Kotas, tribe
+2 n. I
+*kotuntamil,* uncultivated Tamil
+n. 4
+132
+*kovai*, a genre 32 n. 1, 271 n. I
+*kṣatriya*, *ksatriyas*, warriors, rulers
+87, 93, 192, 193
+Kui 126 n. I
+*kula*, clan 39
+*Kunstdichtung* 12, 13
+*kuva* flower
+245
+*kural*, a meter 156
+*kuralvenpa*, a type of stanza 166
+*kuravañci*, late medieval genre *277*
+*kuṟiňci*, mountainous landscape; a
+love-situation 50, 54, 58, 58 n. 1,
+70, 71, 74, 75, 96, 97, 101, 103, 107,
+113, 119, 123
+kuṟippu, note 109, IIO
+*kuṟippurai*, annotations 248
+*Kuruksētram*, a literary group 288,
+288 n. I
+*Kurumpar,* a tribe 57
+kuruntam tree 211
+kutir, cold season 95
+*kūttar*, dancing minstrels
+*kūtti*, danceuse 14
+kuțumi, pig-tail 51
+*kuvaḷai* blossoms
+Kuvi
+126 n. I
+76
+14
+kuvilam, type of metrical foot
+*kuyil,* cuckoo 204, 242, 245
+*lakṣaṇa*, grammar
+143 n. 2
+landlord
+193
+landscapes, the five
+65
+133 n. 2, 143,
+92, 95, 149, 210
+24
+370
+INDEX
+INDEX
+371
+*l'art* pour l'artism 332
+Latin 35 n. 2, 276 m. I
+layers, of meaning 109
+leisure class 15
+Leitmotif 215
+letter 132, 134
+liberation 228
+*lilai,* a genre 271
+lingam, male sex-organ; symbol of
+Siva
+lingua *franca,* of the South
+linguistic, area
+9
+geography 132
+linguistics, Indian
+liquids 67
+131
+39
+literary, language 138 n. 3, 139, 147
+standard 5, 147
+*Literaturbund* 9
+literature, its relation to grammar
+139, 139 n. I
+*Literaturwissenschaft* 9
+loan-translation 143 n. 2, 171, 258
+loanwords 118, 122, 124, 130, 169,
+170, 256, 258, 284
+local *couleur* 288 n. I
+*loka,* world
+149
+longevity 224
+211
+lotus
+love
+106
+divine 198
+excessive 149
+extramarital 91, 96, 133
+idealized 198
+ill-matched 68, 69, 91, 96
+inappropriate 92
+-making IIO
+marital
+91
+mismatched 92, 105, 119
+one-sided 92, 105, 119, 149
+phases of, 68, 92, 95, 119
+-poetry 15, 116, 123, 125, 166
+premarital 87, 91, 92, 96, 133
+sexual 198
+typified 198
+wedded 91, 92, 93, 96, 133
+well-matched 68, 69, 72, 73,
+74, 91, 96
+low-caste 192
+lust
+*227*
+lute 14, 57
+lyre 97
+lyrical poetry 22, 337
+of Bharati 286
+macron 65
+Madras Brahma Samāj 270 n. I
+Madras Religious Tract Society 270
+*mahākavi*, great poet 286
+*mahat,* gender-class of Telugu nouns
+4 n. I
+*mālai,* a genre 271 n. I
+*malar,* a kind of metric foot 167
+Malayalam 2, 3, 5, 14, 138, 138 n. 1,
+209, 257 n. 2, 263, 265, 288 n. 1
+Malayalamism 138 n. I
+*maṉai,* house 15
+*maṇi*, astrology 223
+*manipravālam*, kind of diction and
+style 3, *257-8,* 257 n. 2
+mantic wisdom 15
+*mantiram*, sacred formula 223
+mantra, mantras, sacred formula(s)
+223, 232
+manuscripts 23
+*marakkarpu,* see chastity, stern 182
+*mayam*, heroism, bravery 212
+*maranam*, death
+224, 228
+marapu, tradition 331, 332 n. I
+Marathi 266, 284
+literature 283
+*Maravar,* Marava tribe
+99 n. I
+*Märchen* 214
+Marinism 309
+*marul*, kind of metre
+*maṟumalarcci* națai,
+I34
+‘Renaissance'
+style 286, 287
+*maruntu,* medicine 223
+*marutam*, agricultural landscape, a
+love-situation 50, 54, 76, *77,* 83,
+96, 97, 101, 102, 103, 105, 123, 211
+Marxist, ideas 301
+oriented 175 n. 2, 191, 192
+magazines 289
+matamai, naiveté
+material world 228
+*mātrā*, mora 36
+182
+*mātrā*-type metrics 238
+*māttirai*, see *mātrā*
+150, 151
+*Maturai* Tamil Caṅkam, Fourth
+283
+Mauryan 38
+Mauryas, ruling dynasty 54
+*māyā,* illusion 228, 232
+medical 222 n. 4
+medicine 222, 224, 228
+Siddha *223-4*, 236
+Western 223, 224 n. 2
+mural paintings 125
+67
+music, and poetry 239
+193 n. I
+medieval hymns, Tamil 201
+mellinam, nasal consonants
+melody-types 238
+menstruation 88
+*mentontar,* gentle devotees
+metalanguage, of Tamil 4
+-, of Tolkāppiyam 138, 143
+metaphor 86 n. 1, 102, 106, 254, 308
+metaphysical poets, English 309
+metre 65-6, 117, 124 n. 1, 134, *166,*
+213, 216, 229, 254
+metric, analysis 70
+patterns and structures
+metrical, syllable 65 n. 2
+III
+_, unit, basic 65, 65 n. 2, 166
+mey, body; consonant 4 n. 1, 132
+11. 3
+*meyppāțu*, mood; physical manifestation
+of mood 9 n. I
+*mileccar,* barbarians 61
+*Mimusops kauki* 57
+mind 231 n. I
+minstrels 13, 56, 57
+dancing 14
+missionary activities 267
+*mleccha,* barbarian
+modernity 9, 12
+61
+of 'new poets' 318
+modern Tamil prose-style 272, 278
+*mokşa,* liberation 158
+*mōnai,* alliteration 66, 67, 331
+monasteries, Hindu, see also *mutts*
+266
+Montaignesque
+16
+mood 9 n. 1, *144, 144* n. *4,* 168, 279,
+312
+mora
+65 n. 2
+moral code, empirical and pragmatic
+158
+morality tale
+214
+Mōriyar, Maurya dynasty 54
+morphology 132
+morphophonemic rules 250
+126 n. 1, 129
+mother-goddess
+motive 113
+*mudra,* gesture 223 n. 2
+*mulam* (Skt. *mūla*), original text
+247, 248, 252, 256
+*mullai,* pastoral landscape; a lovesituation
+50, 54, 72, 75, 76, 96,
+97, 99, 101, 103, 113, 123
+*munpani,* a season of the year 95
+*munsif,* a legal official 268, 279
+Muslim Pref., 221 n. 1, 259
+*mutal,* basic entities (time and space)
+69, 71, 73, 74, 93, 97, 148, 149
+mutal, the original work
+*mutanul*, original work: first book
+86
+252
+*Mutaṟporuḷ*, see also *mutal*, basic
+matter 97, 148
+mutipu, summary 250, 251
+mutirvenil, a season of the year 95
+*mutt*, Hindu monastery 259, 266,
+277
+mutti, liberation
+mystic 221 n. I
+,
+228
+formula 232
+interpretation 229
+-, poetry, Tamil 187
+mysticism, 222
+Indian 187
+mystics, Protestant
+mythology 241, 242
+190
+nāgarika, man about town, playboy
+12
+*nakaram*, city
+319
+*namacivāyam*, a mantra
+232
+*namaskāram*, salutation
+nan, sense of shame
+299
+19
+*ñānam*, knowledge, see also *aṟivu*
+227, 231
+Nandas, a dynasty 54
+*nänilam*, four regions; world
+nasals 67
+*nāṭan*, hero
+71
+national, feeling, Tamil 197
+national, oppression 279
+national Tamil epos 186, 187
+149
+national work of Tamil literature,
+first 172, 176
+*nay,* dog 14
+*Nāyaṇmārs*, *Nāyaṉmār,* Siva's devotees
+192, 202, 233
+neo-Brahmanism 87 n. I
+neo-Indian literature II
+neo-romantic literary criteria 85
+n. I
+*neracai,* one of the two basic metrical
+units 65
+*nēvicai āciriyappa,* type of stanza 70
+nērpu, a type of metric unit 65
+"new poets" 313
+24*
+372
+INDEX
+New Poetry, "new poetry" 22, 288
+1. I, 313
+*neytal,* sea-shore landscape; a lovesituation
+50, 54, 77, 78, 96, 97,
+98, 101, 103, 105, 119, 120, 23
+niceties, thirty-two, of literary composition
+253
+*Nikantu,* Dictionary
+251 n. 2
+*nilam,* place; *locum* 71, 74, 97, 101,
+148, 149
+*nivaipu,* a type of metric unit 65
+*niraiyacai,* one of the two basic
+metrical units 65
+niti, shrewdness
+nobility
+12
+171
+nocci, a heroic theme 78
+*nōkku*, meaningful cohesion of elements
+Norman
+66 n. 2
+15
+Northern speech 61
+novel 22, 337
+"
+English 280
+European 280
+>
+French 280
+Russian 280
+-, Tamil 280, 281, 288 n. 1
+*noy,* sickness 228
+*nūl*, expository book 132 n. 1, 2
+136, 146 n. 1, 252
+*nūṟpā*, type of stanza, used in expository
+texts
+132 n. 1, 2, 134, 144,
+147, 149
+*nūrruvarkaṇnar*, a dynastic name
+39
+"objective" type of poetry 85 n. I
+obscurity of diction 232
+*ōcai*, basic tone of stanza
+Occident 126 n. I
+Old Tamil, Literary 4, 132
+244
+*olukkam,* behaviour-pattern ΙΟΙ
+ōm, sacred sound 232
+"opera", Tamil 277
+opium 221 n. I
+*ōrai,* Greek loanword(?) 145
+oral, instruction 220
+251
+literature 85, 111, 138 n. 3
+tradition 20, 117, 134, 210,
+25, 138 n. 3,
+transmission
+249, 268
+"orchestration" 67
+originality 114-5
+orthodoxy 229
+*ōttu*, section of expository work 253
+outcaste 192
+Ōy, tribe 61
+*pā,* stanza 332
+*pālai*, desert landscape, a type of
+love-situation
+5º, 54, 57, 76, 96,
+97, 99, 101, 103, 105, 115, 119, 123,
+124, 149
+Pali II, 118
+Pallava, Pallavas
+Pref., 26, 28, 29,
+34, 185, 190, 196, 197, 197 n. 1,
+207, 290
+*pallavi,* refrain
+239
+pallu, a late medieval genre 277
+palm-leaf manuscripts 23, 268
+palmyra 102
+leaves 23
+pan, music; melody-type 14, 24,
+238
+*pān,* music, song 14
+*pāņa* (Pkt.) low caste
+*pāṇar,* bards
+14
+14, 57
+193
+panchayat, village-council
+pandit, Indian scholar 268, 309
+panditdom, Tamil 336
+Pandya dynasty, see also Pandya,
+*Pāṇṭiya* 32 n. 1, 48, 86 n. 1, 176,
+180, 190, 196
+Pandya dynasty, Pandyas 40, 52,
+53, 61, 178, 183
+panegyric 55
+pan-Indian 9, 218, 220, 221
+و
+outlook 281
+*pāņi*, song, music 14
+*Pānțiya* dynasty, see also Pandya,
+Pandya 55, 64, 123, 197 n. 1,
+254, n. 1, 262
+*pāņu*, song
+14
+Paraiya, Paraiya, see also Pariah
+228
+126 n. 1
+229, 230, 277
+*paramātmā,* the highest soul
+*parani*, a medieval genre
+*parāparam*, supreme being 230
+parapsychological phenomena 218
+*paratavar,* a tribe and caste, Paratavar
+57, 98 n. 9
+*parattai,* harlot 93
+Pariah, see also Paraiya 156, 156
+n. 4, 307
+*paripāțal,* kind of metre
+n. *I*, 134
+124, *124*
+INDEX
+373
+*pāṭacālai*, Sanskrit, Vedic seminary pirivu, separation, a love-situation
+297, 299
+*patalam*, chapter of expository work
+210, 253
+*patam*, foot of god 202
+*pāṭān,* panegyric 55, 83, 105, 107
+*patavurai*, word-commentary,
+see
+also *kanṇalitturai* 250, 251
+*pāṭhśālā,* see *pāṭacālai* 297
+*patikam,* preface; poem in praise of
+deity, usually in 10 stanzas 52,
+186, 204, 332
+*pattinam*, maritime town 57
+50
+*pattu*, ten; decade (of poems)
+*pāṭṭu*, song; long poem, lay 25, 29,
+119
+*Pax Britannica*
+264
+*payiram*, prefatory verse
+137, 158,
+160, 251-2
+pedantic style, of poetry 288
+writing 277
+*pēriyāl*, large lute
+Persian 276 n. 1
+57
+92
+plot, of Tamil short stories 294
+poet-devotee 195
+poetics, Tamil 68, 86 n. I
+poet-philosopher 226
+poet-saints 192, 197, 198, 200
+pointe, in classical poems 71
+polippurai, abstract, summary 249,
+250
+*polutu,* time 148
+pon, gold 57
+popular poetry, Tamil
+ports, Chinese 273
+European 273
+Portuguese 276 n. I
+277
+*poruḷ,* subject, subject matter; meaning
+4 n. 1, 90, 106, 134, 148, 262,
+332
+*poruḷ,* economy, wealth 155, 157,
+161-2, 164
+*porulatikāram*, division on subjectmatter
+86 n. I
+*perumpāṇar*, minstrels with large *porunar,* war-bards
+lute 57
+93
+*perumpoḻutu*, season of the year
+*peruntiṇai,* mismatched-love; see also
+love, inappropriate 78, 92,
+105, 118, 119, 119 n. 1
+pessimism 118
+pessimist 233
+*pey,* devil, demon
+198 n. I
+14, 126 n. 1, 194,
+philosophical stanzas, of Aruṇakiri
+243
+philosophy 118
+_, Indian
+227
+phonaesthetic properties 67, 68,
+243, 244
+phoneme 132
+phonetics 132, 147
+phonic structure 67, 116, 216
+phonology 132, 138
+*piḷḷaittamiḻ*, a medieval genre
+n. I
+271
+pining, a love-situation 149
+*pinpani*, a season of the year 95
+*pirāṇam*, life-breath, vital energy
+*224*
+piratipētam, textual variation 251
+*pirital,* separation, a love-situation
+101, 105, 149
+14,56
+post-Bharati Tamil poetry 313
+post-Bharatidasan Tamil poetry
+313
+post-Cańkam
+145, 248
+post-Pāṇinian 146
+*potupayiram*, general preface 251,
+252
+*potuviyal,* a heroic theme 81, 82
+power, occult, supernatural 225
+*prabandha*, cover-term for a large
+number (96?) of medieval genres
+278
+*prahasana*, farce
+6
+praise, as a heroic situation 107,
+105
+Prakrit
+143
+3, 5, 11, 14, 39, 48, 118, 137,
+Prakritization Ι4Ι
+*pratyabhijña,* school of Saivism 226
+pre-Aryan 129, 130, 174
+culture 10, 131
+traditions, literary 2, 20
+pre-*bhakti*, poetry 185
+pre-Cańkam 143
+preface, to a literary work
+137
+pre-historic tradition 246
+pre-Independence period, of Tamil
+writing 289
+pre-literary Tamil
+4
+374
+pre-*manipravāļa* period 283
+pre-Pallava(n) 26, 34, 48
+INDEX
+pre-Pāṇinīyan, grammatical system
+137, 146
+pre-Sanskritic II, 171
+preservation, as god's activity 228
+pre-Tamil IO
+printing, Tamil 264, *267-8*
+*prosateurs*, modern Tamil 337
+prose-commentaries 247, 283
+prose-epic 280
+prose-fiction 259, 260, 278 n. 1
+prose, modern literary 259
+Tamil 254
+its origins 264-76
+*puravurai,* prefatory verse, see also
+*pāyiram*
+"pure" Tamil
+251
+285
+purism, Tamil 285
+purist Tamil style 285
+*putai*, supporting work, see also
+*cārpu* 252
+*putiyak kavitai*, New Poetry, see
+also putukkavitai 313
+putuk *kavitai,* New Poetry
+22, 313
+*putumani pravāļanaṭai*, new m. style
+285-6
+pyrrhic 65
+quarterlies, Tamil
+271
+prose, pedantic, of the savant
+276
+quick-silver 222 n. 4
+prose-poetry 330
+prose, standard literary 253
+Tamil contemporary 288-312
+prosodic structure 83, 112, 114, 117
+disregard for 313
+prosodic syllable 65 n. 2
+prosodists 147
+prosody 133, 134, 135, 241
+prostitute 14, 102
+Protestant missionaries
+Proto-South Dravidian
+Proto-Tamil ΙΟ
+proverbs 253, 275
+psychokinetic powers
+psychological events.
+
+265, 267
+4
+218
+95
+psychophysical body 224
+*pūjāri*, non-Brahmin priest 208
+*pukaḻ,* fame 19, 160, 164
+*pulaitti*, washerwoman
+15
+*pulavar*, poets 14, 16, 19
+*pulimā,* a kind of metrical foot 65
+*puṇarcci*, love-making 110
+*punarcci*, sound-combination
+*punartal*, sexual union,
+situation 101, 103, 149
+*punnai* tree 102
+132
+а
+love*puram*,
+heroism, see also *puṟapporuḷ*
+15 n. 1, 21, 32, 45, 54, 68, 69, 71,
+73, 90, *103-8*, 105, 106, 113 n. 1,
+118, 176, 241
+*purāṇas*, narrative religious texts
+Pref., 187, 200, 201, 278
+*purāṇic*, *Purāṇic* 54, 123, 125,
+173, 202, 259, 277, 286
+*purappāṭṭu,* heroic poetry 54
+*purapporu!,* the heroic matter, see
+also *puṟam* 90, *103-8*, 136 n. 4
+*racavātam*, alchemy 224.
+
+*vākṣasas*, anti-gods, demons 222
+Rāma story 210
+*Ramarajya,* Rāma's (ideal) rule 210
+Rāma's rule 210
+*rasa*, mood
+9 n. 1, *144*, *144* n. *4,*
+168, 279, 312
+*rasika,* connoisseur 9 n. I
+realism 281
+_, critical 281
+redaction, final, of *Tolkāppiyam*
+145-6, 147
+redemption 242
+rediscovery, of ancient Tamil poetry
+30, 268-9, 283
+reflection 118
+refrain 239
+regions, cultural, see also regions,
+physiographic 149
+regions, physiographic, see also regions,
+cultural 92, 95, 149
+227, 228
+reincarnation
+relativist 233
+*religio* 20, 204
+religiosity, Indian 21
+"
+21
+Tamil
+religious, philosophy
+religious, texts, Indian
+narrative 200
+21
+200
+philosophical 200
+specific, see also hymns
+Renaissance 85 n. 1, 91 n. I
+representations, concrete 95, IOI
+return to classicism 248
+revolutionary protest 194
+Rgvedic hymns
+II
+200
+rhetoric
+INDEX
+86 n. 1, 133, 134, 135, 210
+analysis 68
+rhyme 66, 167, 239 n. I
+rhythm 216, 309
+rhythmic pattern 239 n. I
+ritualistic social order
+riddles 275
+233
+272
+Roman 34, 35, 35 n. 1, 2, 36, 175
+Roman Catholic catechism
+Roman pontiff 195 n. I
+romance, historical 290
+in
+prose 281
+romanticism, Western
+rşi 136, 136 n. 3, 222
+Russian 172, 172 n. 6
+91 n. I
+*sabhā*, assembly 46 n. 1
+sacerdotalism 229
+sacrifice 126 n. I
+human 126 n. I
+*sadhubhāṣā*, formal style of Bengali
+278
+saga, of Pattiṉi 172
+Sahitya Akademi 293 n. I
+Saiva 36, 186, 199, 200, 203, 204,
+233, 238, 241, 248 n. 1, 277
+Canon 27 n. 1, 130, 185, 225,
+233, 268
+catechism
+272
+Saiva Siddhānta philosophy 206,
+226, 241
+Saivism 196, 197 n. 1, 230, 232, 233
+Kashmir 226
+Saivite, Saivite
+Pref., 185, 187, 197,
+198, 227, 229 n. 1, 230
+śakti 197
+saliva 231
+*samādhi*, enstasis 228
+*Samājam* edition, of classical texts
+48
+375
+144, 144 n. 4, 145, 149, 155, 156,
+157, 166 n. 1, 169, 171, 180, 186,
+210, 238, 238 n. 2, 240, 256, 257,
+257 n. 2, 266, 271, 272, 276 n. 1,
+284, 296, 309
+-, epic 210
+"Sanskritic" 145
+Sanskritic, diction
+197
+literature 12, 201
+mythology 242
+-, sources
+traits
+171
+2 n. I, 10, 21, 50 n. I,
+123, 202, 237
+Sanskritization 2, 2 n. 1, 3, 4, 10,
+87, 170, 257, 266, 282
+Sanskritized, Brahmin
+poetry 237
+IO
+prose 275, 282, 286
+Tamil 309
+Sanskrit models 2
+Sanskrit-oriented 258.
+
+pandits 286
+Sanskrit seminary 297
+*śāstva,* eruditory text 166 n. 1, 200
+*śataka,* centum (of stanzas) 50 n. I
+*Šātakani*, *Šātakarni*, dynastic name
+38
+*Śātavāhans*, dynastic name 38, 39
+*sati*, self-imolation of wife after
+husband's death 178
+scholar(s) 14
+scholastic, tradition
+writing 254
+254
+93, 95
+seasons, of the year
+secular tradition 20, 21
+segments of information 199
+semantics 132
+seminal animalcules
+separation, a love-situation
+105, 113, 141
+223
+92, IOI,
+Sermon on the Mount
+157
+servants of God
+of
+195, 195 n. I
+servus *servorum* Dei
+195 n. I
+Seven Great Donors. 61
+Samhitās, of Vedic poems 6
+*sandeśa*, messanger (genre) 3
+*sandhi*, rules of combination
+sounds 132 n. 3, 250, 259
+Sangam, see also *Caṅkam*, *caṅkam*,
+Academy 17, 45, 45 n. 1, 47, 48,
+49, 60, 123, 125
+Sangam, Age 45
+Period 49
+sangha 48 n. 2
+Sanskrit 2 n. 1, 3, 4, 4 n. 1, 5, 6, 8,
+II, 13, 36, 88, 108, 109, 118, 122,
+132 n. 1, 4, 135, 143, 143 n. 1, 2,
+sexual union 101, 103, 149, 228
+Shakespearean scholars
+207
+short form, its specific importance
+337
+short story 22, 286, 291, 292, 337
+Siddha, Siddhar, Siddhars 186, *218-*
+*36*, 314
+*siddhacharya*
+220
+376
+INDEX
+INDEX
+377
+Siddha *vaidya,* see also *citta vaittiyam*
+236
+siddhi, the miraculous power 225
+Siddhism 232
+Sidhars, see *cittar*, Siddha
+simile 86 n. 1, 102, 112, 254
+sin 235
+Siri Satakani, dynastic name
+Sistine Chapel
+220 n. I
+39
+103, 105, 106, 107,
+85 n. I
+situation, poetic
+113, 119
+snake-charmer 229
+śloka 213
+social, hierarchy
+193
+negativism 193, 194
+oppression 279
+protest 194, 337
+Society of Jesus
+276 n. I
+socio-economic interpretation, of
+bhakti 191
+sociological material
+133
+socio-political interpretation, of
+*bhakti* 187, *190-9*
+soteriological function, of alchemy
+224
+soul 228
+sound 132, 134
+sound-magic
+311
+- symbolism 214, 215, 216
+South Indian, languages
+literatures I
+Soviet scholars
+191, 192
+space-time continuum
+Spanish 276 n. 1
+speculation 21
+93
+5
+suggestion, see also inference
+69,
+70, 72, 74, 86 n. 1, 101, 102, 109,
+115
+*sujets*, new, in modern poetry 314
+*sujet,* of *Piratāpa Mutaliyār* 279-80
+sulking, a love-situation
+101, 105,
+149
+sun-bath 223
+*sūtra*, expository rule; system or
+rules, compendium of rules 85
+n. 1, 87, 89, 96, 132, 132 n. 1, 136
+n. 4, 138, 143 n. 1, 146, 146 n. 1
+*sūtras* of *Tolkāppiyam*, inconsistency
+among them 146
+*surya* cikiccai, sun-bath
+*svāmī*, monk 285
+223
+syllabic-based metrics 238
+syllabic quantity 239 n. 1
+syllable 65 n. 2
+symbolism
+226
+synchronic segmental analysis, of
+bhakti texts 187, 199-206
+syntactophonemic rules
+syntax
+132
+syphilis 222 n. 4
+*svara*, sound; vowel
+Swami, monk
+294
+4 n. I
+250
+*talaiccaṅkam*, the first Academy 47
+*talaivaṉ*, hero 98 n. I
+*talaivi*, heroine
+98 n. I
+Tamil Brāhmī inscriptions 28, 140,
+141
+Tamil-Brāhmi script 25, 40
+Tamilization 285
+spoken style of Tamil
+141, 275, 277,
+Tamil-Kannada split 4
+278 n. 1, 285
+Tamil Renaissance
+*Sprachbund* 9
+Śrī Šātakarni, dynastic name 39
+Standard Tamil
+253
+114 n. 1, 141, 142,
+stanzaic structure of higher level
+332
+stereotype, linguistic 114
+structuralistic analysis, of *bhakti*
+190
+style, of Tamil short-stories 294
+subject-matter, of poetry 90, 103,
+106, 133, 134
+substitution, in *bhakti* hymns 201,
+202
+Šūdra, the fourth *varṇa*
+sufism 221 n. I
+192
+259, 268, *277-87*
+Tamil scholarship, Western-oriented
+266
+taṇipāțal, individual, isolated poem
+109, 253
+*tanittamilnatai,* purist Tamil style
+285
+tantric 186
+",
+tradition
+220
+tantrism 221
+*taṭāri*, small drum
+14
+*tatsama*, appropriation-phase loanword
+258
+technique, of description 108
+Telugu 2, 3, 4 n. 1, 91, 126 n. 1,
+168 n. 3, 265, 266, 274, 276 n. 1,
+284
+classical I
+literature 3
+*tēmā*, one of the basic types of metric
+feet 65
+temples, of the South
+temptation 242
+testicles, of a ram
+text, oral and written
+textual, criticism 23.
+
+201
+213
+138 n. 3
+-, variations 251
+theme 103, 106, 107-8, *111-8*, 119
+theology, of bhakti 198
+of Siddhism 232
+theory of literature, Tamil, classical
+85 ff.
+
+148
+therapy, Siddha 223, 224
+time-space continuum
+times of day and night 93, 95
+*tiṇai,* physiographic regions and
+behavioural patterns in classical
+literature 51, 54, 57, 68, 71, 74,
+75, 76-84, 92, 96, *IOI,* 103, 106,
+107, 113, 119 n. 1, 149
+mixed 72
+*tiram*, a tune 124
+*tiruccanta viruttam*, a metre
+*tirunīru,* sacred ash
+202
+Titan 212
+Tiruvaṇṇāmalai temple 240
+title, of a book
+Toda(s) 2 n. I,
+toga 6
+251 n. 2
+10, 126 n. I
+229 n. I
+*tokai,* anthology 25, 27 n. 1, 71, 72,
+119, 123
+57
+*tol,* ancient 131 n. I
+*Toṇṭaiman* dynastic title
+*toṇṭaṉ*, *toṇṭar*, religious devotee(s)
+193, 193 n. 1, 195
+*totai,* prosodic element 66, 67
+tradition, literary 9, 12, 114, 115,
+120, 331, 332 n. I
+traditional forms, disregard for 313
+transmigration 231
+transmission 138 n. 3
+trephination of the skull 223
+*trobadors* 20
+Tulu, Tuļu 14, 91
+tumpai, a heroic theme 80, 81, 105
+tunankai dance 126
+tunes, in *paripāṭal* 124
+*tuṟai*, a metre 213
+*tuṟai,* theme 103, 106, 107, 113
+*tuyavaram*, ascetic virtue 158, *160-1*
+*tuyattamil,* Tamil-only, pure Tamil
+285
+two-language situation 278
+*ul,* that which is ancient; *karma*
+n. I
+*ulā,* medieval literary genre
+*ulakam*, world 149
+*uḻavar,* peasants 57
+4
+271 n. I
+105
+*uliñai,* siege, a heroic theme
+*uḷḷurai uvamam*, allegory 102, 109
+ultra-left, rebels in Tamil literature
+301
+ultra-red revolutionaries
+313
+unity of content, diction, style and
+form II4
+*upani şads* 200
+urai, commentary 88, 247, 247 n. 5,
+248, 252
+*uraiyāciriyar,* commentator 34, 134
+Urdu 265, 266, 274, 276 n. 1, 284
+uripporuḷ, uri, psychological component
+of love-situation 69, 71, 72,
+73, 74, 95, 97, 101, 148, 149
+*Urtext* of *Tolkāppiyam* IO, 43, 139
+uru, *uruvam*, *uruvu*, form 4 n. 1,
+310, 332
+*uvacca* community 208
+*utal,* body 228
+*uṭal,* sulking, love-quarrel, a lovesituation
+101, 105, 149
+*uyartiņai,* grammatical (gender) class
+of personal nouns 4 n. 1, 149 n. 2
+*uyir,* life; soul; vowel 4 n. 1, 132
+n. 3, 228
+*uyirmey* soul and body; vowelconsonant;
+vocalized consonant
+132 n. 3
+*Vācakar vaṭṭam*, Bookventure publishers
+288 n. I
+*vacanak kavitai,* prose-poetry 330
+*vacana kāviyam*, epic in prose
+213
+280
+vagina
+Vaiṣṇava 5, 6, 36, 185, 196, 198,
+200, 209, 229 n. 1, 238, 241, 258
+Vaiṣṇavism 6, 229 n. I
+Vaishnavite, Vaiṣṇavite Pref., 185,
+195, 198, 230, 268
+*vākai*, a heroic theme 16, 79, 105,
+118
+*valakku*, the spoken language 132
+n. 4, 262
+*378*
+INDEX
+*vali*, the derived work 252
+*vallabha,* king's officer(?) 156
+*valluva, vaḷḷuvaṉ*, a Pariah caste (of
+drummers) 156, 156 n. 4
+*vaňci*, metre 56, 57, 58, 60, 65, *66*,
+120, 134
+*vaňci,* a heroic theme 103
+*vañcippa,* a type of stanza
+*vaṇṇam*, colour of sounds
+*vantoṇṭar*, hard devotees
+n. I
+*varia lectiones* 251
+*varna*, colour of sounds
+*vārttikas* 143 n. I
+66
+*viritturai*, *virivurai*, detailed commentary
+249
+*viruttam*, kind of metre 213
+*virutti*, evaluating commentary
+251, 257
+*Visiṣṭādvaita,* philosophic system 5
+*vītu,* liberation, release 158
+vocabulary, of Aruṇakiri 244
+vocoid phonemes 244
+*Volksliteratur* 12
+244
+193, 193
+*vyañjana,* consonant
+244
+Veda, Vedas 6, 93, 129, 156, 211,
+230, 262, 297, 299
+Vedānta 6
+Vedic, cult 201
+hymns 200, 201
+literature 12
+poetry 20
+religion 21, 87
+ṛşi 222
+*vēļāļa, vēļāļar*, agriculturalist(s), see
+also *vellāla, veļļālar* 53, 93, 156,
+198
+*vellāla, vellalar*, agriculturalist(s)
+192, 193
+*vēlan*, Murukaṉ's priest 129
+vēmpu tree
+*vēnkai* tree
+77
+112, 116
+*veṇpā,* a type of stanza
+*Vorarbeiten*, lack of 264
+4 n. I
+*vyañjanā, vyangya,* suggestion 109
+waiting, a love situation IOI, *103,*
+113, 149
+war-bard 14
+washer-woman
+Welsh 20
+15
+Western, aestetic criteria
+175-6
+conception of humanistic studies
+264
+education 279
+languages 156
+metrics 238
+widowhood 55
+widow's right to remarry 278
+women minstrels, 12
+written, style of Tamil
+3
+tradition 210
+141
+transmission 138 n. 3
+30 n. 1, 90,
+*yāl,* lute
+120, 123, 134, 160 n. 1, 166, 169,
+209
+*ventotai,* a kind of consonance of lines
+166
+"vernacular"
+vers libre
+265
+313, 330, 331
+vetci, cattle raid, heroic theme 78,
+*vicētavurai,* detailed exposition 251
+14, 98, 124
+*yappu,* prosody 133, 134, 262
+*yātum* ūvē, *yāvarum* kēḷir, "Any
+town (our) town, every man a
+kinsman" 16
+Yavanas, Yavaņas, Western foreigners
+35, 35 n. 1, 52, 54, 57, 61
+yoga
+221, 223, 225, 226, 227
+classical 235
+103, 113 n. I
+victory 105
+magical 235
+*vilaiyātu,* play, dance
+197
+yogi
+220, 223, 224, 229, 235
+*viļakkavurai,* exemplifying commentary
+249
+*vinai,* action, karma 4 n. I
+*virakkal,* hero-stone
+107
+*virali*, pl. *viṟaliyar*, danceuse(s) 14,
+56
+yogic 186, 233
+techniques 228, 235
+tradition 220
+Zoon politikon 21, 164

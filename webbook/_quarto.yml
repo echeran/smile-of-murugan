@@ -1,0 +1,49 @@
+project:
+  type: book
+  output-dir: public
+
+book:
+  title: "The Smile of Murugan"
+  author: "Norah Jones"
+  date: "6/29/2025"
+  chapters:
+    - index.qmd
+    - chapter01.md
+    - chapter02.md
+    - chapter03.md
+    - chapter04.md
+    - chapter05.md
+    - chapter06.md
+    - chapter07.md
+    - chapter08.md
+    - chapter09.md
+    - chapter10.md
+    - chapter11.md
+    - chapter12.md
+    - chapter13.md
+    - chapter14.md
+    - chapter15.md
+    - chapter16.md
+    - chapter17.md
+    - chapter18.md
+    - chapter19.md
+    - chapter20.md
+    # - smile.md
+    # - intro.qmd
+    # - summary.qmd
+    # - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    reference-location: margin
+    citation-location: margin
+  pdf:
+    documentclass: scrreprt
+
+
+
