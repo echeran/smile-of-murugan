@@ -21,8 +21,31 @@ thinking, an Indian areal *Literaturwissenschaft*, with the same
 precision, with the same attention to detail, with the same rigour
 that Emeneau develops in his hypothesis of Indian linguistic area.
 There is no doubt that there are some “emic” features, typical for
-the pan-Indian *Literaturbund.¹* Hardly anybody can deny that there
-1 Features which are common to the entire Indian sub-continent but
+the pan-Indian *Literaturbund.*[^commonfeatures] Hardly anybody can deny that there
+is a common Indianness in the literatures of India just as there are
+some common and distinctive features of Indian civilization and
+culture (though I have my doubts whether anybody has as yet
+successfully produced a classified list and a really deep and penetrating
+discussion of these features). These common features are of
+course results of a converging evolution; or, one should probably
+say, and this seems to me to be rather important, of a synthesis not
+yet fully achieved, actually far from achieved. The common
+Indianness, the “unity in diversity", should be regarded not as
+something static and finished, but as a dynamic process, as a truly
+dialectical process; not as a sum, but as a movement which alters in
+the historical evolution, a kind of striving after synthesis of oppositions
+and conflicts which are frequently rather antagonistic.
+
+One of the basic-if not the basic-components of this dynamic
+process full of tensions and antagonisms is the striving after a
+Dravidian-Aryan synthesis. Tamil literature reflects this struggle,
+from its very beginnings in the text of the *Tolkāppiyam* until today's
+writings of such men as Annadurai, Kannadasan or other apostles of
+the Dravidian movement on the one hand, and, on the other hand,
+in the writings of the synthesis-oriented, "Sanskritized" Brahmin
+writers.
+
+[^commonfeatures]: Features which are common to the entire Indian sub-continent but
 unique only for it; not confined to any particular region or bound by any
 particular linguistic unit or social community. Examples of such features
 (seen, naturally, in a somewhat "collapsed" form) are, e.g., high degree of
@@ -37,31 +60,9 @@ of the over-all category of "mood"; literature as rhetoric to move others, to
 intensify the feelings of the *rasika;* composition is prescribed; there is therefore
 high degree of conventionalization; characters analyzed rather by types
 than by individual heroes; high degree of anonymity, a typical Indian
+conception of authorship, originality and imitation; a particular conception
+of plot(s) etc. etc.
 
-
-
-
-is a common Indianness in the literatures of India just as there are
-some common and distinctive features of Indian civilization and
-culture (though I have my doubts whether anybody has as yet
-successfully produced a classified list and a really deep and penetrating
-discussion of these features). These common features are of
-course results of a converging evolution; or, one should probably
-say, and this seems to me to be rather important, of a synthesis not
-yet fully achieved, actually far from achieved. The common
-Indianness, the “unity in diversity", should be regarded not as
-something static and finished, but as a dynamic process, as a truly
-dialectical process; not as a sum, but as a movement which alters in
-the historical evolution, a kind of striving after synthesis of oppositions
-and conflicts which are frequently rather antagonistic.
-One of the basic-if not the basic-components of this dynamic
-process full of tensions and antagonisms is the striving after a
-Dravidian-Aryan synthesis. Tamil literature reflects this struggle,
-from its very beginnings in the text of the *Tolkāppiyam* until today's
-writings of such men as Annadurai, Kannadasan or other apostles of
-the Dravidian movement on the one hand, and, on the other hand,
-in the writings of the synthesis-oriented, "Sanskritized" Brahmin
-writers.
 
 As mentioned above, it is very probable that the first bloom of
 Tamil culture and literature took place before that type of diffusion
@@ -75,14 +76,12 @@ or pre-Tamil stage, since, as Emeneau pointed out, these
 traits are very ancient in Toda culture, possessed by the Todas
 probably when they first appeared in the Nilgiris. As Emeneau says,
 Sanskritic culture has, indeed, been all-pervasive in India.
+
 The very earliest monument of Tamil literary language and
 Tamil culture as such, the *Tolkāppiyam*, supposed to have been
 composed by Agastya's pupil *Tolkāppiyar*, is to a great extent the
 product of an Aryan-Dravidian synthesis; and even in its *Urtext*, in
 its earliest layers, it shows beyond doubt the author's well-digested
-conception of authorship, originality and imitation; a particular conception
-of plot(s) etc. etc.
-
 knowledge of such Sanskrit authors as Pāṇini and Patañjali. The
 earliest traces of another style of Tamil-a style probably rather
 near to the colloquial speech of those days-preserved in the most
@@ -128,15 +127,11 @@ as e.g. the ancient Greek poetry, it continues to be vigorously living
 modern writing of our days. This fact was expressed in a very happy
 formulation by A. K. Ramanujan in his excellent book The *Interior*
 *Landscape* (1967): "Tamil, one of the two classical languages of
-
-
-
-
 India, is the only language of contemporary India which is recognizably
 continuous with a classical past”.
 
-_
-This fact the relation between tradition and modernity-has, too,
+
+This fact-the relation between tradition and modernity-has, too,
 been the source of constant tension: contemporary Tamil literature
 has to carry the splendid but massive burden of an uninterrupted
 tradition and classical heritage, and sometimes the burden seems
@@ -183,6 +178,7 @@ probably a scribe at the royal court of *Maturai*; Uṟaiyūr Mutukorran,
 *Kur*. 221, is the "old headman of *Uṟaiyūr",* but Kiḷimaṅkalaṅkiḻār,
 *Kur*. 152, was a peasant by caste, while e.g. Māmūlaṉār,
 responsible for a number of poems, was a Brahmin scholar.
+
 These early poets, recruited from many different communities,
 received bardic training-there were probably different schools and
 traditions of this training—and became professionals; the wandering
@@ -223,7 +219,8 @@ Buddhist ideology).
 
 But let us return to the bards: there were probably six major
 types of these early poets: the term which is used most frequently is
-pāṇar: This is connected with paṇ “song, melody", pāṇi “song,
+
+*pāṇar*: This is connected with paṇ “song, melody", pāṇi “song,
 melody, music" and *pāņu* “song"; most probably the underlying
 monosyllabic morpheme is *paṇ* "music". There are cognates in
 Malayalam and Tulu. It is interesting that the Pkt. pāṇa- (most
@@ -243,6 +240,7 @@ kūtti "danseuse" in later time means "prostitute".
 *porunar*: a term which probably means "war-bards"; they were
 especially close to the chiefs and princes; the accompanying
 instrument in this case was the *taṭāri* or *kiṇai* “small drum".
+
 *akavunar, akavalar* or *akavar* <*akavu* “to utter a sound as a peacock,
 to sing, call, summon", i.e. "summoners, callers". Probably
 "heralds". We also come across the term *akavaṉ makaļir* “women
@@ -263,9 +261,8 @@ learning connected with the person of the poet; it was a learned
 poetry. It also shows the reverence for the poets in ancient times:
 the *pulavar* are always highly respected-somewhat like in the
 Jewish tradition: a scholar is the most respected man in the society.
+
 It seems from certain data that poets have not only been always
-
-
 associated with profound learning, but also with mantic wisdom,
 which was connected, again, with the cult of *Murukaṉ.* Murukaṉ is
 actually the patron-god of poets and scholars in the South; only
@@ -307,7 +304,7 @@ experience of love in all its phases and aspects; on the other hand, these
 idealized types represent cultured, well-matched and fit pairs, to the exclusion
 of uncultured, ignorant, unfit people, who, in later scholastic literature,
 are said explicitly to be servants and workers. The ideology of the
-puṟam (heroic) genre is definitely "clannish" and "aristocratic".
+*puṟam* (heroic) genre is definitely "clannish" and "aristocratic".
 
 > "he wears spotless white clothes washed by the pulaitti (washer-
 > woman), who digs the salt land for water. He also wears a garland
@@ -316,7 +313,7 @@ puṟam (heroic) genre is definitely "clannish" and "aristocratic".
 > off with his single shield the weapons aimed at him by his foes"
 > (K. Kailasapathy's transl.).
 
-_
+
 The bards did not indulge in moralizations concerning either the
 ethics of war or the problems of extramarital relationship or nonmonogamous
 sexuality of the heroes (Kailasapathy, 79, 80). Only
@@ -489,9 +486,7 @@ of strong palm-wine, the furious men long for battle". Hence the
 hero's pride in wounds received in battle, in *viḻuppuṇ* “excellent
 wounds" (*Puram* 180. 4.) which, according to the celebrated
 commentator of the Tirukkuṟaḷ, Parimēlaḻakar *(Kuṛaļ* 76.
-6), are "glorious wounds which one receives ..
-
-... on one's chest and
+6), are "glorious wounds which one receives ... on one's chest and
 face".
 
 

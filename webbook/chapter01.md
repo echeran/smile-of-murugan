@@ -64,12 +64,23 @@ straight translations of Sanskrit models. The process of Sanskritization,
 with all its implications, must have begun in these communities
 before any attempt was made among the Telugu, Kannada and
 Malayalam peoples to produce written literature, and probably even
-before great oral literature was composed.¹ About Kannada, Telugu
+before great oral literature was composed.[^Sanskritization] About Kannada, Telugu
 and Malayalam literatures we may say with K. A. Nilakanta Sastri
 *(HSI,* 3rd ed. p. 340): "All these literatures owed a great deal to
 Sanskrit, the magic wand of whose touch alone raised each of the
 Dravidian languages (but here I would most definitely add: with
-1 Incidentally, a community which has totally escaped the type of diffusion
+the exception of Tamil, K.Z.) from the level of a patois to that of a
+literary idiom". Whoever has written so far on the history of
+Kannada, Telugu, and Malayalam literatures take refuge in a
+formulation which is characteristic for speculative conclusions; cf.
+"the beginnings of Kannada literature are not clearly traceable, but
+a considerable volume of prose and poetry must have come into
+existence before the date of Nṛpatunga's *Kavirājamārga* (850 A.D.),
+the earliest extant work on rhetoric in Kannada"; or "beyond doubt
+there must have existed much unwritten literature (in Telugu) of
+popular character ......." etc. The facts are different.
+
+[^Sanskritization]: Incidentally, a community which has totally escaped the type of diffusion
 that had been identified by the term "Sanskritization" (cf. the
 writings of M. N. Srinivas and Milton Singer for the introduction and elaboration
 of this term), at least in South India, has yet to be found. As
@@ -84,17 +95,6 @@ Emeneau's opinion, these Sanskritic traits in the Nilgiris are very old; they
 can hardly be considered as a recent acquirement.
 
 
-the exception of Tamil, K.Z.) from the level of a patois to that of a
-literary idiom". Whoever has written so far on the history of
-Kannada, Telugu, and Malayalam literatures take refuge in a
-formulation which is characteristic for speculative conclusions; cf.
-"the beginnings of Kannada literature are not clearly traceable, but
-a considerable volume of prose and poetry must have come into
-existence before the date of Nṛpatunga's *Kavirājamārga* (850 A.D.),
-the earliest extant work on rhetoric in Kannada"; or "beyond doubt
-there must have existed much unwritten literature (in Telugu) of
-popular character
-etc. The facts are different.
 
 The beginnings of Kannada literature were almost totally
 inspired by Jainism. The first extant work of narrative literature is
@@ -144,7 +144,8 @@ other Dravidian literary languages: the metalanguage of Tamil has
 always been Tamil, never Sanskrit. As A. K. Ramanujan says (in
 *Language and Modernization,* p. 31): "In most Indian languages,
 the technical gobbledygook is Sanskrit; in Tamil, the gobbledygook
-is ultra-Tamil"'.1
+is ultra-Tamil"'.[^grammartermlanguage]
+
 There is an obvious historical explanation of the fact: the earliest
 vigorous bloom of Tamil culture began before the Sanskritization
 of the South could have had any strong impact on Tamil society.
@@ -160,20 +161,6 @@ stage, Old Tamil, the first recorded stage of any Dravidian language.
 The final stages of the Tamil-Kannada split, and the beginnings of
 ancient Tamil literature, were accompanied by conscious efforts of
 grammarians and a body of bardic poets to set up a kind of norm,
-1 This may be illustrated by comparisons of grammatical or philosophical
-terms. In Telugu, e.g., the gender categories of "higher" and "lower" classes
-are termed *mahat*: *amahat* ( < Sanskrit); in Tamil, the corresponding terms
-are *uyar*-*tiņai* and *ahṟiṇai* (< al *tiṇai)*, which is pure Tamil. Most Indian
-languages use for "vowel" and "consonant" the Sanskrit terms *svara* and
-*vyañjana*; in Tamil, the terms *uyir* (Ta. "breath") and *mey* (Ta. "body")
-have always been used (with the exception of a rather "pro-Sanskrit",
-"Aryan-oriented" Buddhist grammar *Viracoliyam* which introduced Sanskritized
-grammatical terminology into Tamil; but the usage has not spread at
-all). Even such philosophical terms as “meaning”, “form", "soul", *karma*
-etc., have always been preferably expressed in "pure" Tamil, cf. resp. *poruḷ*
-*DED* 3711, *uru DED* 566, *uyir DED* 554, *viņai* or uļ *DED* 4473, 2258.
-
-
 a literary standard, which was called *ceyyu!*—or the refined, poetic
 language or alternatively *centamil*-the elegant, polished, high
 Tamil. The final outcome of these events—the creation of a literature
@@ -187,6 +174,20 @@ tremendous time-gap between the beginnings of Tamil written
 literature on the one hand, and the other Dravidian literatures on
 the other hand. These data are self-explanatory and need no
 commentary.
+
+[^grammartermlanguage]: This may be illustrated by comparisons of grammatical or philosophical
+terms. In Telugu, e.g., the gender categories of "higher" and "lower" classes
+are termed *mahat*: *amahat* ( < Sanskrit); in Tamil, the corresponding terms
+are *uyar*-*tiņai* and *ahṟiṇai* (< al *tiṇai)*, which is pure Tamil. Most Indian
+languages use for "vowel" and "consonant" the Sanskrit terms *svara* and
+*vyañjana*; in Tamil, the terms *uyir* (Ta. "breath") and *mey* (Ta. "body")
+have always been used (with the exception of a rather "pro-Sanskrit",
+"Aryan-oriented" Buddhist grammar *Viracoliyam* which introduced Sanskritized
+grammatical terminology into Tamil; but the usage has not spread at
+all). Even such philosophical terms as “meaning”, “form", "soul", *karma*
+etc., have always been preferably expressed in "pure" Tamil, cf. resp. *poruḷ*
+*DED* 3711, *uru DED* 566, *uyir DED* 554, *viņai* or uļ *DED* 4473, 2258.
+
 
 The influence which the various South Indian literatures exercised
 on one another was, at certain periods, not inconsiderable: thus,

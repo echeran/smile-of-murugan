@@ -3,11 +3,11 @@
 As a preliminary remark one fundamental difficulty should at
 least be mentioned: the manuscripts on palmyra leaves can hardly
 be dated earlier than the 18th Century. In the climatic conditions of
-South India, the palm-leaf manuscripts perish very quickly.1
+South India, the palm-leaf manuscripts perish very quickly.[^cvtamotaram]
 Fortunately, photostat copies of Tamil works on cadjan leaves of the
 12. Cent. A.D. were made; the manuscripts were preserved in the
 much more favourable climate of Tibet. But, so far, they do not
-seem to be available for study. 2 The manuscripts which were
+seem to be available for study.[^historytamillit] The manuscripts which were
 preserved have been copied, and the natural question arises whether
 the reading one obtains from these copies is that of the age of the
 copyist or that of the original, and to what extent they differ.
@@ -20,9 +20,10 @@ nothing about the manuscript traditions of the poems and anthologies,
 there are almost no specialized dictionaries, indexes and
 concordances, and not a single text has been critically and fully
 translated and interpreted finally, with the possible exception of the
-..
+*Paripāṭal,* edited and translated by F. Gros, at Pondichéry, 1968
+(see Bibliography).
 
-1 One of the early Tamil editors, Ci. Vay. Tāmōtaram Piḷḷai (1832-1901),
+[^cvtamotaram]: One of the early Tamil editors, Ci. Vay. Tāmōtaram Piḷḷai (1832-1901),
 describes, in the preface to his edition of *Kalittokai* (1887), the difficulties
 of his editorial work: "Only what has escaped fire and water and religious
 taboo remains; even of this, termites and the insect called Rāma's arrow
@@ -39,11 +40,9 @@ are occasionally produced until this day: thus, e.g., I have in my
 possession a palm-leaf Ms. of *Manmatan Katai*, "The Story of the God of
 Love", dated Aug.-Sept. 1952.
 
-2 T. P. Meenakshisundaran, A *History* of *Tamil Literature* (1965), p. 5.
+[^historytamillit]: T. P. Meenakshisundaran, A *History* of *Tamil Literature* (1965), p. 5.
 
 
-*paripāṭal,* edited and translated by F. Gros, at Pondichéry, 1968
-(see Bibliography).
 
 Also, there seems to have been a break in the traditional study of
 ancient literary works before they were rediscovered in the 19th
@@ -91,7 +90,7 @@ A *Tamil manuscript* on palm-*leaves*. Property of the author.
 
 
 
-\ 1. The creative act. Several authors, lastly K. Kailasapathy
+1. The creative act. Several authors, lastly K. Kailasapathy
 *(Tamil* Heroic *Poetry*, 1968) have conclusively shown, that the
 earliest Tamil poetry was composed in agreement with the conventions of an oral bardic tradition, and that, obviously, a great
 body of oral bardic literature preceded and was incorporated into the
@@ -105,6 +104,7 @@ royal chancelleries; only much later for literature as such. The
 creative act must have been purely oral; the early poems show
 unmistakable features of oral poetry, of oral composition, destined
 for audience appreciation and not visual “consumption" of literature.
+
 2. Thus the period of oral transmission was an unusually long
 one. As a random example we may give poems numbers 4 and 143,
 144 and 145 of the *Puṟam* collection, ascribed to the well-known
@@ -114,6 +114,7 @@ by until a certain Peruntēvaṇār of 8th Cent. A.D. compiled a
 number of bardic poems into one single anthology of four hundred
 of them, and provided this anthology with an invocatory stanza;
 this anthology goes since then by the name of *Paṟanāṉūṟu* or *Puṟam*.
+
 3. The same man was very probably responsible for the anthologization
 of a great number of other early bardic poems *(Akanānūru,*
 *Ainkuṟunūṟu*, *Kuṟuntokai* and *Naṟṟiṇai*). We may say that the
@@ -134,8 +135,6 @@ Cent.); he speaks about *eṇperuttokai* and *pattuppāṭṭu* (s. v. 387:
 Before that, though the individual anthologies are mentioned and
 cited by various commentators, the two great anthologies of
 *Eṭṭuttokai* and *Pattuppāṭṭu* never figure in these commentaries: e.g.
-
-
 in the commentary on *Iṟaiyaṉār Akapporuḷ* by Nakkīrar (8th
 Cent. A.D.) or in Iḷampūraṇar the earliest commentator on *Tolk*., in
 the 12th Cent. Thus it seems that the final codification of the texts
@@ -186,7 +185,7 @@ We have at least two Nakkīrars: the older Nakkīrar might have
 lived round about 250 A.D. and was the author of some very fine
 poems in the anthologies. A later Nakkīrar is the author of *Tirumu-*
 *rukārruppaṭai*; and probably the same man composed the commentary
-to *Iṟaiyaṉār Akapporuḷ* in the 8th Cent. A.D.1 Certain works
+to *Iṟaiyaṉār Akapporuḷ* in the 8th Cent. A.D.[^nakkirars] Certain works
 elaborated by a series of scholars in a particular school of thought
 were sometimes named after their original teacher and *guru:* such
 may be the case of *Tolkāppiyam*, or rather its third portion, which
@@ -214,7 +213,8 @@ and the 13th Cent. A.D. These attempts are no more seriously
 considered nowadays, though in the earlier editions of the *Encyclo-*
 *paedia Britannica* or in the writings of the French scholar Julien
 Vinson this was the accepted dating. However, neither Vinson nor
-1 The identity of these two Nakkīrars is still a disputed question. To be
+
+[^nakkirars]: The identity of these two Nakkīrars is still a disputed question. To be
 precise, there are actually more Nakkīrars than two in Tamil writing. Many
 bards bore the name of Kirar (e.g. Kuṭṭuvaṉ Kīraṇār, Maturai Nakkīrar,
 Viļankīraṇār). Of the better known Nakkīrars, there may be three or four:
