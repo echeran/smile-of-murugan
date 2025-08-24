@@ -16,8 +16,6 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           # To install LaTeX to build PDF book 
           tinytex: true
@@ -25,8 +23,6 @@ jobs:
         uses: quarto-dev/quarto-actions/render@v2
         with:
           path: webbook
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # this secret is always available for github actions
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
