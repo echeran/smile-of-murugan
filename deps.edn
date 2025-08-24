@@ -1,6 +1,6 @@
 {:deps {org.clojure/clojure {:mvn/version "1.11.4"}
-        ;; io.github.timothypratley/happyapi {:mvn/version "1.0.137-beta"}
-        io.github.timothypratley/happyapi {:local/root "../happyapi"}
+        io.github.timothypratley/happyapi {:mvn/version "1.0.149"}
+        ;; io.github.timothypratley/happyapi {:local/root "../happyapi"}
         io.github.timothypratley/happyapi.google {:mvn/version "1.0.7-beta"}
         http-kit/http-kit {:mvn/version "2.9.0-alpha1"}
         cheshire/cheshire {:mvn/version "5.13.0"}
