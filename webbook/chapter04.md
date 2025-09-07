@@ -32,23 +32,25 @@ linguistic life of ancient Tamilnad.
 The legend about a learned body responsible for and critically
 controlling the literary output of early Tamil poets is rather late:
 it seems to occur for the first time in a line by Appar who uses the
-term *caṅkam* ¹ in *Tirupputtür Tāṇṭakam*, st. 3, i.e. in the 7th Cent.
-1 nan pattup *pulavaṇāyc caṅkam* ēri | *narkanakak* kilitarumikku *aruļinōn*
-*kan* "Look at Him who was gracious enough to appear in the assembly
+term *caṅkam*[^appar-cankam] in *Tirupputtür Tāṇṭakam*, st. 3, i.e. in the 7th Cent.
+
+[^appar-cankam]: *nan pattup* *pulavaṇāyc caṅkam ēri* / *narkanakak kilitarumikku aruļinōn*
+*kaṇ* "Look at Him who was gracious enough to appear in the assembly
 *(cankam*) as a poet of fine poems and presented the purse of gold to Tarumi".
 For further references to Sangam, and to Maturai as the seat of Tamil
-
-
-1
-It has been fully developed in the commentary by Nakkīrar (ca
-650-750 A.D.) to *Iṟaiyaṉār Akapporuḷ.* ¹ It was much later repeated
 learning, cf. Tiruvātavūrār: *kūṭalin aynta ontintamil;* Cēkkiḻār: *talaiccanka*
 *pulavaṇār tammun*; Āṇṭāļ: *cankattamiļ mālai* muppatum; Auvaiyār: *cankat-*
 *tamiḻ munṛun* tā; Tirumaṅkai Āḻvār: *caṅka mukattamil*; Kampar: ten *tamiḻ*
 *nāṭṭakal potiyil tirumunivan tamilc caṅkam cērkirpīvēl;* Pēraciriyar's comm.
 on *Tolk. Marapu*: *mūnru vakaiccańkattu nānku varuṇat toṭupaṭṭa cānrōrum.*
 Etc. I suspect one may quote from later literature *ad nauseam*.
-1 The account by Nakkīrar of the three “academies" runs *verbatim* as
+
+It has been fully developed in the commentary by Nakkīrar (ca
+650-750 A.D.) to *Iṟaiyaṉār Akapporuḷ.*[^iraiyanar-akapporul] It was much later repeated
+and even more evolved in Perumparrap Puliyūr Nampi's *Tiruvilai-*
+*yāṭalpurāṇam*, 15 (12th Cent. A.D.).
+
+[^iraiyanar-akapporul]: The account by Nakkīrar of the three “academies" runs *verbatim* as
 follows (*Kalaviyal ennum Iṟaiyaṉār Akapporuḷ mūlamum*, *Nakkīraṉār*
 *uraiyum*, ed. K. R. Govindaraja Mudaliar and Vidvan M. V. Venugopala
 Pillai, 1939, pp. 5-7): "*talaiccankam, iṭaiccankam, kaṭaiccaṅkam ena muvakaip*
@@ -61,7 +63,8 @@ Pillai, 1939, pp. 5-7): "*talaiccankam, iṭaiccankam, kaṭaiccaṅkam ena muva
 *nālāyirattu nānūrṛu nārpatirṛiyāṇṭu cankamiruntar* eṉpa*. avarkalaic caṅkam*
 *iriiyiṇār kāycina valuti mutalākak katunkōn īrāka enpattonpatinmar* eṉpa*.*
 *avarul kavi arankēriņār eluvar pāṇṭiyar eṉpa. avar caṅkam iruntu tamilārāyn-*
-*tatu kātal kollappaṭṭa maturai* eṉpa. avarukku *nūl akattiyam.*
+*tatu kātal kollappaṭṭa maturai* eṉpa. avarukku *nūl akattiyam.* \
+ \
 ini, *iṭaiccankamiruntār akattiyaṇārum*, *tolkāppiyaṇārum*, *iruntaiyurk*
 *karunkōliyum mōciyum*, *veļļūrkkāppiyanum*, ciru *pāṇṭarankanum*, *tiraiyan*
 *māranum*, *tuvaraikkōṇum*, *kīrantaiyum* ena *ittoṭakkattār aimpattoṉpatiṉmar*
@@ -91,11 +94,49 @@ cf. T. G. Aravamuthan, "The Oldest Account of the Tamil Academies"*, JORM*
 Tamil Academies", IIJ (forthcoming, 1973). From this account it may be
 seen 1) that by the time Nakkīrar wrote his commentary, the anthologization
 of the collections (including the rather late *paripāṭal* and *Kalittokai*) must
-have been already a *fait* accompli; on the other hand, this account does not
-
-
-and even more evolved in Perumparrap Puliyūr Nampi's *Tiruvilai-*
-*yāṭalpurāṇam*, 15 (12th Cent. A.D.).
+have been already a *fait* accompli; on the other hand, this account does *not*
+mention either the (*Eṭṭut*) tokai or the (*Pattup*)*pāṭṭu* arrangement as such
+(nor, as a matter of fact, any of the pāṭṭu
+"lays"); 2) it mentions, for the
+first time, the *Tolkāppiyam* as
+a *single grammatical* work; 3) the language of
+this account shows that its author was
+definitely *not* identical with any of the
+older Nakkīrars; there are some
+rather late forms which indicate that this
+commentary may be as late as the 8.-9.
+Century (*avarkalāl pāṭappaṭṭana,*
+*avarkalai,* kavi, etc.). \
+ \
+ Appar seems to be the first (in terms of time) to have used the term
+*caṅkam* in the sense we discuss it here
+. Or, probably, it was Nakkīrar in his
+commentary. Previous to this, there
+are a few lines in the old, "Sangam"
+texts, which might be interpreted
+as referring to a body of poets and/or
+scholiasts and critics; however, this
+conclusion is purely speculative. The
+lines I have in mind are
+Maturaikkāňci 761-763: *tollāṇai nallāciriyar |*
+*punarkut* tunța pukalcāl ciṟappin *nilantaru *
+*tiruvin* nețiyon pōla. In the
+*Payiram* to Tolk., we read
+*nilantaru tiruvil pāṇṭiyan avaiyattu*, where *avai,*
+with a rather "long" stretch of
+imagination (it is of course a loanword
+\< Skt. *sabhā-*) may be interpreted as
+*caṅkam.* Even in the very early texts,
+though, Maturai is connected specifically
+with Tamil, cf. Puṟ. 32.5 *tentamil*
+*nannāṭṭut* titutir *maturai* and ib.
+58.13 tamiḻ kelu *kūṭal*, *Kalitt*. *niņmāṭak*
+*kūtalar* pulan *nävil* piranta col,
+Cirupan. 66-67 *tamiḻ nilaiperra tänkaru*
+marapin / *makilnanai marukin *
+*maturai.* The *Cinnamanur* (1. 29) plate says:
+*makāpāratam tamilppatuttum maturāpuric *
+*caṅkam vaittum*.
 
 According to Nakkīrar's account, there were three "academies"
 *(talaiccankam*, *iṭaiccankam*, *kaṭaiccaṅkam*). The first
@@ -114,8 +155,7 @@ The second Sangam, situated in *Kapāṭapuram* (cf. Vālmīki's
 in the sea, lasted for
 3700 years and included 3700 poets; it had
 five grammars as
-norms, among others *Akattiyam* and *Tolkāppiyam*
-.
+norms, among others *Akattiyam* and *Tolkāppiyam*.
 
 The third Sangam, situated in today's Maturai (*Uttara* or Upper
 Maturai) lasted for 1850 years under 49 kings
@@ -125,8 +165,7 @@ ending with Ukkiraperuvaluti;
 its 449 poets formed a body presided
 by Nakkīrar. The two
 normative grammars of this Academy were
-*Akattiyam* and *Tolkāp-*
-*piyam.*
+*Akattiyam* and *Tolkāppiyam.*
 
 It is indeed difficult to say whether there is a *rationale* behind
 this rather late legend. It is of course not
@@ -137,53 +176,6 @@ slowly a matter of a classical past and ceased
 to be part of a live
 oral tradition, there existed a body of
 scholiasts and grammarians
-mention either the (*Eṭṭut*) tokai or the (*Pattup*)*pāṭṭu* arrangement as such
-(nor, as a matter of fact, any of the pāṭṭu
-"lays"); 2) it mentions, for the
-first time, the *Tolkāppiyam* as
-a *single grammatical* work; 3) the language of
-this account shows that its author was
-definitely *not* identical with any of the
-older Nakkīrars; there are some
-rather late forms which indicate that this
-commentary may be as late as the 8.-9.
-
-Century (*avarkalāl pāṭappaṭṭana,*
-*avarkalai,* kavi, etc.).
-
-Appar seems to be the first (in terms of time) to have used the term
-*caṅkam* in the sense we discuss it here
-. Or, probably, it was Nakkīrar in his
-commentary. Previous to this, there
-are a few lines in the old, "Sangam"
-texts, which might be interpreted
-as referring to a body of poets and/or
-scholiasts and critics; however, this
-conclusion is purely speculative. The
-lines I have in mind are
-Maturaikkāňci 761-763: *tollāṇai nallāciriyar |*
-*punarkut* tunța pukalcāl ciṟappin *nilantaru *
-*tiruvin* nețiyon pōla. In the
-*Payiram* to Tolk., we read
-*nilantaru tiruvil pāṇṭiyan avaiyattu*, where *avai,*
-with a rather "long" stretch of
-imagination (it is of course a loanword
-<Skt. *sabhā-*) may be interpreted as
-*caṅkam.* Even in the very early texts,
-though, Maturai is connected specifically
-with Tamil, cf. Puṟ. 32.5 *tentamil*
-*nannāṭṭut* titutir *maturai* and ib.
-
-58.13 tamiḻ kelu *kūṭal*, *Kalitt*. *niņmāṭak*
-*kūtalar* pulan *nävil* piranta col,
-Cirupan. 66-67 *tamiḻ nilaiperra tänkaru*
-marapin / *makilnanai marukin *
-*maturai.* The *Cinnamanur* (1. 29) plate says:
-*makāpāratam tamilppatuttum maturāpuric *
-*caṅkam vaittum*.
-
-
-
 who used to decide whether a poem should be acknowledged as part
 of the classical heritage, written down, preserved and become part
 of the process of anthologization and codification. However: The
@@ -205,7 +197,7 @@ after some significant expression in their poems; if we disregard
 these 35 we get the number 438, and these two numbers, the
 *Samājam* total (which must, at the present stage of our knowledge,
 be taken anyhow as an approximation) and Nakkīrar's traditional
-number, come rather near. Or, one may take 1 the *Samājam*
+number, come rather near. Or, one may take[^vaiyapuri-pillai] the *Samājam*
 total (473) minus the authors of the later portions and poems, the
 *paripāṭal, Kalittokai*, *Murukārṛuppaṭai* and the invocatory stanzas
 by Peruntēvaṇār, and arrive at 459, which is still nearer to the
@@ -214,11 +206,12 @@ traditional 449.
 It seems that in 470 A.D., a *Drāviḍa Sangha* was established in
 Maturai by a Jain named Vajranandi (the Prakrit term used is
 *daviḍa-sangho).* It seems that this Jaina organisation took (among
-other activities) a great interest in the Tamil language and literature.
-2 It is also true that, among the earliest poets, there occur Jain
-1 Cf. S. Vaiyapuri Pillai, *HTLL*, 38-39.
+other activities) a great interest in the Tamil language and literature.[^kararese-sangam-date]
+It is also true that, among the earliest poets, there occur Jain
 
-2 Cf. E. P. Rice, *A History* of *Kararese Literature*, 2nd. ed., 1921, pp. 26-27:
+[^vaiyapuri-pillai]: Cf. S. Vaiyapuri Pillai, *HTLL*, 38-39.
+
+[^kararese-sangam-date]: Cf. E. P. Rice, *A History* of *Kararese Literature*, 2nd. ed., 1921, pp. 26-27:
 "*Pujyapāda,* also called Devanandi, belongs to the sixth or seventh century
 One of his disciples, Vajrānandi, is said to have founded a Tamil sangha
 in Madura". This does not say much. More important is the account given by
@@ -228,7 +221,11 @@ Prof. Peterson in *Journ*. *Bombay Branch* of RAS, Extra Number to Vol. 17
 Darśanasâra, lately obtained from Anhilwâd Pâțhan, Devasena, who gives
 his own date as 909, (apparently, from his constant use of that era, Samvat
 909 = A.D. 853), tells us that Vajranandi, the pupil of Sri Pujyapâda,
-
+founded the Draviḍa Samgha in Matura of the Deccan in the year 525
+"after the death of Vikrama". I give the two passages: (1) siripuṁjja
+pădasīso dāviḍasaṁghassa kāragovuttho ṇāmeṇa vajjaṇaṁdī pāhuḍavedī
+mahasattho // paṁcasae chavise vikkamarāyassa maraṇapattassa / dakkhiņa
+mahurājādo dāviḍasaṁgho mahāmoho //".
 
 names (such as Ulōccaṇār, Mātīrttan etc.), that Jaina cosmology and
 mythology is mentioned in the early corpus (e.g. *Puṟ*. 175, *Akam*
@@ -243,7 +240,10 @@ the Sangam". For the Jain character of the Sangam-and, at the
 same time, for the purely fictitious number of years traditionally
 given there is one more evidence: observe that the number of
 years given is always a multiple of 37: 37 by 120, 37 by 100, 37 by 50.
-The typical passion of the Jains for numbers is well-known.¹
+The typical passion of the Jains for numbers is well-known.[^jain-numbers]
+
+[^jain-numbers]: Cf. X. S. Thani Nayagam, *Ancient Tamil Poetry* (xeroxed), 1964, p. 7.
+
 In conclusion one may agree with what K. A. Nilakanta Sastri
 says in his *A History of South* India, 3rd. ed., p. 116: "That a college
 *(cankam*) of Tamil poets flourished for a time under royal patronage
@@ -266,16 +266,6 @@ literature, it is the term "Classical". First of all, the so-called
 professional historiographers and critics, as well as by intellectual
 readers, as classical, in the same sense in which we regard some parts
 of our national literatures as classical. Second, it has been, since
-founded the Draviḍa Samgha in Matura of the Deccan in the year 525
-"after the death of Vikrama". I give the two passages: (1) siripuṁjja
-pădasīso dāviḍasaṁghassa kāragovuttho ṇāmeṇa vajjaṇaṁdī pāhuḍavedī
-mahasattho // paṁcasae chavise vikkamarāyassa maraṇapattassa / dakkhiņa
-mahurājādo dāviḍasaṁgho mahāmoho //".
-
-1 Cf. X. S. Thani Nayagam, *Ancient Tamil Poetry* (xeroxed), 1964, p. 7.
-4
-
-
 probably the 5th-7th Cent. A.D., a finite, “frozen" corpus, a body
 of texts which had not been expanded since it ceased to be part of a
 live oral tradition. Since those times, it has become a part of the
@@ -296,13 +286,14 @@ rather revealing. The various anthologies and poems will be described
 here in chronological order.
 
 I. *Ainkuṟunūṟu*
+
 Traditionally the third among the anthologies. "(The collection of)
 five hundred short (poems)". It owes its name to the fact that it is
 divided into five groups of 100 short stanzas each, each group being
 concerned with one of the five basic "physiographic regions"
 (*aintinai*) in the following order: *marutam* “riverine”, *neytal* “littoral",
 kuṟiňci "montane”, *pālai* “arid" and *mullai* "pastoral". Each
-hundred is subdivided into tens or *pattu.* 1 The poems have three to
+hundred is subdivided into tens or *pattu.*[^patirrupattu] The poems have three to
 six lines each. Stanzas 129 and 130 are not extant. Five poets are
 credited with the authorship of the work: the centum on *marutam*
 was composed by Ōrampōki, on *neytal* by Ammūvaṇār, on *kuṟiňci*
@@ -311,14 +302,6 @@ Peruntēvaṇār composed an invocatory song. The anthology is said
 to have been made by Pulatturai Murriya Kūṭalūr Kiḻār on the
 direction of *a Cēral* king Yāṇaikkaṭ Cēy Māntaraň Cēral Irumpoṟai.
 The anonymous old commentary on this anthology is not a detailed
-1 The arrangement into tens is found also in *Patiṟṟuppattu* "Ten Tens",
-and the traditions of tens continues all through the history of Tamil literature
-in the *Tirukkuṟaḷ*, in the *bhakti* poetry, etc.; it may be of Sanskritic
-origin, cf. the *śataka* arrangement. The tens in *Ainkuṟunūṟu* are named after
-the word or line repeated in each of the ten verses; such poems with recurring
-lines and phrases show the underlying bardic tradition.
-
-
 one, but it is supplemented by a detailed commentary by U. V.
 Swaminatha Aiyar. A few lines of Aink. appear in paripāṭal*, Ci-*
 *lappatikāram, Nālaṭiyār* and other later works. There are not many
@@ -330,7 +313,17 @@ first published in 1903 by U. V. Swaminatha Aiyar. There is a good
 edition in 3 vol. prepared by Auvai S. Turaicāmi Pillai, publ. by the
 Annamalai University (1938).
 
+[^patirrupattu]: The arrangement into tens is found also in *Patiṟṟuppattu* "Ten Tens",
+and the traditions of tens continues all through the history of Tamil literature
+in the *Tirukkuṟaḷ*, in the *bhakti* poetry, etc.; it may be of Sanskritic
+origin, cf. the *śataka* arrangement. The tens in *Ainkuṟunūṟu* are named after
+the word or line repeated in each of the ten verses; such poems with recurring
+lines and phrases show the underlying bardic tradition.
+
+
+
 2. *Kuṟuntokai*,
+
 "The collection of short (poems)". Under the original scheme, the
 collection must have had 400 stanzas, though U. V. Swaminatha
 Aiyar's edition has 401 stanzas including the invocatory stanza by
@@ -353,13 +346,12 @@ Arangasami Ayyangar published *Kuṟuntokai* in 1915 for the first
 time. *Kuṟuntokai* contains *27* historical allusions.
 
 3. *Naṟṟiṇai*
+
 is mentioned traditionally as the first among the eight collections.
 The name means "(The collection of poems) on excellent tiņais” or
 "(The collection) of excellent (poems) on the *tiṇais*". The anthology
 contains 400 songs ranging from 8 to 13 lines. In the extant form,
 song 234 is missing (a poem quoted as an illustration by the scholiast
-
-
 on *Iṟaiyaṉār Akapporuḷ* has been included in the 2nd ed. as the
 missing song 394), and poem 395 is fragmentary. The anthology
 was made under the patronage of the Pandya king Paṇṇāṭu tanta
@@ -375,6 +367,7 @@ The allusion to the legend of a woman who tore off her breast
 loanwords in the poems of *Naṟṟiṇai.*
 
 4. *Patiṟṟuppattu*
+
 or "Ten Tens" is a collection of panegyric poems, consisting of ten
 sections; each ten has been sung by a poet or poetess in praise of a
 Chera king; each poem is supplemented by an unusually informative
@@ -383,6 +376,7 @@ chronicle in verse, devoted exclusively to the *Cērals*, the ancient
 rulers of Kerala. Two decades, the first and the tenth, are lost. 39
 lines of this work are found in the commentary to *Tolk*. (4 stanzas)
 and in *Purattiraṭṭu,* a later anthology of war-poetry.
+
 The epilogues or patikams furnish us with details about the
 author, the hero, his lineage, etc.; they are most probably of later
 times (possibly added by the compiler), but they seem to have
@@ -402,10 +396,9 @@ The III. decade, by a Brahmin poet Pālaik Kautamaṇār, is
 dedicated to the younger brother of Imayavarampaṉ, king Palyānaic
 Celkeļu Kuṭṭuvaṉ.
 
-
-
 The IV. decade by Kāppiyarruk Kāppiyaṇār is in praise of
 Kalankakkaṇṇi Nārmuțic Cēral, one of the sons of Imayavarampaṉ.
+
 The V. decade, ascribed to the great Paraṇar, sings of the mighty
 Cenkuṭṭuvan, son of Imayavarampaṉ, and contemporary of
 Gajabāhu I of Ceylon (cca 180 A.D.).
@@ -445,13 +438,12 @@ Hence it is clear that these main themes were transmitted by (oral)
 tradition.
 
 5. *Akanāṉūṟu*
+
 or "The four hundred (poems) in the *akam* genre” also called *Nețunto-*
 *kai* or "The Anthology of Long (Poems)" is a collection of 400 stanzas
 on love plus an invocatory stanza on Śiva by Peruntēvaṇār. The
 number of verses in a stanza ranges from 13 to 31. The anthology
 was directed by the Pāṇḍyan king Ukkiraperuvaļuti, and the name
-
-
 of compiler is Uruttiracanman, the son of Maturai Uppūri Kuṭi
 Kiḻāṉ. There is an old commentary for the first 90 stanzas; the
 next 70 stanzas have a commentary by the first editor, V. Rajagopala
@@ -486,6 +478,7 @@ Kerala, casting anchor in the river Culli, and returned heavy with
 pepper.
 
 6. *Paṟanāṉūṟu*
+
 or "The four hundred (poems) in the genre *puṟam",* traditionally the
 last of the anthologies, historically probably the most valuable, and
 perhaps the latest of the collections; a careful study would no doubt
@@ -493,8 +486,6 @@ show that it contains stanzas of different chronological levels,
 covering probably more than 2-3 centuries. It was considered by
 the redactors of the anthologies as the collection of heroic poetry
 par *excellence*; it is also simply called *puṟam*, or *purappāṭṭu*, the
-
-
 heroic songs. Of the 400 poems, two, 266 and 268, are lost; some
 poems are fragmentary. There is an invocatory stanza on Siva by
 Peruntēvaṇār, so that the anthology as it stands contains 397 pieces.
@@ -535,8 +526,6 @@ there are a few lines in this anthology-probably under the influence
 of Jainism and Buddhism, and yet specifically Tamil in spiritwhich
 may be regarded as showing elements of that pragmatic
 approach and practical and universal ethics which underlies the
-
-
 *Tirukkuṟaḷ.* There are also elements of reflexion, and some of the
 poems are fully reflexive, the central idea being mostly the impermanence
 of life in this world. These poems seem to be of later
@@ -544,9 +533,11 @@ origin than the more ancient, straightforward war and panegyric
 songs.
 
 7. *Porunarāṟṟuppaṭai*
+
 or "The guide for war-bards" (traditionally the 2nd of the Lays
 -very incorrectly called “idylls"!-) is probably the earliest among
 the poems collected later into *Pattuppāṭṭu* anthology.
+
 The genre *arruppațai* or "guide" is very productive: it is a poem
 in which bards are directed by their fellow professionals to famous
 heroes who are patrons of art. The genre is found in the heroic
@@ -575,6 +566,7 @@ The inhabitants of *Cōḻanāṭu* are pictured as gay folk who likes to
 eat meat and drink liquor. First published in 1889.
 
 8. *Perumpāṇāṟṟuppaṭai*
+
 or "The guide for bards with the large lute" is another of this
 "guidance" poems; attributed to Uruttiraṁkaņṇaṇār, who also
 sang the *Paṭṭiṉappalai*, it has 500 lines in the *akaval* metre in praise
@@ -593,7 +585,9 @@ in festivals in which many worship" (Kailasapathy's translation,
 *op.* cit., p. 44). In the lines 316-317, the Yavaṇar are mentioned. The
 poem describes also the life of the *ulavar*-peasants, and there is
 much material that is of sociological interest. Published in 1889.
+
 9. *Paṭṭiṉappalai*
+
 The name is a compound of *pattinam* "maritime town" + *pālai* “a
 flower (*Mimusops kauki*); desert tract, one of the love divisions".
 It *is* a poem by Uruttirankaṇṇaṇār about the proposed separation of
@@ -620,14 +614,14 @@ Karikāl gave 1,600.000 gold pieces (pon) to the bard for his song
 —indeed a royal royalty! The name of the song was also *Vaňci*
 *netum pattu,* "The Long Song in the *vaňci* metre". Indeed there are
 153 lines in *vaňci* and 138 lines in *akaval* metre. According to J. R.
-
-
 Marr (op. cit. 435) the *vaňci* lines were introduced to effect a change
 of rhythm that would please the listeners. The short staccato *vaňci*
 lines with their swinging movement were apparently more suited
 for cataloguing things besides serving as a deliberate contrast to the
 *akaval* lines (Kailasapathy, *op. cit.* 39). Published in 1889.
+
 10. *Kuriñcippāṭṭu,*
+
 meaning liter. "The song of the mountains", narrates the story of
 premarital love among the people living in the hilly regions. It is the
 love-poem par *excellence*, ascribed to the great Kapilar (also called
@@ -637,7 +631,7 @@ composed for the instruction of an Aryan king, called Pirakattan,
 cf. Skt. *bṛhat* "great". This story and the fact that the poem
 contains a catalogue of 99 flowers typical for the *kuṟiňci* region,
 appear to substantiate the suggestion that the poem was composed
-as a "model". 1 This is roughly the content of the lay: A chieftain of
+as a "model".[^pattupattu] This is roughly the content of the lay: A chieftain of
 the hill-tribe falls in love at first sight with a fair maiden. The
 love is reciprocated. The girl's foster-sister helps the lovers to meet
 and enjoy their love. But the parents find the change in their
@@ -645,7 +639,14 @@ daughter strange and suspicious. In the belief that she is ill they
 invite magicians and exorcists, but the cleverness of the foster-sister
 overcomes all obstacles, and, finally, when the parents are told that
 the young man saved their daughter twice-once from the danger of
-1 Cf. S. Vithiananthan, *The Pattuppāṭṭu*-a *historical, social and linguistic*
+drowning and another time from a rogue-elephant-they give their
+consent. The poem has 261 lines in the *akaval* metre. There has been
+some doubt about Kapilar's authorship (cf. Sivaraja Pillai, *Chrono-*
+*logy* of Early Tamils, 202, who has called the poem a near-forgery
+committed upon a famous bard, cf. also J. R. Marr, op. *cit*. 357).
+Published in 1889.
+
+[^pattupattu]: Cf. S. Vithiananthan, *The Pattuppāṭṭu*-a *historical, social and linguistic*
 *study,* PhD thesis, Univ. of London, 1950, p. 20. The catalogues were a rather
 typical feature in ancient Tamil poetry. We do find catalogues of different
 items (e.g. the seven great donors), and perhaps the longest catalogue is this
@@ -668,19 +669,11 @@ catalogue itself has a high phonaesthetic quality, cf. on cen *kāntaḷ* āmpal
 *aniccam tankayak kuvaḷai kuṟiňci vețci*. . . (26).
 
 
-
-drowning and another time from a rogue-elephant-they give their
-consent. The poem has 261 lines in the *akaval* metre. There has been
-some doubt about Kapilar's authorship (cf. Sivaraja Pillai, *Chrono-*
-*logy* of Early Tamils, 202, who has called the poem a near-forgery
-committed upon a famous bard, cf. also J. R. Marr, op. *cit*. 357).
-Published in 1889.
-
-II. *Malaipaṭukaṭām*.
+11. *Malaipaṭukaṭām*.
 
 The title is somewhat obscure; according to some authors, it means
 "the secretion oozing from the mountain"; according to others, it
-means "the sound of *kaṭām* which appears in the mountains”.1 The
+means "the sound of *kaṭām* which appears in the mountains”.[^nature-elephant-mountain] The
 title is taken from a line (348) of the poem itself (and must have been
 considered poetically very striking; this tendency to pick up
 "catch-words" or attractive phrases from the poems and give them
@@ -692,7 +685,16 @@ from other sources), and the name of the poet Peruňkunçūr
 Perunkaucikaṇār. The poem has 583 lines. Various aspects of the
 life of different communities in the hero's land are described, and
 the poem contains exquisite pictures of nature. Published in 1889.
+
+[^nature-elephant-mountain]: Cf. P. Kannappa Mudaliyar, *Tamil nūl varalāṟu*, 1962, p. 109. The line
+runs *malaipatukaṭām matirattu* iyampa. Probably it is a comparison
+of an
+elephant to a mountain; the oozing stands for the sounds emanating
+from the
+mountainous region.
+
 12. *Netunalvāṭai*
+
 means literally "The Good Long North Wind", implying by
 metonymy the Cold Season, which is the background of this
 narrative, ascribed to the famous Nakkīrar, and composed in the
@@ -706,24 +708,13 @@ In respect of language, diction, imagery and subject-matter it is
 of course-only naturally so-in no way different from the rest of
 the lays; but, in addition, it has some features that set it apart from
 the rest: it begins with the beautiful description of nature during the
-1 Cf. P. Kannappa Mudaliyar, *Tamil nūl varalāṟu*, 1962, p. 109. The line
-runs *malaipatukaṭām matirattu* iyampa. Probably it is a comparison
-of an
-elephant to a mountain; the oozing stands for the sounds emanating
-from the
-mountainous region.
-
-
-
-...
-
-rainy season: "The earth is cold From chilly boughs hang
+rainy season: "The earth is cold ... From chilly boughs hang
 coloured drops of rain ... When sharp winds blow to chill the very
 hills "One then travels across the country to the city, to the
 king's capital, Maturai. One sees details of the luxury life in the city,
 and enters the palace, the royal bedchamber, where, surrounded by
 her maids, the languishing queen lies plunged into grief
-… . .“with
+... “with
 the tip of her rosy finger now and then she spills / The shining
 tear-drops that in heavy lids / collected, roll down fast”. Her
 thoughts are far away—and suddenly one is taken to the king's
@@ -734,7 +725,9 @@ one sees the king inspecting at night the camp with wounded
 warriors. The climax of the poem is a prayer to the Goddess of
 Victory, Korravai. As Kailasapathy says (42), “the poem is indeed a
 *tour de force,* exhibiting the bard at his best." Published in 1884.
+
 13. *Maturaikkāňci*
+
 is the longest of the lays, containing 782 lines in the *akaval* metre
 interspersed with a great number of *vaňci* lines, ascribed to the bard
 Māṅkuṭi Marutaṉār who was probably the chief court poet of
@@ -757,17 +750,18 @@ thieves etc.). The author was an exceptionally keen observer of men
 and manners: he has captured successfully the sights and sounds of
 Maturai in the morning, in the afternoon, during dusk, mignight and
 dawn. There is absolutely no love element in the poem. The first
-
-
 portion is dedicated to the valour and victories of the greatest hero
 of the Pandyas, Neṭuňceḻiyaṉ. The poem ends with a "good council"
-to the king to be happy throughout the allotted portion of his life.¹
+to the king to be happy throughout the allotted portion of his life.[^makilntu]
 There are relatively many Aryan loanwords. *Maturaik*. looks like a
 later "lay"; Neṭuňceḻiyaṉ might have been ruling in Maturai around
 215 A.D. And, indeed, this lay might be dated well in the beginning
 of the 3rd Century. Published in 1889.
 
+[^makilntu]: *makilntu* initu *uraimati peruma | varaintu* nī perra nāļ *ūliyaiyē.*
+
 14. *Mullaippāṭṭu,*
+
 sung by nappūtaṉār, is the shortest and one of the most beautiful
 of the lays. It contains 103 lines in the *akaval,* out of which only 33
 deal specifically with the love theme: of wifely patience and selfcontrol
@@ -779,14 +773,19 @@ fierce-eyed (61) and clad in toga-like garments; mention is made of
 *mileccar*, (Skt. *mleccha-*), employed as the king's body-guards,
 not knowing Tamil and speaking only with gestures (65-66).
 Interesting is also the mention made of unlearned youngsters (or
-servants) 2 who are the mahouts of king's elephants and who utter
+servants)[^vatamoli] who are the mahouts of king's elephants and who utter
 Northern words (or speak Northern speech).
+
+[^vatamoli]: *vatamoli payirri kalla ilaiñar* (35-36); the phrase *kallā ilaiñar* occurs also
+in *Porunar*. 100 (for attendants or servants of the king), and *kallā ilaiyar*
+occurs in Ciṟupāṇ. 33.
 
 Unlike the other poem on separation between lovers, *Neṭuṉalvāṭai,*
 this lay ends in a note of hope: the triumphant hero is returning
 swiftly home. Published in 1889.
 
 15. *Cirupaṇārruppatai,*
+
 "A guide of the minstrel playing the small lute", has been sometimes
 acclaimed as the best of the "guidance" poems, though it is the
 shortest of them: it has 296 lines in the *akaval* metre. The chief
@@ -796,10 +795,28 @@ possessing all essential features of this genre. All the conventional
 scenery is described, as well as the valour and especially the munificence
 of the hero. The fact that the Seven Great Donors "are
 mentioned in a catalogue lends colour to the argument that the
-1 *makilntu* initu *uraimati peruma | varaintu* nī perra nāļ *ūliyaiyē.*
-2 *vatamoli payirri kalla ilaiñar* (35-36); the phrase *kallā ilaiñar* occurs also
-in *Porunar*. 100 (for attendants or servants of the king), and *kallā ilaiyar*
-occurs in Ciṟupāṇ. 33.
+poem contains later material" (Kailasapathy, 45). It indeed seems
+to be the last composed in the series of the *Pattuppāṭṭu* (*HTLL* by
+S. Vaiyapuri, 33 and *CET* by Pillai, p. 202: imitation of the *Perum-*
+*pāṇ*.). “The fact that not only the seven minor chieftains, but also
+the Three Kings and some of their cities are mentioned in a retrospective
+manner and with remarkable objectivity strongly suggests
+a later date for the lay" (Kailasapathy, 46). Tamil and Maturai are
+associated in a special way, and, as Kailasapathy points out, in this
+lay the connexions between Tamil and the *Pāṇṭiya* capital which
+became later legendary, may be seen in its evolution (p. 46, cf.
+*tamiḻ* nilaipperra *maturai* 66). Rather powerful is the poet's
+description of his poverty: the starved bitch laying in the ruined
+kitchen near a cold hearth with her blind and helpless pups, refusing
+to suckle them; the wife of the bard cooks without salt (as she cannot
+afford it) some herbs which she gathered from refuge heaps... Lines
+14 to 40 contain one of the most detailed and meticulous descriptions
+-but also rather charming-of a woman's body found in classical
+Tamil literature; this in a kind of *antāti* arrangement (the offset of a
+line repeated as the onset of the next line) including the simile known
+to us from *Porunar.:* the small feet similar to the tongues of panting
+dogs (16-17). Published in 1889.
+
 
 *The Three "Academies*"
 CHART 5
@@ -939,27 +956,6 @@ Nalliyakkōṭaṉ
 *akaval*
 
 
-poem contains later material" (Kailasapathy, 45). It indeed seems
-to be the last composed in the series of the *Pattuppāṭṭu* (*HTLL* by
-S. Vaiyapuri, 33 and *CET* by Pillai, p. 202: imitation of the *Perum-*
-*pāṇ*.). “The fact that not only the seven minor chieftains, but also
-the Three Kings and some of their cities are mentioned in a retrospective
-manner and with remarkable objectivity strongly suggests
-a later date for the lay" (Kailasapathy, 46). Tamil and Maturai are
-associated in a special way, and, as Kailasapathy points out, in this
-lay the connexions between Tamil and the *Pāṇṭiya* capital which
-became later legendary, may be seen in its evolution (p. 46, cf.
-*tamiḻ* nilaipperra *maturai* 66). Rather powerful is the poet's
-description of his poverty: the starved bitch laying in the ruined
-kitchen near a cold hearth with her blind and helpless pups, refusing
-to suckle them; the wife of the bard cooks without salt (as she cannot
-afford it) some herbs which she gathered from refuge heaps... Lines
-14 to 40 contain one of the most detailed and meticulous descriptions
--but also rather charming-of a woman's body found in classical
-Tamil literature; this in a kind of *antāti* arrangement (the offset of a
-line repeated as the onset of the next line) including the simile known
-to us from *Porunar.:* the small feet similar to the tongues of panting
-dogs (16-17). Published in 1889.
 
 Such phrases and formulae, recurring again and again (cf. the
 construction *kalla ilaiyar* or *iļaiňar,* recurring e.g. in *Porunar*. 100,

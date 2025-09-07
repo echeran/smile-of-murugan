@@ -346,7 +346,7 @@ collections of the *Eṭṭuttokai* hyper-anthology are introduced by
 *runtokai*, *Naṟṟiṇai*, and *Paṟanāṉūṟu*. A certain *Peruntēvaṇār* is
 quoted as the author of a Tamil version of the *Mahabharata* (this
 *campu* work has unfortunately reached us only as a fragment). A few
-verses of this *Pāratam* are quoted in the commentaries.¹ It may
+verses of this *Pāratam* are quoted in the commentaries.[^tamil-paratam-venpa] It may
 probably be dated into the middle of the 8th Cent. These two
 persons are probably identical, since the Perutēvaṇār who wrote
 these introductory verses to the ancient anthologies is referred to
@@ -360,11 +360,14 @@ evidence may be drawn from the fact that even within the
 collections themselves poems of rather different antiquity may be
 found: thus, e.g., the majority of the poems collected in the *Kurun-*
 *tokai* anthology belongs probably to the Ist Cent. B.C.-2nd Cent.
-1 This work seems to have been composed in the *veṇpā* metre interspersed
+A.D.; but the same anthology contains a poem, *Kur*. 2, ascribed to
+Iṟaiyaṉār, the author of Akapporuḷ, probably of the 5th-6th
+Cent. A.D.
+
+[^tamil-paratam-venpa]: This work seems to have been composed in the *veṇpā* metre interspersed
 with prose. Cf. Nacciṉārkkiṉiyar's comm. on Tolk. *Purattinaiyiyal* 17.21,
 and the commentaries to *Viracöliyam*, Porutpat 15 and *Alankārappat.* 12,
-18
-, 29.
+18, 29.
 
 மு.
 
@@ -374,6 +377,7 @@ and the commentaries to *Viracöliyam*, Porutpat 15 and *Alankārappat.* 12,
 அளியா னளிப்பானே போன்றான் - தெளியாதே
 செங்காந்தண் மெல்விரலாற் சேக்கை தடவந்தேன்
 என்காண்பே னென்னலால் யான்" (முதி.63)
+
 தலைவி கூற்று
 3I
 33
@@ -424,10 +428,6 @@ Aiyar's commentary. Property of the author.
 
 
 
-A.D.; but the same anthology contains a poem, *Kur*. 2, ascribed to
-Iṟaiyaṉār, the author of Akapporuḷ, probably of the 5th-6th
-Cent. A.D.
-
 It has already been stressed, too, that the final codification of the
 earliest extant poetry must have been later than the compilation of
 various anthologies. Of crucial importance for this hypothesis is the
@@ -456,8 +456,14 @@ commentary is a matter of dispute. If the two Nakkīrar's are
 identical then the date could be anything between the 6th-7th and
 8th Cent. A.D. If they were not identical, the commentary could be
 as late as the 10th-12th Cent. But I would be inclined-for a number
-of reasons which I cannot go into here¹-to regard the poet and
-1 The commentary on *Iṟaiyaṉār* Akapporuḷ uses the similes taken from
+of reasons which I cannot go into here[^iraiynar-akapporul]-to regard the poet and
+the commentator as one and the same man, and set the date of the
+commentary at about 750 A.D. A tradition maintains that the
+commentary was composed by the poet Nakkīrar and was transmitted
+orally for eight generations until it was written down by a
+Nilakantan of Muciṟi.
+
+[^iraiynar-akapporul]: The commentary on *Iṟaiyaṉār* Akapporuḷ uses the similes taken from
 the description of pre-marital love as found in the *Perunkatai,* cf. *Iṟaiyaṉār*
 Akapp. *sūtra* 2 (ed. 1939), p. 38: *Perunkatai* I, xxxii, 17 and 18. *Perun-*
 *katai* is earlier than the 10th Cent., but certainly not earlier than cca 700
@@ -468,11 +474,10 @@ in the 8th Cent. (since it is crammed with references to the victories of the
 Pandya kings of the 7th and 8th centuries), is a collection (*kōvai*) of poems
 out of which about 250 have been preserved, and the major portion of these
 are taken from the commentary on *Iṟaiyaṉār Kaḷaviyal* (*Akapporu!).*
-the commentator as one and the same man, and set the date of the
-commentary at about 750 A.D. A tradition maintains that the
-commentary was composed by the poet Nakkīrar and was transmitted
-orally for eight generations until it was written down by a
-Nilakantan of Muciṟi.
+Nakkīrar's commentary, though regarded by many as inferior to the text
+itself, has descriptive passages of literary beauty, with alliterations and
+assonances, and they can even be metrically scanned (see chapter 16 of this
+book; cf. also T. P. Meenakshisundaran, *HTL* 173).
 
 This tradition is not at all absurd. Lately we have come to regard
 such and similar traditions with more credulity than in the age of
@@ -481,20 +486,14 @@ persistent indigenous traditions (e.g. the one incorporating the
 famous Gajabāhu synchronism) may be on the whole trusted. While
 the commentary itself was very probably composed by a Nakkīrar
 of the 8th Cent., it again very probably was transmitted orally
-until it was fixed as a written text by Nilakaṇṭan of Muciṟi. 1 This
+until it was fixed as a written text by Nilakaṇṭan of Muciṟi.[^nilakantan-muciri] This
 commentary of Nakkīrar is actually one of the first specimen of
 Tamil prose, not bits of unmeasured verse as in *Cilappatikāram,* but
 pages and pages of genuine prose (ornate, poetic, alliterative,
 metaphorical, and full of similes).
 
-I am dealing with this work and its commentary at this length
-because it will again and again be mentioned (especially while
-Nakkīrar's commentary, though regarded by many as inferior to the text
-itself, has descriptive passages of literary beauty, with alliterations and
-assonances, and they can even be metrically scanned (see chapter 16 of this
-book; cf. also T. P. Meenakshisundaran, *HTL* 173).
 
-1 This can be inferred e.g. *ab intra* from the manner in which the commentary
+[^nilakantan-muciri]: This can be inferred e.g. *ab intra* from the manner in which the commentary
 itself proceeds, cf. utterances like urai *naṭantu varāniņṛamai* nōkki, or
 *ini urai națantavāru collutum*, or *innanam varukinṛatu urai.* The commentary
 is said to "proceed", "to come down" to us, obviously through oral tradition.
@@ -518,9 +517,8 @@ The date of the commentary was first set as 8th Cent. A.D. by V. Kanakasabhai
 Pillai in *The Tamils* 1800 *Years Ago* (1904). Cf. also Chapter 16 of
 this book.
 
-3
-
-
+I am dealing with this work and its commentary at this length
+because it will again and again be mentioned (especially while
 discussing the legend of the *Caṅkam*, and because it very probably
 is the first theoretical treatise on the poetic conventions of ancient
 Tamil). What one has especially to bear in mind is the distinction in
@@ -559,13 +557,10 @@ strata of literature is pre-Pallava, that is pre-3rd Cent. A.D. Now
 this conclusion fits well with other lines of evidence derived from
 other data on South Indian history. What are these other lines of
 evidence?
+
 1. First of all, there are the data of Graeco-Roman authors. The
 Greek and Roman trade is well attested by the early Tamil texts
-
-1
-55
-
-themselves: the poems speak of Yavanas ¹ and their ships, of their
+themselves: the poems speak of Yavanas[^yavanas] and their ships, of their
 gold coins and Yavana wine etc., and these poems speak about the
 Western merchants and their trade with the South as a well-known,
 widely popular and contemporary fact; allusions to this foreign
@@ -573,8 +568,9 @@ Western-oriented trade are of such nature that we must assume
 this Roman and Western trade to have been a simple fact of daily
 life of those who listened to these early poems. It was shown
 conclusively that the Greek and Roman trade could not have
-continued in any considerable extent after the 2nd-3rd Century.2
-1 There are about ten references to the Yavanas in the *Caṅkam* texts:
+continued in any considerable extent after the 2nd-3rd Century.[^yavana-trade-period]
+
+[^yavanas]: There are about ten references to the Yavanas in the *Caṅkam* texts:
 *Mullaip.* 61, 66, *Perumpāṇ*. 316, *Patiṟṟup*. II, *Akam* 57, 149, *Neṭuṉal*. 31-5,
 101-2, *Puṟam* 56 and 353. The Yavaṇas served as body-guards to kings
 *(Mullaip*. 66) and as palace-guards during the night (ib. 61). They were a
@@ -588,7 +584,7 @@ Cf. P. Meile, "Les Yavanas dans l'Inde tamoule", *Journal Asiatique* 323
 (1940) 85-123, and K. Zvelebil, “The Yavanas in Old Tamil Literature",
 *Charisteria Orientalia,* Praha 1956, 401-409.
 
-2 Cf. E. H. Warmington, The *Commerce* Between the *Roman* Empire *and*
+[^yavana-trade-period]: Cf. E. H. Warmington, The *Commerce* Between the *Roman* Empire *and*
 *India,* Cambridge, 1928, M. P. Charlesworth, *Trade-routes and Commerce* of
 *the Roman* Empire, Cambridge, 1926. Further *Tamil Culture* Vol. I, No. 1,
 286-295; also A. Ayyappan, "A Dakshina Taxila", The Hindu, Madras, 23.3.
@@ -615,7 +611,8 @@ copper coins bearing Roman devices and legends produced locally. In the
 Greek and Latin sources we have scores of Tamil and South Indian names
 both local and dynastic, which again and again occur in the earliest poetry
 of the Tamils (e.g. *Tyndis*-Tonti, Kolchoi*-Korkai, Muziris-Muciri*, *Modoura-*
-
+*Maturai*, *Khaberis Emporion*-*Kävirippattinam*, etc. etc.), cf. F. B. J.
+Kuiper, "Two Problems of Old Tamil Phonology"*, IIJ* (1958), pp. 219-221.
 
 2. This cumulative evidence of the early Tamil texts themselves,
 of the Greek and Roman authors, and of archeological data are
@@ -637,8 +634,8 @@ whereas *Tēvāram,* the anthology of *bhakti* hymns, abounds in it (eg.
 Campantar, *Pat.* 2; 9, 10); the Old and LTa. *aintu* "five" appears
 in Campantar 237. 4, as *añcu*; the present morph—*kinṛ*—which, in
 the OTa. texts, is very sporadic (a few instances), is rather frequent
-in Campantar, *Pat*. 2, 3-4, *Pat*. 235, 1, etc.
-
+in Campantar, *Pat*. 2, 3-4, *Pat*. 235, 1, etc. \
+ \
 In short, the language of the *Tēvāram* devotional hymns presents
 an entirely new and later stage of development in its morphology
 and lexis; and the prosody, too, is very different and shows much
@@ -646,6 +643,7 @@ more influence of the Sanskrit *mātrā*-type of metrics. All this shows
 beyond doubt that the language of the early poetry must be at least
 a few centuries older than the language of the Saiva and Vaiṣṇava
 hymns, the first of which were composed in the 6th-7th Cent.
+
 3. We shall discuss the relative chronology of the various texts
 later. Now we have to ask a very basic question: is there any
 positive, concrete *datum* which would serve as a point of departure
@@ -655,14 +653,11 @@ however, which has been strongly supported by two other kinds of
 data, by evidence derived from the earliest Brāhmī inscriptions,
 and by a bilingual coin, seems to me to be, to date, a rather firm
 sheet-anchor for the chronology of early Tamil India. In any
-*Maturai*, *Khaberis Emporion*-*Kävirippattinam*, etc. etc.), cf. F. B. J.
-Kuiper, "Two Problems of Old Tamil Phonology"*, IIJ* (1958), pp. 219-221.
-
-
 case, it is not quite true what H. W. Schomerus wrote a few decades
 ago in his account of Tamil literature, namely, that the beginnings
 of Tamil literature are enshrouded in complete darkness.
-("die *Anfänge* der *Tamil*-*Literatur* liegen *völlig im Dunkeln"*).
+("die *Anfänge* der *Tamil*-*Literatur* liegen *völlig im Dunkeln"*). \
+ \
 In the well-known Tamil epic poem, The *Lay* of *the Anklet,* we
 may read, in the 30th Canto, 160, the following line: *kaṭalcul*
 *ilankaik kayavāku vēntan.* The whole passage reads: "The monarch
@@ -671,24 +666,33 @@ his respects. In front of him the Arya kings released from prison,
 kings removed from the central jail, the Kongu ruler of the Kudagu,
 the king of Malva and *Kayavāku,* the king of the *sea-*girt *Ceylon,*
 prayed reverently to the deity thus ..." (Dikshitar's transl., p.
-343). According to Cilappatikāram, Gajabāhu (the First) of Ceylon
+343).[^gajabahu] According to Cilappatikāram, Gajabāhu (the First) of Ceylon
 was contemporary with the hero of the 3rd Canto of the epical poem,
 the Chera king Cenkuṭṭuvan. Hence this great *Ceral* monarch who
 according to Patiṟṟuppattu V ruled for 55 years, may be roughly
-assigned to 170-225 A.D. (S. Vaiyapuri Pillai, *HTLL,* p. 22).2
-1
+assigned to 170-225 A.D. (S. Vaiyapuri Pillai, *HTLL,* p. 22).[^two-gajabahus] \
+ \
 This computation has been known as the *Gajabāhu Synchronism*
 and it has become a sheet-anchor of early Tamil history, and our
 basic point of departure for dating the earliest Tamil literature.
 Though it rests on slender foundations, it is obvious from the
 plentiful corroborative evidence "derived from the general possibilities
-of history in Northern and Southern India" (K.A. Nila1
-For the first time, the "Gajabāhu synchronism" was made the centre of
+of history in Northern and Southern India" (K.A. Nilakanta Sastri) that the epic poem preserves elements of a correct
+historical tradition and that Cenkuṭṭuvan the *Cēral* and Gajabāhu I
+of Ceylon were contemporaries, both living round 180 A.D. The
+opinion that the Gajabāhu synchronism is an expression of a genuine
+historical tradition is accepted by most scholars today; apart from
+K. A. Nilakanta Sastri, by Seshagiri Sastri, Kanakasabhai Pillai,
+Krishnaswami Aiyengar, K. Kailasapathy etc. (cf. Vaiyapuri
+Pillai, *HTLL*, p. 22: "We may be reasonably certain that the
+chronological conclusion reached above is historically sound").
+
+[^gajabahu]: For the first time, the "Gajabāhu synchronism" was made the centre of
 attention by V. Kanakasabhai Pillai, The *Tamils* 1800 *Years* Ago (1904),
 p. 7; he however dates Gajabāhu I in 113-125 A.D., which was proved
 incorrect.
 
-2 In Ceylonese history, there were two kings by name of Gajabāhu: since
+[^two-gajabahus]: In Ceylonese history, there were two kings by name of Gajabāhu: since
 the second ruled as late as in the 12th Cent., it must be the first who is meant
 here. Gajabāhu I is mentioned in *Mahāvaṃso* XXXV, pp. 253-5 as follows:
 "After Vankanasikatissa's death, his son Gajabāhukagāmani reigned
@@ -706,24 +710,13 @@ reading *Kayavāku―*i.e. Gajabāhu-as the only correct one, though he gives
 the v.l. *kāval ventan* on p. 585, ed. 1950. For Gajabāhu I, cf. Epigraphia
 *Zeylanica,* III, No. 1, p. 9.
 
-
-
-kanta Sastri) that the epic poem preserves elements of a correct
-historical tradition and that Cenkuṭṭuvan the *Cēral* and Gajabāhu I
-of Ceylon were contemporaries, both living round 180 A.D. The
-opinion that the Gajabāhu synchronism is an expression of a genuine
-historical tradition is accepted by most scholars today; apart from
-K. A. Nilakanta Sastri, by Seshagiri Sastri, Kanakasabhai Pillai,
-Krishnaswami Aiyengar, K. Kailasapathy etc. (cf. Vaiyapuri
-Pillai, *HTLL*, p. 22: "We may be reasonably certain that the
-chronological conclusion reached above is historically sound").
 4. The procedure as to how to arrive, from the Gajabāhu synchronism,
 at an absolute dating of the bulk of so-called *Caṅkam* poetry,
 is as follows: The traditions, recorded in the colophons and epilogues
 of the poems of *Patiṟṟuppattu* (“The Ten Tens"'
 -a bardic collection
 singing about the *Cēral* kings), reflect no doubt quite reliably the
-history of the Cheras. 1 A careful study of the synchronism between
+history of the Cheras.[^patirrupattu] A careful study of the synchronism between
 the kings, chieftains and the poets suggested by the notes at the
 end of the poems (assigning to each generation about 25 years)
 indicates that the main body of early Tamil literature reflects events
@@ -739,19 +732,19 @@ approximately 130 A.D.-240 A.D. The majority of the so-called
 contain material which may be much older (actually, some poems
 are as old as the 1st Cent. B.C.) as well as much younger (some
 bardic poems may be as late as the 4th-6th Cent. A.D.).
-5. The epic poem *Cilappatikāram* provides yet another clue: In
-Canto XXVI, Il. 149 and 163 we read about *nurruvar kannar*. This
-name was identified with the dynastic name *Śātakarṇi*, *Šātakaṇi,*
-the *Šātavāhanas* or *Andhras*. This powerful dynasty which followed
-the Mauryan rule in the Deccan, lasted for four and a half centuries
-1 *Patiṟṟuppattu,* ed. by U. V. Swaminatha Aiyar, p. 4-5; R. Paneerselvam,
+
+[^patirrupattu]: *Patiṟṟuppattu,* ed. by U. V. Swaminatha Aiyar, p. 4-5; R. Paneerselvam,
 "An Important Brahmi Tamil Inscription; a reconstruction of the genealogy
 of the Chera kings", Proc. I. *International Tamil Conference-Seminar 1966,*
 Kuala Lumpur (1968); M. E. M. Pillai, *Culture of the Ancient Ceras*, Kovilpatti,
 1970.
 
 
-
+5. The epic poem *Cilappatikāram* provides yet another clue: In
+Canto XXVI, Il. 149 and 163 we read about *nurruvar kannar*. This
+name was identified with the dynastic name *Śātakarṇi*, *Šātakaṇi,*
+the *Šātavāhanas* or *Andhras*. This powerful dynasty which followed
+the Mauryan rule in the Deccan, lasted for four and a half centuries
 from about 230 B.C. By the beginning of the 3rd Cent., their empire
 had virtually ceased to exist. In the private collection of Dr. N. P.
 Dikanara Rao, Hyderabad, is found a silver coin with a short
@@ -759,8 +752,8 @@ bilingual inscription in Prakrit and Tamil. The Prakrit text reads (?)
 *vasiți putasa* siri *satakanisa raano*. The script is Brāhmī. The meaning
 is "(The coin) of the king Siri Satakaṇi (Śrī Śātakarṇi) Vasiṭiputa
 (Vasiṣṭhiputrasya)". The Tamil text, also in Brāhmī, reads *vaciṭṭi-*
-*makanku* tiru *catakaṇiku aracanku.* 1 This king established himself
-on the *Śātavāhana* throne perhaps in 168 or 170 A.D. 2 This short
+*makanku* tiru *catakaṇiku aracanku.*[^bilingual-coin] This king established himself
+on the *Śātavāhana* throne perhaps in 168 or 170 A.D.[^sewell-historical-inscriptions] This short
 bilingual is only a slight corroboration of our dating, but it *is* a kind
 of evidence: first, it shows the use of Brähmi for epigraphic Tamil in
 the 2nd Cent. A.D.; second, it shows the use of Tamil as an important
@@ -773,6 +766,15 @@ the grammar of this short inscription is identical with the other
 Brāhmī Tamil inscriptions and with a rule of the *Tolkāppiyam*
 (about the possessive dative); and so even this short bilingua on a
 *Śātavāhana* coin helps in the dating of the earliest Tamil texts.
+
+
+[^bilingual-coin]: Cf. R. Panneerselvam, "Further Light on the Bilingual Coin of Śātavāhans",
+*IIJ* XI (1969) 4, and R. Nagaswamy, "A Bilingual Coin of Śātavāhans",
+*The Sunday Standard,* 26.3.1967.
+
+[^sewell-historical-inscriptions]: R. Sewell, Historical Inscriptions of *Southern India*, Madras, 1932;
+D. C. Sircar, *E.I.* 35, iv, 247 (1964).
+
 6. The most important corroborative evidence which shows the
 reliability of the Gajabāhu synchronism on the one hand and of the
 colophons in the *Patiṟṟuppattu* collection on the other hand is found
@@ -785,19 +787,7 @@ I. *International Conference*-*Seminar* of Tamil Studies, *Kuala*
 *Lumpur*, 1966, "New Light on Dravidian Kinship Terms", II.
 *International Conference--Seminar* of *Tamil Studies*, Madras, 1968
 and "Tamil-Brāhmi Inscriptions of the Caṅkam Age", ibid. Thanks
-to the labours of K.V.S. Ayyar, H. K. Sastri, K. K. Pillai, my own,
-1 Cf. R. Panneerselvam, "Further Light on the Bilingual Coin of Śātavāhans",
-*IIJ* XI (1969) 4, and R. Nagaswamy, "A Bilingual Coin of Śātavāhans",
-*The Sunday Standard,* 26.3.1967.
-
-2 R. Sewell, Historical Inscriptions of *Southern India*, Madras, 1932;
-D. C. Sircar, *E.I.* 35, iv, 247 (1964).
-
-3
-3 Cf. H. K. Krishna Sastri, "The Caverns and Brahmi Inscriptions of
-Southern India", *Preceed*. *and Trans*. of the I *Oriental* Conference, Poona
-
-
+to the labours of K.V.S. Ayyar, H. K. Sastri, K. K. Pillai, my own,[^sastri-brahmi-inscriptions]
 and especially of I. Mahadevan, we now know of the existence of
 76 rock-inscriptions in the Tamil-Brāhmi script from 21 sites in the
 Tamil country. While these inscriptions are very short and the
@@ -808,17 +798,18 @@ I. Mahadevan's discovery of the rock inscriptions of the *Cēral*
 *Irumpoṟai* dynasty at Pukalūr and of the Pāṇḍyas at Mangulam
 enables us to identify some of the kings and chieftains with the
 heroes of *Caṅkam* poems. This is of enormous importance for the
-dating of literary texts.
-
+dating of literary texts. \
+ \
 a) Thus Kō Ātan Cellirumporai of the Pukalur Inscription
 (dated ca. 200 A.D.) can be identified with Celvakkaṭunkō Vāliyātan,
-the hero of the VII. decade of *Patiṟṟuppattu.*
-
+the hero of the VII. decade of *Patiṟṟuppattu.* \
+ \
 b) There are further identifications of Chera feudatories whose
 names occur in these epigraphs, with the heroes of poems from
 *Patiṟṟuppattu, Akam 77*, 143, *Puṟam* 168-172 etc. Thus the Pukalūr
 Tamil-Brāhmi Inscription (dated with the help of the Arikamedu
-*graffiti*) became another sheet-anchor of the early Tamil chronology.
+*graffiti*) became another sheet-anchor of the early Tamil chronology. \
+ \
 c) The two rock inscriptions of Neṭuňceḻiyaṉ found at Mangulam
 near Madurai are the earliest known historical records in Tamilnad.
 The archaic palaeography and the linguistic features of these
@@ -829,10 +820,9 @@ identified with his namesake of Cilappatikāram and other so-called
 *Caṅkam* works!). The end of the 2nd Cent. B.C. seems to be the
 period as we shall see later-when the original text of the *Tolkāppi-*
 *yam* which I propose to call the *Ur-Tolkāppiyam* was composed.
-Thus, the analysis of these earliest Tamil epigraphic records
-establishes a correlation between earliest inscriptional texts and
-earliest literary texts: a number of poems of the earliest anthologies
-appear in a new light, and happen to be dateable; thus correlation
+
+[^sastri-brahmi-inscriptions]: Cf. H. K. Krishna Sastri, "The Caverns and Brahmi Inscriptions of
+Southern India", *Preceed*. *and Trans*. of the I *Oriental* Conference, Poona
 (1919), 327-348; K. V. Subrahmanya Ayyar, "The Earliest Monuments of the
 Pandya Country and Their Inscriptions", *Proceed. and Trans*. of the III
 *Oriental Conference*, Madras (1924), 275-330; K. K. Pillai, "The Brahmi
@@ -840,6 +830,11 @@ Inscriptions of South India", *Tamil Culture* (1956) 175-185; K. Zvelebil,
 "The Brahmi Hybrid Tamil Inscriptions"*, Archiv Orientální* (1965) 547-575.
 
 
+
+Thus, the analysis of these earliest Tamil epigraphic records
+establishes a correlation between earliest inscriptional texts and
+earliest literary texts: a number of poems of the earliest anthologies
+appear in a new light, and happen to be dateable; thus correlation
 has been established with *Akam 77,* 143, *Puṟam* 158 and 168, 169,
 387*, Akam* 115 and 253. Taking into consideration the cumulative
 evidence of the linguistic, epigraphic, archaeological, numismatic
@@ -860,26 +855,28 @@ Chart 4.
 grammar, the *Eḻuttatikāram* (Phonology) and *Collatikāram*
 (on Morphology, Semantics, Etymology, and Syntax) minus
 later interpolations, which may be dated roughly to 100 B.C.
+
 2. The earliest poems of the following anthologies:
-a. *Ainkuṟunūṟu*
-b. *Kuṟuntokai*
-c. *Naṟṟiṇai*
-d. *Patiṟṟuppattu*
-e. *Akanāṉūṟu*
-f. *Paṟanāṉūṟu*
-The earliest poems of these anthologies form thus the nuclear
+    a. *Ainkuṟunūṟu*
+    b. *Kuṟuntokai*
+    c. *Naṟṟiṇai*
+    d. *Patiṟṟuppattu*
+    e. *Akanāṉūṟu*
+    f. *Paṟanāṉūṟu*
+
+    The earliest poems of these anthologies form thus the nuclear
 corpus of the great anthology later called *Eṭṭuttokai*.
 3. The lays of the second great anthology, *Pattuppāṭṭu*, in this
 possible chronological order:
-a. *Porunarāṟṟuppaṭai*
-b. *Perumpāṇāṟṟuppaṭai*
-c. *Paṭṭiṉappalai*
-d. *Kuṟiňcippāṭṭu*
-e. *Malaipaṭukaṭām*
-f. *Neṭuṉalvāṭai*
-g. *Maturaikkāňci*
-h. *Mullaippāṭṭu*
-i. *Ciṟupāṇāṟṟuppaṭai*
+    a. *Porunarāṟṟuppaṭai*
+    b. *Perumpāṇāṟṟuppaṭai*
+    c. *Paṭṭiṉappalai*
+    d. *Kuṟiňcippāṭṭu*
+    e. *Malaipaṭukaṭām*
+    f. *Neṭuṉalvāṭai*
+    g. *Maturaikkāňci*
+    h. *Mullaippāṭṭu*
+    i. *Ciṟupāṇāṟṟuppaṭai*
 
 
 CHART 4

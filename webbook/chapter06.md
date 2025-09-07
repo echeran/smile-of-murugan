@@ -26,8 +26,11 @@ probably a wide gap of time between the two. It seems that Iraiyanār's
 older than *TP,* that it is the earliest attempt to systematize, classify
 and explain the bardic poetry and its conventions, themes and
 subject-matter as a "classical", that is a "closed", "frozen”,
-"traditional" body of texts which ceased to be alive.¹ Reasons:
-1 Some authors maintained that the rigid adherence to the conventions
+"traditional" body of texts which ceased to be alive.[^alive] Reasons:
+
+
+
+[^alive]: Some authors maintained that the rigid adherence to the conventions
 "crushed poetic freedom and originality” (M. S. Purnalingam Pillai, op*. cit*.
 p. 18). Some other authors would see in the classification, codification and
 explanation of the traditional conventions, given in the grammars, notably
@@ -39,12 +42,6 @@ development of Tamil literature", which "today have no meaning except for
 the antiquarian”, op. *cit.* pp. 69-70). For some critics, applying neo-romantic
 literary criteria to ancient oral and post-oral literature of the classical age,
 imitation is unbecoming of poets; imitative verses are necessarily of inferior
-
-
-First, the fact that, in *IA*, the literary theory, the poetics and
-rhetoric is much less elaborate and much more roughly and less
-delicately presented than in *Tolk*. *Poruḷ*. Second, the commentary
-says explicitly, that *IA* is the first book (*mutanúl*) on *akam.¹* The
 quality (M. Varadarajan, The *Treatment of Nature* . . ., pp. 412 and elsewhere,
 Raja Manickam, op. cit. 204 ff.). These critics are indeed very incorrect
 in their conclusions. First of all, no so-called creative act is entirely free
@@ -81,20 +78,14 @@ testimony. Of this "primeval", simple, "folk" poetry of the ancient Tamils
 nothing whatsoever has survived. What has survived, is a highly developed
 bardic poetry, composed in accordance with the rules and limitations imposed
 by tradition and formalized by the first theoreticians.
-1 The episode is blended with myth and fiction, but may contain a grain
-of truth: Once upon a time a severe famine occurred in the Pandya land.
-Many people had to leave, and among them were bards and scholars patronized
-by the king. Many years later they returned, the king convened the
-bards and discovered that there was no book on poetics and rhetoric *(poru-*
-*latikāram*), but only the two books on "letters" *(eluttatikāram*) and "words'
-*(collatikāram*). Since the king and the members of the "Academy" had no
-"grammar of the Matter" *(porulilakkaṇam perātu*, ed. 1939, p. 14), god
-Siva (Iraiyaṇār) himself intervened and composed the *Akapporuḷ.* Hence,
-*Iṟaiyaṉār Akapporuḷ* is sometimes translated as "The Lord's Grammar of
-Love".
 
-THE THEORY OF "INTERIOR LANDSCAPE"
 
+
+
+First, the fact that, in *IA*, the literary theory, the poetics and
+rhetoric is much less elaborate and much more roughly and less
+delicately presented than in *Tolk*. *Poruḷ*. Second, the commentary
+says explicitly, that *IA* is the first book (*mutanúl*) on *akam.*[^akam-commentary] The
 name of the author is Iṟaiyaṉār, and this has been explained by the
 commentary and by the tradition as "God", i.e. Siva himself.
 There is a poem in *Kur*. (No. 2) ascribed to one Iṟaiyaṉār. There is
@@ -124,21 +115,12 @@ and on the tradition of bardic "handbooks". It seems therefore that *IA*
 is the first treatise on the conventions of the earliest bardic poetry of
 the *akam* genre written down at a time when the live bardic oral
 tradition of that poetry was already moribund: approximately
-between the 4th-6th Century A.D.1 The text of the *sūtras* is lucid,
+between the 4th-6th Century A.D.[^bardic-oral-poetry] The text of the *sūtras* is lucid,
 continuous and brief. There are two parts in the grammar, one on
 *kaḷavu* (premarital or clandestine love), the other on *kaṟpu* (conjugal
 love). There are 33 *sūtras* in the first portion and *27* in the second.
 More prominence is given to *kaḷavu,* and hence the work has also
 been called *Kaḷaviyal.* The entire text has thus 60 *sūtras*. The
-1 The age was now very different from the "bardic" age-Tamilnad went
-through a strong impact of Jaina and Buddhist moralizing, pessimistic
-trends, reflected in the didactic literature, and subsequently through the
-first impact of neo-Brahmanism reflected in early bhakti texts like the
-*Tirumurukāṟṟuppaṭai* and Kāraikkāl Ammaiyār's poems.
-
-88
-88
-THE THEORY OF “INTERIOR LANDSCAPE"
 commentary is ascribed to Nakkīrar, the son of the accountant of
 Maturai (*Maturai kaṇakkāyaṉār makaṇār* Nakkīrar). It is the first
 and earliest of the great prose commentaries which occupy so
@@ -154,12 +136,43 @@ probably possible to prove, that this Nakkīrar and the Nakkīrar
 who composed the very late lay “Guide to Lord Muruku”, were one
 and the same person. This hypothesis is supported by the analysis
 of the diction and style of this commentary; the prose is highly
-ornate and poetic, full of alliterations, similes and metaphors.¹
+ornate and poetic, full of alliterations, similes and metaphors.[^many-similes]
 The commentary contains many love poems (e.g. *urai* to ss. 7, 9, 12)
 which it quotes as specimen, which have not survived in the anthologies.
 Both the text and the commentary contain an abundance of
 interesting sociological, psychological and physiological data (e.g.
 s. 43, where the menstruation-puppu-practices are discussed).
+
+
+[^akam-commentary]: The episode is blended with myth and fiction, but may contain a grain
+of truth: Once upon a time a severe famine occurred in the Pandya land.
+Many people had to leave, and among them were bards and scholars patronized
+by the king. Many years later they returned, the king convened the
+bards and discovered that there was no book on poetics and rhetoric *(poru-*
+*latikāram*), but only the two books on "letters" *(eluttatikāram*) and "words'
+*(collatikāram*). Since the king and the members of the "Academy" had no
+"grammar of the Matter" *(porulilakkaṇam perātu*, ed. 1939, p. 14), god
+Siva (Iraiyaṇār) himself intervened and composed the *Akapporuḷ.* Hence,
+*Iṟaiyaṉār Akapporuḷ* is sometimes translated as "The Lord's Grammar of
+Love".
+
+
+[^bardic-oral-poetry]: The age was now very different from the "bardic" age-Tamilnad went
+through a strong impact of Jaina and Buddhist moralizing, pessimistic
+trends, reflected in the didactic literature, and subsequently through the
+first impact of neo-Brahmanism reflected in early bhakti texts like the
+*Tirumurukāṟṟuppaṭai* and Kāraikkāl Ammaiyār's poems.
+
+
+[^many-similes]: Cf. such passages as e.g. on s. 2: *ivalum utan pirantu uțan vaļarntu nir*
+*uțan āți cīr utan peruki* ōl *uṭanāṭṭup* pāl *uṭanunțu pal uṭaneluntu col utan karru*
+*palamaiyum payirciym panpuт паприт* ... etc. This is very much the style
+of a late Tamil poet rather than of a medieval scholiast who tended to be
+more simple and less verbose (cf. Iḷampūraṇar's style, who was, in "timedepth",
+the very next commentator). The number of similes is staggering.
+
+
+
 There are a number of Skt. loans in the commentary (e.g. *vārttai,*
 *pirāmaṇan, cuvarkkam, caņam*, *kumāracuvāmi, vācakam*, *kāraṇikan*
 etc.). Important is that the commentary quotes extensively (325
@@ -169,21 +182,15 @@ hero is Pănțiyan Māran (640-670 A.D.). These stanzas belong to the
 commentary is roughly 700 A.D. The upper limit would be perhaps
 750-800. This does not refute the speculation that Nakkīrar of
 *TMK* and Nakkīrar the author of the commentary are identical.
+
 Probably only slightly later than Iṟaiyaṉār, the author of *Kaļa-*
 *viyal,* was the man responsible for the final version and redaction of
 the *Tolkāppiyam* (we very much doubt that it was “Tolkāppiyaṇār”
 himself). It seems that the final and definitive version of the
-1 Cf. such passages as e.g. on s. 2: *ivalum utan pirantu uțan vaļarntu nir*
-*uțan āți cīr utan peruki* ōl *uṭanāṭṭup* pāl *uṭanunțu pal uṭaneluntu col utan karru*
-*palamaiyum payirciym panpuт паприт* ... etc. This is very much the style
-of a late Tamil poet rather than of a medieval scholiast who tended to be
-more simple and less verbose (cf. Iḷampūraṇar's style, who was, in "timedepth",
-the very next commentator). The number of similes is staggering.
-
-*Tolkāppiyam* Poruḷatikāram occurred sometime during the second
+*Tolkāppiyam* *Poruḷatikāram* occurred sometime during the second
 half of the 5th-first half of the 6th Century A.D.
 
-The Porulatikaram deals with different literary compositions,
+The *Poruḷatikāram* deals with different literary compositions,
 their subject-matter and the conventions to be observed. The
 *sūtras* which form the basis of our present definitive text of the
 TP may have had once the function of a bardic grammar, "an aid
@@ -194,6 +201,8 @@ essential authority since it "drew freely upon many predecessors
 whose works were probably widely in currency, and appears as a
 fully developed and definitive treatise" (Kailasapathy 49), different,
 in this respect, from the probably slightly earlier *IA*.
+
+
 Well-matched
 CHART 6
 Poru!
@@ -211,6 +220,8 @@ Heroism
 kaikkiḷai
 ('The Base Relationship')
 unrequited
+
+
 There are indications that the core-*sutras* of the grammar were
 indeed intended for bardic instruction. So, e.g., the author refers to
 ten kinds of forbidden faults in literary compositions (*TP* 653 ff.).
@@ -220,8 +231,6 @@ etc., cf. with data on physiology, hygiene etc. in Iṟaiyaṉār's text),
 seems again to prove that the tradition contained in these *sūtras*
 was a teaching tradition: bardic training stresses general knowledge,
 and has encyclopaedic character (Kailasapathy 51, Chadwick,
-
-
 *Poetry and Prophecy,* 31-48). The classification and arrangement of
 the many poetic themes of love and heroism manifest unity and
 harmony, and in spite of some schematism, the author does not
@@ -244,7 +253,7 @@ between the illustrative stanzas in *PVM* and *Paṟanāṉūṟu (Pur*. 290
 PVM v. 19, Puṟ. 292 *PVM* v. 32). The authorship is ascribed
 to Aiyaṉār Itaṇār of the royal *Cēral* family.
 
-=
+
 In conclusion it may be said that all the three works discussed
 are later than the erotic and heroic poems themselves, and evidently
 contain interpolations and later additions. However, “because they
@@ -264,10 +273,10 @@ content of poetry.
 
 The entire subject-matter of poetry may be divided into two
 main *genres*: akam or *akapporul,* and *puṟam* or *puṟapporuḷ.*
+
+
 *akam*: the meanings given in *DED* 8 are “inside, house, place,
 agricultural tract, breast, mind"; it occurs in all SDr
-THE THEORY OF "INTERIOR LANDSCAPE"
-
 languages Tuļu and Telugu. This in itself should be
 rather relevant. In the cultural and literary spheres, it also
 means "inner life", "private life" and, more specifically,
@@ -281,7 +290,7 @@ Tulu and Telugu. In reference to literature it means
 "heroism, war".
 
 The fundamental features of the *akam* genre: highly conventional
-1 and
+[^anonymous] and
 poetry; the heroes should be and are fully *anonymous*
 typified; their number is limited to the hero, the heroine, the hero's
 friend, usually his charioteer, the heroine's friend, usually her fostersister
@@ -289,19 +298,8 @@ and/or maid, the heroine's mother. Under *akam* in its two
 basic divisions of *kaḷavu* (pre-marital love) and *kaṟpu* (wedded and
 extramarital love), the classical Tamil poet succeeded to describe the
 *total erotic experience* and the *total story of love* of *man as such.*
-In contrast, the heroes of the *puṟam* genre are frequently *individ-*
-*ualized* as *concrete, historical persons* (kings, chieftains, the poet
-himself); the drama described is based often on a single, historical
-event. However, there is strict conventional framework for the
-heroic poems, too.
 
-From the total corpus of classical Tamil poetry, about a quarter
-may be ascribed to puṟam, and about three quarters to the akam
-genre.
-
-*Love* may be well-matched or ill-matched. Well-matched love is
-treated in poems describing a man's and woman's love-experience
-1 According to *TP,* ss. 54-5, in the five phases of *akam*, "no names of persons
+[^anonymous]: According to *TP,* ss. 54-5, in the five phases of *akam*, "no names of persons
 should be mentioned. Particular names are appropriate only in *puṟam*
 poetry". In this connection, cf. W. H. Hudson, *An Introduction* to the Study
 *of Literature*, 2nd ed., London, 1946, p. 97: "The majority of world's great
@@ -316,13 +314,23 @@ M. Manuel, "The Use of Literary Conventions in Tamil Classical Poetry",
 Proc. of the I *International Conference* Seminar of Tamil Studies, Vol. II,
 1969, 63-69.
 
-Y
+In contrast, the heroes of the *puṟam* genre are frequently *individ-*
+*ualized* as *concrete, historical persons* (kings, chieftains, the poet
+himself); the drama described is based often on a single, historical
+event. However, there is strict conventional framework for the
+heroic poems, too.
 
-"
+From the total corpus of classical Tamil poetry, about a quarter
+may be ascribed to puṟam, and about three quarters to the akam
+genre.
+
+*Love* may be well-matched or ill-matched. Well-matched love is
+treated in poems describing a man's and woman's love-experience
 against the background of the five basic physiographic regions; the
 story of human love takes part in one of the five landscapes, known
 technically as *aim* "five" + *tiṇai* "landscape" or *aintiṇai*. To each
 of these landscapes corresponds a particular phase of love.
+
 Ill-matched love is again of two basic kinds: unequal, inappropriate
 or mismatched love or passion, technically known as *peruntiṇai* or
 "The Major Type" (is it irony?). E.g. the poems under this head
@@ -330,6 +338,7 @@ deal with a man's passion which has grown out of proportion; or
 with a young man's passion for a woman much older; or with
 forced union due to unrestricted passion. It is the forced, loveless
 relationship; partners come together for duty, convenience or lust.
+
 The other major type of ill-matched love is one-sided, unreciprocated
 passion, known as *kaikkiḷai,* i.e. “The Base Relationship”.
 E.g. love between a man and a maid who, being too young and
@@ -349,6 +358,7 @@ range of love: union before and after marriage, separation, anxiety
 and patience, betrayal and forgiveness. The lovers should be wellmatched
 in lineage, conduct, will, age, beauty (or figure), passion,
 humility, benevolence, intelligence, and wealth (*TP* 273).
+
 The attitude of the theoreticians towards different types and
 phases of love is neither purely descriptive nor fully normative
 (prescriptive). It may be perhaps called "evaluative”.
@@ -361,6 +371,22 @@ elaborated especially in Iṟaiyaṉār's *Akapporuḷ. Kaļavu,* pre-wedded
 love, is treated in terms of the five landscapes; while the poems
 coming under *kaṟpu* describe marital and extramarital love,
 including the separation (pirivu) of the husband and wife on
+account of six different reasons: pursuit of learning, pursuit of
+wealth, service of the king, being engaged in the protection of the
+country, being engaged in the diplomatic mission, especially in the
+appeasement of two inimical kings, and, finally, on account of
+indulging in harlotry. The author of *Akapporuḷ* shows keen observation
+of human behaviour when describing what sort of men do
+leave their wedded wives: thus e.g. it is proper for the high-class
+men (according to the commentator, for the Brahmins and *kṣatriyas*)
+to leave their wives because of the pursuit of learning (*ōtal*,
+learning and reciting the Vedas) and protecting the land (*kāval);* to
+serve the king and to gain wealth is proper for the merchants and
+peasants (*vēļāļar*); but to leave (temporarily of course) one's wife
+in order to indulge in harlotry is appropirate to all classes of men
+(*IA* s. 40). Observe the fact that visiting harlots (*parattai*) comes
+only under the edivision of *kaṟpu* or wedded love.
+
 
 *kaḷavu*
 pre-marital love
@@ -382,21 +408,7 @@ indulging in harlotry
 gaining wealth
 service
 of the king
-account of six different reasons: pursuit of learning, pursuit of
-wealth, service of the king, being engaged in the protection of the
-country, being engaged in the diplomatic mission, especially in the
-appeasement of two inimical kings, and, finally, on account of
-indulging in harlotry. The author of *Akapporuḷ* shows keen observation
-of human behaviour when describing what sort of men do
-leave their wedded wives: thus e.g. it is proper for the high-class
-men (according to the commentator, for the Brahmins and *kṣatriyas*)
-to leave their wives because of the pursuit of learning (*ōtal*,
-learning and reciting the Vedas) and protecting the land (*kāval);* to
-serve the king and to gain wealth is proper for the merchants and
-peasants (*vēļāļar*); but to leave (temporarily of course) one's wife
-in order to indulge in harlotry is appropirate to all classes of men
-(*IA* s. 40). Observe the fact that visiting harlots (*parattai*) comes
-only under the edivision of *kaṟpu* or wedded love.
+
 
 As Chart No. 8 shows, the universe is perceived (*kāṭci*) and conceived
 (*karuttu*) in terms of three basic categories: a space-time
@@ -406,6 +418,14 @@ things", fundamental aspect, the basic stratum. The time continuum
 is divided into *perumpoḻutu* or the *major seasons* of *the year,*
 and *cirupolutu,* lit. “small time” i.e. the *minor times of day and night*.
 The space continuum, comprising the "five elements" of Indian
+philosophy (earth, water, fire, wind and sky), is divided into the
+five physiographic regions, the five major landscapes in which the
+drama of love takes place. Each one of these landscapes corresponds
+to a phase of love: the hills are a proper setting for the union of
+lovers; the forest corresponds to patient waiting; the seashore
+to long and anxious waiting; the pasture lands provide a setting for
+treatment of infidelity; and the wasteland for a long separation.
+
 UNIVERSE
 CHART 8
 *mutal* (First Things)
@@ -471,13 +491,8 @@ Unrequited
 Objects
 
 
-philosophy (earth, water, fire, wind and sky), is divided into the
-five physiographic regions, the five major landscapes in which the
-drama of love takes place. Each one of these landscapes corresponds
-to a phase of love: the hills are a proper setting for the union of
-lovers; the forest corresponds to patient waiting; the seashore
-to long and anxious waiting; the pasture lands provide a setting for
-treatment of infidelity; and the wasteland for a long separation.
+
+
 The second major category is termed *karu,* lit. "things born" or
 "native"; this provides a framework in terms of concrete representations
 of the five major themes (phases of love, physiographic
@@ -501,18 +516,25 @@ We will deal in some detail with the three categories of *mutal,*
 *karu* and uri. The first division of the space-time continuum, as
 just indicated, concerns the appropriate *time of an event.*
 There are *six* seasons, six major times of the year:
+
 1. kār or the rainy season (approx. August-September);
 2. kutir or Winter (October-November);
 3. *munpani* or “early dew"; (December-January);
 4. pinpani or "late dew"; (February-March);
 5. *iļavēnil* or the season of "young warmth" (April-May);
 6. *mutirvēnil* or the season of “ripe heat” (June-July).
+
 There are also six minor *times of day and night* (six by four hours):
 dawn, sunrise, midday, sunset, nightfall, dead of night. These
 categories provide for the space-time coordinates of an event of love.
+
 Chart 9 gives the *phases of love* corresponding to the six types of
-landscape: union of lovers and immediate consummation corre96
-THE THEORY OF “INTERIOR LANDSCAPE"
+landscape: union of lovers and immediate consummation corresponds to the hills; domestic life and patient waiting of the wife is
+described under *mullai* or forest (and pastures); anxiety and impatient
+waiting under *neytal* or seashore; infidelity of the man under
+*marutam* or agricultural tracts; and elopement and separation under
+*pālai* or wasteland.
+
 CHART 9
 *Uri*
 Phases of love in correspondence to the landscapes
@@ -538,11 +560,7 @@ lover or parents
 Cultivated Fields.
 
 5. *Pālai* Wasteland
-sponds to the hills; domestic life and patient waiting of the wife is
-described under *mullai* or forest (and pastures); anxiety and impatient
-waiting under *neytal* or seashore; infidelity of the man under
-*marutam* or agricultural tracts; and elopement and separation under
-*pālai* or wasteland.
+
 
 As we may see, considering both *kaḷavu* and *kaṟpu,* pre-marital
 and wedded (plus extramarital) love, and both well-matched and
@@ -565,8 +583,6 @@ The earliest, most comprehensive and elegant description of these
 concrete representations of the five *tiṇais* is given by Nakkīrar in his
 Commentary on just two words of the 1st *sutram* of Iṟaiyaṉār's
 *Akapporu!* (*anpin aintiṇai* “the five situations of love"). He bases
-THE THEORY OF "INTERIOR LANDSCAPE"
-
 his *exposé* on tradition and on the *TP* which he quotes whenever
 necessary. After an engaging and charming discussion of what is
 *anpu* "love" (ed. 1939, pp. 18-20), Nakkīrar asks: "What does
@@ -581,6 +597,7 @@ kinds: place and time (*TP* 4). According to Nakkīrar, however,
 *pālai* or the "separation" situation has no proper place (*nilam*)
 corresponding to it. Presenting the *mutal* once more schematically
 and in accordance with Nakkīrar, we get the following charts:
+
 *aintiṇai*
 *pālai*
 "place"
@@ -607,6 +624,7 @@ sunrise
 cultivated fields
 rainy season; evening
 dawn
+
 For confirmation, Nakkīrar quotes *TP* 5-10 and adds that all the
 six seasons of the year must be appropriate to *marutam* and *neytal,*
 since no particular seasons are mentioned.
@@ -614,6 +632,7 @@ since no particular seasons are mentioned.
 Nakkīrar gives then a detailed list of concrete natural representations
 *(karu*). *Karu,* he says (quoting *TP* 18 as authority), is "god,
 food, beast, tree, bird, drum, occupation, lyre and other items".
+
 Ideally, the *kuṟiňci* or mountainous region has Murukavēļ as its
 god, its food is the five varieties of paddy and millet, the beasts are
 the tiger (panther), wild hog and elephant; the trees: eagle-wood,
@@ -623,17 +642,15 @@ birds are the parrot and the peacock; drums of three kinds: *veriyāṭ-*
 and *kuravai* (hunters' drums). Typical activity of the inhabitants:
 gathering honey, digging up edible roots, dancing and/or wandering
 about the hills, and driving away parrots from millet-fields. The
-7
-98
-THE THEORY OF “INTERIOR LANDSCAPE"
 particular lyre (or harp), *yāl*, is called "mountain-lyre". Under
-"other items", Nakkīrar understands the name of the hero,¹ in our
-case *cilampan, verpan*, *poruppan*; 2 the name of the heroine, *koțicci*
-or *kuratti*; 3 the typical waters--water-falls and mountain springs;
+"other items", Nakkīrar understands the name of the hero,[^literary-hero] in our
+case *cilampan, verpan*, *poruppan*;[^hill-chief] the name of the heroine, *koțicci*
+or *kuratti*;[^hill-woman] the typical waters--water-falls and mountain springs;
 human settlements: small hamlets and kuricci ("village", *DED*
 1534). Flowers: conehead *(kuriňci, Strobilanthes*), glory lily (*Gloriosa*
 *superba*), kino (*Terminalia tomentosa*) and water-lily *(Pontederia)*;
-and, finally, the name of the people is *kuravar, iravuļar*, *kunravar.ª*
+and, finally, the name of the people is *kuravar, iravuļar*, *kunravar.*[^kuravar]
+
 In the sea-shore regions, *neytal,* Varuņaṇ is the patron-deity; for
 livelihood, people sell fish and salt; typical beasts are the shark and
 the crocodile; trees: mast-wood and *Cassia* sophora; as birds,
@@ -641,43 +658,42 @@ Nakkīrar gives the swan, the *anril* (= *cakravāka*) and *makanril*
 (? a water-bird); as drum, "the drum of fish-caught", and "the
 boat-drum". The inhabitants are engaged in selling fish and salt,
 and in production of salt. The lyre is called *vilari* (?“youth”). The
-names of the hero are *turaivan*, *konkan, cērppan*; 5 of the heroine,
-*nulaicci* and *paratti*; 6 the characteristic waters are the sand-well
+names of the hero are *turaivan*, *konkan, cērppan*;[^harbor-lord] of the heroine,
+*nulaicci* and *paratti*;[^fisherman-tribe] the characteristic waters are the sand-well
 and brackish marshes; the flowers: white-petalled fragrant screwpine
 *(Pandanus odoratissimus*) and white water-lily (*Nymphaea lotus*
-*alba)*; as the typical settlements, the commentary gives *paṭṭinam* 7
+*alba)*; as the typical settlements, the commentary gives *paṭṭinam*[^kaviri-town]
 (“maritime town, harbour-town") where "ships enter", small
-hamlets and *pakkam*; the name of the people is *paratar* 9 (fem.
+hamlets and *pakkam*;[^seaside-town] the name of the people is *paratar*[^paratar] (fem.
 *parattiyar*) and *nuļaiyar* (fem. *nuļaicciyar)*.
 
-1 The literary hero is called *kilavōn*, lit. "old man” *(DED* 1315), also
+[^literary-hero]: The literary hero is called *kilavōn*, lit. "old man” *(DED* 1315), also
 "headman, chief" or *talaivaṉ* (DED 2529) "chief, headman, lord"; the
 heroine *kiḷavi*, *kiļavōļ* or *talaivi*.
 
-2 *cilampan* (?< Skt. or Pkt.) "hillman; chief of the hill tribe"; poruppan
+[^hill-chief]: *cilampan* (?< Skt. or Pkt.) "hillman; chief of the hill tribe"; poruppan
 "chief of the hill-tribe"; *verpan* “id.".
 
-3 *koțicci* (? DED 1704) “woman of the hill-tribe"; *kuratti* (cf. *DED* 1530
+[^hill-woman]: *koțicci* (? DED 1704) “woman of the hill-tribe"; *kuratti* (cf. *DED* 1530
 for Dr. cognates) "woman of the hill-tribe, woman of the *Kurava* tribe".
-4 *kuṛavar* (*DED* 1530); *kunravar* (*DED* 1548) "hillmen, mountaineers”
+[^kuravar]: *kuṛavar* (*DED* 1530); *kunravar* (*DED* 1548) "hillmen, mountaineers”
 *iravular* (DED 442) "hill tribes".
 
-5
-*turaivan* "he of the harbour; lord of the harbour” *(DED* 2773); *konkan*
+[^harbor-lord]: *turaivan* "he of the harbour; lord of the harbour” *(DED* 2773); *konkan*
 lit. "husband, man”, *cērppan* (cf. *cērppu* "sea-coast") "he of the sea-coast;
 chief of the sea-coast".
 
-6 *nuļai* "fishermen-tribe, fishermen-caste”; *nulaicci* "she of the fishermentribe";
+[^fisherman-tribe]: *nuļai* "fishermen-tribe, fishermen-caste”; *nulaicci* "she of the fishermentribe";
 *paratti* “id.".
 
-7 E.g. Kāvirippattinam, lit. "the harbour-town on the Kaviri”, the
+[^kaviri-town]: E.g. Kāvirippattinam, lit. "the harbour-town on the Kaviri”, the
 famous sea-port of early Cholas. *DED* 3199.
 
-8 *DED* 3332 "seaside village, town, village". Preserved in the modern
+[^seaside-town]: *DED* 3332 "seaside village, town, village". Preserved in the modern
 names of several quarters of Madras *(Kīļpākkam* Kilpauk, Nungambakkam
 etc.).
 
-⁹ Cf. *DED* 3263. ? Skt *bharata-* “barbarian". To this day, the fishermen of
+[^paratar]: Cf. *DED* 3263. ? Skt *bharata-* “barbarian". To this day, the fishermen of
 Madras sea-coast are called *Paratavar*.
 
 
@@ -697,8 +713,19 @@ between 5 and *7* years of age", "simple woman"). Flowers: *kurā*
 *(Verberia corymbosa*), *marā (Barringtonia acutangula* or *Anthocepha-*
 *lus cadamba)*, trumpet-flower (*Stereospermum chelonoides*, *suaveolens*,
 *xylocarpum*). Waters: dry wells, dry ponds. The name of the inhabitants
-is *eyiṇar* (fem. *eyirriyar*) and *maravar* (fem. *maṛattiyar)*.¹
-The villages are called *kolkuṛumpu.²*
+is *eyiṇar* (fem. *eyirriyar*) and *maravar* (fem. *maṛattiyar)*.[^arrow]
+The villages are called *kolkuṛumpu.*[^stronghold]
+
+
+[^arrow]: Connected for sure with *DED* 691 ey “to discharge arrows, n. arrow";
+*eyinar* "arrow-men, hunters". *Mayavar* (cf. DED 3900 *maṛam* “valour,
+anger, war, killing") "hunters, people of Marava caste"; they were a rather
+prominent community in historical times in Tamilnad. The caste exists until
+today, chiefly in South-East Tamilnad (Ramnad).
+
+[^stronghold]: Connected prob. with DED 1542 "stronghold, fort" or DED 1541
+"battle, war", and with DED 1772 "killing".
+
 The god of *mullai* "forest" is Vāsudeva; the food-common
 millet *(varaku*) and *cāmai* (?); typical beasts-hare and small deer;
 trees: *konṛai (Cassia fistula*) and *kuruntu* (wild lime, *Atalatia)*;
@@ -712,36 +739,31 @@ and *manaivi* “house-wife". Flower: jasmine (*Jasminum sambac,*
 *mullai*) and Malabar glory lily (*Gloriosa superba, tōnri*). Waters:
 forest-river. Settlements: *pāți* “town, city, hamlet, pastoral village"
 *(DED* 3347) and cēri “town, village, hamlet” (*DED* 1669). The
-name of the people: *iṭaiyar* (fem. *iṭaicciyar*) and *āyar* (fem. āycci*yar)*.3
-1 Connected for sure with *DED* 691 ey “to discharge arrows, n. arrow";
-*eyinar* "arrow-men, hunters". *Mayavar* (cf. DED 3900 *maṛam* “valour,
-anger, war, killing") "hunters, people of Marava caste"; they were a rather
-prominent community in historical times in Tamilnad. The caste exists until
-today, chiefly in South-East Tamilnad (Ramnad).
+name of the people: *iṭaiyar* (fem. *iṭaicciyar*) and *āyar* (fem. *āycciyar)*.[^herdsman]
 
-2 Connected prob. with DED 1542 "stronghold, fort" or DED 1541
-"battle, war", and with DED 1772 "killing".
 
-*3 iṭai* (*DED* 382) "the herdsmen caste". *āyar: DED* 283; *ay* "the cowherd
+[^herdsman]: iṭai* (*DED* 382) "the herdsmen caste". *āyar: DED* 283; *ay* "the cowherd
 caste", a "female of ox, sambur and buffalo".
 
-PATIENT WAITING
-IOO
-THE THEORY OF “INTERIOR LANDSCAPE”
+
+
+<!-- note at bottom of sideways chart 
+
 Note: *kuṟiňci*: conehead, *Strobilanthes*; various S. and *Barleria* species; said to grow at an altitude of 6000 ft. and flower only
 once in 12 years; flower is bluish. *mullai*: *Jasminum sambac*; Arabian jasmine. *marutam*: *Terminalia tomentosa*. *neytal*:
 white Indian water-lily, Nymphaea *lotus alba*; blue nelumbo. pālai: silvery-leaved ape-flower, Mimusops kauki; grows
+in barren tracts; is evergreen;
 blossoms small, white.
 
-in barren tracts; is evergreen;
-THE THEORY OF “INTERIOR LANDSCAPE"
-ΙΟΙ
+-->
+
+
 The god of *marutam*, cultivated fields, is Indra; for food, the
 people have rice (cultivating paddy of the two varieties, *cennel* and
 *vennel*); typical beasts are the buffalo and the otter; trees: rattan
 *(Calamus rotang*), strychnine tree (*Strychnos nux vomica*) and
 *marutu (Terminalia tomentosa*). Birds: duck, heron. Drums are
-called *maṇamulavu* and *nellari* kiņai.¹ Occupation of the people:
+called *maṇamulavu* and *nellari* kiņai.[^marriage-drum] Occupation of the people:
 cultivating paddy. The lyre is called simply *maruta* lyre. The names
 of the hero are *ūran* (lit. “villager, inhabitant of village, town") and
 makiṇan (“husband; chief of agricultural tract, lord”*, DED* 3768).
@@ -749,7 +771,16 @@ The heroine is called *kilatti* or *manaivi* “house-wife". Flowers:
 Lotus and red water-lily. Waters: wells in the houses, ponds and
 rivers. Settlements are termed *pērūr*, lit. “big village, big town”.
 The name of the inhabitants: *kaṭaiyar* (fem. *kațaicciyar*), *uḻavar*
-(fem. *ulattiyar*).²
+(fem. *ulattiyar*).[^low-status]
+
+
+[^marriage-drum]: *maṇamulavu,* lit. "marriage-drum"; *nellari kiṇai*, lit. prob. "paddyharvesting
+small drum".
+
+[^low-status]: *DED* 929 *kaṭaiyar* "men of the lowest caste or status"; *uḻavar (DED*
+592 *ulu* "to plough") "ploughmen, agriculturalists”.
+
+
 Chart 10 shows the various representations, the attributes of the
 five *tiṇais,* the elements of the *karu*-strata, how they are usually
 found in the texts.
@@ -774,22 +805,10 @@ They never occur in totality, they never could occur. But at least
 some of these characteristic representations, of these typical,
 diagnostic attributes do always occur. These clues are sometimes a
 part of the technique of "suggestion" called iṟaicci, and of the
-1 *maṇamulavu,* lit. "marriage-drum"; *nellari kiṇai*, lit. prob. "paddyharvesting
-small drum".
-
-2 *DED* 929 *kaṭaiyar* "men of the lowest caste or status"; *uḻavar (DED*
-592 *ulu* "to plough") "ploughmen, agriculturalists”.
-
-I02
-THE THEORY OF "INTERIOR LANDSCAPE
-"
-THE THEORY OF “INTERIOR LANDSCAPE"
-103
-火
 "implied simile” or “implied metaphor", termed *uļļurai uvamam*
 (cf. *TP* 242 ff.).
 
-iṟaicci (cf. TP 229), occurring usually, but not always, in the
+*iṟaicci* (cf. TP 229), occurring usually, but not always, in the
 utterances of the heroine and of the heroine's friend is "suggestion",
 "implication" through the description of a natural phenomenon or
 event. Closely related but not identical is *uḷḷurai uvamam* or
@@ -818,15 +837,17 @@ according to the commentary is that at night the *anvil* birds,
 being close to the house, keep the woman awake by their heartrending
 cries, and she longs for her lover's company; a "secondary"
 suggestion is involved: the urge on him to marry her as soon as
-possible.¹
+possible.[^early-tamil-literary-theories]
+
+[^early-tamil-literary-theories]: M. Varadarajan, "Literary Theories in Early Tamil-*Eṭṭuttokai”,* Proc.
+*of the* I Intern. *Conf*. of *Tamil Studies* Vol. 2, Kuala Lumpur (1969) 49.
+
 In terms of sociological and psychological observations, one should
 probably stress the following facts: First of all, the heroes of these
 love-poems were by no means monogamous. This was almost
 taken for granted. Harlots, concubines and prostitutes play
 quite an important part in this literature: the *marutam* theme
 abounds in harlotry. Second: it is interesting, that out of the
-1 M. Varadarajan, "Literary Theories in Early Tamil-*Eṭṭuttokai”,* Proc.
-*of the* I Intern. *Conf*. of *Tamil Studies* Vol. 2, Kuala Lumpur (1969) 49.
 five major themes, actually four deal in this or that form with
 waiting: the two *tiṇais* appropriate for waiting *par excellence* are
 *mullai* patient waiting—and *neytal*-long and anxious waiting
@@ -858,19 +879,22 @@ that there had existed a basic homogeneous and uniform conceptual
 pattern behind the classification of human situations into the
 two basic genres. According to Nacciṉārkkiṉiyar (*TP* 56), *akam* and
 *puṟam* are like the inner palm of the hand and its back.
+
 The heroic situations are, too, described under 5 *tiṇais*:
-I. *veṭci(ttinai*) is the prelude to war: this is the cattle-raid. The
+
+1. *veṭci(ttinai*) is the prelude to war: this is the cattle-raid. The
 features which this situation has in common with its *akam*-counterpart,
 *kuṟiňci*, are the time: night, the place: a mountain-forest; and
 the fact that it is a clandestine affair, just like *puṇartal* or sexual
 union of lovers before marriage.
-
 2. *vaňci* is the preparation for war and the beginning of the
 invasion. Common features with its *akam*-counterpart, *mullai*:
 both take place in the rainy season and in the forest; both describe
 the separation from loved ones, and wifely patience, *iruttal*.
-Hot
-THE THEORY OF INTERIOR LANDSCAPE'
+
+<!-- sideways chart
+
+
 *pāṭāṇ*
 no landscape; one-sided relationship; note
 no landscape; struggle, defeat, note of
@@ -921,7 +945,8 @@ kāňci
 7
 *kaikkiḷai*
 unrequited love
-THE THEORY OF INTERIOR LANDSCAPE
+-->
+
 3. *uliňai* describes the siege of a settlement or fortress; like
 *marutam,* it takes place in an inhabited, fertile area (city etc.) at
 dawn; the infidelity results in *akam* in *uṭal,* wifely sulking, and
@@ -931,7 +956,6 @@ both, there is anxiety, separation of wives from the heroes; the
 *akam* situation is set on the open sea-shore; the heroic situation, in
 the open battleground; evening and grief (*iraňkal*) are common to
 both.
-
 5. *vākai* describes victory, the ideals of achievement: its counterpart
 in the *akam* genre is *pālai;* both have in common the achievement
 of the hero: in one, the abduction and possession of the
@@ -939,7 +963,7 @@ woman, or the search for wealth and fame; in the other, achieving
 wealth and fame in victory after long separation from the wife
 (pirital) in war.
 
-In both categories, there are two situations which are not
+    In both categories, there are two situations which are not
 specifically related to any type of landscape; both are not supposed
 to be ideal topics for poets; both are considered to be so to say
 "abnormalities” in love-situation as well as in war-situation.
@@ -947,7 +971,6 @@ to be ideal topics for poets; both are considered to be so to say
 endurance, but also the feeling of transience of the world and defeat,
 death; in the *akam* genre, this corresponds to the *peruntiṇai,*
 struggle and defeat in the mismatched love.
-
 7. *pāṭān* is praise, or elegy, as well as asking for gifts in the heroic
 genre; this corresponds to kaikkiḷai, unreciprocated love, in *akam;*
 both have in common e.g. a one-sided relationship, a note of sadness
@@ -964,9 +987,12 @@ As may be seen from chart 12, the later "grammar of heroic
 poetry", *Purapporulveṇpāmālai*, follows a different and more
 elaborate scheme when compared to Tolk. *Poruḷ*. It enumerates
 twelve non-love situations in contrast to seven listed in *TP.* In this
-106
-THE THEORY OF “INTERIOR LANDSCAPE"
-CHART 12
+list are included the two abnormal love-situations; so that, essentially,
+there are 10 heroic situations according to PVM. The
+number of themes is also higher in *PVM* than in *TP,* as one would
+naturally expect.
+
+<!-- sideways chart
 Heroic situations *(tinai*) *according* to
 *Number* of
 Tolkāppiyam *themes*
@@ -1047,10 +1073,11 @@ I
 mismatched love.
 
 residuary items
-list are included the two abnormal love-situations; so that, essentially,
-there are 10 heroic situations according to PVM. The
-number of themes is also higher in *PVM* than in *TP,* as one would
-naturally expect.
+
+-->
+
+
+
 
 The word for theme, *tuṟai,* means lit. "place, location, way,
 section; seaport, roadstead, frequented place" etc. *(DED* 2773).
@@ -1069,11 +1096,11 @@ the theme just like men, beasts and other beings drink water together
 from a river ghat *(Tolk*. *Poruḷ.* s. 56). According to Kailasapathy
 *(op. cit*. 192), *tuṟai* is the thematic clarity and unity in a poem: it
 should be specific and traditional: the definite theme in traditional
-
 poetry. And to the bards of the period, "the composition of a poem
 was equivalent to the composition of a theme” (192).
 
 How does the "theme" work in the corpus of texts?
+
 Let us take, as an example, the very first poem of *Paṟanāṉūṟu*
 (designated as Puṟ. 2 since Puṟ. I is the invocatory stanza). The
 colophon says: “tiņai (poetic situation): *pāṭāṇ*: "praise"; *tuṟai*
@@ -1100,7 +1127,9 @@ This is not the place to give an exhaustive catalogue of all
 *puṟam* and *akam themes*. But some of them may be mentioned,
 to show how variegated and detailed the scale of experience,
 treated in those poems, indeed was. Here are some *puṟam* themes:
-*nātu välttu*: "blessing the country”: in praise of the wealth and
+
+*nātu vālttu*:
+"blessing the country”: in praise of the wealth and
 beauty of the land of the hero, e.g. Patiṟṟup. 30.
 
 *tumpaiyaravam*: “bustle of war”: a king distributing rewards to
@@ -1108,26 +1137,28 @@ his soldiers after a victorious battle, e.g. *Patiṟṟup*.
 34, 85.
 
 *kāṭci vāļttu*:
-*oļvāļmālai*
 "praise of a sight": describes the reaction of
 seeing a great hero and a hero-stone *(vīrakkal)*, e.g.
 Patiṟṟup. 41, 54, 61, 82, 90.
 
+*oļvāļmālai*:
 warriors brandishing swords: the king, swinging
 shining blade, is joined in dance by warriors
 wearing anklets, cf. *Patiṟṟup*. 56.
 
-*kuravai nilai*:
-*paricilvițai:*
-
+*kuravai nilai*: 
 *kuravai* dance of women; women joining warriors,
 holding hands, celebrating hero's victory by dance.
 
+*paricilvițai:*
 "munificence": a king bestowing gifts on his bards,
 e.g. *Puṟ*. 140, 152, 162, 397, 399.
 
-*neṭumoli* "vow”: describes the vow of a warrior, cf. *Puṟ*. 298.
-*anantap* paiyu!: theme describing the distress of a wife on her
+*neṭumoli* "vow”:
+describes the vow of a warrior, cf. *Puṟ*. 298.
+
+*anantap* paiyu!:
+theme describing the distress of a wife on her
 husband's bereavement, e.g. Puṟ. 228-9, 246-7,
 280.
 
@@ -1138,12 +1169,15 @@ it", e.g. *Kur*. II.
 "What the heroine said to her friend who was distressed thinking
 that she (the heroine) will be unable to bear it”: e.g. *Kur*. 12; and
 its sub-theme:
+
 "What the heroine said to the friend who was in distress thinking
 that she will not endure the separation" (e.g. *Kur*. 4, 5).
+
 "The promise of the friend to the heroine broken by the separation”
 *(Kur*. 59).
 
 "The speech of the hero to the friend" (e.g. Kur. 136, 250).
+
 "The fear of separation, expressed by the hero after sexual
 union" (e.g. *Kur*. 137).
 
@@ -1156,21 +1190,16 @@ One concluding remark on the technique of *description*: The two
 typical features of the descriptive technique employed by early
 Tamil classical poets are terseness and concentration. The descriptions
 are intensive, never extensive; acute, accurate and sharp,
-never elaborate and full, never "from head to foot".1 This technique
+never elaborate and full, never "from head to foot".[^head-to-foot] This technique
 gives no room for exaggeration, so typical of Sanskrit *kavya*
 poetry, and of later, medieval Tamil literature. The poets take
 their inspiration straight from nature and experience; in a way,
 they creatively copy nature and life. This means that they do not
-1 Cf. the medieval Tamil term *kēcāti pāta varuṇanai* "description from head
-to foot".
-
-1
-
 use foreign, borrowed imagery. The matter employed in descriptions
 is traditional and conventionalized (cf. next chapter for the detailed
 treatment of this feature). And, finally, there is usually a perfect
 harmony of content and its formal expression. M. Varadarajan
-quotes, as an example of a typical early classical description,
+quotes,[^literary-theories-52-53] as an example of a typical early classical description,
 Puṟam 334. 2: a hare is pictured as *tūmayirk kuruntā ņeṭuñcevik*
 *kurumuyal* "small (young) hare with pure fur, short legs and long
 ears". The poet (Maturai Tamilakkūttaṇār) has succeeded, using
@@ -1178,6 +1207,11 @@ three simple adjectives and three simple nouns, to convey the
 picture of a hare in terms of the animal's most typical features
 (so to say the essence and idea of,,hareness"); it is simple and
 perfect, in one word, classical.
+
+[^head-to-foot]: Cf. the medieval Tamil term *kēcāti pāta varuṇanai* "description from head
+to foot".
+
+[^literary-theories-52-53]: in "Literary Theories in Early Tamil-*Ettuttokai*", pp. 52-53.
 
 The technique of *allegory* (*ullurai uvamam*) and especially the
 use of *suggestion* (*iraicci*), comparable to the Skt. *vyañjanā, vyangya-*
@@ -1208,13 +1242,6 @@ and motion", conveys a suggestion, an implication (kurippu) deriving
 from the "obvious" meaning: "there are no people at that place,
 it is deserted". This kuṟippu, however, is the source of yet another
 expansion, into a further layer of meaning, an inference, a suggestion
-1 in "Literary Theories in Early Tamil-*Ettuttokai*", pp. 52-53.
-
-
-
-coṟporuḷ
-kuṟippu I
-kuṟippu 2
 *(kurippu*), a hint to the lover: since the place is quiet and deserted,
 it is an ideal spot for love-making (*puṇarcci*); so, let us go and make
 love. This, at least, is what the commentator and the scholiast has
@@ -1223,3 +1250,11 @@ implication and inference is not "read into" the stanza *ex post* but
 fully intended by the poet, since it follows certain patterns of
 convention, and since there is a unanimous and traditional agreement
 in its interpretation.
+
+<!-- chart
+
+coṟporuḷ
+kuṟippu I
+kuṟippu 2
+
+-->

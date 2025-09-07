@@ -1,27 +1,26 @@
 # ANALYSING CLASSICAL POETRY
 
-The entire corpus of earlier classical poetry is composed in two
-metres: 1 *akaval* and *vaňci*.
+*The Metre*
 
-The basic metrical unit 2 is the *acai,* 3 which is of two types: the
+The entire corpus of earlier classical poetry is composed in two
+metres: [^classical-prosody] *akaval* and *vaňci*.
+
+The basic metrical unit [^metrical-unit] is the *acai,* [^acai] which is of two types: the
 *nēr* and the niṟai. The *nĕr* is a simple metrical unit, long or short,
-に
 which may or may not be followed by a consonant, that is (C) V (C).
 We designate it by The niṟai is a compound metrical unit, made
 up of two short syllables, or a short followed by a long syllable,
-=.
-
-✓
 with or without a consonant following, i.e. (C) VCV (C). We symbolize
 the *niṟai* by We see that the *nēr* may be quantitatively
 long or short, whereas the first, initial syllable of a *niṟai* is always
 short; in terms of Western notation, then, a *nēr* is always (a
 macron), while a *niṟai* may be (pyrrhic) or
-(iambic).4
+(iambic).[^ner-nirai]
+
 If either of these two are followed by -u or by the "overshort" *-u,*
 they become *nērpu* and niraipu, i.e. modified *nēr* and *niṟai*. This
 does not apply to cases where the -u follows a single short syllable,
-whence it becomes not a *nērpu* but a *niṟai.* 5 The possible combinations
+whence it becomes not a *nērpu* but a *niṟai.* [^nerpu-nirai] The possible combinations
 of these four units (*nēr, nērpu, niṟai,* niraipu) are sixteen. And
 all of them are permitted in the *akaval* metre. The most common
 combinations are or *tēmā,* or *pulimā, kuvilam* and
@@ -30,24 +29,23 @@ metrical structure the level of the *cir* "feet”. The feet proper to
 the *akaval* are termed *iyaṟcīr* or “natural feet”, also *āciriyaccīr* or
 "feet proper to the *āciriyam* (= *akaval*) metre".
 
-=
---
-1 For the most recent treatment of Tamil classical prosody, cf. K. Zvelebil,
+[^classical-prosody]: For the most recent treatment of Tamil classical prosody, cf. K. Zvelebil,
 An *Introduction* to *Tamil Classical Prosody,* Hoe & Co., Madras, 1972.
-2 Some writers translated *acai* as "syllable" which is incorrect (cf. the
-criticism of this term by J. R. Marr, op. cit. 273). acai is not a syllable,
+
+[^metrical-unit]: Some writers translated *acai* as "syllable" which is incorrect (cf. the
+criticism of this term by J. R. Marr, op. cit. 273). *acai* is not a syllable,
 neither is it a mora. Vithianathan translates it as "quantitative unit of a
 movement" (op. cit. 273), Kailasapathy as "basic metrical unit" (op. *cit*.
 140). I hesitated for some time between "prosodic” or “metrical syllable"
 and some kind of "unit", and then, after discussing the matter with J. R.
 Marr, decided for "fundamental" or "basic metrical unit".
-³ Cf. *DED* 39: *acai* "to move, stir, etc.".
 
-4 Cf. J. R. Marr, op. cit. 415.
+[^acai]: Cf. *DED* 39: *acai* "to move, stir, etc.".
 
-5 E.g. in the words *karu* = and *mulu* =.
+[^ner-nirai]: Cf. J. R. Marr, op. cit. 415.
 
-5
+[^nerpu-nirai]: E.g. in the words *karu* = and *mulu* =.
+
 
 
 The combination of feet constitutes a line of poetry, termed *aṭi*.
@@ -57,7 +55,8 @@ called *alavați* or "measured line".
 
 In the *akaval* or *āciriyam* metre, the standard line has four feet
 (= eight *acai*). Only the penultimate line consists of three feet.
-Elsewhere, a three-feet line is exceptional.1
+Elsewhere, a three-feet line is exceptional.[^three-feet-line]
+
 The *vaňci* metre (which occasionally occurs with the *akaval* in the
 songs of the *Pattuppāṭṭu* anthology) has a somewhat different
 scheme. The *vaňci* foot is made of three *acais*, e.g.
@@ -66,11 +65,12 @@ scheme. The *vaňci* foot is made of three *acais*, e.g.
 *nēr*. The possible combinations of the four *acais* are sixty for the
 *vaňcippā*. The usual *vaňci* line has two feet, so that it usually has
 six *acais*. The last line in a *vaňci* stanza may be in *akaval.*
+
 The next (and for our purposes the final) important concept to
 discuss is the *toṭai,* lit. “connexion, joining”, “fastening, tying”,
 "series, succession", i.e. the art of joining the lines of a poem in
 succession, making use of "rhyme", alliteration, assonance, contrast
-etc.2 The line is considered by indigenous theoreticians as the basic
+etc.[^nokku] The line is considered by indigenous theoreticians as the basic
 and self-contained unit, in fact, as the largest single unit in a poem.
 According to Pērāciriyar, “the poet completes the intended meaning
 in each line; he does not need another line". *Toṭai* is precisely the
@@ -87,11 +87,11 @@ The basic prosodic and rhetoric features of classical Tamil poetry
 will now be demonstrated through the analysis of three selected
 poems.
 
-1 It was very probably rightly suggested by John R. Marr (op. cit. 464)
+[^three-feet-line]: It was very probably rightly suggested by John R. Marr (op. cit. 464)
 that the three-feet penultimate line in *akaval* might have indicated the approaching
 end of a song. Kailasapathy (op. cit. 143-143) suggests an analogy
 of the penultimate line to the cadence in a musical composition.
-2 The next constituent is nōkku “gaze, look, view", i.e. the cohesion of the
+[^nokku]: The next constituent is nōkku “gaze, look, view", i.e. the cohesion of the
 various elements into one single whole; Kailasapathy says that it connects
 "the smooth flow of meaning" (op*. cit.* 146).
 
