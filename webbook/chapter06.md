@@ -528,38 +528,22 @@ There are also six minor *times of day and night* (six by four hours):
 dawn, sunrise, midday, sunset, nightfall, dead of night. These
 categories provide for the space-time coordinates of an event of love.
 
-Chart 9 gives the *phases of love* corresponding to the six types of
+@tbl-uri gives the *phases of love* corresponding to the six types of
 landscape: union of lovers and immediate consummation corresponds to the hills; domestic life and patient waiting of the wife is
 described under *mullai* or forest (and pastures); anxiety and impatient
 waiting under *neytal* or seashore; infidelity of the man under
 *marutam* or agricultural tracts; and elopement and separation under
 *pālai* or wasteland.
 
-CHART 9
-*Uri*
-Phases of love in correspondence to the landscapes
-*Phase* of love
-2. Domesticity
-Patient waiting
-3. Lover's infidelity
-*Landscape*
-I. *Kurinci* ― Hills
-Forests
-1. Union of lovers
-2. *Mullai* _
-3. *Marutam*
-4. *Neytal*
-Sea-coast
-Anxious waiting
-Sulking scenes
-4. Separation
-5. Elopement
-Hardships
-Separation from
-lover or parents
-Cultivated Fields.
+| *Phase*  of love                                             | *Landscape*                    |
+|--------------------------------------------------------------|--------------------------------|
+| Union of lovers                                              | *Kuṟiňci* - hills                    |
+| Domesticity<br/>Patient waiting                              | *Mullai* - Forests               |
+| Lover's infdelity<br/>Sulking scenes                         | *Marutam* - Cultivated Fields |
+| Separation<br/>Anxious waiting                               | *Neytal* - Sea-coast           |
+| Elopement<br/>Hardships<br/>Separation from lover or parents | *Pālai* - Wasteland                |
 
-5. *Pālai* Wasteland
+: *Uri*<br/> Phases of love in correspondence to the landscapes {#tbl-uri}
 
 
 As we may see, considering both *kaḷavu* and *kaṟpu,* pre-marital
@@ -787,7 +771,7 @@ found in the texts.
 
 Nakkīrar turns then his attention (pp. 24-25 ed. cit.) to the
 *uripporuḷ,* and, quoting *TP* 14, makes the following statement (cf.
-Chart 9): sexual union (of lovers), *puṇartal,* is the *kuriňci*-phase
+@tbl-uri): sexual union (of lovers), *puṇartal,* is the *kuriňci*-phase
 (situation); separation, *pirital*, is the *pālai*-phase; waiting, *iruttal*,
 is the *mullai*-phase; anxiety, *iraňkal,* is the *neytal*-phase; sulking,
 *utal,* is the *marutam*-phase.
