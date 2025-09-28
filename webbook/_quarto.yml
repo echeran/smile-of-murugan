@@ -43,6 +43,7 @@ format:
       - brand
     reference-location: margin
     citation-location: margin
+    lightbox: true
   pdf:
     documentclass: scrreprt
 
