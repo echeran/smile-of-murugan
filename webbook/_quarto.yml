@@ -46,6 +46,7 @@ format:
     lightbox: true
   pdf:
     documentclass: scrreprt
+    mainfont: serif
 
 
 
