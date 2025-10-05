@@ -535,13 +535,13 @@ waiting under *neytal* or seashore; infidelity of the man under
 *marutam* or agricultural tracts; and elopement and separation under
 *pālai* or wasteland.
 
-| *Phase*  of love                                             | *Landscape*                    |
-|--------------------------------------------------------------|--------------------------------|
-| Union of lovers                                              | *Kuṟiňci* - hills                    |
-| Domesticity<br/>Patient waiting                              | *Mullai* - Forests               |
+| *Phase*  of love                                             | *Landscape*                   |
+| ------------------------------------------------------------ | ----------------------------- |
+| Union of lovers                                              | *Kuṟiňci* - hills             |
+| Domesticity<br/>Patient waiting                              | *Mullai* - Forests            |
 | Lover's infdelity<br/>Sulking scenes                         | *Marutam* - Cultivated Fields |
-| Separation<br/>Anxious waiting                               | *Neytal* - Sea-coast           |
-| Elopement<br/>Hardships<br/>Separation from lover or parents | *Pālai* - Wasteland                |
+| Separation<br/>Anxious waiting                               | *Neytal* - Sea-coast          |
+| Elopement<br/>Hardships<br/>Separation from lover or parents | *Pālai* - Wasteland           |
 
 : *Uri*<br/> Phases of love in correspondence to the landscapes {#tbl-uri}
 
@@ -731,7 +731,30 @@ caste", a "female of ox, sambur and buffalo".
 
 
 
-<!-- note at bottom of sideways chart 
+
+| | LOVER'S UNION | PATIENT WAITING | LOVER'S UNFAITHFULNESS | ANXIETY, SEPARATION | ELOPEMENT, SEPARATION |
+|-|-|-|-|-|-|
+| Typical flower<br>(=name of region and poetic theme) | *kuriňci* | *mullai* | *marutam* | *neytal* | *pālai* |
+| Landscape | mountains | forest, pasture | cultivated countryside | seashore | wasteland |
+| Season | cold season, early frost | rainy season | all seasons | all seasons | summer, late dew |
+| Time | night | evening | dawn | sunrise | midday |
+| Hero | *poruppaṉ*, *verpaṉ*, *cilampaṉ*, *nāṭaṉ* | *natan*, *tōṉral* | *ūran*, *makiḻnaṉ* | *cērppaṉ*, *pulampaṉ* | *viṭalai, kāḷai, mīḷi* |
+| Heroine | kuṟatti, koṭicci | maṉaivi, kiḻatti | kiḻatti, maṉaivi | nuḷaicci, paratti | eyiṟṟi |
+| People | *kuṟavar, kāṉavar*  | *iṭaiyar, āyar* | *uḻavar, kaṭaiyar* | *nuḷaiyar, paratar, aḷavar* | *eyiṉar, maṟavar* |
+| Occupation | guarding millet fields, honey-gathering | pastoral occupation, fieldwork | agriculture |  drying fish, selling salt | wayfarers, robbery, fighting |
+| Pastimes |  bathing in waterfalls and streams | bull-fight, *kuravai* dance | bathing in ponds, festivals, arts | bathing |  dancing, fighting |
+| Settlements | *ciṟṟūr, ciṟukuṭi* | *ciṟṟūr, pāṭi* | *pērūr, mūtūr* | *pākkam, paṭṭiṉam* | *kuṟumpu* |
+| Waters | water-fall, hill-pond | pond, rivulet | river, pool, well | well, sea, salt-marshes | waterless well, stagnant water |
+| Beasts | monkey, tiger, bear, elephant | deer, hare | buffalo, freshwater fish, otter | crocodile, shark |wild dog, tiger, lizard, elephant |
+| Birds | peacock, parrot | jungle hen, sparrow | heron, stork, swan | sea-gull, marine crow | dove, eagle, kite, hawk |
+| Trees | teak, sandal, bamboo, jack | koṉṟai, waterlily, red *kāntaḷ, piṭavam* | mango, lotus |  *puṉṉai,* *tāḻai*-shrub, *muṇṭakam, aṭampu* | *uliňai, ōmai*, cactus |
+| Food | millet, mountain-rice | *varaku, tuvarai*  | rice | fish | |
+| Instrument | *toṇṭaka*-drum, mountain-lute  | *ēṟṟu*-drum, forest-lute | *maṇa*-drum, *kiṇai*, field-lute | *pampai*-drum, *viḷari* lute | *uḷukkai*-drum, desert-lute |
+| Melody-type | *kuriňcippaṇ* | *cātāri* | *marutappaṇ* | *cevvaḻi* | *curam* |
+| God | Murukaṉ | Māyōṉ (Tirumāl) | Intiraṉ | Varuṇaṉ |  Koṟṟavai (Kāḷi) |
+
+: Attributes of the Five Landscapes  {#tbl-five-landscapes}
+
 
 Note: *kuṟiňci*: conehead, *Strobilanthes*; various S. and *Barleria* species; said to grow at an altitude of 6000 ft. and flower only
 once in 12 years; flower is bluish. *mullai*: *Jasminum sambac*; Arabian jasmine. *marutam*: *Terminalia tomentosa*. *neytal*:
@@ -739,7 +762,6 @@ white Indian water-lily, Nymphaea *lotus alba*; blue nelumbo. pālai: silvery-le
 in barren tracts; is evergreen;
 blossoms small, white.
 
--->
 
 
 The god of *marutam*, cultivated fields, is Indra; for food, the
@@ -765,7 +787,7 @@ small drum".
 592 *ulu* "to plough") "ploughmen, agriculturalists”.
 
 
-Chart 10 shows the various representations, the attributes of the
+@tbl-five-landscapes shows the various representations, the attributes of the
 five *tiṇais,* the elements of the *karu*-strata, how they are usually
 found in the texts.
 
@@ -871,7 +893,7 @@ features which this situation has in common with its *akam*-counterpart,
 *kuṟiňci*, are the time: night, the place: a mountain-forest; and
 the fact that it is a clandestine affair, just like *puṇartal* or sexual
 union of lovers before marriage.
-2. *vaňci* is the preparation for war and the beginning of the
+1. *vaňci* is the preparation for war and the beginning of the
 invasion. Common features with its *akam*-counterpart, *mullai*:
 both take place in the rainy season and in the forest; both describe
 the separation from loved ones, and wifely patience, *iruttal*.
