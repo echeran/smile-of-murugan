@@ -32,14 +32,13 @@ one-sided affair and the mismatched relationship.
 The anthology has 150 poems in the kali metre. The first poem is
 an invocation to Siva, and the rest are love-poems divided into the
 five traditional divisions: 35 stanzas about *pālai*, 29 about *kuṟiňci,*
-33 songs on *neytal.* 1 The compiler of the anthology was a certain
-1 The *peruntiṇai* and kaikkiḷai situations are handled as additional to the
-five *tiṇais*.
-
-
+33 songs on *neytal.*[^peruntinai-kaikkilai] The compiler of the anthology was a certain
 Nallantuvaṇār, supposed to be the author of the *neytal* portion,
 and there exists a detailed and excellent commentary by Nacciṉārkkiṉiyar
 (14th Cent.).
+
+[^peruntinai-kaikkilai]: The *peruntiṇai* and kaikkiḷai situations are handled as additional to the
+five *tiṇais*.
 
 The background of the poem is the same as in early classical
 poetry; but the tone is different. In a way, it is precisely the
@@ -61,6 +60,7 @@ to have been a later development; the *kali* stanza seems to be a
 combination and a development of the *āciriyam* and the *veņpā.* It
 can hardly be denied that the *kali*-metre and the *kali*-stanza is
 later, historically younger than the *akaval* (and *vaňci*).
+
 There are new structural elements in the *kali* stanzas: *dialogues*
 which sometimes look like “a one-act play in miniature" (C. and
 H. Jesudasan, op. cit. 67). Thus we have dialogues between the
@@ -87,6 +87,7 @@ A. K. Ramanujan):
 > in the water, \
 > what great good deeds \
 > did you do that I should want you so? \
+> 
 > (O mother! she swore to herself) Some \
 > auspicious moment made you dwarf, \
 > so tiny you're almost invisible, \
@@ -94,32 +95,36 @@ A. K. Ramanujan):
 > how dare you stop us to say \
 > you want us? Would such midgets \
 > ever get to touch such as us? \
+> 
 > O lovely one, \
-> curvaceous, \
-> convex \
+> \ \ \ \ curvaceous, \
+> \ \ \ \ \ \ \ \ convex \
 > as the blade of a plough, \
 > you strike me with love \
 > I cannot bear. \
-> I can live \
+> \ \ \ \ I can live \
 > only by your grace. \
 > (Look at the way this creature walks!) \
+> 
 > O dwarf, standing piece of timber, \
 > you've yet to learn the right approach \
 > to girls. Humans do not copulate \
 > at noon: but you come now to hold \
 > our hand and ask us to your place. \
+> 
 > Good woman, \
-> your waist is higher \
+> \ \ \ \ your waist is higher \
 > than your head, your face a skinned heron \
 > with a dagger for a beak, \
-> listen to me. \
+> \ \ \ \ listen to me. \
 > If I take you in the front, your hunch \
 > juts in my chest; if from the back \
 > it'll tickle me in odd places. \
-> So, I'll not \
+> \ \ \ \ So, I'll not \
 > even try it. Yet come close and let's touch \
 > side by side. \
-> *Chi,* you're wicked. Get lost! You half-man! \
+> 
+> *Chī,* you're wicked. Get lost! You half-man! \
 > As creepers hang on only to the crook of the tree \
 > there are men who'd love to hold this hunch \
 > of a body close, though nothing fits. Yet, you lecher, \
@@ -127,38 +132,42 @@ A. K. Ramanujan):
 > with us, you ball, you bush of a man, \
 > A gentle hunchback type is better far than a string \
 > of black beans. \
+> 
 > (Look at the walk of this creature!) You stand \
 > like a creepy turtle stood up by somebody, \
 > hands flailing in your armpits. \
 > We've told you we're not for you. Yet you hang around. \
 > (Look, he walks now like the Love-God)! \
+> 
 > The root of this love is Kāma, \
 > the love-god with arrows, brother to Shāma. \
 > Look, this is how the love-god walks! \
-> (Look, \
+> \ \ \ \ (Look, \
 > look at this love-god!) \
+> 
 > Come, let's find joy, \
 > you in me, me in you; come, let's ask and talk \
 > agree which parts I touch. \
-> and \
-> I swear \
+> \ \ \ \ I swear \
 > by the feet of my king, I'll mock you no more. \
+> 
 > Right, O gentle-breasted one. I too will give up \
 > mockery. \
-> But I don't want this crowd in the temple \
+> \ \ \ \ But I don't want this crowd in the temple \
 > laughing at us, screaming when we do it, \
 > 'Look, look! Look at that dwarf and hunchback, \
 > leaping like demon on demon!' \
-> O shape \
+> 
+> \ \ \ \ O shape \
 > of unbeaten gold, let's get away from the temple \
 > to the wild jasmine bush. Come, let's go. \
 > You're now a gob of wax on a parchment \
 > made out in a court full of wise men, \
-> and stamped \
+> \ \ \ \ and stamped \
 > to a seal; you're now flat, incomplete. Come, \
 > let's touch close and hug hard \
 > and finish the unfinished. \
-> Let's go. \
+> \ \ \ \ Let's go. \
 
 On the other hand, the traditional *aintiṇai* (i.e. "love proper")
 situations continue in *Kalittokai* and even receive new possibilities
@@ -174,8 +183,6 @@ later origin.
 
 Earlier poems are often quoted, e.g. *Kur*. 18.5 *uyirtavac* ciṟitu
 *kāmamō* peritē "the endurance of my soul is small, but passion of
-
-
 love is indeed great” reappears in *Kali*. 137.2: *peritē kāmamen nuyir-*
 *tavac ciṟitē*.
 
@@ -199,12 +206,11 @@ Kṛṣṇa killing the horse-demon (103), Kṛṣṇa hiding the sun with his
 All these facts point rather conclusively to the post-early classical
 origin of *Kalittokai*.
 
-1
 In many ways, the collection seems to be work of one author; the
 subject-matter, the style, the metre, the language. all indicates an
 individual authorship of the whole collection (granted even the
 over-all uniformity and homogeneity of the bardic poetry). On the
-other hand, a rather late *veṇpā* quatrain ¹ exists which ascribes the
+other hand, a rather late *veṇpā* quatrain[^ilakkiya-tipam] exists which ascribes the
 five divisions of the anthology to five "Sangam" poets: *pālai* to
 Perunkaṭunkōn, *kuṟiňci* to the great Kapilar, *marutam* to Marutan
 Iļanākaṇār, *mullai* to Cōḻaṉ Nalluruttiran and *neytal* to Nallantuvaṇār
@@ -214,18 +220,17 @@ doubted. Allmost all serious scholars (the first editor of the work,
 S. V. Damodaram Pillai, 1887, K. N. Sivaraja Pillai, Rajamanikkam,
 H. W. Schomerus) are inclined to regard *Kalittokai* as the
 work of one poet, who probably belonged to the *Pāṇṭiyaland.*
+
+[^ilakkiya-tipam]: Cf. Vaiyapuri Piḷḷai, *Ilakkiya* tipam (1952) 81.
+
 The problem is far from definitely solved. But the work itself is
 great and deserves careful study, monographic treatment, and a
-congenial translation in toto.
+congenial translation *in toto*.
 
-*paripāṭal* is traditionally enumerated as the fifth of the collec1
-Cf. Vaiyapuri Piḷḷai, *Ilakkiya* tipam (1952) 81.
-
-
-
-tions *(tokai*); it is an odd, hybrid work, partly traditional lovepoetry
+*Paripāṭal* is traditionally enumerated as the fifth of the collections
+ *(tokai*); it is an odd, hybrid work, partly traditional love-poetry
 and partly a work of *bhakti*. It is a collection of poems in the
-*paripaṭal* metre,1 which seems to be further development of the
+*paripaṭal* metre,[^paripatal] which seems to be further development of the
 old classical metres. Of the seventy poems supposed to have been
 originally included in this work, only twenty four are extant in
 full (a few more are in fragments, and some (22, 24) may be found in
@@ -246,6 +251,7 @@ Kēcavaṇār Nallaccutaṇār, Naṇṇākaṇār, Nākaṇār, Pittāmattar,
 Pēṭṭaṇākaṇār, Maruttuvan Nallaccutaṇār. There is a
 detailed commentary available composed by Parimēlaḻakar. The
 work was published first in 1918 by U. V. Swaminatha Aiyar.
+
 It seems that the poems were indeed composed as songs, intended
 to be sung. The work is relatively late. It seems to be separated at
 least by three centuries from the earlier collections. First of all,
@@ -257,7 +263,7 @@ suffix -kiny-, and forms which are undoubtedly rather late in the
 history of the language, e.g. *nāṇ* (20.82) “I”, or *āmām* “emphatic
 affirmation".
 
-1 *paripāṭal* is mentioned as a metre in *Tolk. Ceyyul*. 242. The number of
+[^paripatal]: *paripāṭal* is mentioned as a metre in *Tolk. Ceyyul*. 242. The number of
 lines is unlimited; it is on the whole a rather loose structure with verses
 ranging from one foot to four feet, exceptionally to five feet, and it provides
 for much variety. For the hybrid nature of the work, cf. e.g. the definition of
@@ -268,8 +274,6 @@ stanzas, 8 should have been dedicated to *Tirumal*, 31 to *Murukaṉ*, I to
 beginning with Iḷampūraṇar, interpret the term *paripățal* as *parinta*
 *pāṭṭu* "running, speeding, rapid song".
 
-
-
 Second, there are references in the text to temples and shrines
 which must have been built in the post-classical period (Tiruvēnkațam,
 Tiruvaṇantapuram etc.), and mural paintings on the walls of
@@ -278,6 +282,7 @@ Many allusions to a number of *Puranic* stories betray, too, the
 relatively late origin of the poem: thus we hear of the churning of
 the ocean of milk (2.71-72, 3-33-4), of Prahlāda (4.12-21), of the birth
 of Murukaṉ (5.27-49), of the destruction of the three cities (5.25) etc.
+
 There is no great devotional fervour in the poems, and the lyrical
 quality of the text is not exactly outstanding. One can regard these
 poems as a form of transition-not very successful-between the
@@ -292,14 +297,16 @@ The devotee, the *bhakta,* is directed by the poet to various shrines
 of the god. The "Guide to Lord Muruku" seems to have been
 considered by the redactor of the *Pattuppāṭṭu* collection as the
 invocatory lay to the "Ten Songs" (in analogy with the invocatory
-stanzas prefixed to the Anthology collections).¹ The poem is held
+stanzas prefixed to the Anthology collections).[^Kailasapathy] The poem is held
 in very high esteem not only by Murukaṉ worshippers for whom it
 is the most ancient and fundamental text, but by all Saivites. It is
 an excellent poem in 312 *akaval* verses, and it is ascribed to Nakkīrar
 (whom the tradition makes identical with the author of the early
 lyrical pieces, but who is very probably much younger than the
 "Sangam" Nakkīrar; he may be identical with the author of the
-commentary to *Iṟaiyaṉār Akapporu!).*
+commentary to *Iṟaiyaṉār Akapporuḷ).*
+
+[^Kailasapathy]: K. Kailasapathy, op. cit. 35.s
 
 The poem is carefully planned out, according to a definite scheme
 which is based upon a very fundamental conception in South Indian
@@ -309,12 +316,8 @@ parts of unequal length: the first describes the beauty of Murukaṉ,
 the killing of Surapadma, the excellence of Maturai and Tirupparankunram;
 in the second, the six faces of Murukaṉ are described and
 their functions, as well as his twelve arms and their work, and the
-temple in Tiruccir; the third part deals with the shrine in Tiruvāvi1
-K. Kailasapathy, op. cit. 35.
-
-
-
-nankuți, the fourth with the temple in Tiruvēṟakam, in the fifth the
+temple in Tiruccir; the third part deals with the shrine in Tiruvāviṉaṉkuṭi,
+the fourth with the temple in Tiruvēṟakam, in the fifth the
 poet narrates the sports of the god in the hills, the sixth describes
 the shrine in Palamutirccolai.
 
@@ -362,8 +365,8 @@ you bring on the battle field, where you pile up fallen corpses". *Tolk*. has a
 poetic theme called *aṭṭaiyāṭal* (cf. Ka. *aṭṭe* "a headless trunk", Te. *aṭṭa* “id.",
 *DED* 90): "hero's body continuing to manifest heroic deeds even after
 dismemberment, as the quivering of a leech (*aṭṭai,* DED 89) after being cut
-into two".
-Slaughter of men and animals alike is described with great gusto. From
+into two". \
+\ \ \ \ Slaughter of men and an/imals alike is described with great gusto. From
 the
 *gloire* of a slayer of elephants, an entire genre developed in the middle
 ages: the *paraņi,* a war poem about a hero who has destroyed 700 elephants.
@@ -380,8 +383,8 @@ tasty soup of stinking corpses, but the Jain devil (which does not take life
 and eats only once a day) is to be given the strained soup indeed an admirable
 sense of humour on the part of the poet! And the Buddhist devil,
 going about wrapped in skins, is given the delicious brains of the dead (this,
-too, is humour).
-An extremely relevant passage of the great medieval commentator
+too, is humour). \
+\ \ \ \ An extremely relevant passage of the great medieval commentator
 Nacciṉārkkiṉiyar on *TP* gives much insight on the theme of sacrifice to the
 devils (*pey,* DED 3635 "demon, goblin, fiend, devil", To. *on* “god of the
 dead", in Gondi, Kui and Kuvi "god", which is very suggestive). A gruesome
@@ -390,8 +393,8 @@ and probably the old Dravidian mother-goddess (*DED* 1803 *korram* “victory,
 power, bravery"). It consisted of the following features: 1) it was performed
 at the end of a battle by the victors; 2) wholesale sacrifice of men, animals
 and weapons took place; 3) some sort of ritual cooking was done, using
-blood; 4) priestesses officiated at the ceremony.
-It seems though this needs further and careful investigation--that there
+blood; 4) priestesses officiated at the ceremony. \
+\ \ \ \ It seems though this needs further and careful investigation--that there
 are references to the ritual of human sacrifice (and probably an echo of
 cannibalism) in *Puṟam* 62, 356, 359, 369-71, *Patiṟṟup*. 13, 15, etc.
 
@@ -497,7 +500,7 @@ in a very inadequate translation:
 
 Murukaṉ has two wives; the senior, Teyvayāṇai, is the daughter
 of Indra; the younger is "the beautiful daughter of the hunters,
-little Vaḷḷi, with creeper-like slender waist" (101-102).¹ The god's
+little Vaḷḷi, with creeper-like slender waist" (101-102).[^karpu] The god's
 priest is called *vēlan* (190) "he who wears the spear"; and the men
 in the jungle drink in the god's honour liquor prepared from honey
 matured in bamboo (*nīṭamai viļainta tēkkaṭ ṭēral,* 195). But, in his
@@ -509,28 +512,29 @@ Skanda with the pre-Aryan, South Indian Murukaṉ. The poem
 contains much old, traditional material (like the relationship of
 Murukaṉ to Korravai, the old mother-goddess of the Tamils). It is
 typically a poem of transition, marking the end of an epoch, the
-1 According to later speculations, *kaṟpu* "chastity" is of two types: the
-stern (*maram*) and the gentle (*aram*). Draupadi and Kaṇṇaki represent the
-former type, while Sītā and Teyvayāṇai represent “gentle chastity".
-9
-
-
 end of pre-Aryan Tamilnad, the end of the classical age; and the
 beginning of an entirely different age which is heralded by the rise
 of devotional literature. It is perhaps significant that the first truly
 religious, devotional poem in Tamil is dedicated to Murukaṉ, the
 Tamil deity *par excellence*.
 
+[^karpu]: According to later speculations, *kaṟpu* "chastity" is of two types: the
+stern (*maram*) and the gentle (*aram*). Draupadi and Kaṇṇaki represent the
+former type, while Sītā and Teyvayāṇai represent “gentle chastity".
+
 Apart from what was said about its subject matter, there are also
 other indications that the poem may hardly be older than about
 550-600 A.D.; there are some very serious authors who place it
-around A.D. 800.¹ There are some rather late forms and innovations
+around A.D. 800.[^murukan-poem-age] There are some rather late forms and innovations
 in the language (*perīiyar* 168, *nalkumati* 295 etc.); many of the
 Aryan loanwords (which are abundant) are rather late borrowings
 *(tilakam*, *nakaram, caṇpakam, ankucam* etc.); earlier texts are cited
 (e.g. *Nar.* 62: *Tirumuruk*. 24). There is also the fact that, according
 to U. V. Swaminatha Aiyar, most of the *Pattuppāṭṭu* manuscripts
 used by him for his edition do not contain the text of this poem.
+
+[^murukan-poem-age]: S. Vaiyapuri Pillai*, HTLL* p. 58. On p. 113, he dates it "about A.D. 700".
+
 The poem is very important for the development of South Indian
 *bhakti* in that it contains, in lines 60-66, the summary of its fundamental
 principles: salvation as the goal of existence; salvation
@@ -542,5 +546,3 @@ bhakti.
 
 No wonder that the poem found its way into the 11th *Tirumuṟai,*
 the corpus of Saivite Canonical writings.
-
-1 S. Vaiyapuri Pillai*, HTLL* p. 58. On p. 113, he dates it "about A.D. 700".

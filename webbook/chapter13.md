@@ -1,17 +1,35 @@
 # THE IMPERIAL POET
 
-In the standard German history of Indian literatures,¹ revised
+In the standard German history of Indian literatures,[^german-history-indian-lit] revised
 in 1961, we do indeed come across the name of Kampaṉ. The
 author has devoted to "the greatest epic poet of Tamil land"
 (T. P. Meenakshisundaran), to "the king of Tamil literature" who
 "represents the Tamil mind at its ripest and noblest" (C. and H.
 Jesudasan) 11 lines of small print, and these II lines abound in
-general statements.2 And yet, Kampaṉ's *Irāmāvatāram* is not
+general statements.[^11-lines-repeated] And yet, Kampaṉ's *Irāmāvatāram* is not
 just an epic poem, it is an entire literature and, as the Jesudasans
 say, "to the Tamilian mind, one of the world's wonders is its ignorance
 of him" (op. *cit*. 168). "The field of research in Kamban is vast
 as the sea", and, as we have specialized “Dantists" or Shakespearean
-scholars, we are equally entitled to have specialized “Kambanologists".³
+scholars, we are equally entitled to have specialized “Kambanologists".[^kampan-comparisons]
+
+[^german-history-indian-lit]: H. von Glasenapp, *Literaturen Indiens*, 1st ed. 1929, rev. ed. 1961.
+
+[^11-lines-repeated]: such as "Beliebt ist Kambans Rāmāyaṇa vor allem wegen der Eleganz
+und des Wohlklangs seiner Sprache" or "Gross ist er in der Verwendung von
+Bildern und Gleichnissen und anderem schmückenden Beiwerk".
+
+[^kampan-comparisons]: Incidentally, Kampaṉ is sometimes called "the Homer of Tamil literature"
+or "the Shakespeare of Tamil literature". Nothing is more misleading
+than these entirely empty metaphors. Homer is Homer, Shakespeare is
+Shakespeare, and Kampaṉ is Kampaṉ. They have nothing substantial in
+common. In the Tamil tradition, Kampaṉ is called very often *kaviccak-*
+*kiravartti,* "the emperor of poets", since he is so "supreme". He is, though,
+not the only Ta. poet to bear this title. Thus, e.g. Cayankoṇṭār (the author of
+*Kaliṅkattupparaṇi*) is also "emperor of poets" (cf. *Kulōttuṅkaṉ Piḷḷaittamiḻ,*
+14, and *Tanjore Saraswati Mahal Library Catalogue* Vol. I, p. 288). Another
+"emperor of poets” is Oṭṭakkūttar (cf. *Takkayākapparaṇi* 813).
+
 Hence, again, just like in the case of the *bhakti* literature, we have
 to make a choice, and select a few, particularly relevant, critical and
 interesting features of Kampaṉ's great work, and deal with these
@@ -23,36 +41,24 @@ Even his name presents a problem: it is of course the name of
 Śiva in Kāňci (*Tēvāram* 3240). There was also a Pallava king,
 Kampavarman (870-912? See K. A. N. Sastri, *A History* of *South*
 *India¹ii*, *175*), in fact the very last of the Pallava kings. According
-1 H. von Glasenapp, *Literaturen Indiens*, 1st ed. 1929, rev. ed. 1961.
-2 such as "Beliebt ist Kambans Rāmāyaṇa vor allem wegen der Eleganz
-und des Wohlklangs seiner Sprache" or "Gross ist er in der Verwendung von
-Bildern und Gleichnissen und anderem schmückenden Beiwerk".
-3 Incidentally, Kampaṉ is sometimes called "the Homer of Tamil literature"
-or "the Shakespeare of Tamil literature". Nothing is more misleading
-than these entirely empty metaphors. Homer is Homer, Shakespeare is
-Shakespeare, and Kampaṉ is Kampaṉ. They have nothing substantial in
-common. In the Tamil tradition, Kampaṉ is called very often *kaviccak-*
-*kiravartti,* "the emperor of poets", since he is so "supreme". He is, though,
-not the only Ta. poet to bear this title. Thus, e.g. Cayankoṇṭār (the author of
-*Kaliṅkattupparaṇi*) is also "emperor of poets" (cf. *Kulōttuṅkaṉ Piḷḷaittamiḻ,*
-14, and *Tanjore Saraswati Mahal Library Catalogue* Vol. I, p. 288). Another
-"emperor of poets” is Oṭṭakkūttar (cf. *Takkayākapparaṇi* 813).
-
-
 to one legend, the poet was born in the vicinity of a temple-pillar
 *(kampam, stambha-*); according to another story, he was the son of
 the king of *Kampanāțu;* other stories associate his name with
 *kampu*, "millet", or *kampam* "pillar" or "stick"; a well-known
 proverb says that in Kampaṉ's home even a post for tying cattle
-will compose verses.¹
+will compose verses.[^kampan-home-proverb]
+
+[^kampan-home-proverb]: *kampan* vīṭṭuk *kattuttariym kaviccollum*.
+
 What we do know is that he was a native of Tiruvaluntur (Tanjore
 district), of the *uvacca* community (temple drummers, or according
 to others, pūjāris in Māriyamman's temples), and that he was
 patronized by a chieftain called Caṭaiyappan or Caṭaiyan, to whom
 he thankfully refers in every thousandth verse of his poem.
+
 Another problem is Kampaṉ's date. According to one stanza, the
-year of the composition of his work is 885 A.D.2 An alternative
-interpretation of the same stanza puts Kampaṉ in the 12th Cent.³
+year of the composition of his work is 885 A.D.[^kampan-date] An alternative
+interpretation of the same stanza puts Kampaṉ in the 12th Cent.[^12th-century-theory]
 On the basis of another verse, and the frequent occurrence of the
 word *uttaman,* the work is assigned to the 10th Cent. A.D., to the
 reign of Uttama Chola. According to T. P. Meenakshisundaran
@@ -60,34 +66,35 @@ reign of Uttama Chola. According to T. P. Meenakshisundaran
 will interpret this verse as referring to 1185 in the reign of Kulōttuṅkaṉ
 III (1178-1216), and there is inscriptional evidence which
 shows that this Chola king was called *Tiyakavinōtan* to whom
-Kampaṉ refers (in *Yuttakāṇṭam*, *Maruttumalaip*. 58). There is a
+Kampaṉ refers (in *Yuttakāṇṭam*, *Maruttumalaip*. 58)[^tiyakavinotan-chola]. There is a
 stanza attributed to Kampaṉ in *Tamilnāvalar caritai* in praise of
 a king of Varangal who belongs to the same period. Once, in Kiṭkin*tākāṇṭam*,
 *Pilamnīňkup*. 35, Kampaṉ refers to Amalaṉ who is
 identified with Chola Kulōttuṅka II (1132-1150) praised by the
-Chola court-poet Oṭṭakkūttaṉ. 5 Hence it seems to be true that
+Chola court-poet Oṭṭakkūttaṉ.[^ottakkuttan] Hence it seems to be true that
 Kampaṉ was not prior to Kulōttuṅka Chola II; and the upper limit
 is set by Periya Āccāṉ Pillai (first half of the 13th Cent.) who quotes
 from Kampaṉ in his commentary to *Tiviyappirapantam*. A probable,
 though by no means certain date for Kampaṉ is, therefore, the
 12th Cent. A.D. As T.P. Meenakshisundaran says, “in any case all
 these dates fall within the period of the Imperial Cholas" (op*. cit.*
-102).6
-1 *kampan* vīṭṭuk *kattuttariym kaviccollum*.
+102).[^date-imperial-cholas]
 
-2 Cf. V. V. S. Aiyar's introduction to *Pālakāṇṭam* (1917).
-3 *Centamiḻ* III, 171-81.
+[^kampan-date]: Cf. V. V. S. Aiyar's introduction to *Pālakāṇṭam* (1917).
 
-4 Cf. Es. Vaiyāpuri Pillai, *Tamilccuțarmanikal,* III ed., 1959. Also *Centamiḻ*
+[^12th-century-theory]: *Centamiḻ* III, 171-81.
+
+[^tiyakavinotan-chola]: Cf. Es. Vaiyāpuri Pillai, *Tamilccuțarmanikal,* III ed., 1959. Also *Centamiḻ*
 I, p. 122.
 
-5 *Kulōttunkacōlanulā* 157.
+[^ottakkuttan]: *Kulōttunkacōlanulā* 157.
 
-6 For a detailed discussion in Tamil of this problem cf. Es. Vaiyāpuri
+[^date-imperial-cholas]: For a detailed discussion in Tamil of this problem cf. Es. Vaiyāpuri
 Pillai, *Tamilccuṭarmaṇikal,* III ed., 1959, pp. 127-149.
 
 
 This is, then, the sum of our knowledge of the poet and his date.
+
 As far as the work itself is concerned, one can point out, as already
 said, only to a handful of those features which one considers to be
 most relevant and important, at our age and for the contemporary
@@ -111,8 +118,10 @@ avatar of Viṣṇu; T. P. Meenakshisundaran (op. cit. 104-105) quotes
 several instances to prove that Kampaṉ obviously knew and used
 these poems. It is, however, interesting to notice the fact that,
 "while the Tamils have gone on attempting *Mahābhāratas*, no man
-has dared to attempt the *Rāmāyaṇa* after Kamban", 1 though
+has dared to attempt the *Rāmāyaṇa* after Kamban",[^no-attempt-ramayanam-after-kamban] though
 there were *Rāmāyaṇas* before him.
+
+[^no-attempt-ramayanam-after-kamban]: The Jesudasans, op. cit. 183.
 
 Second: The *Irāmāvatāram* of Kampaṉ is one of the few Tamil
 literary works which were well-known outside Tamilnad. It was
@@ -128,13 +137,6 @@ praised by one of his disciples as famous for his interest in *Rāmāyaṇa.*
 than the 12th Cent., Rāmānuja might have known his great poem.
 The influence of the great Tamil philosopher travelled to North
 India and spread through to Rāmānanda, whence a connection may
-1 The Jesudasans, op. cit. 183.
-
-14
-
-
-
-
 be established with Kabir and Tulsidās. There is much speculation
 about the influence of the Tamil poem on the Northern versions of
 the Rama story.
@@ -149,7 +151,7 @@ plot and many of its details are taken from Vālmīki. The division
 into books (*kāṇṭam*) and the subdivision into cantos (*pațalam*) is
 taken from Vālmīki, too. The epic is basically modelled on the
 rhetoric of Sanskrit *kāvyas*, not on the more indigenous Tamil epic
-tradition. And, above all, Kampaṉ is a learned poet,¹ and his
+tradition. And, above all, Kampaṉ is a learned poet,[^saying-kampan-greatest-in-learning] and his
 great erudition in both Sanskrit and Tamil tradition, written and
 oral, is evident everywhere. On the other hand, the Tamil poet
 introduced significant changes into minor episodes, and some of
@@ -159,6 +161,10 @@ Here, too, one has to make a choice and try to show what seem to
 be the most characteristic and the most easily illustrative points of
 difference between the *ātikavi* (Vālmīki) and Kampaṉ's Tamil work,
 and to focus on the "Tamilness" of the Tamil *Irāmāvatāram*.
+
+[^saying-kampan-greatest-in-learning]: There is even a popular saying which reflects this: *kalviyir periyavan*
+kampan "Kampan is greatest in learning".
+
 Kampaṉ's ideal, the *Rāmarajya,* Rāma's rule, the heavenly
 kingdom to be established, is set into an ideal environment of
 country and city which, though it retains its original name, has a
@@ -172,15 +178,12 @@ in stanzas 23 ff. The fact is very obvious e.g. in stanza 28:
 > seashore into fertile land, \
 > changing boundaries, exchanging \
 > landscapes, \
-> the reckless waters \
+> \ \ \ \ \ \ \ \ the reckless waters \
 > roared on like the pasts \
 > that hurry close on the heels \
 > of lives. \
 >
 > (Transl. A. K. Ramanujan) \
-
-1 There is even a popular saying which reflects this: *kalviyir periyavan*
-kampan "Kampan is greatest in learning".
 
 Not only that: the entire opening passage on waters, taking many
 shapes and forms, is unique, characteristically Tamil, and none of
@@ -192,7 +195,7 @@ this is in Väālmīki.
 > of wealth yet keep little \
 > in their spendthrift hands \
 > as they move on: \
-> so the waters \
+> \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ so the waters \
 > flow from the peaks to the valleys \
 > beginning high and reaching low. \
 > (17)
@@ -233,7 +236,7 @@ takes many different forms according to the shapes men give it.
 > on the striped and spotted snake \
 > the waters are naughty. \
 > (26) \
- > \
+> \
 > (Transl. A. K. Ramanujan) \
 
 The ideal city, Ayodhyā, the seat of civilization, is governed by
@@ -245,39 +248,10 @@ is Laṅkā, also a seat of civilization, equally rich, perhaps even more
 so. However, while Ayodhyā is a seat of love and divine light, Laṅkā
 is governed by *maram*, by militant heroism, the seat of a Titan,
 whom even the gods fear, and who has an utter disregard for
-*dharma,* however cultured and refined he may be.¹
-In the characterization of some figures, there are considerable
-differences between Kampaṉ's work and its Sanskrit inspiration. I
-shall give at least two instances of such changes introduced by
-Kampaṉ.
+*dharma,* however cultured and refined he may be.[^modern-dravidian-critiques]
 
-IST THEME: THE EPISODE OF SUGRĪVA, VĀLI AND TĀRĀ
-*Vālmīki*
-Tārā is the wife of the monkey
-king Väli. After Vāli's death, the
-victorious Sugrīva takes her as
-his wife and his love is reciprocated
-by Tārā. Lakṣmaṇa, enraged
-at the ungratefulness of Sugrīva
-(whom Rāma helped to kill Väli
-and regain his throne), is pacified
-by Tārā.
-
-*Kampaṉ*
-The moral justification for Väli's
-death is the fact that he has taken
-forcibly Sugrīva's wife from him.
-
-Tārā becomes a saintly widow
-after the death of her husband,
-and comes to pacify Lakṣmaṇa,
-who is reminded by her widow's
-dress and ascetic behaviour of his
-own mother, left as a widow in
-Ayodhyā.
-
-1 Here one should probably at least mention the fact that the *Kampa-*
-*rāmāyaṇam* has become the target of attacks in rather recent days, mostly
+[^modern-dravidian-critiques]: Here one should probably at least mention the fact that the *Kamparāmāyaṇam*
+has become the target of attacks in rather recent days, mostly
 by the protagonists of the "Dravidian movement". Some speakers of the
 D.K. and D.M.K. parties tried to discredit the poem by pointing to the
 various *moral* fallacies of the hero (never on aestetic grounds!), e.g. Rāma's
@@ -291,9 +265,65 @@ other scholars who tried to point out an immense number of "interpolations"
 and thus "reconstruct" the "original" Kampaṉ in agreement with
 the aims of the Dravidian movement.
 
+In the characterization of some figures, there are considerable
+differences between Kampaṉ's work and its Sanskrit inspiration. I
+shall give at least two instances of such changes introduced by
+Kampaṉ.
+
+1ST THEME: THE EPISODE OF SUGRĪVA, VĀLI AND TĀRĀ
+
+:::: {.columns}
+
+::: {.column width="40%"}
+
+
 *Vālmīki*
-2ND THEME: THE STORY OF AHALYĀ
+
+Tārā is the wife of the monkey
+king Väli. After Vāli's death, the
+victorious Sugrīva takes her as
+his wife and his love is reciprocated
+by Tārā. Lakṣmaṇa, enraged
+at the ungratefulness of Sugrīva
+(whom Rāma helped to kill Väli
+and regain his throne), is pacified
+by Tārā.
+
+:::
+
+::: {.column width="20%"}
+
+:::
+
+::: {.column width="40%"}
+
 *Kampaṉ*
+
+The moral justification for Väli's
+death is the fact that he has taken
+forcibly Sugrīva's wife from him.
+Tārā becomes a saintly widow
+after the death of her husband,
+and comes to pacify Lakṣmaṇa,
+who is reminded by her widow's
+dress and ascetic behaviour of his
+own mother, left as a widow in
+Ayodhyā.
+
+:::
+
+::::
+
+
+
+2ND THEME: THE STORY OF AHALYĀ
+
+:::: {.columns}
+
+::: {.column width="40%"}
+
+*Vālmīki*
+
 Ahalyā, the wife of the sage
 Gautama, willingly accepts Indra's
 embrace ("O Rāghava, though
@@ -312,6 +342,16 @@ his manhood by the curse of
 Gautama, but later the testicles of
 a ram were grafted on to him.
 
+:::
+
+::: {.column width="20%"}
+
+:::
+
+::: {.column width="40%"}
+
+*Kampaṉ*
+
 Ahalyā is chaste; she is duped by
 Indra's impersonation; she knows
 she is sinning only in the act, but
@@ -327,6 +367,10 @@ women!"). Ahalyā is turned into a
 black rock. Rāma's eyes fall on
 the rock, and as the dust of his
 feet blows on it, Ahalyā is revived.
+
+:::
+
+::::
 
 The Ahalyā episode is handled more effectively and more dramatically
 by Kampaṉ. The two innovations (Indra stealing away in
@@ -354,11 +398,17 @@ of *kali, viruttam* and *tuṟai* metres.
 The changes which Kampaṉ introduced are not necessarily improvements.
 In fact, it might be argued that the more crude, the
 more straightforward, more heroic and dignified version of Vālmīki,
-
-
 which has many a feature of *a* “morality tale", of a *Märchen* and a
 *chanson de geste,* has not really much improved by Kampaṉ's delicate
-and sophisticated touches.1
+and sophisticated touches.[^folk-criticisms-of-kampan]
+
+[^folk-criticisms-of-kampan]: There have always been voices strongly critical of Kampaṉ, some of them
+taking the shape of crude folk-sayings like *kampan-*vampan "K.- the bombastic
+talker", or stanzas like the one ascribed to Kālamēkam: *nārāyaṇanai*
+*nārāyaṇ* enrē kampan. *nēvāka vārenrāl* varrenpen *välenrān vallenpēn*
+*naranenrāl narrenpen* “if K. could say Nārāyaṇ for (the correct) Nārāyaṇaṇ,
+then I shall say *var* for *var*. . .". etc.
+
 After a macroscopic or telescopic, and probably rather oversimplified
 and impressionistic view of the epic we should now try
 and take a more proximate, a closer look at two or three small
@@ -378,13 +428,17 @@ measure of her footfall:
 
 The fascinating, regular metrical pattern is definitely suggestive
 of the triumphant, dance-like, wicked rhythm of her gait:
-l
+
+
 -/-/
+
+
 What is, however, so impressive, is the sound-symbolism of this
 stanza; by an extremely skillful use of high and front vowels and
 palatal consonants, plus the rhythm and the alliterations and consonance
 placed in the crucial slots, Kampaṉ has achieved to convey
 the picture of that malevolent, demoniac and weird beauty.
+
 i
 e
 14
@@ -395,6 +449,7 @@ e
 2
 a
 28
+
 The front high i and the front *e* are very frequent (14 + 7, i.e. 21
 in comparison with 28 *a's*, *a* being the most frequent vowel in the
 overall system of Tamil sounds); among the consonants, the palatals
@@ -402,15 +457,6 @@ give the predominant colour to the whole stanza. For the Tamil
 reader there is apart from the direct acoustic effect of the soundsa
 subconscious association between the palatal cluster -éc- and
 things which are bizarre, uncouth, dangerous, deadly, e.g. *añcal*
-1 There have always been voices strongly critical of Kampaṉ, some of them
-taking the shape of crude folk-sayings like *kampan-*vampan "K.- the bombastic
-talker", or stanzas like the one ascribed to Kālamēkam: *nārāyaṇanai*
-*nārāyaṇ* enrē kampan. *nēvāka vārenrāl* varrenpen *välenrān vallenpēn*
-*naranenrāl narrenpen* “if K. could say Nārāyaṇ for (the correct) Nārāyaṇaṇ,
-then I shall say *var* for *var*. . .". etc.
-
-
-
 "fear", *kaňcam* “trick”, *kiňci* “crocodile", *naňcam* “poison",
 *paňcam* “famine”, *piйcam* “killing”, *muňcal* “dying", *vaňcanam*
 "trick", *vaňcalam* "serpent" etc. The sound-symbolism is found,
@@ -466,13 +512,15 @@ about Sītā. His very first words, when he appears before Rāma:
 This stanza shows of what psychological depth Kampaṉ is
 capable: what is the very first word Hanumān utters as soon as he
 sees poor anxious Rāma?
-*kantanan* "I saw".
+
+<center><p>*kantanan* "I saw".</p></center>
 
 The most painful anxiety is dispelled by this one word: Hanumān
 *saw* her. But Rāma has doubts about Sītā's chastity; is she unharmed
 and safe and faithful? To dispel these doubts, Hanumān utters
 the next words:
-*karpinukku aniyai* "the jewel of chastity”.
+
+<center><p>*karpinukku aniyai* "the jewel of chastity”.</p></center>
 
 Now Rāma knows: Sītā is alive and well, safe and chaste. To
 stress his testimony, Hanumān adds now: *kaṇkaļāl* "with (my own)
@@ -506,16 +554,11 @@ but I wonder whether Sitā could characterize better her lord Rāma
 by saying anything else than oru pakal *palakiṇāl uyirai īvar* “if one
 knows him but a single day, one would give his life (for him).”
 If, in one place (*Pālakāṇṭam*, Päyiram 2), Kampaṉ says that it
-
-
 was not easy for him to show the mysterious state of God, he has
 succeeded, I think, better than Vālmīki, to show Rāma as a man
 (and hence the title, *Irāmāvatāram,* "The Descent of Rāma", lit.
 "the Rāma's becoming an *avatar"*). There is a phrase which sums up
 his conception of Rāma: *māṇitam vēnṛataṇrē* “truly, human nature
-has won!" 1
-1
-4.3.19. Cf. T. P. Meenakshisundaran, op. cit. p. 119.
+has won!"[^human-nature]
 
-THE CITTAR: AN ENIGMA
-219
+[^human-nature]: 4.3.19. Cf. T. P. Meenakshisundaran, op. cit. p. 119.

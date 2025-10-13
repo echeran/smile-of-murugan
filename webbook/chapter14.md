@@ -28,15 +28,17 @@ and deep wisdom, and the social and philosophical context of the
 writings of the *cittar* are so stimulating and exciting that one feels
 compelled to investigate the matter and to try to unravel its
 mysteries. Besides, some *cittar* poems are truly great poetry.
+
 Who were the *cittar*? What have they written and when did they
 write? At present, we are almost unable to answer even these
 fundamental questions with any appreciable degree of certainty.
+
 Why should it be so? There are at least three major causes for
 this highly unsatisfactory state of affairs. First, nobody has ever
 published the writings of the Tamil Siddhas in *toto,* and in a critical
 or even a near-to-critical manner. The first modern comprehensive
 —but by no means complete-edition of these poems appeared in
-1947 and was reprinted in 1956.¹ It is not even an approximation
+1947 and was reprinted in 1956.[^first-modern-printings] It is not even an approximation
 to a critical edition (though the editor is capable of preparing nearto-critical
 editions, as we know e.g. from his excellent edition of
 *Iṟaiyaṉār Akapporu!)*; it lacks the *apparatus criticus*, there is no
@@ -44,14 +46,13 @@ commentary on the poems, no notes, reading variations are not
 given in short, the book is rather a kind of "popular print” serving
 as an aid to memory for those who profess devotion to the *cittar*.
 We must, nevertheless, be grateful to the editor for having collected
-the texts and for having them printed in one handy volume.2
-But why this neglect of the writings of the *cittar*? It seems that
-the texts have been regarded, by the adherents of the *cittar* move1
-*Cittar ňānak* kōvai, edited by Mē. Vi. Vēņukōpālap Pillai, Madras, 1947,
+the texts and for having them printed in one handy volume.[^gratitude-to-first-editor]
+
+[^first-modern-printings]: *Cittar ňānak* kōvai, edited by Mē. Vi. Vēņukōpālap Pillai, Madras, 1947,
 2nd ed. 1956. Another recent edition is Aru. Rāmanātaṇ's *Cittar Pāṭalkaļ,*
 Madras, 1959, 2nd 1963, 3rd 1968.
 
-2 The editor admits in the foreword that this is not a critical, but a
+[^gratitude-to-first-editor]: The editor admits in the foreword that this is not a critical, but a
 "popular" edition. He has, however, appended a Tamil-Tamil glossary of
 difficult and unusual terms found in the texts. The edition has 816 pp. It
 includes the works of most of the traditionally quoted siddhar, the *cittarka!*
@@ -88,13 +89,26 @@ catalogue of these works. After the texts are gathered and classified, a critica
 edition at least of the basic *cittar* works may be contemplated.
 
 
-
-ment themselves, as esoteric teaching; hence almost no commentaries,
+But why this neglect of the writings of the *cittar*? It seems that
+the texts have been regarded, by the adherents of the *cittar* movement
+themselves, as esoteric teaching; hence almost no commentaries,
 no expository literature, and no handy editions. On the
 other hand, orthodox Hindus in Tamilnad have always had a deeprooted
 prejudice against the Siddhas. They tended to ignore them,
 even to suppress them; the works of the Siddhas were uncared for,
-neglected, and even destroyed.¹
+neglected, and even destroyed.[^orthodox-hindus-disdain-siddhas]
+
+[^orthodox-hindus-disdain-siddhas]: Cf. Mā. Campāciva Pillai, *Tirunānmaraivilaka* ārāycci 210: *"caiva*
+*camayattai* tāpittu *upakaritta caiva camaya kuravarkal* karpitta *valiyaik*
+kaippitittu *olukum caiva makkalum cittar nūlai nōkkavum icaivārā*? *orukālum*
+*icaiyār"*. Cf. what Taylor has to say in his catalogue (under *Sivaväkkiyam*):
+"I was told some years ago, that the ascetics (Panḍārams) of the Saiva class
+seek after copies of this poem with avidity and uniformly destroy every copy
+they find. It is by consequence rather scarce and chiefly preserved by native
+Christians". Heinrich Nau, in his very interesting *Prolegomena* (Zwickau,
+1920), says: . . die Werke der Sidhars (sind) von śivaistischen Zeloten,
+besonders den Paṇḍārams, systematisch verfalscht und beseitigt worden".
+
 Another reason why the study of this fascinating body of literature
 has so far been unsuccessful derives probably from the fact that
 it has not been approached and discussed from the right angle:
@@ -120,20 +134,9 @@ words, it may be gathered from the *cittar* themselves—and there
 are a number of Siddha teachers at large in Tamilnad even today.
 I am happy to say that some of my data in this chapter were
 graciously supplied by two Siddha yogis in Madras early in 1968.
+
 We do not know when the *cittar* tradition and the *cittar* line
 begins in Tamilnad. As an undercurrent, it might have been there
-1 Cf. Mā. Campāciva Pillai, *Tirunānmaraivilaka* ārāycci 210:
-*camayattai* tāpittu *upakaritta caiva camaya kuravarkal* karpitta *valiyaik*
-kaippitittu *olukum caiva makkalum cittar nūlai nōkkavum icaivārā*? *orukālum*
-*icaiyār"*. Cf. what Taylor has to say in his catalogue (under *Sivaväkkiyam*):
-"I was told some years ago, that the ascetics (Panḍārams) of the Saiva class
-seek after copies of this poem with avidity and uniformly destroy every copy
-they find. It is by consequence rather scarce and chiefly preserved by native
-Christians". Heinrich Nau, in his very interesting *Prolegomena* (Zwickau,
-1920), says: . . die Werke der Sidhars (sind) von śivaistischen Zeloten,
-besonders den Paṇḍārams, systematisch verfalscht und beseitigt worden".
-"
-*"caiva*
 since very early times. Yoga and tantrism are truly archaic and
 pan-Indian. Whenever the 18 *cittar* are enumerated traditionally
 in Tamilnad, one begins with Tirumūlar. Tirumūlar is undoubtedly
@@ -141,20 +144,15 @@ one of the direct and most influential forerunners of the movement.
 At the other end of the line in time stands Tāyumāṉavar (17061744),
 a real giant of Tamil religious and philosophical poetry, who
 may be considered as a direct descendant of the Tamil *cittar.*
+
 Considering Civaväkkiyar as the earliest of the great genuine
 Tamil Siddhas, we shall probably not be far from truth if we say
 that the most important exponents of the movement-or, shall we
 say, the greatest and most interesting *poets* among the Siddhas?--that
 is, Civaväkkiyar, Pattirakiriyar, Pāmpāṭṭi Cittar, Iṭaikkāṭṭuccittar
-and Paṭṭiṉattar, flourished between the 10th-15th Cent. A.D.¹
-However, a much broader and wider conception of the Siddha
-movement in Tamilnad is certainly possible; the only one really
-unifying and common element of the *cittar* thus conceived would
-be their eclecticism, and their popularity with the masses. If we
-stretch our conception of the *cittar* like this, then even the great
-Rāmaliṅka Cuvāmi of the 19th Century belongs here (as he actually
-claims to),2 and even Subrahmanya Bharati († 1921) who said:
-1 Among the *cittar*, we have a few Muslim poets, e.g. Kuṇankuṭimastāṇ,
+and Paṭṭiṉattar, flourished between the 10th-15th Cent. A.D.[^cittar-diversity]
+
+[^cittar-diversity]: Among the *cittar*, we have a few Muslim poets, e.g. Kuṇankuṭimastāṇ,
 the obscure mystic, who was under strong influence of sūfism. In Paṭṭinattār's
 poems, we find the Telugu pl. suff.-*lu* and some other indications which
 seem to point out that the poet belonged to the Vijayanagar period. Some
@@ -179,18 +177,23 @@ Siddhas may be read in M. Srinivasa Aiyangar's *Tamil Studies* (1914) p. 226:
 and dwellers in the land of dreams, their conceit knew no bounds". Needless
 to say that we do not agree in the least.
 
-2 And, in fact, M. V. Venugopala Pillai has included his *Tiruvaruṭpā*
-*tivaṭṭu* into his anthology of *cittar* poetry.
-
-
-
+However, a much broader and wider conception of the Siddha
+movement in Tamilnad is certainly possible; the only one really
+unifying and common element of the *cittar* thus conceived would
+be their eclecticism, and their popularity with the masses. If we
+stretch our conception of the *cittar* like this, then even the great
+Rāmaliṅka Cuvāmi of the 19th Century belongs here (as he actually
+claims to),[^19th-century-ramalingam-as-cittan] and even Subrahmanya Bharati († 1921) who said:
 "I am one of the Siddhas of this land!" But this very wide and very
 nebulous conception of the *cittar* would not be of much use for our
 purposes or for any purposes, in fact.
 
+[^19th-century-ramalingam-as-cittan]: And, in fact, M. V. Venugopala Pillai has included his *Tiruvaruṭpātivaṭṭu*
+into his anthology of *cittar* poetry.
+
 Traditionally, the Tamil Siddhas trace their origin to Agastya
 (Akattiyan), and to various works on mysticism, worship, medicine
-and alchemy ascribed to him.¹ In the *Ṛgveda* a brief reference
+and alchemy ascribed to him.[^akattiyan-ascribed-source] In the *Ṛgveda* a brief reference
 occurs to Agastya's miraculous birth from a pitcher (*kumbha*), but
 otherwise he seems to have been a historical person who composed
 hymns, a real Vedic ṛṣi. In the *Mahabharata* we already have a
@@ -198,7 +201,6 @@ developed story of Agastya, including his marriage with Lopāmudrā,
 a princess of Vidarbha, the motive of the two *daitya* kings and
 Agastya's search for wealth, Agastya's drinking up the waters of
 the ocean,
-,
 and his journey to the South when he prevailed upon the
 Vindhyas to stop growing until he returned-which, however, he
 never did. In the *Rāmāyaṇa,* Agastya figures, too (he fights the
@@ -210,32 +212,41 @@ and his relation to Vasiṣṭha. The first reference to Agastya as the
 commentary to Iṟaiyaṉār's *Akapporu*! (8th Cent.). Later, medieval
 commentators, Nacciṉārkkiṉiyar (14th Cent.) and Pērāciriyar
 (ca. 1300 A.D.), narrate a number of Agastya-stories and make
-him the "Sage of Potiyil". 2 This Agastya, however, whether he
-existed or not,³ is a very different person (and legendary hero) from
+him the "Sage of Potiyil".[^potiyil] This Agastya, however, whether he
+existed or not,[^whether-akattiyan-existed] is a very different person (and legendary hero) from
 the Siddha Akattiyar. It is obvious that one or more Siddhas
 assumed the name of the ancient, legendary *ṛṣi*, and there exists a
 number of works on medicine and alchemy, but also poetic works,
-ascribed to an Akattiyar.4
-Some of the medical works contain fascinating details. Thus e.g. in
-1 *Editio* M. V. Venugopala Pillai contains *Akastiyar ňāṉam* I-IV (pp.
+ascribed to an Akattiyar.[^multiple-works-of-poetry-medicine-alchemy]
+
+[^akattiyan-ascribed-source]: *Editio* M. V. Venugopala Pillai contains *Akastiyar ňāṉam* I-IV (pp.
 277 ff) and *Akastiyar ňāṉam* V (p. 559).
 
-2 Potiyil is the southernmost mountain of the Western Ghats, the Bettigo
+[^potiyil]: Potiyil is the southernmost mountain of the Western Ghats, the Bettigo
 of Ptolemy.
 
-3 Cf. T. P. Meenakshisundaran (ed. The *Tamil Plutarch)*: "Agastya as a
+[^whether-akattiyan-existed]: Cf. T. P. Meenakshisundaran (ed. The *Tamil Plutarch)*: "Agastya as a
 historical figure is no more than a will o' the wisp but as a tradition he
 wields an influence which is felt in all walks of Tamilian life".
-4 That *this* Agastya was a very late author may be seen from two works
+
+[^multiple-works-of-poetry-medicine-alchemy]: That *this* Agastya was a very late author may be seen from two works
 ascribed to him, *Irunurṛaňcu* (a medical treatise) and *Pūraṇacuttiram*
 (alchemy) in which he speaks about syphilis as *parankiviyāti* “Frankish
 disease", and about quick-silver as *parańki paṣanam* “Frankish remedy”.
 
 
-Akattiyar's *Kurunāṭiccūttiram*, 1 the author discusses seminal
+Some of the medical works contain fascinating details. Thus e.g. in
+Akattiyar's *Kurunāṭiccūttiram*,[^Kurunāṭiccūttiram] the author discusses seminal
 animalcules, discovered in Western medicine by Ludwig Hamm
-in 1677.2 Akattiyar is also said to have performed the trephination
+in 1677.[^rediscovered-by-west-much-later] Akattiyar is also said to have performed the trephination
 of the skull.
+
+[^Kurunāṭiccūttiram]: Cf. Robert's *Oriental Illustrations* of the *Sacred* Scriptures, p. 281.
+
+[^rediscovered-by-west-much-later]: Cf. *English Cyclopaedia, Biography,* vol. III, p. 871. Cf. also W. Taylor,
+*Oriental Historical Manuscripts*, in the *Tamil Language*, Vol. I, Madras,
+1835, pp. 135, 172, 175, and *Madras Journal* of *Literature and* Science, vol.
+IX, p. 161.
 
 This brings us to a brief discussion of the *cittavaittiyam* or the
 system of Siddha medicine in Tamilnad. It belongs here only
@@ -255,7 +266,8 @@ basic methods of Siddha medicine are *maṇi*, *mantiram*, and *maruntu,*
 i.e. astrology, reciting mantras and using drugs. However, according
 to some more modern exponents of *cittavaittiyam*, the Siddha
 therapy consists of 1) yoga *āsanas*, *mudras* and *bandhas* ("locks"),
-2) of *cürya cikiccai* or “sun-baths", and 3) of taking drugs (*maruntu)*.
+1) of *cürya cikiccai* or “sun-baths", and 3) of taking drugs (*maruntu)*.
+
 The great Tirumūlar himself spoke about a number of yogic
 *āsanas* (*Tirumantiram* 541, 543, 545): he recommends pattiram
 ("leaf-pose"), *kōmukam* ("cow-pose"), pankayam ("lotus-pose"),
@@ -263,20 +275,16 @@ The great Tirumūlar himself spoke about a number of yogic
 *cukātanam* (“easy pose"), and *māmutu* for taking food, further the
 kokku ("cock-pose") and one or two other poses. According to later
 exponents of Siddha yoga, there are eighteen poses, used in the
-therapy (combined with the *bandhas* and *mudras)*.³
-1 Cf. Robert's *Oriental Illustrations* of the *Sacred* Scriptures, p. 281.
-2 Cf. *English Cyclopaedia, Biography,* vol. III, p. 871. Cf. also W. Taylor,
-*Oriental Historical Manuscripts*, in the *Tamil Language*, Vol. I, Madras,
-1835, pp. 135, 172, 175, and *Madras Journal* of *Literature and* Science, vol.
-IX, p. 161.
+therapy (combined with the *bandhas* and *mudras)*.[^eighteen-sasanas]
 
-3 The eighteen indispensable *āsanas* (Tam. *ācanam*, *ātanam*) are: 1. salutation
+[^eighteen-sasanas]: The eighteen indispensable *āsanas* (Tam. *ācanam*, *ātanam*) are: 1. salutation
 (*vanakkam*), 2. sun-worship *(süryanamaskāram*), 3. shoulder integral
 pose (*carvānkācaṇam*), 4. fish (*min*), 5. crane (kokku), 6. bow (vil), 7. topsyturvy
 pose (*viparītācaṇam*), 8. half-fish (pāti *min*), 9. plough (*kalappai),*
 10. serpent (pāmpu), 11. yogic symbol pose (*yōkamutvācanam*), 12. half
 wheel (pāti cakkaram), 13. sitting crane (*amarnta* kokku), 14. locust (vițțil),
-
+15. supine pose *(vajroli mutrācanam*), 16. kneeling pose (supta *vajrācaṇam),*
+17. triangular pose (*mukkōṇācanam*), 18. corpse (*cavācanam).*
 
 Breathing is of course a most important part of *citta* yoga. Breath,
 *pirāṇam,* is the vital energy, and death, *maraṇam,* is defined by
@@ -284,9 +292,9 @@ Rōma Rṣi, one of the classical Siddha therapeutists, as complete
 loss of *prāņa: pirāṇan pōyviṭṭa nilai maraṇam.* On various practices
 of breathing, the Siddhas based their theory and practice of physical
 longevity and even immortality. According to *Rōma riṣi ňāṉam* 13,
-a man who is one hundred years old breathes 21,600 times per day.¹
+a man who is one hundred years old breathes 21,600 times per day.[^age-breathing-math]
 That is, during one hour this healthy centenarian breathes 900 times,
-which will give 15 respirations per minute. 2 The span of life is
+which will give 15 respirations per minute.[^western-age-breathing-math] The span of life is
 inversely proportional to the rate of breathing. If the respiration
 is 15/min. and the length of life 100 years, then 18/min. gives us
 approximately 83 1/3 years. But, the respiration 2/min. gives us
@@ -298,6 +306,11 @@ the span of his life is infinity. Practical consequences, appearing
 in *citta* yoga therapy: control your breathing; unnecessary talk,
 slip-shod panting and gasping, unnecessary respiratory muscle
 work is harmful.
+
+[^age-breathing-math]: *ulakattil mäniṭarkkām āṇṭu nūrē |ām enrē irupattō rāyirattōṭu / aru nūru*
+*cuvācam allō* oru *nāļaikkup* pōm. . .
+
+[^western-age-breathing-math]: According to Western medicine, it is 18 / min.
 
 Siddha medicine cannot be discussed at length here, since it is
 entirely outside the scope of this book, just as the preoccupation
@@ -313,15 +326,6 @@ the *cittar* work on their body, so they also work on matter-to
 finish it, to make it mature, perfect, to change it into gold. There
 is an occult correspondence between matter and man's psychophysical
 body. The vital interest of the *cittar* in medicine and alchemy
-15. supine pose *(vajroli mutrācanam*), 16. kneeling pose (supta *vajrācaṇam),*
-17. triangular pose (*mukkōṇācanam*), 18. corpse (*cavācanam).*
-1 *ulakattil mäniṭarkkām āṇṭu nūrē |ām enrē irupattō rāyirattōṭu / aru nūru*
-*cuvācam allō* oru *nāļaikkup* pōm. . .
-
-2 According to Western medicine, it is 18 / min.
-
-
-
 is no accident; it is closely connected with their religion and
 philosophy, as will be shown later.
 
@@ -329,7 +333,8 @@ Who is a Siddha? A Siddha is one who has attained *siddhi* (Tamil
 *citti*), i.e. "power, prowess, strength, ability", then a special kind of
 psychic and supernatural, miraculous, occult power. There are
 eight kinds of this specific power:
-I. *anima* (Skt. *aṇiman*) "shrinking", the faculty of reducing oneself
+
+1. *anima* (Skt. *aṇiman*) "shrinking", the faculty of reducing oneself
 to the size of an atom;
 2. makimā (Skt. *mahiman*) “illimitability", the power of increasing
 one's size without limit;
@@ -347,10 +352,13 @@ body immaterial and able to penetrate matter.
 
 According to *Vāṇmīki cūttira ňāṉam* 3, “by purifying the mind
 and attaining perfection one becomes a *cittan*; he is indeed fit to
-be called Siva". 1 A classical definition of the Siddhas is given by
+be called Siva".[^pure-cittan-as-sivan] A classical definition of the Siddhas is given by
 the great Tirumūlar: "Those who live in yoga and see the divine
 light (oli) and power (*cakti*) through yoga are the *cittar*" (Tiru*mantiram*
 1490).
+
+[^pure-cittan-as-sivan]: *cirantu manat* teļivākic *cērnton cittan/civaciva avanavanen ruraikkā*
+*lāmē*.
 
 Tirumūlar's *Tirumantiram* is very probably the spring and source
 of all *āgamic* texts in Tamil. This is the other stream of religious and
@@ -362,23 +370,18 @@ stanza, and since he is mentioned by Cuntarar in *Tiruttoṇṭattokai*,
 st. 5 (7621). The work became part of the Saiva canon (of its 10th
 *Tirumuṟai*). In his yogic passages, Tirumūlar is clearly indebted
 to Patanjali's *Yogasūtras* and to the *Mandukyopaniṣad*. The
-1 *cirantu manat* teļivākic *cērnton cittan/civaciva avanavanen ruraikkā*
-*lāmē*.
-
-15
-
-
 *Tirumantiram* is the greatest treatment of yoga in Tamil literature,
 and more than that: the Saiva Siddhānta philosophy as such takes
 its origin from this marvellous text. In spite of the simple style, the
 text is often obscure, since it uses a wide variety of symbolism,
-especially numerical symbolism.¹
+especially numerical symbolism.[^five]
+
 *Tirumantiram* contains very many features which are typical
 for Siddha writings. Thus it attacks caste-system and the Brahmins,
-whom it calls foolish and gluttonous.2 Though the text contains
+whom it calls foolish and gluttonous.[^anti-caste] Though the text contains
 stanzas which have devotional character (e.g. 712, 1651, 1816, 2104,
 2958), much more accent is on yoga and knowledge. The body is
-valued as the temple of God, 3 and as a fit instrument for the soul
+valued as the temple of God,[^body-temple] and as a fit instrument for the soul
 in its career of self-discipline and search of God (307, 724). Tirumūlar
 is sharply opposed to the ultraemotional type of *bhakti*.
 God, for him, is "light" and "lustre" *(cōti, cuṭar)*, he is omnipresent,
@@ -391,7 +394,7 @@ in temples. The Siddhas have not built up a unified system of
 philosophy. The same is true of *Tirumantiram*. However, this
 collection of more than 3000 quatrains in the *kaliviruttam* metre is
 the earliest work in Tamil to contain Śaiva *āgamic* matter, and
-though Tirumūlar's thought 4 is not identical with later Saiva
+though Tirumūlar's thought[^tirumular] is not identical with later Saiva
 Siddhānta, it is its source, as stressed above.
 
 Tirumūlar was a great poet-philosopher, one of the greatest poets
@@ -400,20 +403,20 @@ teachings, he is "the most ancient of the Tamil yoga Siddhas”.
 To us, some parts of his *Tirumantiram* are “a masterpiece of mystic
 wisdom, robust philosophy and moving poetry”.
 
-In what follows I shall discuss some of the features which are
-typical for all or almost all *cittar* as a body of thinkers.
-1 Thus e.g. *añcu* "five" may mean, according to context, the five senses, or
+[^five]: Thus e.g. *añcu* "five" may mean, according to context, the five senses, or
 the five elements, or the five "sacred" letters, etc.
 
-2 Cf. *Tirumantiram* 231: "The Brahmins. . . are truly without truth and
+[^anti-caste]: Cf. *Tirumantiram* 231: "The Brahmins. . . are truly without truth and
 knowledge, without devotion, they are gluttonous and foolish". Cf. also
 onrē *kulamum oruvanē tēvanum* "There is one humanity and one god".
-31823: *ullam perunkōyil un* uṭampu *ālayam.*
+[^body-temple]: 1823: *ullam perunkōyil un* uṭampu *ālayam.*
 
-4 Accord. to A. V. Subramania Aiyar, Tirumūlar was probably an advaitic
+[^tirumular]: Accord. to A. V. Subramania Aiyar, Tirumūlar was probably an advaitic
 vedantin (cf. 116, 1789, 2820), cf. the *pratyabhijňa* school of Kashmir
 Saivism. It is believed that he came to Tamilnad from Kashmir.
 
+In what follows I shall discuss some of the features which are
+typical for all or almost all *cittar* as a body of thinkers.
 
 First, in sharp opposition to the bhakti tradition, they refuse to
 allow themselves be carried away by idol-worship in particular
@@ -427,18 +430,28 @@ The mind, the heart, is the temple of God, and God enters the
 heart in a mysterious way, like "coconut water into coconut shell”:
 "The Lord came and made a temple of my heart here, entering it in
 the same way in which fresh water gets into the reddish young
-coconut".
+coconut".[^god-comes-mysterious-ways]
+
+[^god-comes-mysterious-ways]: Civaväkkiyar 31: Ceyya tenki *leyilanir cērnta kāra ṇankalpōl* | *aiyaṉ*
+*vantin kennulam pukuntu kōyil kontavan*. And again in 33: *kōyil* um *manat-*
+*tule*, *kulankal* um *manattulē* “temples are within your minds, temple-tanks
+are within your minds".
 
 Second, in contrast to bhakti which emphasizes passionate
 devotion to God, to the *iṣṭadevatā,* the *cittar* emphasize knowledge
 *(ňāṇam*), yoga practice, and character, moral behaviour, right
 conduct. Anger (*kōpam)*, lust (*ācai*), egoism (*akaǹkāram*) are the
 worst sins. According to Akattiyar 7,1, if the mind is in the right
-disposition, it is unnecessary to say prayers.2
+disposition, it is unnecessary to say prayers.[^right-mind-no-need-prayers]
+
+[^right-mind-no-need-prayers]: *manamatu cemmaiyānāl mantiram* cepikka *vēṇṭā*. . . *manamatu* cem*maiyānāl
+mantivañ cemmaiyāmē*.
+
 Third, almost all Siddhas raise a protest against caste and
 casteism. *cāti yāvat(u*) *ēt*(u)*aṭā* “What *is* caste?" asks Civaväkkiyar
 in st. 47. And Pattirakiri in his *Lamentations* 126 cries: "O when
 will come the day when we shall live without caste-distinctions?"
+
 We are primarily interested in the Siddhas' conception of God,
 body and soul, *karma* and reincarnation, since these are the keyproblems
 of Indian philosophy. The whole atmosphere of the Siddha
@@ -453,16 +466,6 @@ possible to state their philosophy more explicitly.
 There is god, or rather godhead, deity, *civam,* without limitation,
 who, by force of sheer custom, carries the name *civan,* Siva (almost
 all of them are Saivites but Civaväkkiyar-to quote just one
-1 Civaväkkiyar 31: Ceyya tenki *leyilanir cērnta kāra ṇankalpōl* | *aiyaṉ*
-*vantin kennulam pukuntu kōyil kontavan*. And again in 33: *kōyil* um *manat-*
-*tule*, *kulankal* um *manattulē* “temples are within your minds, temple-tanks
-are within your minds".
-
-2 *manamatu cemmaiyānāl mantiram* cepikka *vēṇṭā*. . . *manamatu* cem*maiyānāl
-mantivañ cemmaiyāmē*.
-
-
-
 example glorifies also Visņu). The *paramātmā* is identical with
 *jīvātmā,* with *uyir* "soul, life-force"; and *uyir* does not exist apart
 from *uṭal* "body", just as body has no life without uyir. If body is
@@ -507,10 +510,8 @@ ignoring it as suffering. This true knowledge is obtained in enstasis
 techniques.
 
 Poetry was not the primary concern of the Siddhas. They were
-ignorant of, or indifferent to, the complicated poetics of the postTHE
-CITTAR: AN ENIGMA
-229
-classical age. The rhythm of their stanzas is simple, robust, unrefined,
+ignorant of, or indifferent to, the complicated poetics of the post-classical
+age. The rhythm of their stanzas is simple, robust, unrefined,
 reminiscent of folk songs. One of them, Pāmpāṭṭi Cittar,
 sings verses in the metre used by snake-charmers. Iṭaikkāṭṭu
 Cittar sings as if he were a shepherd. They use many colloquial
@@ -566,9 +567,12 @@ same person, or did the iconoclastic Saivite cittar copy the Vaiṣṇava mystic
 
 He also rejects the division between Saivites and Vaiṣṇavites.
 Again and again he speaks of Rāma but, at the same time, he
-extolls Siva and śaivism.¹ He denounces the Brahminical way of
+extolls Siva and śaivism.[^extol-saviam-repudiate-brahminical-way] He denounces the Brahminical way of
 life, he repudiates the authority of the Vedas and condemns idol
 worship in temples.
+
+[^extol-saviam-repudiate-brahminical-way]: *entai* rāma *rāma rāma rāmavenrum* nāmame, st. 10; civayam *enra āṭcă-*
+ram civan irukkum *āṭcāram*.
 
 > "What are temples? What are bathing tanks? \
 > Fools who worship in temples and tanks! \
@@ -581,9 +585,9 @@ worship in temples.
 > the God in temple will dance and sing within you!" \
 > (34) \
 
-Recalling the scheme S₁ S₂ O₁ O2 which we used when structurally
+Recalling the scheme S<sub>1</sub> S<sub>2</sub> O<sub>1</sub> O<sub>2</sub> which we used when structurally
 analysing bhakti hymns, we observe in the poetry of the Siddhas
-complete negation of O2. One cannot say at all what is God, how
+complete negation of O<sub>2</sub>. One cannot say at all what is God, how
 he is. God is described almost exclusively in negative terms, in
 what he is not. This is in sharp contrast with the bhakti conception
 of a personal, individualized God having so many attributes and
@@ -604,9 +608,13 @@ Absolute, with *aṟivu*, knowledge. This is, of course, nothing new;
 again we may point back to Tirumūlar who says "Those who say
 that knowledge and *civam* are two (different) things, are ignorant”.
 
-
-This *aṟivu* or *ňāṉam* ¹ is naturally not the discursive kind of knowledge
+This *aṟivu* or *ňāṉam*[^knowledge] is naturally not the discursive kind of knowledge
 found in the texts:
+
+[^knowledge]: A rather late highly philosophical Siddha text *(Civāṇanta põtam*) is a
+dispute in dialogue form between *maṇam* “mind” and *aṟivu* “knowledge,
+wisdom". The interesting thing is that the ignorant mind speaks in prose,
+whereas the supreme knowledge speaks in verse.
 
 > "O you who proclaim yourselves the yogis of knowledge, \
 > who search after knowledge in books! \
@@ -618,6 +626,7 @@ found in the texts:
 
 Elsewhere Civaväkkiyar speaks of those who drag the burden
 of books and blabber lies. True knowledge empirical and experimental.
+
 One of the most powerful stanzas of all his poems is the one in
 which he plainly refutes the theory of transmigration; it deserves
 to be quoted fully:
@@ -627,10 +636,6 @@ to be quoted fully:
 > *virintapu vutirnta kāyum mīṇṭu* pōy *marampukā* \
 > *irantavar* pirappa *tillai yillaiyillai yillaiye* \
 > (46)
-
-1 *entai* rāma *rāma rāma rāmavenrum* nāmame, st. 10; civayam *enra āṭcă-*
-ram civan irukkum *āṭcāram*.
-
 
 > "Milk does not return to the udder, nor butter to butter-milk. \
 > Nor the life within the sea-shell, when it breaks, to its body. \
@@ -643,22 +648,16 @@ as something utterly unclean, he refuses to regard as unclean in
 itself. In st. 479 he says: "Why should you be so fussy about *eccil,*
 about saliva? Why-honey is the bee's saliva; the beetle's spittle
 is on the flower, the cow's milk itself is mixed with the saliva of
-the calf". And he laughs at those who bathe for cleanliness' sake
+the calf".[^saliva] And he laughs at those who bathe for cleanliness' sake
 and yet are impure in their hearts (cf. stanzas 207, 209 etc.).
+
+[^saliva]: *vaicca veccil* ten alō *vanti* neccil *pūvalō / kaiccu tavil vaittutan karanta*
+*palum eccile*.
+
 Civavākkiyar's poetry shows that there had been a school of
 thought in Tamilnad that repudiated caste and stood for absolute
 equality of all in the religious and social practices. His great contribution
 to Tamil literature lies in the fact that he has used,
-1 A rather late highly philosophical Siddha text *(Civāṇanta põtam*) is a
-dispute in dialogue form between *maṇam* “mind” and *aṟivu* “knowledge,
-wisdom". The interesting thing is that the ignorant mind speaks in prose,
-whereas the supreme knowledge speaks in verse.
-
-2 *vaicca veccil* ten alō *vanti* neccil *pūvalō* | *kaiccu tavil vaittutan karanta*
-palum eccile.
-
-
-
 probably for the first time in Tamil writing, the common idiom of
 the people, both in syntax and lexis. On the whole, he is a powerful,
 independent, crude and often striking poet, who is definitely worth
@@ -691,27 +690,19 @@ Saivism and Siddhism. In other words, the quatrain contains a
 whole theology: God is the eternal and omnipresent Lord, clad
 in material forms, dispelling the confusion and ignorance of the
 world by the mystic doctrine of *namacivāyam*. Schematically:
-*a*
-*U*
-*m(a*)
-*ci*
-=====
-Supreme God
-in many material forms
-in real world existing because of ignorance
-removed by the doctrine and practice of
-*civāyam*
-Reading the first "letters" of the quatrain vertically, we get the
-greatest and the most potent *mantra*: *a* + u + m + *ci*:
-i.e. ōm ci(*vāyanama*).
 
-aum,
+|*a* | = Supreme God |
+|*U* | = in many material forms |
+|*m(a*) | = in real world existing because of ignorance |
+|*ci* | removed by the doctrine and practice of *civāyam* |
+
+Reading the first "letters" of the quatrain vertically, we get the
+greatest and the most potent *mantra*: *a* + *u* + *m* + *ci* = *aum*
+i.e. *ōm ci(vāyanama)*.
+
 The greatest *poet* among the Tamil Siddhas is undoubtedly
 Pațțiṇattār. It is very probable that at least two poets hide under
-
-
-1
-this name, an earlier one (10th-11th Cent. A.D.), whose five poems
+this name, an earlier one (10th-11th Cent. A.D.), whose five poems[^five-poems]
 were included into the 11th book of the Saivite canon (*Tirumurai*),
 and a later one, the true *cittar,* probably of the Vijayanagara period,
 of the 14th Cent. A.D. The earlier Paṭṭiṉattar is a Śaiva *Nāyaṉmār,*
@@ -720,6 +711,10 @@ charming descriptions and captivating similes, but, at the same
 time, picturing the ephemeral nature of physical pleasures and
 human sufferings in very dark colours (and this he has in common
 with the later Paṭṭiṉattar).
+
+[^five-poems]: *Kōyil nānmaṇimālai*, *Tirukkalumala mummaṇikkōvai, Tiruvițai marutūr*
+*mummaṇikkōvai*, Tiru *ēkampamuṭaiyār tiruvantāti*, *Tiruvōṛṛiyūr* orupā
+*orupaḥtu.*
 
 However, here we are not concerned with the poems of this
 earlier Paṭṭiṉattar. We shall discuss Paṭṭiṉattar the Great,
@@ -766,12 +761,6 @@ an idiot".
 > You!" \
 > (XI. 65) \
 
-
-1 *Kōyil nānmaṇimālai*, *Tirukkalumala mummaṇikkōvai, Tiruvițai marutūr*
-*mummaṇikkōvai*, Tiru *ēkampamuṭaiyār tiruvantāti*, *Tiruvōṛṛiyūr* orupā
-*orupaḥtu.*
-
-
 His language is cruel, fierce and direct in his treatment of woman
 as the seat of filth and temptation, and of man as the seat of
 vileness and egoism.
@@ -809,8 +798,6 @@ leaf, is a shaking screen of dirt and dregs; the breasts, compared
 to lotus-buds, are in fact two hanging dried-up pouches, parched
 and full of inner heat, scratched by the finger-nails of lusty men.
 The neck is full of sweat and dust and filth, and out of the hellish
-
-
 mouth spurts poison. And so on and so forth. As we see, there is a
 very notable difference between Paṭṭiṉattar and the early *cittar*:
 they liked their own body, they wanted to cherish and foster and
@@ -858,7 +845,6 @@ beggary stanzas, too, with a particular charm of their own.
 There are hardly more moving “beggary stanzas” in Tamil
 literature than the following:
 
-
 > "When cold wind blows \
 > and the sun is gone, \
 > there is an old abandoned dressjust \
@@ -872,17 +858,16 @@ literature than the following:
 > O heart! \
 > There's indeed nothing which we lack!" \
 
-
 The *cittar* tradition—especially the Siddha *vaidya,* the Siddha
 medicine is fully alive. So are most of the *cittar* songs. One can
 hear them sung often by wandering religious mendicants. "To
 denounce today caste, worship in temples and religious and āgamic
 rituals does not require much courage, but to have done so in the
 centuries in which the Tamil Siddhars lived required extraordinary
-heroism and strength of conviction". 1 A knowledge of the works
+heroism and strength of conviction".[^siddha-tradition-alive] A knowledge of the works
 of the *cittar* is absolutely necessary to have a correct perspective
 of the civilization of the Tamils, of their religious, social and literary
 history.
 
-1 A. V. Subramania Aiyar, The Poetry *and* the Philosophy of the *Tamil*
+[^siddha-tradition-alive]: A. V. Subramania Aiyar, The Poetry *and* the Philosophy of the *Tamil*
 *Siddhars*, Tirunelveli, 1957, p. 82.

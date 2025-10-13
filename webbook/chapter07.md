@@ -2,23 +2,25 @@
 
 K. Kailasapathy has shown, in his excellent book *Tamil Heroic*
 *Poetry* (1968), that the most important structural element in the
-Tamil classical (heroic and erotic) poem was the *formula.¹* The oral
+Tamil classical (heroic and erotic) poem was the *formula.*[^formula] The oral
 bard, reciting his themes, had to work rather fast in the midst of an
 enthusiastic, thrilled and demanding audience; he could hardly
 hold his audience in permanent attention. That is why the formulae
 had so great functional value for both the audience and the minstrels
 (Kailasapathy, op. *cit.* p. 138).
 
-1
-☐
+[^formula]: A recurrent element in narration or description, restricted by metrical
+considerations, as a rule an exact repetition "of a group of words expressing
+a given essential idea" (K. Kailasapathy, M. Parry).
+
 Kailasapathy quotes a number of formulae occurring again and
 again in the classical corpus of the poems, e.g. *naṇantalai yulakam*
 (metric pattern
 "wide-placed world”, cf. *Puṟ*. 221.11;
 *Patiṟ*. 63. 18, *Kalit*. 6.3, *Mullaip*. 1; or *cirukaṇyāṇai* “the smalleyed
 elephant" (metric pattern -/- - ), occurring in *Ak*.
-
 314.3, 327.2, 24.13, 179.4, *Nar*. 232. 1, *Puṟ.* 6.13, 316.12, 395.18 etc.
+
 Some formulae show absolutely identical structure and exponents,
 save for one "synonym” used for another, like in *aravu vekuṇṭanna*
 *tēral* (*Pur*. 376.14): *pāmpu vekuṇṭanna tēral (Cirupāṇ*. 237) “toddy
@@ -37,14 +39,8 @@ Tamil bardic poetry are generally valid for the whole corpus, for
 the erotic genre as well as for the heroic). The formulae can be just
 simple attribute-head constructions, like e.g. *val vil* "mighty bow",
 in *Kur*. 100.5, Aiǹk. 373.5, 390.3, *Kalit*. 7.6, 104.58, Ak. 120.12,
-152.15, 281.5, Puṟ. 150.7, 152.6 etc., or *karunkāl* věnkai "black1
-A recurrent element in narration or description, restricted by metrical
-considerations, as a rule an exact repetition "of a group of words expressing
-a given essential idea" (K. Kailasapathy, M. Parry).
-
-
-
-stemmed *vēnkai"*, in Kur. 26.1, 47.1, 343.5, Nar. 151.8-9, 168.1,
+152.15, 281.5, Puṟ. 150.7, 152.6 etc., or *karunkāl* věnkai "black-stemmed
+*vēnkai"*, in Kur. 26.1, 47.1, 343.5, Nar. 151.8-9, 168.1,
 257.5*, Aink*. 219.1, or *talaiyani yalkul* "the venus' mound, adorned
 by leaf-garment” in *Kur*. 172.2, 195.2, 391.6, cf. Tolk. *Kaļavu* 23,
 Nacciṇārk. comm., or nețu men *paṇait* tōl “large, soft, broad
@@ -92,8 +88,6 @@ examples "the ships come with gold and return with pepper” *(Ak*.
 (*Ak.* 123.12).
 
 A formula may sometimes be followed through whole centuries of
-
-
 literary texts of this nature is, for instance, a beautiful metaphor
 which has its origin probably in *Kuṟuntokai* 91.5: *māri* vaṇ kai “the
 strong hand of the monsoon-rain" may be recognized in *Ciṟupāṇ.* 124
@@ -104,20 +98,32 @@ even in such medieval texts like *Cīvakacintāmaṇi* 2779 (*malai*
 *taliiya kaiyāy*). Or, the formula uļļi *nuļļam vēmē (Kur*. 102.1, and
 elsewhere) reappears in *Tirukkuṟaḷ* 1207 *uļļiņu muļļaň cuțum* and
 much later in Kampaṇ's *Rām. Tāṭakaip*. 5 (*karutin* vēm *uļļamum).*
+
 Some of the formulae seem to be echoes of colloquial utterances,
 like *yān* evan *ceykō* “what should I do?” (*Kur*. 25.2, 96.2, Aink.
 154.4) or *utukkāṇ* “there, look” (*Kur*. 191.1, 81.11. *Aiṅk*. 101, 453,
 *Kalit*. 108.39, Puṟ. 307.3). The utterance uļļin *uļļam vēmē (Kur*.
 102.1 etc.) may probably also be regarded as a colloquialism.
+
 Apart from purely formal structural properties (metrical pattern,
 other patterned prosodical features like alliteration, "rhyme" etc.),
 every stanza is hierarchically organized in terms of form-meaning
 composites. This hierarchy may be set up as follows:
+
 *poetic situation (tiņai)*
+
+|
+
 *theme (turai)*
+
+|
+
 *motive*
-I
+
+|
+
 *formula*
+
 The basic and least inclusive element in this structure is the
 formula (in its shortest shape composed of two exponents, e.g.
 *valvil*, an Attribute-Head construction, “strong bow"), the most
@@ -128,15 +134,7 @@ instance: in Kur. 190, the poetic situation (*tiņai*) can be characterized
 as *mullai* “separation and patient waiting", mixed with
 *kuṟiňci* "desire". Next in the hierarchy comes the theme *(turai*)
 (also enclosing the entire stanza; but, under each *tiṇai* there are
-several decades of themes) 1 which is, in our particular instance,
-1 Thus, e.g. under the *puṟam* poetic situation called vețci "cattle-raid",
-there come 14 themes, according to *TP.* According to *PVM,* the 13 "heroic"
-situations comprise as many as 327 themes (see K. Kailasapathy, op. cit.
-194).
-
-8
-
-
+several decades of themes)[^theme-turai] which is, in our particular instance,
 "what the heroine, unable to bear separation, said to her girl-friend".
 On the next lower level, there are several *motives*, e.g. the motive of
 the snake and the thunder, occurring quite frequently (thunderstorm
@@ -161,6 +159,11 @@ motive in the love poems to compare Toṇṭi with the heroine (*Ak*.
 descriptions of Toņți are often recurrent formulae, e.g. "Tonți of
 seaside groves" *(Pur*. 48.4, *Nar*. 18.4, 195.5).
 
+[^theme-turai]: Thus, e.g. under the *puṟam* poetic situation called vețci "cattle-raid",
+there come 14 themes, according to *TP.* According to *PVM,* the 13 "heroic"
+situations comprise as many as 327 themes (see K. Kailasapathy, op. cit.
+194).
+
 These basic hierarchically structured components-the poetic
 situation, the theme, the motive and the formula-are parts of
 given traditional material; the bardic practice is dependent upon
@@ -170,17 +173,16 @@ language of the poetry, is, too, stereotyped, conventionalized,
 traditional. Because of the traditional situations, themes, motives
 and formulae, and because of the language stereotype, there is an
 underlying *unity* of though-content, diction, style and form of the
-classical poetry.¹
+classical poetry.[^itinerant-bard-unity-language]
+
+[^itinerant-bard-unity-language]: As Kailasapathy rightly observes, "the itinerant life of the bards.
+spread the bardic language. The evolution of standard Tamil was an inevitable
+concomitant of bardic literature".
+
 This brings us to the problem of the individuality of the poet, and
 of his originality; also, to the problem of imitation within the corpus.
 According to *Tolkāppiyam* and its commentator Iḷampūraṇar, in a
 good poem, unity should prevail among the details of a theme, and
-1 As Kailasapathy rightly observes, "the itinerant life of the bards.
-spread the bardic language. The evolution of standard Tamil was an inevitable
-concomitant of bardic literature".
-
-
-
 the theme itself should be in harmony with tradition. In these
 traditional and greatly stylized poems it is almost impossible to
 point out individual authorship. The problem of an independent,
@@ -188,7 +190,15 @@ original creative personality is alien to the bard; the bard is,
 consciously, "effectively traditional" (Kailasapathy), exploring all
 potentialities of the tradition. Therefore, the question of imitation
 does not at all arise, as there is no question of plagiarism or copyright
-(Bowra, cited by Kailasapathy, op*. cit*. p. 185).¹
+(Bowra, cited by Kailasapathy, op*. cit*. p. 185).[^purnalignam-theme]
+
+[^purnalignam-theme]: Long before Kailasapathy made the theme and the formula subjects of
+an explicit analytic treatment, M. S. Purnalingam Pillai (in 1904) wrote:
+"The recurrence of certain ideas and images in some of these idyls by different
+authors bespeak the stock-in-trade and no literary theft. Broad
+streets are river-like, rice stalks finger-like, women's soft soles the gasping
+dog's tongue-like etc.".
+
 However, there are a few distinct and strong personalities of poets
 who have been acclaimed as the best among the bards. Paraṇar,
 Kapilar and Nakkīrar are probably the three classical Tamil poets
@@ -200,9 +210,12 @@ closely. However, some of his similes and metaphors are truly
 exquisite. Probably the most beautiful one is to be found in *Kur.*
 399, where the pallor of the beloved is compared to the persistent
 moss on the surface of a pool, which "with every thouch gives way /
-and spreads back with each estrangement".2 It is significant that
+and spreads back with each estrangement".[^pallor-beloved] It is significant that
 this picture is not part of any formula, and reappears only later in
 clear imitation (Kalit. 130.20-21).
+
+[^pallor-beloved]: *urun* kēņi *yunțuṛait tokka | pāci* yarṛē *pacalai kātalar / toțuvulit toțuvuli*
+ninki / *vituvuli vituvulip paratta lānē*.
 
 The technique of suggestion was also exploited effectively by this
 great poet: when trying e.g. to describe the behaviour and character
@@ -218,19 +231,7 @@ Nakkīrar is probably a stronger creative personality than Paraṇar.
 He is, above all, the author of one of the "Ten Lays", the *Neṭunal-*
 *vāṭai,* probably the best of them. In short lyrical poems, he seems to
 have preferred the *pālai* situation. He seems to have been "the
-1 Long before Kailasapathy made the theme and the formula subjects of
-an explicit analytic treatment, M. S. Purnalingam Pillai (in 1904) wrote:
-"The recurrence of certain ideas and images in some of these idyls by different
-authors bespeak the stock-in-trade and no literary theft. Broad
-streets are river-like, rice stalks finger-like, women's soft soles the gasping
-dog's tongue-like etc.".
-
-2 *urun* kēņi *yunțuṛait tokka | pāci* yarṛē *pacalai kātalar / toțuvulit toțuvuli*
-ninki / *vituvuli vituvulip paratta lānē*.
-
-
-
-most conscious craftsman"¹ among the great poets of the classical
+most conscious craftsman"[^conscious-craftsman] among the great poets of the classical
 age: cf. e.g. *Kur*. 143 with the elaborate alliteration and assonance
 patterns, or the beautiful Kur. 161 with a very intricate phonic
 structure (listen to the music in the opening lines of his *Kur*. 368
@@ -245,6 +246,8 @@ him. In these poems we recognize in him a master of condensation
 and an original author of lovely images. Probably the most beautiful
 of his love-poems is *Kur*. 25 (the one which begins with *yārum illait*
 *tānē kaḷvaṉ)*:
+
+[^conscious-craftsman]: C. and H. Jesudasan, *op.* *cit.* 32.
 
 > "None else was there but he, the thief, \
 > If he denies it, what shall I do? \
@@ -273,12 +276,7 @@ Another question, connected with the problem of linguistic and
 stylistic stereotype, is the problem of relative internal chronology
 within the earliest corpus. Is it at all possible to discern among
 different chronological strata within the early anthologies? It is
-1 C. and H. Jesudasan, *op.* cit. 32.
-
-
-
-to
-basically true what Kailasapathy says on p. 47 of his book: '
+basically true what Kailasapathy says on p. 47 of his book: "... to
 arrange them (the poems, K.Z.) in strict chronological order is to
 force on them a pattern of linear development which does not appear
 in the poems. The question of imitation is as incongruous as that of
@@ -291,11 +289,12 @@ though a great deal of the results would be based on rather speculative
 procedure.
 
 First of all, we may exclude from the earliest corpus *Kalittokai,*
-*paripāṭal* and *Tirumurukāṟṟuppaṭai* as compositions which are
+*Paripāṭal* and *Tirumurukāṟṟuppaṭai* as compositions which are
 positively later in origin. Being left with the 15 remaining texts
 (6 Anthologies and 9 Lays) we may set up a few theoretical and
 methodological principles which can help us as guide-lines while
 investigating the corpus from the point of view of relative chronology:
+
 a) *Historical allusions* within the poems themselves. The clustering
 of bardic songs round certain personages and certain events in
 their lives enables us to set up relative sequence of events, and,
@@ -307,8 +306,10 @@ mentioned above was Paraṇar -Kapilar-Nakkīrar (e.g. Nakkīrar
 mentions Kapilar as living in the past in *Ak*. 78). The historical or
 near-historical (or even quasi-historical) data receive, in some cases,
 corroboration from external sources (inscriptions and the like).
+
 b) A great deal of speculation as to the chronological order of the
 poems may be based on *formal* criteria:
+
 1) The simpler the metre and other prosodic properties, the older
 the poem (since there exists undoubtedly a tendency of formal
 complexity to increase steadily with the passage of time);
@@ -329,6 +330,7 @@ with difficulty) certain innovations *vis-à*-*vis* certain retentions;
 Sanskrit loanwords.
 
 d) There is a development in *thought-content*:
+
 1) poems showing traces of Jainism and Buddhism are probably
 earlier than poems showing Brahmanic influence;
 2) straightforward descriptions of fighting, mating, nature etc.

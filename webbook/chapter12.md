@@ -15,6 +15,7 @@ Tamil culture is still based on the *bhakti* movement, and
 it is only quite recently and among some strata of the present
 generation that the Tamils look at once farther back into the past
 of pre*-bhakti* days, and into the future, for inspiration and guidance.
+
 It is probably impossible, at the present state of our knowledge,
 even to touch all aspects, forces, components and features of this
 vast literature, of this religious, philosophical and social movement.
@@ -35,8 +36,6 @@ competent expert.
 The immense dimensions of the Saiva bhakti texts may be seen
 from Chart 15 which gives the names of the authors and their works
 as found in the twelve books of the Saivite canon called *Tirumuṟai*.
-
-
 This body of literature includes a great variety of texts, beginning
 with the mystic hymns of the great trio, Campantar, Appar and
 Cuntarar, followed by Māṇikkavācakar's *Tiruvācakam* and *Tiruk-*
@@ -47,14 +46,15 @@ and the fact that it covers a period of at least 600 years of
 religious, philosophical and literary development (the earliest texts
 being probably the songs of Kāraikkāl Ammaiyār, round about
 550 A.D., whereas the date of Cēkkilār is the 12th Century).
+
 Nampi Aṇṭār Nampi (see *11* on Chart 14) is said to be responsible
 for collecting the *Tēvāram* hymns (the first *7* books of *Tirumuṟai*)
 and classifying them, some time at the beginning of the 10th
-Cent. A.D., into the seven books (on the basis of musical tunes).¹
+Cent. A.D., into the seven books (on the basis of musical tunes).[^date-nampi-antar-nampi]
 As the eight book, Māṇikkavācakar's two great poems were added
 (they are not musical compositions). The 9th book of the canon
 consists of *Tiruvicaippā* or musical compositions sung in the Chola
-temples in the 10th and 11th Centuries; 2 the term *patikam*
+temples in the 10th and 11th Centuries;[^tpm-tiruvicaippa] the term *patikam*
 (<Sanskrit) means "ten"; it is a form (consisting of 10 or II
 stanzas) which became popular in the *bhakti* period. The 10th book
 of the canon is of a very different nature: this is the *Tirumantiram*
@@ -71,17 +71,6 @@ a contemporary of Cuntarar, the *Tirumurukāṟṟuppaṭai* (from
 *Pattuppāṭṭu*) by Nakkīratēvar, Pațțiṇattār's stanzas, and the two
 poems on Saint Kanṇappar by Nakkīrar and by Kallāṭar (narrating
 the well-known story of Kaṇṇappar the hunter who became mad
-1 The date of Nampi Aṇṭār Nampi is fortunately rather 'well established.
-He speaks of the Chola king Ātittaṉ (Aditya) as having brought gold from
-Konkunātu and covered the temple hall at Chidambaram with that gold.
-He also mentions the death of this king. Ātittaṉ indeed conquered the
-koṅku country; and he ruled between 870-907 A.D. (cf. K. A. Nilakanta
-Sastri, A *History of South India,* III ed., 175).
-
-2 T. P. Meenakshisundaran, *HTL* p. 131.
-
-ŚAIVA BHAKTI
-187
 after God at the sight of a *lingam,* and who, when he saw the eyes of
 the *lingam* bleeding, plucked out his own eyes to replace them).
 Finally, the 12th book is the “Great *purāṇam*" by Cēkkilār: the
@@ -109,16 +98,47 @@ level in the life of service and love. What is important is the fact
 that, unlike the other epics of the same period, the sources of
 *Periyapuraṇam* are purely indigenous, purely Tamil; and that the
 poem is "national and democratic not only in its theme and its
-message but also in its language and its rhythm".¹
+message but also in its language and its rhythm".[^poem-national-democratic-language-rhythm]
+
+[^date-nampi-antar-nampi]: The date of Nampi Aṇṭār Nampi is fortunately rather 'well established.
+He speaks of the Chola king Ātittaṉ (Aditya) as having brought gold from
+Konkunātu and covered the temple hall at Chidambaram with that gold.
+He also mentions the death of this king. Ātittaṉ indeed conquered the
+koṅku country; and he ruled between 870-907 A.D. (cf. K. A. Nilakanta
+Sastri, A *History of South India,* III ed., 175).
+
+[^tpm-tiruvicaippa]: T. P. Meenakshisundaran, *HTL* p. 131.
+
+[^poem-national-democratic-language-rhythm]: T. P. Meenakshisundaran, HTL p. 125.
+
 The following fourfold approach toward the Tamil *bhakti* poetry
 seems to me to be the most fruitful:
+
 a) the historical and sociological approach to *bhakti* as a literature
 of social and spiritual protest;
+
 b) a synchronic segmental analysis of bhakti texts as religious
 literature;
+
 c) a comparative approach to bhakti as mystical poetry, in
 comparison with other movements of Indian bhakti and mysticism;
-1 T. P. Meenakshisundaran, HTL p. 125.
+today, I think, most scholars would agree that *bhakti* was indeed
+"born on the banks of the Tamil land” wherefrom it spread to other
+India;[^from-tamil-land-to-other-india] in a broader perspective, Tamil bhakti may be profitably
+compared with other religions of grace *(aru!)*, and/or with the
+mystical poetry of the East and the West (sūfism, Catholic baroque
+poets such as Juan de la Cruz, or Protestant mystics such as
+J. Böhme, etc.);
+
+[^from-tamil-land-to-other-india]: Cf. S. K. Iyengar, A *History* of *Early Vaishnavism* in *South India,*
+Madras University Series No. 4, Oxford Univ. Press, Madras, 1920, p. 10,
+who quotes a poem which says that *bhakti* was born on the banks of the
+Tamil land, grew into womanhood in the Maharastra and in North India,
+and became old in Gujarat.
+
+d) a structural and structuralistic approach to bhakti texts
+conceived purely as poetry.
+
 
 CHART 15
 The Saivite Canon*-Tirumurai*
@@ -305,22 +325,12 @@ I2
 Cēkkiḻār
 Note: *patikam*
 ======
-189
-190
-ŚAIVA BHAKTI
-today, I think, most scholars would agree that *bhakti* was indeed
-"born on the banks of the Tamil land” wherefrom it spread to other
-India; in a broader perspective, Tamil bhakti may be profitably
-compared with other religions of grace *(aru!)*, and/or with the
-mystical poetry of the East and the West (sūfism, Catholic baroque
-poets such as Juan de la Cruz, or Protestant mystics such as
-J. Böhme, etc.);
-d) a structural and structuralistic approach to bhakti texts
-conceived purely as poetry.
+
 
 In this essay I shall try to give a brief and simplified outline of
 the first two approaches-the sociological and historical analysis of
 the movement, and the synchronic segmental analysis of the texts.
+
 Between 600 A.D. and 900 A.D., Tamilnad was ruled by the
 Pallavas in the North, and the Pandyas in the South. There was a
 perpetual strife between the two. To the North of the Pallavas,
@@ -329,6 +339,7 @@ Pallava kingdom. These three kingdoms were the first political
 units possessive of really large territories to have been formed in
 South India, and, as our data show, highly developed feudal
 relations prevailed in the social structure of these states.
+
 Constant war or at least unceasing skirmishes among these three
 big powers, their efforts to enlarge their territories, the struggle
 against disloyal and disruptive tendencies, and the enormous
@@ -341,17 +352,10 @@ protest, a mass-movement of popular dissatisfaction and opposition,
 which took the apparel of a religious drive. S. Vaiyapuri Pillai
 *(HTLL*, p. 100) speaks of a "bloodless revolution" which took
 place in Tamil India between the 7th-10th Centuries A.D.
+
 Thus, according to one conception of social history of Tamilnad,
 the *bhakti* movement is to be regarded as the ideological reaction
 against early forms of feudalism and the first establishment and
-1 Cf. S. K. Iyengar, A *History* of *Early Vaishnavism* in *South India,*
-Madras University Series No. 4, Oxford Univ. Press, Madras, 1920, p. 10,
-who quotes a poem which says that *bhakti* was born on the banks of the
-Tamil land, grew into womanhood in the Maharastra and in North India,
-and became old in Gujarat.
-
-ŚAIVA BHAKTI
-191
 stabilization of class-society in South India; in the North of India,
 *bhakti* is regarded, by the same school of thought, as the expression
 of the struggle against a fully developed and centralized type of
@@ -368,6 +372,11 @@ Soviet scholars (e.g. by Smirnova, Pyatigorsky) on the one hand,
 and by Marxist-oriented Tamil scholars and writers on the other
 hand (e.g. by Cāmi Citamparaṉār, C. Rakunātaṇ and others). In
 contrast, there are scholars, both Indian and Western, who regard
+the movement as a purely religious and ideological conflict, mostly
+as the reaction of a renascent Hinduism against Jainism and
+Buddhism.
+
+
 CHART 16
 The build-up of *Periyapurāṇam*
 Cuntarar's vision of the Sixty-Two Saints
@@ -381,20 +390,18 @@ documents
 Cēkkilār's ultimate version of Saivite hagiography in Periyapurāṇam
 (12th Cent.), built into the story of Cuntarar.
 
-the movement as a purely religious and ideological conflict, mostly
-as the reaction of a renascent Hinduism against Jainism and
-Buddhism.
+
 
 Though I have a number of strong reservations about any vulgar
 socio-political interpretation of *bhakti*, it seems to me that its
 conception as a purely religious conflict is necessarily an oversimplification
 of the whole matter.
 
-192
-ŚAIVA BHAKTI
+
 In what follows, the points made in favour of the socio-political
 interpretation of *bhakti*, and of the class-struggle-backgroundconception
 of the movement will be examined critically one by one.
+
 First, there is the "class-origin" of the poet-saints. It was argued
 that most of the *bhaktas* or at least the most important of the earlier
 *bhaktas* belonged to the lower or depressed classes and castes of
@@ -407,13 +414,14 @@ Most of these statements, made by some Indian and Soviet scholars,
 are, however, quite obviously incorrect. A rough investigation of the
 caste-origin of a number of *bhakti* poets shows these approximate
 numbers:
-about 35% of Brahmin origin (e.g. Campantar, Cuntarar, Māṇikkavācakar,
+
+* about 35% of Brahmin origin (e.g. Campantar, Cuntarar, Māṇikkavācakar,
 Periyālvār);
-about 35% of Kṣatriya origin (e.g. Cēramāṉ Perumāļ, Kulacēkara
+* about 35% of Kṣatriya origin (e.g. Cēramāṉ Perumāļ, Kulacēkara
 Āḻvār, Tirumaṅkai Āḻvār);
-about 20% of *veļļāļa* (Śūdra) origin, e.g. Appar, Nammālvār;
-about 5% of low-caste origin, e.g. Tiruppāṇālvār;
-about 5% of unknown origin: Aṇṭāḷ was found as a baby in her
+* about 20% of *veļļāļa* (Śūdra) origin, e.g. Appar, Nammālvār;
+* about 5% of low-caste origin, e.g. Tiruppāṇālvār;
+* about 5% of unknown origin: Aṇṭāḷ was found as a baby in her
 step-father's garden.
 
 The argument is rather weak for yet another reason: high or low
@@ -431,8 +439,6 @@ movement, show that even some of the most important authors of
 the movement were very much caste-conscious: according to Nampi
 Aṇṭār Nampi, an outcaste devotee (Tirunāļaippōvār) destroys the
 disgrace of his low birth by entering the fire; according to Cēkkiḻār,
-ŚAIVA BHAKTI
-193
 God Śiva demands that the poor outcaste enters the fire and is
 purified before he is admitted to the sacred presence! The poems
 ignore the masses of peasants and common folk as such. Naturally
@@ -442,7 +448,8 @@ conflicts resulting from this relation.
 
 The second point, one with which we may agree to a great extent,
 is that Tamil *bhakti* literature is full of the spirit of social negativism.
-A *bhakta,* as we saw, was usually a Brahmin, a Kṣatriya, or
+
+A *bhakta,*[^bhakta] as we saw, was usually a Brahmin, a Kṣatriya, or
 at least a *veļļāļa* (landlord-community); he thus belonged either
 to the very top, or at least to the upper middle strata of the social
 hierarchy of medieval Tamilnad. The life of the devotee or *toṇṭar*
@@ -453,7 +460,7 @@ picture of the central episode: the conversion. This is inevitably
 preceded by a period of inner tension and by a sharp outer conflict.
 The important thing to note is that the nature of the conflict is
 usually social; and, invariably, in each episode the saint refuses to
-yield and becomes victorious (even if in death). 2 E.g., when
+yield and becomes victorious (even if in death).[^conflict-usually-social] E.g., when
 Vātavūrār alias Māṇikkavācakar gets into conflict with the Pandya
 king whose minister he was, and also with the entire Brahmin
 community; or when Cuntarar publicly opposes the decision of the
@@ -462,26 +469,23 @@ against society or tradition—frequently, though, in the very last
 moment, when his future devotee is in danger of annihilation,
 physical or moral.
 
-The victory against society and/or tradition, and the subsequent
-boon of poetic inspiration granted to the devotee by God as a gift
-of grace (*arul*) frequently do not lead to full denial of society, to
-asceticism and renunciation; there are, of course, van *toṇṭar* who
-sacrifice their families, children, their life, without care and con1
-The equivalent Tamil term is *toṇṭaṉ*, pl. *toṇṭar*, “servant” or *aṭiyāṇ*
+[^bhakta]: The equivalent Tamil term is *toṇṭaṉ*, pl. *toṇṭar*, “servant” or *aṭiyāṇ*
 "slave". There are two kinds of saints: the "hard" servants (*vantontar*), the
 ones whom ordinary men cannot follow (they are the truly a-social or
 probably even anti-social ones), and the "soft" servants (*mentontar)* who
 became a model for all to follow. A typical *vantoṇṭar* is, e.g., the hunter
 Kannappan.
 
-2 There is, in each episode, a dramatic plot, and an inner, psychological
+[^conflict-usually-social]: There is, in each episode, a dramatic plot, and an inner, psychological
 development of the hero: in this respect, the hagiographic stories are better
 than many modern Tamil short stories.
 
-13
-194
-ŚAIVA BHAKTI
-sideration whether their behaviour is just or unjust according to
+The victory against society and/or tradition, and the subsequent
+boon of poetic inspiration granted to the devotee by God as a gift
+of grace (*arul*) frequently do not lead to full denial of society, to
+asceticism and renunciation; there are, of course, van *toṇṭar* who
+sacrifice their families, children, their life, without care and consideration
+whether their behaviour is just or unjust according to
 accepted social rules. But they can never be a model to be followed
 by others. Normally, the devotee goes on living within the society,
 but on a different, higher level; he is now independent of society,
@@ -495,13 +499,19 @@ between himself and the other *bhaktas*.
 Hence it is doubtful whether we are entitled to speak about the
 bhakti movement in terms of a positive social protest. Social
 negativism yes; but an antisocial movement, or a revolutionary
-social protest-no.¹ The utmost case of social negativism and
+social protest-no.[^bhakti-movement-social-negativism] The utmost case of social negativism and
 perhaps the only one carried so far may be seen in the life story of
 Kāraikkāl Ammaiyār (about 550 A.D.). She breaks step by step
 all ties with her family, with her caste, with the society as a whole,
 and ultimately with humanity itself, and identifies herself with
 the uncanny demons, ghosts, "devils" (*pēy*) who witness Śiva's
 wild dancing in Tiruvālankāṭu.
+
+[^bhakti-movement-social-negativism]: Even this is doubtful in case of some poet-saints; thus e.g. Cuntarar, as
+T. P. Meenakshisundaran says in op. *cit*. 74, "was a great political force in
+his times and sang the praise of the Pallavas", cf. *Tēvāram* 8240. His life
+seems to have been “a divine family life, a divine social and perhaps political
+life".
 
 The third point made for the socio-political interpretation of
 bhakti is that the texts disregard, transcend and deny all social
@@ -517,24 +527,20 @@ exploited masses of the common people but only individual social
 conflict of the devotees, there is no fight for freedom and equality
 on behalf of the oppressed. Only the devotees of Siva are equal.
 Only they are filled with the feeling of wonderful freedom. They
-have one master alone-Śiva; they are "slaves" (*ațiyār*), “ser1
-Even this is doubtful in case of some poet-saints; thus e.g. Cuntarar, as
-T. P. Meenakshisundaran says in op. *cit*. 74, "was a great political force in
-his times and sang the praise of the Pallavas", cf. *Tēvāram* 8240. His life
-seems to have been “a divine family life, a divine social and perhaps political
-life".
-
-ŚAIVA BHAKTI
-195
-vants” *(toṇṭar*) but also comrades and companions *(tōļar*) of Śiva.
+have one master alone-Śiva; they are "slaves" (*ațiyār*), “servants”
+ *(toṇṭar*) but also comrades and companions *(tōļar*) of Śiva.
 In an admirable hymn typical of this feeling of freedom, Appar
 sings: *nāmārkkum* kuṭi *yalōm namanai yaňcōm* “We are subjects to
 no one; we do not fear death... It's joy for us through life, not
 pain!" Towards each other, they, too, are "slaves” and “servants":
 *aṭiyārkkum aṭiyen,* “I am the servants' servant",
 says Cuntarar.
+And a similar situation prevails among the Vaiṣṇavites.[^clan-of-servants]
 
-And a similar situation prevails among the Vaiṣṇavites.¹
+[^clan-of-servants]: Periyāļvār speaks about the devotees as *toṇṭakkulam*, "the clan of
+servants". For the "servant's servant", cf. one of the titles of the Roman
+pontiff: *servus servorum Dei*.
+
 Before a man or woman becomes a devotee of Śiva, he or she has
 to give up all privileges, based on high social status or wealth. Thus
 Māṇikkavācakar renounces completely all his worldly ambitions
@@ -544,6 +550,7 @@ so; Cuntarar becomes, immediately before his marriage, the servant
 to the highest caste, he becomes the Lord's comrade (*tōlan*). However,
 as already stressed, the spirit of freedom, equality and
 service pervades only the "brotherhood", the "clan" of the devotees.
+
 *Bhakti* is a personal and emotional approach to God; the individual
 character of such contact with the Divine means that it occurs
 outside of any corporation which has a specialized and privileged
@@ -567,12 +574,7 @@ The excesses committed in the name of these religions provoked
 many individuals and whole social strata to resistance. The early
 poet-devotees speak about Buddhism and Jainism with genuine
 hatred, stressing the antisocial behaviour of the Buddhists and Jains.
-1 Periyāļvār speaks about the devotees as *toṇṭakkulam*, "the clan of
-servants". For the "servant's servant", cf. one of the titles of the Roman
-pontiff: *servus servorum* Dei.
 
-196
-ŚAIVA BHAKTI
 The opposition towards Jainism is well seen in Appar's own life
 story: He had been a Jain himself; he led a life of vain mortification
 of the body, denying it even the simplest pleasure of a bath, moving
@@ -581,22 +583,26 @@ negations brought him only an unbearable inner tension (which
 manifested itself, incidentally, by a chronic stomach-ache). He
 became a convert to Śaivism, and found the omnipresent, omnipotent
 Lord, whom he could love and who would never fail him.
-
 Or consider Cuntarar's contempt of the Jains: he sneers at their
 names, their unclean and antihygienic habits, their ways of eating
 and living, and even at their shaven heads. According to persistent
 tradition, Cuntarar was responsible for the annihilation of 8000
-Jains in Maturai.¹ He went as far as to deny, very unjustly, the
+Jains in Maturai.[^jains-in-maturai] He went as far as to deny, very unjustly, the
 Jains their great merit of cultivating Tamil learning. Cuntarar,
 too, speaks of the Jains and Buddhists with contempt and ridicule:
 thus, in his hymn 33.9, he mentions the “shameless Jains, jeering
 at everyone, who recite the (meaningless) sounds *ñamaṇa ñānaṇa*
 *ňāṇa ňōṇam*." Toṇṭaraṭiyālvār, a Vaiṣṇava saint, condemns, too,
-the Buddhists and Jains and speaks of them as of "untouchables".2
+the Buddhists and Jains and speaks of them as of "untouchables".[^buddhists-jains-untouchables]
 Even the great Periyālvār of whom it was said that "his poems show
 no hatred of other religions" (M. S. Purnalingam Pillai), cries out:
 "Snatch the rice from the mouths of these who burden the earth!
 Stuff them with grass instead!"
+
+[^jains-in-maturai]: Nampi Āṇṭār Nampi, *Äluțaiya Piḷḷaiyār Tiruvulāmālai*, 59 and 74.
+
+[^buddhists-jains-untouchables]: *Tirumālai,* 7.
+
 We must of course allow for some amount of exaggeration but
 it is obvious that, by the middle of the first millennium A.D.,
 Buddhism and Jainism must have lost practically all of their
@@ -614,11 +620,6 @@ kings to reject Jainism and to adopt Saivism.
 
 Another very powerful factor was language. Though the Jains
 cultivated arduously literary Tamil since the earliest times, the
-1 Nampi Āṇṭār Nampi, *Äluțaiya Piḷḷaiyār Tiruvulāmālai*, 59 and 74.
-2 *Tirumālai,* 7.
-
-ŚAIVA BHAKTI
-197
 style of Tamil they fostered became, to a great extent, artificial and
 very much removed from the idiom of the masses. On the other
 hand, Buddhism and Jainism were to some extent even linguistically
@@ -658,14 +659,7 @@ form of *śakti*; indeed, God has no other form (Appar, *Tēvāram* 4552,
 Art and music became divine in temple worship.
 
 The endless personal loyalty of a *bhakta* to a personal and very
-real God, and love, not suffering and renunciation, are the
-1 This may incidentally be one of the reasons why the Pallava and
-Pāṇṭiya monarchs were converted to Saivism. The endless loyalty to a personal
-God was used as a kind of model and projection for an unconditional
-loyalty of the subject to the king.
-
-198
-ŚAIVA BHAKTI
+real God[^pallava-pantiya-conversion-saivam], and love, not suffering and renunciation, are the
 central motives and features of bhakti: including sexual love and
 eroticism, which is not a hindrance, but, on the contrary, frequently
 a precondition to divine love or, at least, its standard symbol. There
@@ -675,7 +669,22 @@ the eternal love between the soul and the Lord. The trend may be
 followed from the *akam* pieces through Tiruvaḷḷuvar's *Kāmattuppal*
 and Tirumūlar's basic utterances like *anpē civam* "God is love" to the
 relation between the human and the Divine as expressed in the
-great Śaivite and Vaiṣṇavite poet-saints.¹
+great Śaivite and Vaiṣṇavite poet-saints.[^bhakta-yearning-god]
+
+[^pallava-pantiya-conversion-saivam]: This may incidentally be one of the reasons why the Pallava and
+Pāṇṭiya monarchs were converted to Saivism. The endless loyalty to a personal
+God was used as a kind of model and projection for an unconditional
+loyalty of the subject to the king.
+
+[^bhakta-yearning-god]: It is usually the *bhakta* who turns into woman craving for the embrace
+of the Lord; i.e. the human soul is female, God male. Exceptionally, as in
+Māņikkavāsakar's *Tirukkōvayār,* the soul is the male and the Lord the
+lady-love. Frequently, the *bhakta* is a slave, a servant of the God-king;
+sometimes, he is a child, and God his mother; he is the lotus-flower and God
+the sun; he is Yacōtai and God her child Kṛṣṇa; a woman devotee is the
+woman longing passionately for Kṛṣṇa's embrace; or, as in the case of Kāraikkāl
+Ammai, she is a mad demon (*pēy*), and the Lord is the dancing Siva.
+
 The relation to the object of the cult develops individually, but
 within the community; asceticism is not obligatory; frequently it is
 missing altogether (cf. the life-story of Cuntarar who married first
@@ -700,16 +709,6 @@ made completely real, so to say "solidified" in a very concrete
 form of the idol worshipped in the temple; at a given moment in
 time, God was dwelling in a concrete and near place, in a familiar
 local shrine. And what kind of God! Śiva took on a colourful, vital
-1 It is usually the *bhakta* who turns into woman craving for the embrace
-of the Lord; i.e. the human soul is female, God male. Exceptionally, as in
-Māņikkavāsakar's *Tirukkōvayār,* the soul is the male and the Lord the
-lady-love. Frequently, the *bhakta* is a slave, a servant of the God-king;
-sometimes, he is a child, and God his mother; he is the lotus-flower and God
-the sun; he is Yacōtai and God her child Kṛṣṇa; a woman devotee is the
-woman longing passionately for Kṛṣṇa's embrace; or, as in the case of Kāraikkāl
-Ammai, she is a mad demon (*pēy*), and the Lord is the dancing Siva.
-
-
 personality, absorbing much of the local *couleur*, and the attention
 of the people; and perhaps even more absorbing became the personality
 of Viṣṇu in the role of child, lover, and intimate companion
@@ -723,8 +722,11 @@ intellectually coloured compassion.
 
 It was said at the beginning of this chapter, that there was
 another productive approach to Tamil bhakti literature-the
-structural analysis of the texts into segments.¹ A few preliminary
+structural analysis of the texts into segments.[^bhakti-lit-analysis-segments] A few preliminary
 remarks are necessary.
+
+[^bhakti-lit-analysis-segments]: Elaborated in detail by A. M. Pyatigorsky in his book *Materialy po*
+*istorii indijskoj filosofii* (Moscow, 1962), pp. 76-146.
 
 The religiosity of a text includes basically two elements. The
 first element is that of the *function of the cult*: the composition, the
@@ -732,18 +734,20 @@ uttering or chanting of the text, or the acceptance of a given text or
 its portion is directed to call forth or to sustain the connection with
 the object of the cult. The second element is that of the *information*
 pertinent to the relation of the subject of the cult to its object.
+
 This information is classified into the following segments:
-555
--
-the interior state of the subject of the cult;
-the external actions of the subject of the cult;
-the respective reaction of the object of the cult in relation to
+
+
+* S<sub>1</sub> - the interior state of the subject of the cult;
+* S<sub>2</sub> - the external actions of the subject of the cult;
+* O<sub>1</sub> - the respective reaction of the object of the cult in relation to
 the subject;
-O the state, qualities or actions of the object of the cult irrespective
-of the given relation to the subject; O₂ has usually the
+* O<sub>2</sub> - the state, qualities or actions of the object of the cult irrespective
+of the given relation to the subject; O<sub>2</sub> has usually the
 form of a synchronic projection of an event in diachrony.
+
 As an example of a stanza which illustrates the complete pattern
-S₁ S₂ O₁ O₂ we may quote one of the earliest Saiva *bhakti* poems,
+S<sub>1</sub> S<sub>2</sub> O<sub>1</sub> O<sub>2</sub> we may quote one of the earliest Saiva *bhakti* poems,
 ascribed to Kāraikkāl Ammaiyār:
 
 
@@ -752,16 +756,10 @@ ascribed to Kāraikkāl Ammaiyār:
 > Him who likes to give shelter to hissing snakes in his hair, \
 > Him who will redeem us when the day comes. \
 
-1 Elaborated in detail by A. M. Pyatigorsky in his book *Materialy po*
-*istorii indijskoj filosofii* (Moscow, 1962), pp. 76-146.
-200
-5550
-"O heart
-ŚAIVA BHAKTI
-in the fullness of love";
-"praise always";
-"who will redeem us when the day comes";
-02 the rest.
+* S<sub>1</sub> = "O heart .... in the fullness of love";
+* S<sub>2</sub> = "praise always";
+* O<sub>1</sub> = "who will redeem us when the day comes";
+* O<sub>2</sub> = the rest.
 
 Indian religious literature may be divided into three kinds of
 texts: specific religious texts (hymns), narrative religious texts, and
@@ -781,21 +779,21 @@ in India which give no information related to cult and religion,
 and yet they have become indispensable for the cult as *the* texts of
 the cult, depending upon their diachronic situation.
 
-The segmentation of the information into S₁, S, O̟₁ and O₂ enables
+The segmentation of the information into S<sub>1</sub>, S<sub>2</sub>, O<sub>1</sub> and O<sub>2</sub> enables
 us to perform a series of internal and external comparisons. When,
 for instance, we compare the hymns of the Tamil Saiva and Vaiṣṇava
 saint-poets of the 7th-10th Cent. A.D. with the Vedic hymns,
 we may observe a set of common features but also features which
 are sharply contrastive: one of the most important distinctions is
-the hypertrophy of S₁ in many Tamil hymns, and its almost complete
+the hypertrophy of S<sub>1</sub> in many Tamil hymns, and its almost complete
 absence in Vedic hymns.
 
 The intimate side of worship is highly developed in the Tamil
 hymns (contrary to Vedic texts). The most important feature of
-the Tamil hymns is the relation S₂ O₁: what does the devotee ask for
+the Tamil hymns is the relation S₂ O<sub>1</sub>: what does the devotee ask for
 when addressing God, and what does God grant him.
 
-The analysis of S₂ O₁ shows that in the Vedic hymns man demands
+The analysis of S₂ O<sub>1</sub> shows that in the Vedic hymns man demands
 from God material goods for himself, and denial of these goods to his
 enemies. Such demand is usually accompanied by a ritual in which
 one brings to the gods in small quantities the same which one
@@ -805,15 +803,13 @@ In the Tamil hymns, the devotee asks God to grant him knowledge
 of himself and knowledge of God, so that he can see him, love him
 and become one with him.
 
-ŚAIVA BHAKTI
-20I
 Both in Vedic and Tamil hymns we frequently encounter the
 phenomenon of substitution; the object of the cult is no more God
 himself but some of his attributes. Sometimes the substitution
 phenomenon is very simple (e.g. the simple pars pro *toto* relation);
 but it may also become more complicated: the devotee addresses a
 third object, a kind of “duplicate" of the original subject of the
-cult, which has some unique, specific relation to the sphere of S₂ O₁
+cult, which has some unique, specific relation to the sphere of S₂ O<sub>1</sub>
 and serves as the ideal mediator between the subject and the object
 of the cult. In Vedic hymns, such substitute is usually an element of
 the material rite, e.g. *ghĩ*; in the Tamil hymns, it may be the heart,
@@ -837,20 +833,20 @@ however, God-Siva or Viṣṇu—is considered to dwell, at a given
 moment in time, exclusively at a given place, in one of the great
 shrines of the South. This "here and now" atrribute of God is part
 of the phenomenon which has been called *henolocotheism.*
-The segment O₂ fills the greater part of Sanskrit *purāṇas*: the
+
+The segment O<sub>2</sub> fills the greater part of Sanskrit *purāṇas*: the
 personal story of the object of the cult. The object of the cult
 received, much later, his "second life" in the South of India. The
 important changes concerning this "second life" were connected
 with the cult as such and with its practical part, not with the conception
 of the object itself beyond the sphere of cult-relations.
-In the Tamil hymns, the material of O₂ is usually telescoped into
+
+In the Tamil hymns, the material of O<sub>2</sub> is usually telescoped into
 the epithets. There are two kinds of epithets in these hymns. One
 group entered Tamil literature from (or through) Sanskritic literature
 and has no relation to Tamil ritual practice: e.g. when Kṛṣṇa,
 as Viṣṇu's *avatar*, is described as "the one who had devoured the
 entire universe"; this is an allusion based on the *Bhāgavatapurāṇa*;
-202
-ŚAIVA BHAKTI
 it had lost so to say the temporal coordinates of the *puranic* episode
 and was telescoped into the Tamil hymns as a “flattened" synchronic
 epithet.
@@ -861,19 +857,20 @@ or with the intimate sphere of the devotee's religious experience.
 This group of epithets has nothing in common with the Sanskritic
 tradition, it is completely indigenous.
 
-The fact that S₁, S2, O₁, O2 were posited as segments of the
+The fact that S<sub>1</sub>, S<sub>2</sub>, O<sub>1</sub>, O<sub>2</sub> were posited as segments of the
 information given in the hymns enables us to compare, from one
 convenient point of view, the saint-poets with one another. Here I
 shall give a very brief comparison of the hymns of the four great
 Śaiva *Nāyaṉmār*, Appar, Campantar, Cuntarar and Māṇikkavācakar.
+
 Campantar's poems contain all the elements of information
 which are typical for the whole complex of Saiva *bhakti* texts.
 However, there is in his songs a definite predominance of the segment
-O₂. The content of S₂ is mostly Campantar's struggle with the
+O<sub>2</sub>. The content of S₂ is mostly Campantar's struggle with the
 Jainas. On the other hand, the intimate, lyrical part of religious
 experience is relatively weakly developed in his work. He is less
 emotional than the other *bhaktas*; the greater part of his work is
-filled with material related to O2, mostly in epithetic form. A favourite
+filled with material related to O<sub>2</sub>, mostly in epithetic form. A favourite
 substitute for God is, in his poems, *tirunīru,* “the sacred ash";
 and also *patam,* “the foot”; *aṭi*, “the footstep” of the Lord. One of
 the diagnostic features of his poetry is also his preoccupation with
@@ -891,17 +888,15 @@ the diagnostic features of his poetry is also his preoccupation with
 In contrast to Campantar, the poems by Appar are almost
 exclusively emotional. There is rich material connected with the
 individual acts of worship and with the autobiography of the poet.
-Therefore, apart from O₂ which is also strongly developed in Appar's
-poetry, there is a strong element of S₁ and S. One of the important
-ŚAIVA BHAKTI
-203
+Therefore, apart from O<sub>2</sub> which is also strongly developed in Appar's
+poetry, there is a strong element of S<sub>1</sub> and S<sub>2</sub>. One of the important
 features of Appar's poetry is his antiritualism; this fact of the
 worship being fully transferred into the spheres of emotion and
 vision seems to anticipate the most typical features of the poetry
 of the *Cittar* and of Tāyumāṉavar.
 
 One of his best-known poems begins with the line *nāmārkum*
-*kutiyallōm namaṇai yaňcōm.1*
+*kutiyallōm namaṇai yaňcōm.*[^tirvacakam-structure]
 
 > To none are we subject! \
 > Death we do not fear! \
@@ -912,12 +907,12 @@ One of his best-known poems begins with the line *nāmārkum*
 > It's joy for us through life, \
 > not pain! \
 
-In Cuntarar's poetry, there is again a strong preference for S₁, but
+In Cuntarar's poetry, there is again a strong preference for S<sub>1</sub>, but
 of a different kind than by Appar. Cuntarar's poetry is very near
 to erotic lyrics, the material of his hymns is most intimately
 connected with his innermost emotions, with the events of his life,
-and even the epithets, forming the segment O₂, are connected with
-the intimate aspect of worship, with the body of the Beloved.2
+and even the epithets, forming the segment O<sub>2</sub>, are connected with
+the intimate aspect of worship, with the body of the Beloved.[^popular-tamil-saying]
 
 > I was sold \
 > and bought by you. \
@@ -937,31 +932,28 @@ Finally, there is Māṇikkavācakar, whose work is usually considered
 to be the most typical and the ripest expression of Saiva *bhakti*
 in Tamil literature.
 
-1
-The structure of his *Tiruvācakam* is rather complex. It has 51
-Appar, *Tēvāram*, *Kalakam* ed., 357.
+[^tirvacakam-structure]: Appar, *Tēvāram*, *Kalakam* ed., 357.
 
-2 There is a popular saying in Tamil, attributed to Siva himself: "My
+[^popular-tamil-saying]: There is a popular saying in Tamil, attributed to Siva himself: "My
 Appan sung of myself, Campantaṉ sung of himself, Cuntaraṉ sung of
 women".
 
 [^cuntarar]: Cuntarar, *Tēvāram*, *Pat*. 95, 2.
 
-204
-ŚAIVA BHAKTI
+The structure of his *Tiruvācakam* is rather complex. It has 51
 chapters, containing 656 hymns. After the *akaval* portion, which
 contains an entire inventory of Siva's epithets, and the whole
 canon of accepted forms of Saiva worship, follow the patikams,
 divided usually into quatrains with refrains or catch-words. There
-is a clear hypertrophy of the segment S₁. Religious emotion achieves,
+is a clear hypertrophy of the segment S<sub>1</sub>. Religious emotion achieves,
 in these poems, a strenght and fullness hardly achieved anywhere
 else. The love of the devotee, which is the central and basic feature
 of his *religio*, is responded to by the object of worship with *aruļ,*
 divine grace. The segment S₂ is almost entirely suppressed, since
 everything what happens on the side of the subject of worship
 happens within his heart and soul. Most of his hymns have the
-pattern S₁ O₁ (O2). The central and most important portion of his
-hymns concerns the relation S₁₁.
+pattern S<sub>1</sub> O<sub>1</sub> (O<sub>2</sub>). The central and most important portion of his
+hymns concerns the relation S<sub>1</sub>O<sub>1</sub>.
 
 > O *kuyil* who calls from flower-filled groves \
 > listen \
@@ -994,52 +986,21 @@ Below an analysis is given of two quatrains from his *Tiruvācakam*
 Observe the fact that, in both poems, the segment S₂-in contrast
 to Campantar's and Cuntarar's hymns-equals zero; the segment
 O2 is developed, but not too strongly (in contrast, e.g., to Appar's
-or Campantar's poems). It is the segments S₁ and O₁ which are
+or Campantar's poems). It is the segments S<sub>1</sub> and O<sub>1</sub> which are
 filled with material. The second hymn in particular has a neat
-pattern of S₁ O1 (02).
+pattern of S<sub>1</sub> O<sub>1</sub> (O<sub>2</sub>).
 
-S₁
-1. Is the very last of
-Siva's devotees
-Fears to be forsaken
-by Śiva
-Is tired and faints.
 
-Prays to be supported
-by Siva
-2. Lives in ignorance
-Refuses the grace
-Fears to be forsaken
-by Śiva
-Considers himself
-to be a miserable dog
-S₂
+|     | S<sub>1</sub>                                         | S<sub>2</sub> | O<sub>1</sub>                           | O<sub>2</sub>                           |
+| --- | ----------------------------------------------------- | ------------- | --------------------------------------- | --------------------------------------- |
+| 1   | Is the very last of Siva's devotees                   |               | Made him his own through his mercy      | Rides the bull<br>Is clad in tiger-skin |
+|     | Fears to be forsaken by Śiva                          |               | Gives him up                            | King of Uttarak.                        |
+|     | Is tired and faints.<br>Prays to be supported by Siva |               | (Supports him)                          | Has matted locks<br>The Lord            |
+| 2   | Lives in ignorance                                    |               | Loathes the devotee<br>Gives him up     | Jewel                                   |
+|     | Refuses the grace                                     |               | Destroys the devotee's chain of actions |                                         |
+|     | Fears to be forsaken by Śiva                          |               | Makes him his own                       | King of Uttarak.                        |
+|     | Considers himself to be a miserable dog               |               | Bears with the devotee's lies           | He who is great                         |
 
-01
-Made him his own
-through his mercy
-Gives him up
-02
-Rides the bull
-Is clad in
-tiger-skin
-King of Uttarak.
-
-(Supports him)
-Has matted locks
-The Lord
-Jewel
-Loathes the devotee
-Gives him up
-Destroys the
-devotee's
-chain of actions
-Makes him his own
-Bears with the
-devotee's lies
-King of Uttarak.
-
-He who is great
 
 Another typical feature of *Tiruvācakam* is the development of
 the system of the object—an elaboration and "universalization" of
