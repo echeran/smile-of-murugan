@@ -8,8 +8,9 @@ in this directions, as, e.g., T. M. C. Raghunathan's evaluation of
 Putumaippittaṉ, his essays on literature, K. Kailasapathy's work,
 a few articles by K. N. Subrahmanyam and, especially, the activities
 of C. S. Chellappa (b. 1912) and two groups of writers, one gathered
-round Chellappa's review *Eḻuttu,* another the *Kurukṣētram* group.¹
-1 Eḻuttu (Writing) was founded by C. S. Chellappa in 1959 as a critical
+round Chellappa's review *Eḻuttu,* another the *Kurukṣētram* group.[^eluttu-literary-review]
+
+[^eluttu-literary-review]: Eḻuttu (Writing) was founded by C. S. Chellappa in 1959 as a critical
 review. It is to be regretted that it has ceased publishing. Chellappa also
 publishes books in his Eḻuttu Press in Madras. His is undoubtedly the most
 important singular attempt to introduce solid literary criticism into the
@@ -19,9 +20,8 @@ influence was decisive, but its impact was unfortunately very limited. It
 was read and discussed among writers and intellectuals, but it did not reach
 the general reader who is influenced rather by such mass-magazines as
 *Anantavikatan*, *Kalki* or *Kalaimakaļ,* though their literary face and taste are
-of immeasurably lower quality than that of *Eḻuttu.*
-
-Also, a few publishers have made attempts at more ambitious undertakings.
+of immeasurably lower quality than that of *Eḻuttu.* \
+\ \ \ \ Also, a few publishers have made attempts at more ambitious undertakings.
 Apart from Chellappa's *Eḻuttu* Press which was responsible for such
 extremely important publications as N. Piccamūrtti's *Kāṭṭuvāttu* (Wild
 Duck), the excellent anthology of "New Poetry", *Putukkuralka!* (New
@@ -30,8 +30,8 @@ Voices), and the highly interesting collection of interviews *Etarkāka elutu-*
 on the principle of a reader's club called *Vācakar vaṭṭam* or Book *venture*,
 which has published such very interesting and outstanding books as Jānakirāman's
 novel *Ammā vantāl* (Mother came), Ramamirtham's novel *Putra*
-(Son), an anthology of contemporary Tamil prose and poetry, etc.
-In 1968, a group of Tamil authors belonging to Trivandrum published a
+(Son), an anthology of contemporary Tamil prose and poetry, etc. \
+\ \ \ \ In 1968, a group of Tamil authors belonging to Trivandrum published a
 collection of essays, stories and poetry (including a "short novel" and a play)
 entitled *Kurukṣētram*. Most of these literary pieces are original Tamil
 writing, a few are translated from Malayalam. The editor of the anthology is
@@ -42,6 +42,13 @@ the most important contribution to this volume are the 43 poems by Shanmuga
 Subbiah (Saṇmuka Cuppaiyā) and the three poems by Hari Sreenivasan.
 S. Subbiah's poems are straightforward, powerful, witty comments on
 everyday life; some of them probably too simple; but a few at least have no
+equal in modern Tamil poetry in the forceful and yet graceful straightforwardness. \
+\ \ \ \ N. Padmanabhan (Nila. Patmanāpan) who has a fine short story (*Nān,*
+"I") in the collection, published in June 1968 an ambitious novel, *Talaimu-*
+*raikal* (Generations, 408 pp.), a rather involved but truly realistic piece of
+prose with a lot of local *couleur*, no doubt one of the most important contributions
+to Tamil prose in recent years.
+
 Apart from Chellappa's established and influential review, there
 are a few other magazines which have more serious ambitions than
 just to entertain and make a profit. To these more serious journals
@@ -79,22 +86,15 @@ it progressively increased.
 
 We may take as a typical instance of an immensely popular
 writer of mid-century R. Krishnamurti, better known as Kalki
-equal in modern Tamil poetry in the forceful and yet graceful straightforwardness.
-N. Padmanabhan (Nila. Patmanāpan) who has a fine short story (*Nān,*
-"I") in the collection, published in June 1968 an ambitious novel, *Talaimu-*
-*raikal* (Generations, 408 pp.), a rather involved but truly realistic piece of
-prose with a lot of local *couleur*, no doubt one of the most important contributions
-to Tamil prose in recent years.
-
-19
-
-
 (1899-1954). Even such fairly critical scholars as T. P. Meenakshisundaran
 compare Kalki's rather poor novel *Alai Ōcai* ("The Tumult
 of Waves") to Tolstoy's supreme masterpiece "War and Peace",
-"though on a lower level".1 And C. and H. Jesudasan (1961) speak
+"though on a lower level".[^kalki-lack-of-proper-criticism] And C. and H. Jesudasan (1961) speak
 about Kalki very warmly, almost in superlatives, with almost no
 really critical remarks on his very fundamental inadequacies.
+
+[^kalki-lack-of-proper-criticism]: A History *of Tamil Literature* (1965) 182.
+
 Kalki was the most influential and prolific journalist of the day,
 and he dominated the literary scene from the middle thirties to the
 early fifties. His fame and reputation rest on his voluminous
@@ -107,12 +107,21 @@ descriptions of love-birds in their love-nests. It is all very sweet, or,
 rather, sugared. His characterisations are weak and shallow, his
 dialogues lively but often naive, the descriptions of sculptures or
 dancing very detailed but very trivial. His style is "fluent but
-colourless, clear but has no individuality". 2 He was a great adaptor:
+colourless, clear but has no individuality".[^kalki-style] He was a great adaptor:
 in his humorous writings of his earlier period, Kalki based his
 stuff on the works of Mark Twain, Jerome Klapka Jerome, and
 other authors, almost unknown to the unsophisticated Tamil reader,
 the situations and characters of his historical novels come mainly
 from Alexander Dumas, Lord Lytton and Sir Walter Scott.
+
+[^kalki-style]: Ka. Naa. Subramaniam, "What is wrong with the Tamil novel", *The*
+*Sunday Standard,* Nov. 20, 1966. Compare this severe but absolutely just
+evaluation with the Jesudasans' false statement (op. cit. p. 266): "It is a
+style with a distinct individuality. It sparkles in the dialogues of his
+characters. It is quite probably the best part of his work". Contrary to this,
+Subramaniam says very correctly: "His style was certainly not the man in a
+literary sense".
+
 In spite of all this--or probably because of all this-his appeal
 to the masses of readers was extremely powerful. Why? Because
 the average Tamil reader, who was rather "weak-minded" (to
@@ -122,18 +131,6 @@ sensational and to seemingly well-built and complicated plots is
 truly admirable. No matter that some of his plots are quite unreal
 or plainly impossible; he is always able to excite. He also responds
 masterfully to the sentimentality of his readers, chiefly frustrated
-1 A History *of Tamil Literature* (1965) 182.
-
-2 Ka. Naa. Subramaniam, "What is wrong with the Tamil novel", *The*
-*Sunday Standard,* Nov. 20, 1966. Compare this severe but absolutely just
-evaluation with the Jesudasans' false statement (op. cit. p. 266): "It is a
-style with a distinct individuality. It sparkles in the dialogues of his
-characters. It is quite probably the best part of his work". Contrary to this,
-Subramaniam says very correctly: "His style was certainly not the man in a
-literary sense".
-
-
-
 women. His social and historical fiction was written week after
 week (in *Anantavikațan*, and later in his own journal *Kalki*) “with
 just that element of mystery and suspense that are necessary for
@@ -157,7 +154,11 @@ innocence is questionable if one agrees (as I do) with Subrahmanyam's
 strict pronouncement that "Kalki's Alai Ōcai, the
 Sahitya Akademi winning novel, is still unrivalled in the number
 of words used to square inch of sentimentality on the human
-scene".1
+scene".[^akilans-writings]
+
+[^akilans-writings]: Though probably some of Akilan's writings ooze a greater amount of
+sentiment and engender a heavier stream of words.
+
 As far as the short story in Tamil is concerned, I must again quote
 K. N. Subrahmanyam who is one of the few courageous and uncompromising
 critics of modern Tamil writings. The short story
@@ -166,17 +167,13 @@ leisurely narrative and the stock situations. Perhaps because
 traditional thought in Tamilnad leans more towards a personal
 philosophy than to psychology, we have in the Tamil short story
 little of character probing or analysis of a situation".
+
 The first to have written short stories in Tamil literature was
 V. V. S. Aiyar. Some of them were his inventions; some others just
 adaptations; the result was the first notable collection of modern
 short stories in Tamil called *Maṅkaiyarkkaraciyiṉ kātal,* called thus
 after its title story which is based on some events in Tamilnad
 of Kulōttuṅka Chōla III. It is a lovely romance. Another story of
-1 Though probably some of Akilan's writings ooze a greater amount of
-sentiment and engender a heavier stream of words.
-
-
-
 his is even based on modern life *(Kamalavijayam*). V. V. S. Aiyar
 died in 1925 and with his and S. Bharati's attempts, the Tamil
 short story writing made quite a good start.
@@ -220,9 +217,7 @@ Several anthologies of Tamil short stories were published more
 or less recently, in the original as well as in English translation;
 and one would expect them to be fairly representative. Let me
 critically evaluate the one collection which is probably the most
-
-
-ambitious. It was published in 1963 under the name *The Plough*
+ambitious[^critique-of-ambitious-collection]. It was published in 1963 under the name *The Plough*
 *and* the *Stars* (*Asia,* London), edited by K. Swaminathan, Periaswami
 Thooran and M. R. Perumal Mudaliar. It contains 26 short
 stories. However, the anthology is not a careful and truly representative
@@ -238,6 +233,12 @@ importance, or the fact that this or that writer would be typical
 for one or the other aspect of modern Tamil writing, but just
 because they are politically or otherwise influential (Rajagopalachari,
 K. Santhanam).
+
+[^critique-of-ambitious-collection]: There is a relatively very good collection of Tamil short stories, published
+by the Sahitya Akademi in 1959 under the editorship of the late A. Chidambaranatha
+Chettiar, entitled simply *Cirukataik kalaňciyam*. Why has not
+*this* short-story collection been translated *in* toto into English and published
+rather than The *Plough and* the *Stars*, is beyond my comprehension.
 
 However, even though not representative enough, this anthology
 may be used as a point de *départ* to discuss at least some
@@ -260,13 +261,6 @@ does, surprisingly so, not appear.
 
 Another major group deals with problems of marriage and
 family-life; three stories deal with widowhood. There are no love
-1 There is a relatively very good collection of Tamil short stories, published
-by the Sahitya Akademi in 1959 under the editorship of the late A. Chidambaranatha
-Chettiar, entitled simply *Cirukataik kalaňciyam*. Why has not
-*this* short-story collection been translated *in* toto into English and published
-rather than The *Plough and* the *Stars*, is beyond my comprehension.
-
-
 stories in the Western sense: the relationship between man and
 woman develops either within marriage (if it at all develops!), or,
 if there is some attachment and affection outside marriage, the
@@ -282,6 +276,7 @@ stories are very poor as *belles-lettres*, in terms of aestetic evaluation;
 and they are rather conservative in outlook.
 
 Finally, there is a story about animals, quite a charming one.
+
 The focus of attention of the authors is thus mostly on children,
 on married couples, on a few socially degraded and economically
 poor individuals. As an exception, two swamis (portrayed with
@@ -300,6 +295,7 @@ dies. Sometimes, the plot is rather forced and "romantic". In one
 or two cases, it is plainly silly. In most cases, it does not at all
 develop well. None of the plots is highly dramatic or striking;
 nothing really surprises us. Some of the plots are rather banal.
+
 Style: first of all, the translation into English is mostly poor,
 and as I know from some instances (of the stories which I know in
 the Tamil original), it has often damaged whatever good there
@@ -312,8 +308,6 @@ Some of the themes are interesting enough; some of the plots are at
 least promising; some of the characterizations is not bad; but in
 terms of style and diction, not even one fifth of the stories is really
 good.
-
-
 
 Thus there are only three or at most four stories in this collection
 of twenty-six pieces which I would characterize as good in terms
@@ -337,16 +331,9 @@ quite anonymous.
 
 Three authors were selected as typical of almost the whole range
 of modern Tamil prose--or rather, of that in contemporary Tamil
-prose which is valuable and full of promise for future development.¹
-The first one to be discussed is T. Janakiraman. Most Tamil
-critics, and probably most readers, too, would agree that Janakiraman's
-writings are good that he is a good and interesting story
-teller. According to my opinion he is typically one of the best
-representatives of the prevalent, realistic, humanistic and mildly
-progressive trends of modern-day Tamil.
+prose which is valuable and full of promise for future development.[^more-nuance-better-holistic-appraisal]
 
-T. Janakiraman was born on June 8, 1921 in Thevangudi near
-1 Since this is a delicate issue, let me repeat once more: the fact that I have
+[^more-nuance-better-holistic-appraisal]: Since this is a delicate issue, let me repeat once more: the fact that I have
 selected three authors for detailed discussion does not mean that there are
 no other good or even very good prose-writers in Tamil. Being well aware of
 the fact, I am inviting the wrath of many readers upon me (not to speak
@@ -363,8 +350,14 @@ extremely promising younger writers and poets like Sundara Ramaswami
 (cf. his excellent short novel *Oru puḷiyamarattiṉ katai,* The Story of a
 Tamarind Tree, 1966).
 
+The first one to be discussed is T. Janakiraman. Most Tamil
+critics, and probably most readers, too, would agree that Janakiraman's
+writings are good that he is a good and interesting story
+teller. According to my opinion he is typically one of the best
+representatives of the prevalent, realistic, humanistic and mildly
+progressive trends of modern-day Tamil.
 
-
+T. Janakiraman was born on June 8, 1921 in Thevangudi near
 Tanjavur. He is a Brahmin by caste and knows Sanskrit and English
 well. For years now he has been working in the All India Radio
 (Madras, Delhi), and has published a number of short stories,
@@ -407,15 +400,19 @@ pain of disappointment, the joy of union--but altogether it is
 a pleasure ... And I write about matters I know. I never write
 about things I do not know". This is the one great thing about
 Janakiraman and his writing: his honesty and the absence of any
-
-
 kind of pretense. There is no affectation and no ostentation in him,
 no untruth.
 
 His style is vivid, plastic, his language rich and colourful, though
 always temperate and subdued; he is not afraid to use, in the
 dialogues, a written reflection of the colloquial which usually
-happens to be the Brahmin colloquial with him.¹
+happens to be the Brahmin colloquial with him.[^janikiraman-style]
+
+[^janikiraman-style]: The *Plough and the Stars* (1963) includes Janakiraman's story "Exultation",
+pp. 76-87, and *Mahfil* (IV. 3-4, 1968) has an English version of his
+story "The Temple Light".
+
+
 *Mōkamuļ* (1961) "The Thorn of Passion" is a distinguished novelone
 of the best ever published in Tamil. The plot, the theme, the
 story, even the style-almost everything in the book is really good.
@@ -424,6 +421,7 @@ one fault that some of his writings display: verbosity and loquacity.
 "An otherwise good piece of fiction . so thinly spun out that it
 runs to about 800 pages; it could have been more effective if it had
 been done in about a couple of hundred pages” (K. N. Subrahmanyam).
+
 In this respect, *Ammā vantāl* (1965) "The Mother Came", is
 definitely better. This is, in short, the plot: Appu, a Brahmin boy,
 is sent at the age of eight to a Sanskrit seminary (*pāțacālai*) to
@@ -447,13 +445,6 @@ lovely and sensual woman by name of Indu.
 The book's theme is highly interesting, even great; the plot well
 conceived, the characterization of some figures excellent: Alankāram,
 the sinful mother, is indeed overwhelming. Some descriptions
-1 The *Plough and the Stars* (1963) includes Janakiraman's story "Exultation".
-'
-, pp. 76-87, and *Mahfil* (IV. 3-4, 1968) has an English version of his
-story "The Temple Light".
-
-
-
 are lovely—e.g. at the very beginning of the novel the description
 of the Käviri. On the other hand, the novel has a few basic drawbacks:
 it has not quite escaped the curse of sentimentalism; its
@@ -500,7 +491,6 @@ truth about his mother:
 > A gecko clucked from the darkness: kik-kik-kik. \
 > He closed his eyes and could see, in the shadows, the face of his mother."
 
-
 T. Janakiraman is a well-established author, who has always
 something to say, who does not want merely to entertain or to
 please. The message he has to convey is always a message of goodwill,
@@ -536,6 +526,7 @@ to him. In the best of his short stories, one feels a sure stroke of
 a stylist who has succeeded in getting rid of everything superfluous
 and redundant (quite opposite from Janakiraman). But
 sometimes his way of describing things is crude and raw.
+
 He belongs to the line of critical realism symbolized by the
 names of Puthumaippittan and T. M. C. Raghunathan. He does
 not hesitate to handle themes that were recognized as taboo,
@@ -544,10 +535,8 @@ there was much talk about his “immorality”, which was, with him,
 nothing but absolute frankness, deadly serious; and crudely realistic,
 even naturalistic narration.
 
-For the urge to write there is always some reason with JeyakanTHE
-PROSE OF TODAY
-301
-than. He is a rationalist who sees the chain of causes and results in
+For the urge to write there is always some reason with Jeyakanthan.
+He is a rationalist who sees the chain of causes and results in
 the whole sphere of life. The ultimate measure and reason of
 everything is Man; even for nature, and more so for art. Art, for
 him, is always full of purposes; it has always some meaning, some
@@ -590,12 +579,6 @@ pieces The life in India became an image of falsehood. In
 cursing the life and pleasure while at the same time enjoying them,
 the Indian became a hypocrite ..." *(Maunam* oru *pāṣai*, “Silence
 is a language"). Thus he refuses to join the lines of those who see
-...
-
-
-
-
-
 only the past glories of India, for whom life is a thing of the past,
 and the present time means death and decay. For him, India lives,
 as he puts it, both in temples and in the *cēris* (low caste villages);
@@ -619,7 +602,11 @@ the Goddess of Society. He has a very keen sense of future, including
 his own future as writer. He says about himself: "I am a
 small drop in the great ocean which creates the world of tomorrow.
 My writing is just one wave in that ocean". It certainly is a powerful
-wave.1
+wave.[^story-development]
+
+[^story-development]: However, the development is very uneven and full of potential dangers
+and pitfalls.
+
 Contemporary Tamil prose-and I certainly do not enjoy writing
 this is, on the whole, emasculated, flat, colourless, as if most of
 the writers were afraid of conveying their own experience of life,
@@ -633,10 +620,8 @@ touch, smell and taste. One is indeed almost bound to ask if there
 is something wrong with the sensoric perceptions of these writers---or
 is it just utter lack of the pertinent vocabulary and stylistic
 skill?
-Fortunately, there are exceptions. Some of the writings of
-1 However, the development is very uneven and full of potential dangers
-and pitfalls.
 
+Fortunately, there are exceptions. Some of the writings of
 N. Pichamurti, K. Alagiriswamy, R. Shanmugasundaram, T.
 Janakiraman and a few others are plastic, vivid, multidimensional,
 sensitive to shapes, colours, sounds and smells. And a writer like
@@ -649,7 +634,13 @@ so luxurious and drooping that they half-closed his eyes and only
 the pale whites were visible. His beard and the drooping flesh on
 his cheeks covered his face, so that one could not see where the
 deep wrinkles on either side of his nose began and where they
-ended. But his nose, broad and pointed, stood out prominently".1
+ended. But his nose, broad and pointed, stood out prominently".[^original-better-than-translation]
+
+[^original-better-than-translation]: "The Staff of Life", The Plough *and the Stars* (1963) 88-89. The original
+is much superior to this translation. *Mahfil* (IV. 3-4, 1968) 81-99, contains
+English renderings of two of his short stories, "The Dispute" and "Ages
+Meet".
+
 It is hardly possible to imagine two so different authors as
 Jeyakanthan, the robust fighter, and L. S. Ramamirtham, the shy,
 reticent Brahmin with the face of Sir Laurence Olivier. And yet
@@ -674,13 +665,6 @@ exercise.
 
 Both Jeyakanthan and Ramamirtham are each possessed by a
 particular kind of basic lunacy (I do not think Janakiraman is;
-1 "The Staff of Life", The Plough *and the Stars* (1963) 88-89. The original
-is much superior to this translation. *Mahfil* (IV. 3-4, 1968) 81-99, contains
-English renderings of two of his short stories, "The Dispute" and "Ages
-Meet".
-
-
-
 he is too sensible and too well-balanced for that). Jeyakanthan is
 obsessed with the future of the world he believes he is helping to
 mould; more specifically, with the here and now of the India he
@@ -694,10 +678,10 @@ to pick out *the* Word from words—as ridiculous as trying to operate
 on the brain with a butcher's knife or a rusty doornail? ... He who
 has been touched by the flame of the Word, he carries the fire in
 his heart If you will have the Word as water, he has drunk
-from the Pool of Eternal Thirst And he walks alone on his
-...
+from the Pool of Eternal Thirst And he walks alone on his—endless way to *the* Word".[^ramamirtham]
 
-endless way to *the* Word". 1
+[^ramamirtham]: The *Illustrated Weekly of India,* Nov. 20, 1966, p. 27.
+
 In a personal interview, granted in January 1968 in Madras, he
 told me: "I am obsessed with words. I listen to every word, contemplating
 its meaning and form, and the place it has in the web
@@ -713,10 +697,9 @@ English; his English writings were recognized and published by
 Manjeri S. Iswaran. "I love English like a woman. I think I was
 happy to have read the right authors at the right moments. As far
 as Western writing is concerned, I might have been influenced by
-Tolstoy and Knut Hamsun and Hemingway ...".2
-...
+Tolstoy and Knut Hamsun ... and Hemingway ...".[^ramamirtham-personal-communication]
 
-...
+[^ramamirtham-personal-communication]: Personal communication.
 
 It was T. J. Ranganathan (b. 1901), one of the influential prosewriters
 of the older generation, who induced Ramamirtham to
@@ -726,11 +709,6 @@ anything. All those three decades I was repeating myself ... There
 is nothing new to tell ...".
 
 Ramamirtham has so far written more than one hundred short
-1 The *Illustrated* Weekly of *India,* Nov. 20, 1966, p. 27.
-2 Personal communication.
-
-
-
 stories and two novels *(Putra*, 1st part 1965, *Apitā,* 1970). The
 collections of short stories comprise *Janani* (1957), *Italkaļ* (1959,
 'Petals'), *Paccaikkanavu* (1961, 'Green Dream'), Kaňkā (1962),
@@ -763,6 +741,7 @@ the true nature of things, for the truth in myself".
 
 In this respect, Ramamirtham's method is very Indian indeed.
 But then he says:
+
 "I do not believe in anything really-perhaps I am an atheist . . . Yet,
 I believe in the continuity of the race, the parents who begot me, my
 mother she lives very much in me... I do not identify myself with my
@@ -771,21 +750,19 @@ chiefly about myself. I am very much occupied with myself. Almost all
 my writing is in some sense autobiographical. Yes, indeed, *Putra* is
 strongly autobiographic... And I am writing very often about my
 mother. She was a very unusual person. Something of a queen and
-yet a subject Unapproachable...”.
+yet a subject ... Unapproachable...”.
 
-...
 
 The texture of his plots is really not very intricate but sometimes
 it is difficult to understand at once the full implications of
-20
-
-
-the interactions between the characters. "Green Dream" (1961) 1
+the interactions between the characters. "Green Dream" (1961)[^green-dream]
 describes, for instance, the complicated net of emotions evolving
 between a blind man and his wife. Parts of the story, thanks to
 the diction and style, have a dream-like quality of fantasy and
 illusion. But even single dialogues in this story have a unique
 force and charm:
+
+[^green-dream]: *Mahfil* IV. 3-4 (1968) 55-62.
 
 > "Other memories arose at the word "moon". Memories of midnights when he had lain waiting on a camp cot on the veranda, in the moonlight the awaited hand clasping his-the many times it had led him to that stagnant pond amidst the four hillocks, at the turning of the roadthe dusty earth of the street sticking to the soles of his feet-the green dress fluttering against him in the wind-it was like this moment. \
 > "Is moonlight green?" \
@@ -811,11 +788,7 @@ becomes pregnant. In "Talking Fingers" (1961) two people, a man
 and a woman, meet casually on a deserted road in the fields; he,
 a Telugu-speaking peddler selling bangles; she, a young and buxom
 Tamil peasant-woman, whose husband is a drinking ruffian. There
-and then an inner relationship arises between these two strangers--1
-*Mahfil* IV. 3-4 (1968) 55-62.
-
-
-
+and then an inner relationship arises between these two strangers--
 nothing develops between them in the physical sense; only his
 fingers speak and a few bangles remain crushed in the dust of the
 road but the story, five pages in all, is a masterpiece of Tamil
@@ -824,9 +797,9 @@ the zenith, and a strong and shapely peasant woman walking on
 the road in the hot dust, under that sun, will feel the immense
 tension pervading the story.
 
-"Clay" (1961) ¹ describes the relationship between a family of low
+"Clay" (1961)[^clay] describes the relationship between a family of low
 caste potters and the community they work for. The central idea
-behind the theme of “Stained Leaf" 2 is the madness of poetry, the
+behind the theme of “Stained Leaf"[^stained-leaf] is the madness of poetry, the
 higher, super-realistic, trans-realistic vision of the poet against the
 earthy, fully realistic plane of the profane, of the vulgar. And of
 course the higher, ideal plane is destroyed by the vulgar. This is
@@ -855,12 +828,6 @@ grinning like a fool. The whole story is a series of flashes: how the
 world appears to different characters. For the Pariah woman, e.g.,
 the world is made of sweat and sunshine and cooling, soothing
 water. The same reality, symbolized by the banyan leaf, appears
-1 ib., 63-67.
-
-2 ib., 52-54.
-
-
-
 differently to the four actors: what is a piece of poetry to the
 dreamer and intellectual, is some four scribbles for the illiterate
 Pariah *belle,* and dry rubbish, a piece of fuel, for the old hag. And
@@ -878,6 +845,10 @@ spread and immersed in water, she flung open her arms, pressed
 her legs together and was floating like a cross. Her eyes twinkled,
 dazzled by the glare of the sun; her lips smiled; her body shone and
 darted beams of light like a black crystal".
+
+[^clay]: ib., 63-67.
+
+[^stained-leaf]: ib., 52-54.
 
 Ramamirtham's language is extremely rich. He has at his
 disposal a great number of (so-called) synonyms: e.g., in just four
@@ -903,8 +874,6 @@ with the beauty of a dream and I, too, was made like a dream"
 well as with details of human portraiture; cf. the two following
 instances: "From the hair, arranged like two curved armlets on
 both sides of the middle parting, two loose locks parted and played
-
-
 on the hillock of the forehead in the swift wind of the electric fan.
 floating round mark, above the spot where the curves of her
 irregular black brows began, melted in sweat, shedding its red
@@ -922,6 +891,7 @@ and refreshed and appeased, at the side of the village?"; or *inta*
 *neňcu kacintatu* (p. 45) "Like a flower, blossoming in the barren
 soil, within the span of time necessary to produce this thought,
 the heart melted, by the tender freshness of the thought".
+
 When asked what are the sources of his rich, sometimes rather
 profusedly Sanskritized Tamil, he says: "It was all in my family.
 It is my family heritage. My grandfather was a Tamil pandit.
@@ -930,24 +900,23 @@ wealth of language. The nature and extent and depth of my involvement,
 that is decisive for my diction. My emotions
 Sanskrit? But I do not really know Sanskrit. I do not know it, but
 I love the sound of it. It is like heavy jewellery. It has also been in
-my family for ages ...'
-"
+my family for ages ..."
+
 His writing is not very popular. Sometimes he is rather difficult
 to understand. “Often, one gets lulled into a trance while going
 through the verbal permutations he indulges in with magic effect ...
 This seemingly undue dominance of verbal designs stands in the
 way of communication when the reader is not familiar with the
-technique Ramamirtham employs in expressing himself”.1
+technique Ramamirtham employs in expressing himself”.[^technique-expressing-himself]
+
+[^technique-expressing-himself]: P. P. Sundararajan, "The Short Story in Tamil", *Indian Writing*
+*Today,* 4, p. 61.
+
 His *Putra* ("Son"), a novel full of Macbethian twilight, reminding
 one of Spanish baroque, Italian "marinism", and the English "metaphysical"
 poets of European seventeenth century, was called
 "tongue-in-cheek experiment" and to some extent this is true. The
 search after new forms, the strife after technical innovations, the
-1 P. P. Sundararajan, "The Short Story in Tamil", *Indian Writing*
-*Today,* 4, p. 61.
-
-
-
 obsession with the "word" drive Ramamirtham, from time to time,
 to the dangerous brink of pure formalism, and he is almost ready
 to sacrifice the subject, the theme, the meaning, on the altar of
@@ -971,7 +940,11 @@ story of a curse, hurled by the mother upon her son.
 > the meaning of the word; \
 > the action of the meaning; \
 > the three merged and blended into \
-> one trident".1 \
+> one trident".[^time-of-writing-waiting-for-next-volume]
+
+[^time-of-writing-waiting-for-next-volume]: At the time when this is being written and re-read (December 1969,
+Sept. 1972), we still wait impatiently for the second volume of this experimental
+and breath-taking novel.
 
 Reading a story by Ramamirtham is always an experience; sometimes
 a harrowing experience; often the reader is left with painful
@@ -979,14 +952,10 @@ and very disturbed feelings; sometimes he is lost; sometimes, he
 feels that there is a certain amount of affectation, of ostentation
 present in Ramamirtham's writings; he may wish that the author
 be more simple, more straithtforward, and more sincere.
+
 However, Ramamirtham is a many-sided genius. He is capable,
 even within a single comparatively short novel as the first part of
 *Putra,* to evoke an entirely different picture:
-
-1 At the time when this is being written and re-read (December 1969,
-Sept. 1972), we still wait impatiently for the second volume of this experimental
-and breath-taking novel.
-
 
 > "Blue, saffron, violet, deep yellow, green, black-she had a figure which agreed with any colour. \
 > Aunt would open the long trunk which she used during the day as a board and take out one by one the diffeBrent sarees. This was indeed their chance. \
@@ -1021,7 +990,6 @@ perfect sound magic (cf. kanru *kaṇṭu kaṇ kaṇintu* “the eye, growing
 tender at the sight of the calf", or karu *puraļum pacuvin* peruvayiru,
 lit. “big belly of a cow in which the embryo rolls"); observe also
 the technique of association, used in the passage with such skill.
-
 
 But reading Ramamirtham's prose is also always a revelation.
 Among other things, a revelation of the possibilities of the Tamil

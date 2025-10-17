@@ -30,15 +30,14 @@ under direct impact of English literature.
 
 The scholastic, high-flown type of writing, is practised in the
 *mutts,* but "a slight relaxation of style, an accommodation of common
-speech and life, can also be traced in the *palļus* and the *kura-*
-*vancis"*, like Rājappa Kavirāyar's (1718) *Kurṛālakkuṛavaňci*, or
+speech and life, can also be traced in the *palļus* and the *kuravancis"*,[^relaxed-style-pallu-kuravanci]
+like Rājappa Kavirāyar's (1718) *Kurṛālakkuṛavaňci*, or
 in the *Mukkūṭalpaļļu.* The sentiments expressed are coarse, and
 here and there we get a glimpse of the daily experience of genuine
-1 C. and H. Jesudasan, op. cit. p. 248.
-
-
 folk but the language is highly literary and even these pieces have
 to be considered "highbrow" literature.
+
+[^relaxed-style-pallu-kuravanci]: C. and H. Jesudasan, op. cit. p. 248.
 
 It is one of the most characteristic features of modern Tamil
 prose that the informal, spoken, colloquial language has never
@@ -51,7 +50,20 @@ the Bengali *calitbhāṣā,* a language which is spoken *and* written
 simultaneously. There are only different types and styles and kinds
 of *the* Tamil equivalent―in the Bengali situation-to the *sadhubhāṣā-*
 that is the formal, written, literary language. And then there are
-local and social dialects.1
+local and social dialects.[^local-social-dialects]
+
+[^local-social-dialects]: Literature on this feature of Tamil is now steadily growing. Cf. Charles
+A. Fergusson, "Diglossia", *Word* 15 (1959, 325-340); id. and John J. Gumperz,
+"Linguistic Diversity in South Asia", IJAL 26, 3, 1960; K. Zvelebil, “Spoken
+Language of Tamilnad", *ArO* 32,3 (1964) 237-64; Bright, W. and Ramanujan,
+A.K. "Sociolinguistic Variation and Language Change", Intl. Cong.
+Ling., Proc. 9. 1107-13 (1964); Pillai, M. Shanmugam, "Tamil-Literary and
+Colloquial", *IJAL* (1960) 26,3, 27-42, Ramanujan, A.K., "The Structure of
+Variation: A Study in Caste dialects", *Structure and* Change in *Indian*
+*Society,* Chicago (1968), 467-74. Attempts are now increasing to introduce
+spoken (informal) Tamil into prose-fiction (and even poetry). So far, these
+attempts are singularly few, and there is opposition to this trend.
+
 These two characteristic features of modern Tamil prose-writing
 ―i.e. the fact that it was based on the model of scholastic, commentatorial
 literature, and the fact that it was composed in a highly
@@ -69,18 +81,6 @@ and reality. But in language it is not so; Bharati's language remains
 formal, literary language, though his syntax and idioms, his choice
 of lexical items is almost always based on the live speech of the
 masses.
-
-1 Literature on this feature of Tamil is now steadily growing. Cf. Charles
-A. Fergusson, "Diglossia", *Word* 15 (1959, 325-340); id. and John J. Gumperz,
-"Linguistic Diversity in South Asia", IJAL 26, 3, 1960; K. Zvelebil, “Spoken
-Language of Tamilnad", *ArO* 32,3 (1964) 237-64; Bright, W. and Ramanujan,
-A.K. "Sociolinguistic Variation and Language Change", Intl. Cong.
-Ling., Proc. 9. 1107-13 (1964); Pillai, M. Shanmugam, "Tamil-Literary and
-Colloquial", *IJAL* (1960) 26,3, 27-42, Ramanujan, A.K., "The Structure of
-Variation: A Study in Caste dialects", *Structure and* Change in *Indian*
-*Society,* Chicago (1968), 467-74. Attempts are now increasing to introduce
-spoken (informal) Tamil into prose-fiction (and even poetry). So far, these
-attempts are singularly few, and there is opposition to this trend.
 
 In the second half of the 19th Cent., the aestetic function of
 literature—that is, basically, the creation of *rasa* or 'mood"-lost
@@ -124,8 +124,6 @@ Pillai writes: "My object in writing this work of fiction is
 to supply the want of prose works in Tamil, a want which is admitted
 and lamented by all". In this preface, he also mentions the prose
 of the commentators. In chapter 42 of his novel we read: "We have
-
-
 to admit that it is a great want that Tamil does not have the *vacaṇa*
 *kaviyankal,* the epics in prose, like English, French, and other
 languages". He even makes the European novel responsible for
@@ -167,10 +165,8 @@ The prose of Vedanayagam Pillai is not without the ornateness
 and stiffness characteristic for all writing of this period: it is
 academic, pedantic, but the *sujet* itself forced the writer's hand to
 such extent that it is even today quite readable, “last but not least
-for its quaintness" (R. E. Asher). Vedanayagam Pillai was, howTAMIL
-RENAISSANCE
-281
-ever, more of a scholar, reformer and enthusiast than a creative
+for its quaintness" (R. E. Asher). Vedanayagam Pillai was, however,
+more of a scholar, reformer and enthusiast than a creative
 writer.
 
 An entirely different book in many respects is Rajam Iyer's
@@ -213,14 +209,13 @@ irony and social satire. Rajam Iyer observes life as a realist, and
 often very critically, though, of course, he is not a "critical realist"
 in the strict technical sense of the term. His novel is primarily a
 romance, but, at the same time, there is hardly any work in Tamil
-
-
 fiction which would reveal so much about life in rural India of the
 19th Century. The village Brahmin community is portrayed with
 much precious detail and in vivid colours. Rajam Iyer's eyes---and
 not only his eyes, but all his senses—are open; he sees, he listens,
 he even smells and touches things. And that is more than can be
 said about a number of modern Tamil writers!
+
 His prose is basically rooted in the academic, commentatorial
 tradition, and it is profusedly Sanskritized. The Sanskritization
 was inevitable in his case, and its absence would be unnatural, since
@@ -254,12 +249,11 @@ You mirror of Yama! You buffalo! You Mūtēvi!” etc.
 
 I think Rajam Iyer's book, being a classic, is still the best novel
 ever written in the Tamil language. And it is indeed good tidings
-that this great book is going to be published soon in English.¹
-1 According to personal communication by R. E. Asher (Summer, 1969),
+that this great book is going to be published soon in English.[^translation-rajam-iyer-book]
+
+[^translation-rajam-iyer-book]: According to personal communication by R. E. Asher (Summer, 1969),
 he and K. N. Subrahmanyam are currently working on a translation into
 English which will be published by the UNESCO.
-
-
 
 The end of the 19th Century is characterized by a rich growth
 of different stylistic variants of one stylistic level-the formal,
@@ -277,6 +271,7 @@ ago, now waxes and wanes and is transformed into something new
 occurred in Bengali or Marathi literature decades ago, is occurring
 in Tamil prose and poetry now, and that the end of this century
 will witness the emergence of truly creative forces in Tamil literature.
+
 The various language-styles and styles of writing will now be
 discussed one by one.
 
@@ -293,20 +288,18 @@ heritage, who bridged as it were the very ancient and the very new.
 Apart from his enormous work in the field of ancient classics he
 wrote what can be probably called the foremost of Tamil biographies
 (about his teacher, Mīnāțcicuntaram Pillai) and his own
-excellent autobiography 1 as well as some sketches and reminiscences,
+excellent autobiography[^saminathaiyar-autobiography] as well as some sketches and reminiscences,[^saminathaiyar-reminiscences]
 all very engaging reading.
 
-It was indeed a marvellous work which was done by U. V. S. Aiyar,
-D. Pillai, and their contemporaries and students. And yet one
-1 En *carittiram*, "My life-story". Publ. 1940-42 in a magazine, 1950 as a
+[^saminathaiyar-autobiography]: En *carittiram*, "My life-story". Publ. 1940-42 in a magazine, 1950 as a
 book. A mine of information about the literary world he moved in, sometimes
 rather naive, but always useful.
 
-2 *Nan kantatum kēṭṭatum*, "What I saw and heard", *Palaitatym putiya-*
+[^saminathaiyar-reminiscences]: *Nan kantatum kēṭṭatum*, "What I saw and heard", *Palaitatym putiya-*
 *tum*, "The old and the new".
 
-
-
+It was indeed a marvellous work which was done by U. V. S. Aiyar,
+D. Pillai, and their contemporaries and students. And yet one
 wonders if this rediscovery of the past (known as the "Tamil
 Renaissance"), coming as it did at a juncture when Tamil literary
 activities might have broken vitally with some of the aspects of
@@ -340,6 +333,7 @@ political and social life of Tamilnad. However, the most important
 feature common to all of them: none of these men was truly a
 creative writer of *belles-lettres*; non of them has ever produced a
 truly great, path-breaking piece of original, creative prose or poetry.
+
 Love of Tamil took a strange and militant shape. Having neglected
 their language for four or five centuries (and preferring Sanskrit,
 Urdu, Telugu, Marathi and finally English to their own mothertongue),
@@ -348,8 +342,6 @@ language in a kind of jingoistic enthusiasm that has hardly any
 parallel in any other country. They became overconscious of the
 past. They found everything old good, and this tendency to exalt
 the old and "pure" has worked havoc in many fields—notably in the
-
-
 field of the novel and the drama; but also in poetry. This brings us
 to the second mainstream of modern Tamil prose-style, and
 language-style, the *tūyatamil* or *taṉittamiḻ națai,* i.e. the “pure”,
@@ -379,14 +371,14 @@ among the protagonists of this movement was *Maraimalai* Aṭikaḷ
 for the sake of effect . The free use of foreign words in a
 language will ultimately lead to its degeneracy". After 1916,
 Vedachalam "Tamilized" his name into Maraimalai and proclaimed
-himself a *svāmī* (*ațika!)*; the title of the journal he published*Nanacakaram*
+himself a *svāmī* (*ațika!)*; the title of the journal he published *Nanacakaram*
 "Ocean of Knowledge”'
 -was also changed, into
 *Arivukkatal*. A number of Tamil scholars, writers and intellectuals
 followed his example, and the "Pure Tamil Movement” gathered
-strength day after day. 1
-The reaction to this linguistic purism was the so-called *putumaņi-*
-1 I would hate to be misunderstood. Maraimalai Aṭikaḷ no doubt deserves
+strength day after day.[^maraimalai-atikal-nuance]
+
+[^maraimalai-atikal-nuance]: I would hate to be misunderstood. Maraimalai Aṭikaḷ no doubt deserves
 much gratitude for many good things he did: in 1920 he founded one of the
 most prolific publishing houses for Tamil classical and medieval literature,
 the Tirunelveli Saiva Siddhānta Works Publishing Society; in 1931 he
@@ -395,8 +387,8 @@ legalized, Tamil to be made one of the subjects for the B. A. Hons. examination,
 etc. However, in the questions pertaining to language and literature,
 his approach was, in many ways, narrow-minded, negative and sterile.
 
-
-*pravala natai,* the “new *maṇipravāļa”*, a style so heavily Sanskritized
+The reaction to this linguistic purism was the so-called *putumaņipravala natai,*
+the “new *maṇipravāļa”*, a style so heavily Sanskritized
 that the result may be justly called a hybrid. In itself it
 is quite unimportant, naturally highly unpopular, and only a few
 Sanskrit-oriented pandits, mainly Vaiṣṇava *ācāryas*, still write in
@@ -436,12 +428,7 @@ spoken, informal Tamil, as far as it is possible under the given
 political, social and cultural conditions.
 
 The short story as such appeared first from the pen of V. V. S.
-Aiyar (1881-1925).¹ Among the stylists who demanded that "one
-1 *Maṅkaiyarkkaraciyiṉ kātal,* a collection of eight stories, written between
-1910-1920.
-
-
-
+Aiyar (1881-1925).[^first-short-story] Among the stylists who demanded that "one
 should write as one speaks" the best was probably V. Ramaswamy
 († 1951). The great short-story writer Putumaippittaṉ († 1948)
 should probably be not mentioned in one breath with the prolific
@@ -459,3 +446,5 @@ in spite of the differences among them and though formal and
 By the Thirties, pedantic, scholarly writing was practically dead,
 and the purist trend was sterile.
 
+[^first-short-story]: *Maṅkaiyarkkaraciyiṉ kātal,* a collection of eight stories, written between
+1910-1920.
