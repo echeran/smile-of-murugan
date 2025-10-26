@@ -167,7 +167,10 @@ Tamil. The final outcome of these events—the creation of a literature
 of very high standard and of a rich and refined linguistic mediumfound
 expression in the excellent descriptive grammar Tolkāppiyam,
 one of the most brilliant achievements of human intellect in India.
-Charts 1 and 2 give the data for the first extant literary works and
+@tbl-earliest-south-indian-writing
+and
+@fig-time-gap-tamil-other-dravidian
+give the data for the first extant literary works and
 epigraphic monuments of the four South Indian languages, and a
 kind of graph which shows a sharply rising curve indicating the
 tremendous time-gap between the beginnings of Tamil written
@@ -262,61 +265,6 @@ Travancore) was a Kerala Brahmin. One may go on enumerating
 hundreds of Sanskrit works in the field of belles-lettres, rhetoric,
 grammar, lexicography, commentatorial literature, philosophy
 etc., all of them written in the South. This we will not do, naturally;
-Telugu
-Malayalam
-inscriptions literature
-633 A.D.
-
-beginnings
-in the 7.*Rāmacaritam*
-of Cīrāman
-Tamil
-literature
-1. the "Urtext"
-of the *Tolkāp-*
-*piyam*, i.e. the
-two first sections,
-272-232 B.C./Brāhmi *Eḻuttatikāram* and
-*Collatikāram*
-minus later interpolations,
-ca. 100
-B.C. 2. the earliest
-strata of bardic
-poetry in the socalled
-*Caṅkam* anthologies,
-ca. 1.
-
-Cent. B.C.-2. Cent.
-
-A.D.
-
-CHART I
-Kannada
-inscriptions literature
-in the 6.-7.
-
-Cent. A.D).
-
-Nṛpatunga's
-*Kavirāja-*
-(lost),
-*mārga* (ca.
-
-850 A.D.)
-ca. 450 A.D. beginnings
-9. Cent.
-
-Nannaya's
-translation
-(lost),
-*bhārata*
-(II. Cent.)
-*Unnunili*
-*Sandēśam*
-(anonym.),
-
-
-
 it is important, however, to appreciate the fact that Sanskrit
 literary works are an integral and intrinsic part of the literary
 heritage of the *South* and that Sanskrit was the language of learning
@@ -324,25 +272,29 @@ and higher culture throughout South India, though, of course, to a
 different degree in different parts of the South, and in different
 periods.
 
-Tamil
-CHART 2
-Kannada
-Telugu
-Malayalam
-A.D. 1400
-A.D. 1200
-A.D. 1000
-A.D. 800
-A.D. 600
-A.D. 400
-A.D. 200
-A.D.
++--------------------+------------------------------+--------------+-----------------+--------------+--------------------+--------------------------------------+
+| Tamil                                             | Kannada                        | Telugu                            | Kannada                              |
++====================+==============================+==============+=================+==============+====================+======================+===============+
+| inscriptions       | literature                   | inscriptions | literature      | inscriptions | literature         | inscriptions         | literature    |
++--------------------+------------------------------+--------------+-----------------+--------------+--------------------+----------------------+---------------+
+| Early Tamil Brāhmī | 1. the "Urtext"              | ca. 450 A.D. | beginnings      | 633 A.D.     | beginnings         | Close of 9. Cent.    | *Rāmacaritam* | 
+| ("Damilī")         | of the *Tolkāppiyam*,        |              | in the 6.-7.    |              | in the 7.-9. Cent. | (Kōṭṭayam plates of  | of Cīrāman    | 
+| inscriptions, 3.-1.| i.e. the two first sections, |              | Cent. A.D.      |              | (lost),            | Sthāṇu Ravi), Chokur | Tamil         | 
+| Cent. B.C. (Aśokan | 272-232 B.C./Brāhmi          |              | (lost),         |              | Nannaya's          | inscriptions ca.     | literature\   | 
+| / 272-232 B.C. /   | *Eḻuttatikāram* and          |              | Nṛpatunga's     |              | translation        | 925 A.D.             | \             | 
+| Brāhmī introduced  | *Collatikāram*               |              | *Kavirājamārga* |              | *Mahābhārata*      |                      | *Unnunili*    | 
+| ca. 250 B.C. into  | minus later interpolations,  |              | (ca. 850 A.D.)  |              | (11. Cent.)        |                      | *Sandēśam*    | 
+| the Tamil country  | ca. 100 B.C.                 |              |                 |              |                    |                      | (anonym.),    | 
+| and adapted between| 1. the earliest              |              |                 |              |                    |                      | (14. Cent.)   | 
+| 250-200 B.C. to    | strata of bardic poetry in   |              |                 |              |                    |                      |               |
+| Tamil              | the so-called *Caṅkam*       |              |                 |              |                    |                      |               |
+|                    | anthologies, ca. 1. Cent.    |              |                 |              |                    |                      |               |
+|                    | B.C.-2. Cent. A.D.           |              |                 |              |                    |                      |               |
++--------------------+------------------------------+--------------+-----------------+--------------+--------------------+----------------------+---------------+
+                                                                  
+: Earliest literary works and epigraphic monuments in 4 South Indian langauges {#tbl-earliest-south-indian-writing}
 
-B.C.
 
-B.C.
 
-200
-Period of the first strong wave of over-all
-Sanskritization of the South
-First impacts of Sanskritization
+
+![Time-gap between the beginnings of Tamil written literature and the other Dravidian literatures](./img/page-8-chart-2.png){#fig-time-gap-tamil-other-dravidian}

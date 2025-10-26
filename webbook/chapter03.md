@@ -83,9 +83,9 @@ edition which is more or less in agreement with the principles of
 textual criticism.
 
 
+![A *Tamil manuscript* on palm-*leaves*. Property of the author.](./img/page-25-tamil-palm-leaf-manuscript.png){#fig-tamil-palm-leaf-manuscript}
 
 
-A *Tamil manuscript* on palm-*leaves*. Property of the author.
 
 
 
@@ -267,15 +267,14 @@ by the historical analysis of the early Tamil Brahmi inscriptions and
 some other material.
 
 The earliest Tamil literature extant has been preserved in two
-great super-anthologies, the *Eṭṭuttokai* and the *Pattuppāṭṭu*. Chart 3
+great super-anthologies, the *Eṭṭuttokai* and the *Pattuppāṭṭu*.
+@lst-titles-eight-collections-ten-lays
 gives the titles of the various eight anthologies of the great collection,
 and the names of the ten lays contained in the second great anthology,
 in their traditional order.
 
 It has been noted, and nowadays only the most stubborn of the
 traditional pandits would not admit this fact, that out of the eight
-
-
 collections of the first great anthology, two, namely the *paripāṭal*
 and the *Kalittokai* are, in their entirety, later than the rest. As far as
 the second great anthology is concerned, at least one poem is undoubtedly
@@ -283,8 +282,10 @@ of later origin than the rest, namely the *Tirumurukärrup-*
 *paṭai*. Thus we are left with six anthologies of *Eṭṭuttokai* and with
 nine *pāṭṭus* or lays of *Pattuppāṭṭu.*
 
+:::  {#lst-titles-eight-collections-ten-lays}
+
 *Eṭṭuttokai* "Eight Collections"
-CHART 3
+
 1. *Naṟṟiṇai* "(The anthology of poems about) the good *tiṇais"*
 2. *Kuṟuntokai* "The anthology of short (poems)"
 3. *Ainkuṟunūṟu* "The five hundred short (poems)"
@@ -293,8 +294,10 @@ CHART 3
 6. *Kalittokai* "The anthology in the *kali* metre"
 7. *Akanāṉūṟu* or *Netuntokai* "The four hundred (stanzas) about *akam*" or
 "The anthology of long (poems)"
-8. *Paṟanāṉūṟu* "The four hundred (stanzas) about *puṟam"*
+1. *Paṟanāṉūṟu* "The four hundred (stanzas) about *puṟam"*
+
 *Pattuppāṭṭu* "Ten Lays”
+
 1. *Tirumurukāṟṟuppaṭai* "The guide to Lord Muruku"
 2. *Porunarāṟṟuppaṭai* "The guide for the war-bards"
 3. *Ciṟupāṇāṟṟuppaṭai* "The guide for the bards with the small lute"
@@ -306,6 +309,11 @@ CHART 3
 9. Paṭṭiṉappalai "(The poem about) separation (and about) the city"
 10. *Malaipaṭukaṭām* "(The poem of the sound) *kaṭām* pertaining to the
 mountains"
+
+Titles of the eight anthologies and the ten lays, in their traditional order
+
+:::
+
 It seems to me reasonable to assume that the earliest poetry began
 first to be fixed in writing, and later anthologized, as soon as it
 ceased to be part of a living tradition, in other words, as soon as
@@ -320,8 +328,6 @@ the first great wave of devotional poetry under the Pallavas. It
 gradually became a matter of interest only for the scholar, for the
 savant, for the erudite *litterateur*; it also became progressively more
 unintelligible, for the language changed as well as the conventions
-
-
 and subject-matter of poetry. That was probably the period when,
 for the first time, a need was felt for commentaries and theoretical
 treatises dealing with this classical heritage. This heritage was
@@ -369,63 +375,8 @@ with prose. Cf. Nacciṉārkkiṉiyar's comm. on Tolk. *Purattinaiyiyal* 17.21,
 and the commentaries to *Viracöliyam*, Porutpat 15 and *Alankārappat.* 12,
 18, 29.
 
-மு.
 
-
-31-ஆம் பாடல்
-"களியானைத் தென்னன் கனவின்வந் தென்னை
-அளியா னளிப்பானே போன்றான் - தெளியாதே
-செங்காந்தண் மெல்விரலாற் சேக்கை தடவந்தேன்
-என்காண்பே னென்னலால் யான்" (முதி.63)
-
-தலைவி கூற்று
-3I
-33
-73
-(30)
-(அயலார் தலைவியை மணம் செய்யும்பொருட்டு முயன்ற காலத்தில்
-அதுகாறும் தலைவனைப் பற்றிய செய்தியை வெளியிடாத தலைவி, "நான்
-ஆடுகளத்தில் துணங்கையாடும் இயல்புடையேன்; என்னோடு நட்புச்
-செய்து பிரிந்தமையால் என் கைவளைகளை நெகிழச்செய்த தலைவன்
-அத்துணங்கைக்குத் தலைக்கை தந்தான். அவன் இப்பொழுது எங்கே
-உள்ளானோ? பல இடங்களில் தேடியும் கண்டேனில்லை"
-உண்மையைத் தோழிக்கு வெளிப்படுத்தியது.]
-31. மள்ளர் குழீஇய விழவி னானும்
-மகளிர் தழீஇய துணங்கை யானும்
-யாண்டுங் காணேன் மாண்டக் கோனை
-யானுமோ ராடுகள மகளே யென்கைக்
-5 கோடீ ரிலங்குவளை நெகிழ்த்த
-பீடுகெழு குரிசிலுமோ ராடுகள மகனே.
-
-என்று
-எ- து. நொதுமலர் வரைவுழித் தோழிக்குத் தலைமகள் அறத்
-தொடு நின்றது.
-
-[நொதுமலர் - தலைவனல்லாத அயலார். வரைவுழி - மணத்திற்கு
-உரிய பரிசத்தோடு வந்தபொழுது.)
-ஆதிமந்தியார். (கு -பு.) ஆதிமருதியாரென்று படித்தற்கு மிட
-முண்டு.
-
-(பி - ம்.) 3 'ஆண்டுங்' 5 'ஞெகிழ்த்த' 6 'குரிசிலுமாடுகள்
-(ப-ரை.) மாண் தக்கோனை - மாட்சிமை பொருந்திய தகுதியை
-யுடையோனை, மள்ளர் குழீஇய விழவினானும் -வீரர் கூடியுள்ள சேரி
-விழாவின் கண்ணும், மகளிர் தழீஇய துணங்கை யானும் - மகளிர் தம்
-முள் தழுவி ஆடுகின்ற துணங்கைக் கூத்தின் கண்ணும், யாண்டும்ஆகிய
-எவ்விடத்தும், காணேன் - கண்டேனில்லை; யானும் ஓர் ஆடு
-களம் மகளே யானும் ஆடுகின்ற களத்திற்குரிய ஒரு மகளே ; என்
-கை - என் கையிலுள்ள, கோடு ஈர் இலங்கு வளை நெகிழ்த்த சங்கை
-அறுத்துச் செய்த விளங்குகின்ற வளையல்களை நெகிழச் செய்த, பீடு
-கெழு - பெருமை பொருந்திய, குரிசிலும் - தலைவனும், ஓர் ஆடுகளம்
-மகனே - ஆடுகின்ற களத்திலுள்ள ஒருவனே.
-
-(முடிபு) மாண் தக்கோனைக் காணேன்; யானும் ஓர் ஆடுகள்
-மகள் ; குரிசிலும் ஓர் ஆடுகமகன்.
-
-A page from the 1962 edition of *Kuṟuntokai* with U.V. Swaminatha
-Aiyar's commentary. Property of the author.
-
-
-
+![A page from the 1962 edition of *Kuṟuntokai* with U.V. Swaminatha Aiyar's commentary. Property of the author.](./img/page-31-kurunthokai-page-uvs-commentary.png){#fig-kurunthokai-page-uvs-commentary}
 
 
 It has already been stressed, too, that the final codification of the
