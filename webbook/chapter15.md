@@ -36,7 +36,7 @@ are very heavily Sanskritized,[^sanskritized-verses] the final effect is marvell
 packed with Sanskrit words". C. and H. Jesudasan, op. cit. p. 212.
 
 > *ēltalampukal kāvēriyāl vilai* \
-> *cola manțala mītē manōkara* \
+> *cola manṭala mītē manōkara* \
 > *rāca kempira nāṭāļum nāyaka* \
 > *vayalūrā* \
 >

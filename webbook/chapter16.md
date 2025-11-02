@@ -107,7 +107,7 @@ were transmitted orally in the same way as the underlying literary
 texts. This fact is explicitly mentioned e.g. in the famous commentary
 of Nakkīrar (8th Cent. A.D.) to *Iṟaiyaṉār Akapporu!.* It
 says: ini *urai naṭantu vantavāru collutum* "Now we shall reveal the
-way (āru) how the commentary came down [to us] (*națantu vanta*)”;
+way (āru) how the commentary came down [to us] (*naṭantu vanta*)”;
 and it goes on to report how the commentary passed from Nakkīrar
 to his son, etc., and how, finally, after having passed through eight
 generations of scholiasts, it was finally fixed by a Nilakaṇṭan of
@@ -184,8 +184,8 @@ The best commentaries usually combine all these aspects and
 procedures. Thus e.g. U. V. Cuvāminātaiyar's Commentary on
 *Kuṟuntokai* (1937) proceeds along the following scheme: 1) *varia*
 *lectiones* (textual variations, piratipētam, abbreviation p-*m*); 2)
-"word-commentary" (*patavurai*) ;3) summary (muțipu); 4) basic
-sense, basic idea (*karuttu*); 5) detailed exposition (*vicēțavurai*) including
+"word-commentary" (*patavurai*) ;3) summary (muṭipu); 4) basic
+sense, basic idea (*karuttu*); 5) detailed exposition (*vicēṭavurai*) including
 parallelisms and concordances.
 
 Later, many sub-types of commentaries were added, so that e.g.
@@ -222,9 +222,9 @@ diagram:
 book should be entitled in either of the following five manners: 1. according
 to its author, e.g. *Akattiyam* (written by Agastya); 2. according to its patron
 (e.g. *Ilantiraiyam*); 3. according to its size and/or the number of its parts
-(e.g. *Pannirupațalam,* lit. "12 chapters"); 4. according to its content and
+(e.g. *Pannirupaṭalam,* lit. "12 chapters"); 4. according to its content and
 importance (e.g. *Kaḷaviyal* "The Treatise on Secret Love"); 5. by an "arbitrary"
-or "primitive" descriptive term (e.g. *Nikanțu* “Dictionary”).
+or "primitive" descriptive term (e.g. *Nikanṭu* “Dictionary”).
 
 
 to the *mulam*
@@ -264,7 +264,7 @@ the grammar, Pavaṇanti:
 
 2) It must have a place in one of the three orders of a literary
 work, the primary, original (*mutal)*, the deductive, derived (*vali*), the
-supporting or supplemental (*puțai, cārpu*) (5-8).
+supporting or supplemental (*puṭai, cārpu*) (5-8).
 
 3) It must be advantageous for the reader in his quest after one
 or the other of the four grand objects-virtue, wealth, pleasure
@@ -286,7 +286,7 @@ clarity (12).
 
 7) It must possess the 32 niceties (*utti*) (13).
 
-8) It must be composed in terms of ōttu (section), *pațalam*
+8) It must be composed in terms of ōttu (section), *paṭalam*
 (chapter) and *cuttiram (sūtra,* aphorism). An aphorism of expository
 literature must follow another aphorism in regular and natural
 order like the flow of a river; it must have "lion's look” (i.e. "look"
@@ -355,7 +355,7 @@ are absent".[^first-commentary-akaval-prose]
 present form the work is indebted to *Cīvakacintāmaṇi*, and hence could not
 have been prior to the 10th-11th Cent. A.D. The lower limit, in any case, is
 provided by the fact that the commentary quotes 325 poems from the
-*Pāṇṭikkōvai*, a work of probably late 7th Cent. which praises the Pāņțiya
+*Pāṇṭikkōvai*, a work of probably late 7th Cent. which praises the Pāņṭiya
 king Neṭumāṛan (640-670 A.D.). Hence, Nakkīrar's commentary cannot be
 earlier that the 7th Cent. On the other hand, it is older than Iḷampūraṇar.
 Late 7th-8th Cent. A.D. seems to be a reasonable estimate for the original
@@ -761,7 +761,7 @@ to some commentaries, “as in faultless speech, like in faultless utterances"
 "in the utterances (of the grammar, of the book itself) which are
 faultless".
 
-[^ascetic]: *pațimaiyōn* = (Jain) ascetic
+[^ascetic]: *paṭimaiyōn* = (Jain) ascetic
 
 [^tolkappiyan]: Nacciṉārkkiṉiyar uses
 this occasion to give his account of the legend about Tolkāppiyaṉ

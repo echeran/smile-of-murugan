@@ -273,7 +273,7 @@ traditional forms. They refused the explicativeness and verbosity
 of the old, especially medieval poetry (and in this respect, their
 "modernity” is a return to the unsurpassed and perfect terseness
 and brevity of the early classical poetry). Chellappa sees them as
-bearers of a revolt (*purațci*) of a new, different generation. If there
+bearers of a revolt (*puraṭci*) of a new, different generation. If there
 is indeed a break with the past, if there is a clash between "tradition"
 and "modernity” in contemporary Tamil culture, it takes place in
 the writings of these "new poets". The first of the "revolting" poems
@@ -507,7 +507,7 @@ conscious craftsman of all the "new poets" is T. S. Venugopalan.
 However, according to some, S. Vaitheeswaran is *the* best of all
 the lot.
 
-S. Vaitheeswaran's experimental trifle (published in *Națai,*
+S. Vaitheeswaran's experimental trifle (published in *Naṭai,*
 1969,4) is reproduced on the following page. The text says:
 
 > DESIRE \
@@ -887,7 +887,7 @@ alliteration (*mōnai*) of (ka-), placed most regularly at the beginning
 of each first feet of the four distichs.
 
 [^selvam-essay-modern-prosody]: Cf. a very interesting essay on classical and modern prosody by Selvam
-(Celvam) in *Națai,* 3, April 1969.
+(Celvam) in *Naṭai,* 3, April 1969.
 
 *kakanap paravai*
 *nīṭṭum alaku*
@@ -920,7 +920,7 @@ device was well-known as a kind of cittirakkavi “picture-poem” (cf.
 We are prepared to agree with this opinion to the extent that
 the "new poetry” is, indeed, reconcilable with Tamil tradition[^classical-style-modern-poetry] as
 far as the basic, “low-level" structural elements-i.e. the *acai* and the
-cir (foot), partly also the line (*ați*)-are concerned. The traditional
+cir (foot), partly also the line (*aṭi*)-are concerned. The traditional
 stanzaic structures of higher levels (pā, *inam*) are, however, not
 adhered to by the “new poets". Indeed, there is one very fundamental
 'high-level' feature which means a definitive break with tradition

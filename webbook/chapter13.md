@@ -43,7 +43,7 @@ Kampavarman (870-912? See K. A. N. Sastri, *A History* of *South*
 *India¹ii*, *175*), in fact the very last of the Pallava kings. According
 to one legend, the poet was born in the vicinity of a temple-pillar
 *(kampam, stambha-*); according to another story, he was the son of
-the king of *Kampanāțu;* other stories associate his name with
+the king of *Kampanāṭu;* other stories associate his name with
 *kampu*, "millet", or *kampam* "pillar" or "stick"; a well-known
 proverb says that in Kampaṉ's home even a post for tying cattle
 will compose verses.[^kampan-home-proverb]
@@ -84,7 +84,7 @@ these dates fall within the period of the Imperial Cholas" (op*. cit.*
 
 [^12th-century-theory]: *Centamiḻ* III, 171-81.
 
-[^tiyakavinotan-chola]: Cf. Es. Vaiyāpuri Pillai, *Tamilccuțarmanikal,* III ed., 1959. Also *Centamiḻ*
+[^tiyakavinotan-chola]: Cf. Es. Vaiyāpuri Pillai, *Tamilccuṭarmanikal,* III ed., 1959. Also *Centamiḻ*
 I, p. 122.
 
 [^ottakkuttan]: *Kulōttunkacōlanulā* 157.
@@ -148,7 +148,7 @@ major and minor differences between the great Sanskrit epic and the
 Tamil poem. On the other hand, in the main story Kampaṉ follows
 the tradition rather closely without making any great changes. The
 plot and many of its details are taken from Vālmīki. The division
-into books (*kāṇṭam*) and the subdivision into cantos (*pațalam*) is
+into books (*kāṇṭam*) and the subdivision into cantos (*paṭalam*) is
 taken from Vālmīki, too. The epic is basically modelled on the
 rhetoric of Sanskrit *kāvyas*, not on the more indigenous Tamil epic
 tradition. And, above all, Kampaṉ is a learned poet,[^saying-kampan-greatest-in-learning] and his
@@ -420,7 +420,7 @@ creeper, like poison, like the daughter of wickedness". Listen to the
 measure of her footfall:
 
 > *paňciyolir viňcukulir pallavama nunka* \
-> *ceňceviya kaňcanimir cīrațiya ļāki* \
+> *ceňceviya kaňcanimir cīraṭiya ļāki* \
 > *ancoliļa maňňaiyena vannamena minnum* \
 > *vaйciyena naňcamena vaňcamakaļ vantāl* \
 >
@@ -494,7 +494,7 @@ return from Laṅkā, where he went as Rāma's scout to find out
 about Sītā. His very first words, when he appears before Rāma:
 
 > *kantanan* karpinuk *kaṇiyaik kankalāl* \
-> *tentirai yalaikața lilankait tennakar* \
+> *tentirai yalaikaṭa lilankait tennakar* \
 > *antar nayaka vinituratti yaiyamum* \
 > *pantula tuyaru mennanumān pannuvān* \
 > "I saw \

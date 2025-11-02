@@ -93,7 +93,7 @@ the twelve dialectal regions.[^twelve-regions]
 (*ticaiccol, ticai* < prob. Skt. *diśā*, instr. of diś "region, place"). The
 author or authors of Tolkāppiyam do not describe the dialectal regions in
 detail. The medieval commentators, though, tell us the names of the twelve
-regions, and denote the dialects by a common term, *koțuntamil,* lit. "crude,
+regions, and denote the dialects by a common term, *koṭuntamil,* lit. "crude,
 vulgar Tamil". Also, the author of the prefatory stanza to the grammar was
 well aware of the stylistic distinction: he speaks, as of two distinct styles of
 one language, of *valakku* "spoken, colloquial (style)" and *ceyyuḷ* "poetic,
@@ -295,7 +295,7 @@ replied with a similar curse on his master.
 [^tolkappiyan-pupil]: According to tradition (found fixed, e.g., in the prefatory stanza to
 *Purapporulvenpāmālai*), Tolkāppiyaṉ and these fellow students of his were
 responsible for the production of another grammatical work, the *Panni-*
-*rupațalam*. This work on *purapporul* is now lost but a few *sūtras* are preserved
+*rupaṭalam*. This work on *purapporul* is now lost but a few *sūtras* are preserved
 in Iḷampūraṇar's comm. to *Tolkāppiyam*.
 
 As K. A. Nilakanta Sastri says, "this silly legend represents the
@@ -323,7 +323,7 @@ corroborating this hypothesis: the classification of lives (jiva) and
 non-lives *(ajīva*) in Tolk. *Marapiyal* 27-33 appears to agree fully
 with the Jaina classification. The description of a *mātrā* (prosodic
 unit) as being equivalent in duration to *kaṇṇimaittal* "closing and
-opening of the eyelid" and to *kainnoți* "snapping of the finger" is
+opening of the eyelid" and to *kainnoṭi* "snapping of the finger" is
 supposedly of Jaina origin; the allusion to *munnitin uṇarntōr*
 *(Elutt.* 7) in connection with that description is obviously to Jaina
 *ācāryas*. According to the opinion of S. Vaiyapuri Pillai, Tolkāppiyaṉ
@@ -355,7 +355,7 @@ definitely a Malayalam development, and a "Malayalamism” in Tamil.
 [^modern-day-kerala-place-name]: There still exists a village by name of Ataṅkōṭu in South Travancore.
 The prefatory stanza says that the merits of the grammar were approved by
 Ataṅkōṭṭācāṉ (< *ataṅkōṭṭu ācān*) i.e., "the teacher of Ataṅkōṭu", a member
-of the learned assembly of king Nilantaru Tiruviṛ Pānțiyan; who this
+of the learned assembly of king Nilantaru Tiruviṛ Pānṭiyan; who this
 Pāṇṭiyaṉ was we have no idea. The author of the prefatory stanza, Paṇampāraṇār,
 is probably identical with the grammarian whose work (*Panam-*
 *pāraṇam*) was preserved very fragmentarily in a few sūtras in the commentaries
@@ -431,7 +431,7 @@ of Akattiyam: ilakki *yattinin* retuppatu milakkanam "literature yields
 grammar"; cf. further *Naṉṉūl s*. 140: *ilakkiyan kantatay* kilakkana *miyampal,*
 "the utterance(s) of grammar are based on literature". Tamil grammarians
 had also a clear conception of the principle of change in language; according
-to Tolk., usage sanctifies new words (kațico lillaik kalattuppatinē, Tolk. s.
+to Tolk., usage sanctifies new words (kaṭico lillaik kalattuppatinē, Tolk. s.
 935), and according to *Naṉṉūl,* it is in the order of things for the old to give
 place to the new: *palaiyana kalitalum putiyana pukutalum* / *valuvala kāla*
 *vakaiyi nānē* (s. 461). We cannot but admire these insightful utterances of the
@@ -539,7 +539,7 @@ Let us point out first some of the more striking differences.
 [^raghava-ayyangar]: E.g. R. Raghava Ayyangar, *Tamil varalāṟu* (Annamalai, 1941), 268273;
 M. Raghava Ayyangar, *Ārāyccit* tokuti, 306-9.
 
-[^venakatarajulu-rettiyar]: Cf. Vēnkațarājulu Reṭṭiyār, *Kapilar*, 104-105.
+[^venakatarajulu-rettiyar]: Cf. Vēnkaṭarājulu Reṭṭiyār, *Kapilar*, 104-105.
 
 [^t-p-meenakshisundaram]: Cf. T. P. Meenakshisundaran, A *History* of *Tamil Language* (1965), 51;
 C. and H. Jesudasan, A *History* of *Tamil Literature* (1961), 3-4.
@@ -547,7 +547,7 @@ C. and H. Jesudasan, A *History* of *Tamil Literature* (1961), 3-4.
 Phonemic shapes, which may be considered earlier, occur in the
 grammar; the same words appear in what may be considered later
 phonemic shapes in the bardic poetry, e.g. *Tolk. viyar*: *Porunar*. 80
-*vēr* “sweat”; Tolk. *yāṭu*: Puṟ. 229 *āțu* “goat, sheep”; *Tolk*. *yāru*:
+*vēr* “sweat”; Tolk. *yāṭu*: Puṟ. 229 *āṭu* “goat, sheep”; *Tolk*. *yāru*:
 *Neṭunal.* 30 *āru* "river”.
 
 There is a restriction on the occurrence of the palatals in the
@@ -558,7 +558,7 @@ by *a* (cf. *Puṟ*. 14.9, 56.18, 74.3 and elsewhere).[^words-after-collatikaram
 allowed by *Tolk*. *Col.* 27 only in the spoken language, occur in the
 literary texts of the *“Cańkam*” age *(Aink*. 431-440). The restrictions
 on the use of the verb *vā* “to come” and *tā* “to give" (used only with
-the first two persons), *cel* "to go" and *koțu* “to give" (used only with
+the first two persons), *cel* "to go" and *koṭu* “to give" (used only with
 the third person, cf. Tolk. 512, 513) are no longer valid in the
 *"Cankam*" period. The usage of the particles of comparison,
 prescribed in *Tolk*., is relaxed in “*Cankam”* works. The restriction
@@ -569,8 +569,8 @@ shift, e.g. *tuňcal* in *Tolk*. *Poruḷ*. 260 means "to sleep", while in
 means “to eat" in *Pattinap*. 22. According to Tolk. *Col.* 269, el
 means "light", in *Malaipaṭuk*. 416 it means "night”.
 
-[^words-after-collatikaram]: Cf. items like *cațai* (Pur. I), *camam (*Pur. 14), *cakațam* (*Pur*. 102),
-*cavatți* (Perumpāṇ. 217), *calam* (*Maturaik*. 112), *cantu (Malaipaṭuk*. 392),
+[^words-after-collatikaram]: Cf. items like *caṭai* (Pur. I), *camam (*Pur. 14), *cakaṭam* (*Pur*. 102),
+*cavatṭi* (Perumpāṇ. 217), *calam* (*Maturaik*. 112), *cantu (Malaipaṭuk*. 392),
 *cavaṭṭum* (Patirrup. 84), *camam (Tirukkural* 99), *caman* (ib. 112), which show
 that the rule of Tolk. Elutt. 62 must have *preceded* these forms and, hence,
 these texts.

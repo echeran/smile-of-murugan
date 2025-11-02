@@ -56,7 +56,7 @@ belong some of the left and Marxist-oriented magazines *(Tāmarai,*
 *Ārāycci, Saraswathi*) and such periodicals as *Ilakkiyavaṭṭam*, *Tipam*
 and *Katir*. A recent and very promising but short-lived addition
 to the number of modern-oriented, critical journals was the quarterly
-*Națai* (G. Krishnaswamy, Salem), the eight or nine issues of
+*Naṭai* (G. Krishnaswamy, Salem), the eight or nine issues of
 which were of a high critical level, and the monthly of the "angry
 young men”, *Kacaṭatapara* (Madras).
 
@@ -132,7 +132,7 @@ truly admirable. No matter that some of his plots are quite unreal
 or plainly impossible; he is always able to excite. He also responds
 masterfully to the sentimentality of his readers, chiefly frustrated
 women. His social and historical fiction was written week after
-week (in *Anantavikațan*, and later in his own journal *Kalki*) “with
+week (in *Anantavikaṭan*, and later in his own journal *Kalki*) “with
 just that element of mystery and suspense that are necessary for
 the serial reader in Tamil" (K. N. Subrahmanyam).
 
@@ -184,14 +184,14 @@ time after him there was almost nothing which could be compared
 in standard to his writings.
 
 Around the thirties, a group of writers gathered round a shortlived
-journal called *Manikkoți,* under the leadership of a brilliant
+journal called *Manikkoṭi,* under the leadership of a brilliant
 stylist, V. Ramaswamy (Va. Rāmacāmi Ayyaṁkār, † 1951, “Va.
 Rā."). Putumaippittaṉ was one of them. Their achievement, in
 prose-writing as well as in poetry, must be considered as the peak
 of Tamil literary development between the two great wars. It is
 quite obvious, today more than ever, that almost everything which
 is truly creative and promising in modern Tamil *belles-lettres* has
-its roots in the short-lived (ca. 1930-1940) but powerful *Manikkoți*
+its roots in the short-lived (ca. 1930-1940) but powerful *Manikkoṭi*
 movement.
 
 Putumaippittaṉ has been recognized as a real force in Tamil
@@ -424,7 +424,7 @@ been done in about a couple of hundred pages” (K. N. Subrahmanyam).
 
 In this respect, *Ammā vantāl* (1965) "The Mother Came", is
 definitely better. This is, in short, the plot: Appu, a Brahmin boy,
-is sent at the age of eight to a Sanskrit seminary (*pāțacālai*) to
+is sent at the age of eight to a Sanskrit seminary (*pāṭacālai*) to
 learn the Vedas. He stays sixteen years to master them, living on
 the banks of the Kāviri, in a beautiful, serene atmosphere. Appu
 alone does not know that his handsome, overbearing mother who
@@ -486,7 +486,7 @@ truth about his mother:
 > He moved away from her and there he stood, afraid that she would follow and hold his shoulders. \
 > Indu stood facing the wall, with the light of the lantern falling fully on her. She was not looking at the wall. She was not looking at anything. Her nose was shiny, the skin sagged beneath her eyes. She was standing there as if she was some dead body that had been stood up. Even on the face there was a deadly pallor, as if life and blood had been drained. She was like ashes. \
 > For minutes the corpse-like apparition stood there, unmoving. Then she knotted up her hair, and raised a finger to scratch her cheek and lip. With the look of utter blankness she crawled from one place to another, picked up the lantern, set it down by a pillar, and sitting beside another pillar, she buried her face between her knees. \
-> Appu glanced at the door, and then went quickly up to her; she heard his footsteps and raised her head, but he did not look at her. He laid himself flat on the ground in front of her, in a full-stretch *namaskāram.* Then he rose and walked into the *pāțacālai.* He spread his towel on the floor and laid down. \
+> Appu glanced at the door, and then went quickly up to her; she heard his footsteps and raised her head, but he did not look at her. He laid himself flat on the ground in front of her, in a full-stretch *namaskāram.* Then he rose and walked into the *pāṭacālai.* He spread his towel on the floor and laid down. \
 > He was listening to suppressed sobs and moans and snivellings. \
 > A gecko clucked from the darkness: kik-kik-kik. \
 > He closed his eyes and could see, in the shadows, the face of his mother."

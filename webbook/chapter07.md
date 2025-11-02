@@ -43,7 +43,7 @@ in *Kur*. 100.5, Aiǹk. 373.5, 390.3, *Kalit*. 7.6, 104.58, Ak. 120.12,
 *vēnkai"*, in Kur. 26.1, 47.1, 343.5, Nar. 151.8-9, 168.1,
 257.5*, Aink*. 219.1, or *talaiyani yalkul* "the venus' mound, adorned
 by leaf-garment” in *Kur*. 172.2, 195.2, 391.6, cf. Tolk. *Kaļavu* 23,
-Nacciṇārk. comm., or nețu men *paṇait* tōl “large, soft, broad
+Nacciṇārk. comm., or neṭu men *paṇait* tōl “large, soft, broad
 shoulders" in *Kur*. 185.2, 268.6.
 
 Quite frequently such simple formulae reappear in slight variation:
@@ -96,7 +96,7 @@ strong hand of the monsoon-rain" may be recognized in *Ciṟupāṇ.* 124
 *Uvam*. 11 and 14, Pērāciriyar's comm., cf. also *Puṟ*. 54.6-7), and
 even in such medieval texts like *Cīvakacintāmaṇi* 2779 (*malai*
 *taliiya kaiyāy*). Or, the formula uļļi *nuļļam vēmē (Kur*. 102.1, and
-elsewhere) reappears in *Tirukkuṟaḷ* 1207 *uļļiņu muļļaň cuțum* and
+elsewhere) reappears in *Tirukkuṟaḷ* 1207 *uļļiņu muļļaň cuṭum* and
 much later in Kampaṇ's *Rām. Tāṭakaip*. 5 (*karutin* vēm *uļļamum).*
 
 Some of the formulae seem to be echoes of colloquial utterances,
@@ -156,10 +156,10 @@ as Tyndis); this theme “occurs at least twenty-two times in the
 Anthology poems" (Kailasapathy, op. cit. 212). It is a recurring
 motive in the love poems to compare Toṇṭi with the heroine (*Ak*.
 171.4, 173.3-4. 174.1-2, 175.4, 176.1-3, 177.4, 180.4, 60.7-8). The
-descriptions of Toņți are often recurrent formulae, e.g. "Tonți of
+descriptions of Toņṭi are often recurrent formulae, e.g. "Tonṭi of
 seaside groves" *(Pur*. 48.4, *Nar*. 18.4, 195.5).
 
-[^theme-turai]: Thus, e.g. under the *puṟam* poetic situation called vețci "cattle-raid",
+[^theme-turai]: Thus, e.g. under the *puṟam* poetic situation called veṭci "cattle-raid",
 there come 14 themes, according to *TP.* According to *PVM,* the 13 "heroic"
 situations comprise as many as 327 themes (see K. Kailasapathy, op. cit.
 194).
@@ -214,7 +214,7 @@ and spreads back with each estrangement".[^pallor-beloved] It is significant tha
 this picture is not part of any formula, and reappears only later in
 clear imitation (Kalit. 130.20-21).
 
-[^pallor-beloved]: *urun* kēņi *yunțuṛait tokka | pāci* yarṛē *pacalai kātalar / toțuvulit toțuvuli*
+[^pallor-beloved]: *urun* kēņi *yunṭuṛait tokka | pāci* yarṛē *pacalai kātalar / toṭuvulit toṭuvuli*
 ninki / *vituvuli vituvulip paratta lānē*.
 
 The technique of suggestion was also exploited effectively by this

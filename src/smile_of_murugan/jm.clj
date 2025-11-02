@@ -173,7 +173,7 @@
    ;;
    ;; SH - ṣ
    ;;
-   ;; upper long vowels - Ā
+   ;; upper long vowels - Ā Ō
    ;; lower long vowels - ā ē ī ō ū
    
    "absolutive" #{}

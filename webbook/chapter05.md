@@ -51,7 +51,7 @@ Marr, decided for "fundamental" or "basic metrical unit".
 The combination of feet constitutes a line of poetry, termed *aṭi*.
 The standard line consists of four feet. Although there are lines of
 two, five etc. feet, the ideal line is that of four feet and hence is
-called *alavați* or "measured line".
+called *alavaṭi* or "measured line".
 
 In the *akaval* or *āciriyam* metre, the standard line has four feet
 (= eight *acai*). Only the penultimate line consists of three feet.
@@ -78,9 +78,9 @@ art of stringing together lines so that they constitute a song. There
 are various kinds of *toṭai.* For our purposes, we shall mention just
 two: *etukai* and *mōnai. Etukai* is the "consonance" in the coda of the
 first closed syllables in the feet, e.g. in *peru* (1st line)... *aru* (2nd
-line), the -- is the seat of *etukai* ; in *pāțu* (1st line). . *kōṭi* (2nd line),
+line), the -- is the seat of *etukai* ; in *pāṭu* (1st line). . *kōṭi* (2nd line),
 the -- is the seat of *etukai*. *Mõnai* is alliteration, like in *māyōṇ*
-*mārpil* or *paranta pāți*.
+*mārpil* or *paranta pāṭi*.
 
 *Specimen Analysis*
 The basic prosodic and rhetoric features of classical Tamil poetry
@@ -584,7 +584,7 @@ he will shadow
 every last wish
 of his son's dear mother.
 
-Author: Alankuți Vankaṇār
+Author: Alankuṭi Vankaṇār
 *Tiṇai*: *marutam*
 Transl. A. K. Ramanujan
 *Kuṟuntokai* 324
@@ -898,7 +898,7 @@ Tamil text:
 *tānatu* poyppin *yānevanceykō*
 *tinaitta lanna cirupacun kāla*
 *olukunī rāral pārkkum*
-kuruku *munțutān maṇanta ňānrē*
+kuruku *munṭutān maṇanta ňānrē*
 1. Prosodic pattern:
 *Kuṟuntokai* 25
 Author: Kapilar
@@ -933,7 +933,7 @@ and make the soft-browed
 mother beast grieve.
 
 Like him, O Nallērmutiya
-of Vēnkațam, rock and falling water, O you
+of Vēnkaṭam, rock and falling water, O you
 who do not rise at once to run
 wherever your heart goes,
 you too must give

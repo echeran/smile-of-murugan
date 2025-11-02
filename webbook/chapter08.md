@@ -187,7 +187,7 @@ love is indeed great” reappears in *Kali*. 137.2: *peritē kāmamen nuyir-*
 *tavac ciṟitē*.
 
 Throughout the entire collection, no name of any king is mentioned
-but of the *Panțiya* in Maturai (55). No poets, chieftains,
+but of the *Panṭiya* in Maturai (55). No poets, chieftains,
 battles etc. mentioned in the other *tokai* anthologies are alluded to
 in the *Kalittokai.* On the other hand, *Kuṛiñcikkali* 24 mentions "the
 merciful men of Benares", and in *Marutakkali* 29 there is an allusion
@@ -271,11 +271,11 @@ its content in *Yapparunkala virutti*: *teyvamum kāmamum poruļāka varum*
 "as the subject-matter, both devotion and love occur". Out of the 70 original
 stanzas, 8 should have been dedicated to *Tirumal*, 31 to *Murukaṉ*, I to
 *Kāṭukilā!* (*Korravai*?), 26 to the river Vaikai, 4 to *Maturai.* All commentators,
-beginning with Iḷampūraṇar, interpret the term *paripățal* as *parinta*
+beginning with Iḷampūraṇar, interpret the term *paripăṭal* as *parinta*
 *pāṭṭu* "running, speeding, rapid song".
 
 Second, there are references in the text to temples and shrines
-which must have been built in the post-classical period (Tiruvēnkațam,
+which must have been built in the post-classical period (Tiruvēnkaṭam,
 Tiruvaṇantapuram etc.), and mural paintings on the walls of
 Tirupparankunṛam temple are mentioned depicting stars and planets.
 Many allusions to a number of *Puranic* stories betray, too, the
@@ -541,7 +541,7 @@ principles: salvation as the goal of existence; salvation
 means to take one's station at the feet of the Lord; to love the Lord;
 to attain this means to give up egoism, sense of separation (63, 64);
 the poem says literally: "to reach the feet of Cēy with elevated
-heart" *(cēeycēvați pataruň cemma lullamotu* (61-62). This is pure
+heart" *(cēeycēvaṭi pataruň cemma lullamotu* (61-62). This is pure
 bhakti.
 
 No wonder that the poem found its way into the 11th *Tirumuṟai,*

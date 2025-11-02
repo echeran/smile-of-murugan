@@ -118,7 +118,7 @@ reasons, Sanskrit, Urdu, Marathi and Telugu seem to have been
 more prestigious and important than Tamil even in Tamilnad. This
 is no speculation. We actually have records and accounts of the
 fact that Tamil as a literary language was neglected, while the other
-languages were decidedly preferred: cf. the complaints of Pațikkācu
+languages were decidedly preferred: cf. the complaints of Paṭikkācu
 Pulavar, a bard of the 17th Cent., who made himself acquainted
 with this deplorable state of affairs during his wanderings all over
 the country.
@@ -340,7 +340,7 @@ and an accelerating impulse, a trigger-like effect.
 Well-spread in time, for about seven to eight centuries, there
 had been a tremendous potential of Tamil prose in the writings of
 the commentators: from the alliterative, highly ornamental prose
-of a Nakkīrar to a comparatively simple descriptive style of Ațiyārkkunallar;
+of a Nakkīrar to a comparatively simple descriptive style of Aṭiyārkkunallar;
 there were short pieces of narrative prose as well as
 heavy, ornate and very learned passages of some commentaries.
 These sources were of course accessible only to a few individuals:
@@ -372,7 +372,7 @@ own press in Jaffna and the books which he published—though
 containing perhaps childishly controversial matters-actually
 meant the origin of modern Tamil prose-style. His prose is very
 severe, spotlessly correct and very polished.[^saying-about-arumuka-navalar] He composed a Saiva
-catechism, *Caivavināvițai*, formally based on current Roman
+catechism, *Caivavināviṭai*, formally based on current Roman
 Catholic catechisms. He was also the teacher of Percival, whom he
 actively helped with his translation of the Bible into Tamil. For
 the development of Tamil belletristic writing most important of
@@ -493,7 +493,7 @@ narrative prose passages occurred in the *Cilappatikāram.*[^cilappatikaram-narr
 introductions to bardic songs were also in prose.[^bardic-song-intros-narrative-prose] Later, there is
 some Sanskritized prose in Peruntēvaṇār's *Pāratam* (9th Cent.).
 And, finally, we come to a large, lengthy literary work in Tamil
-prose, the Śrīpurāṇam of Maṇṭalapuruțar (prob. 16th Cent.), a
+prose, the Śrīpurāṇam of Maṇṭalapuruṭar (prob. 16th Cent.), a
 *purana* of the sixty-three Jaina saints. All these facts show that
 there had always been in Tamil literature a perfectly adequate
 capacity to develop prose-writing, that there had always been a

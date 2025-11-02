@@ -287,7 +287,7 @@ in the first place responsible for the rediscovery of old classical
 heritage, who bridged as it were the very ancient and the very new.
 Apart from his enormous work in the field of ancient classics he
 wrote what can be probably called the foremost of Tamil biographies
-(about his teacher, Mīnāțcicuntaram Pillai) and his own
+(about his teacher, Mīnāṭcicuntaram Pillai) and his own
 excellent autobiography[^saminathaiyar-autobiography] as well as some sketches and reminiscences,[^saminathaiyar-reminiscences]
 all very engaging reading.
 
@@ -344,7 +344,7 @@ past. They found everything old good, and this tendency to exalt
 the old and "pure" has worked havoc in many fields—notably in the
 field of the novel and the drama; but also in poetry. This brings us
 to the second mainstream of modern Tamil prose-style, and
-language-style, the *tūyatamil* or *taṉittamiḻ națai,* i.e. the “pure”,
+language-style, the *tūyatamil* or *taṉittamiḻ naṭai,* i.e. the “pure”,
 read “purist” (“Tamil only", "Pure Tamil"), prose (and poetry). The
 typical features of this style are, first, its linguistic purism-merciless
 and total elimination, a real purge of Indo-Aryan, Sanskritic loanwords;
@@ -371,7 +371,7 @@ among the protagonists of this movement was *Maraimalai* Aṭikaḷ
 for the sake of effect . The free use of foreign words in a
 language will ultimately lead to its degeneracy". After 1916,
 Vedachalam "Tamilized" his name into Maraimalai and proclaimed
-himself a *svāmī* (*ațika!)*; the title of the journal he published *Nanacakaram*
+himself a *svāmī* (*aṭika!)*; the title of the journal he published *Nanacakaram*
 "Ocean of Knowledge”'
 -was also changed, into
 *Arivukkatal*. A number of Tamil scholars, writers and intellectuals
@@ -419,7 +419,7 @@ influence which was felt much more strongly ten years after his
 death, in the Thirties, than when he was still alive.
 
 Under his name, the true literary rinascimento in Tamil grew to
-important dimensions, and the *maṟumalarcci națai* developed-the
+important dimensions, and the *maṟumalarcci naṭai* developed-the
 style of the renaissance. This is the only linguistic and literary
 trend which has produced truly creative literary personalities. The
 language they use is indeed formal, literary Tamil; but most of
@@ -435,7 +435,7 @@ should probably be not mentioned in one breath with the prolific
 writer of voluminous novels, R. Krishnamurti-Kalki (1899-1954)
 who was much more popular but no doubt much less of a true
 artist than Putumaippittaṉ. The two had however something in
-common: they both belonged to the *maṟumalarcci națai* line. There
+common: they both belonged to the *maṟumalarcci naṭai* line. There
 were tremendous differences among the writers of this group—in
 their *sujets,* ideology, political views, skills, importance and populaarity,
 and even in their language and style. But all of them had

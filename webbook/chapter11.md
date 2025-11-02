@@ -129,8 +129,8 @@ of the epic poem and that of the classical Tamil lyrics, which
 should be contemporaneous with the *Cilappatikāram*?[^gajabahu-synchronism-criticism]
 
 [^gajabahu-synchronism-criticism]: The epical poem contains such pronominal forms as *nāṇ* and *tām*; it
-contains twice the present-tense suffix; a later conditional form *unțēl;*
-forms like *inta,* and a number of lexical innovations, e.g. tampi, *kațai* etc.
+contains twice the present-tense suffix; a later conditional form *unṭēl;*
+forms like *inta,* and a number of lexical innovations, e.g. tampi, *kaṭai* etc.
 
 How to account for the fact that the ideologies, beliefs, customs,
 manners, rites and cults, the entire social, religious and philosophical

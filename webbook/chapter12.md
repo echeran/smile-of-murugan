@@ -68,7 +68,7 @@ may stretch form the 6th to the 10th Centuries. Among the most
 interesting texts are those composed by Kāraikkāl Ammaiyār,
 probably the earliest of Tamil Saiva saints and by Cēramāṉ Perumāļ
 a contemporary of Cuntarar, the *Tirumurukāṟṟuppaṭai* (from
-*Pattuppāṭṭu*) by Nakkīratēvar, Pațțiṇattār's stanzas, and the two
+*Pattuppāṭṭu*) by Nakkīratēvar, Paṭṭiṇattār's stanzas, and the two
 poems on Saint Kanṇappar by Nakkīrar and by Kallāṭar (narrating
 the well-known story of Kaṇṇappar the hunter who became mad
 after God at the sight of a *lingam,* and who, when he saw the eyes of
@@ -213,7 +213,7 @@ Kāṭava Nampi
 Kaṇṭarātittar
 Vēṇāṭṭatikaļ
 Tiruvāliyamutaṇār
-Puruțōttama Nampi
+Puruṭōttama Nampi
 Cētiriyār
 Tirumūlar
 Tiruvalavayuṭaiyār
@@ -292,7 +292,7 @@ j
 Atirāvaţikaļ
 *Mutappillaiyar tirumummaṇik kōvai*
 k
-Pattinattațikaļ
+Pattinattaṭikaļ
 *Kōyil nanmaṇimālai, Tirukkalumalai mummaṇikkōvai, Tiruviṭai marutūr*
 *mummaṇikkōvai, Tiru ēkampamuṭaiyār tiruvantāti*
 *Tiruvoṟṟiyūr orupā orupaktu*
@@ -527,7 +527,7 @@ exploited masses of the common people but only individual social
 conflict of the devotees, there is no fight for freedom and equality
 on behalf of the oppressed. Only the devotees of Siva are equal.
 Only they are filled with the feeling of wonderful freedom. They
-have one master alone-Śiva; they are "slaves" (*ațiyār*), “servants”
+have one master alone-Śiva; they are "slaves" (*aṭiyār*), “servants”
  *(toṇṭar*) but also comrades and companions *(tōļar*) of Śiva.
 In an admirable hymn typical of this feeling of freedom, Appar
 sings: *nāmārkkum* kuṭi *yalōm namanai yaňcōm* “We are subjects to
@@ -599,7 +599,7 @@ no hatred of other religions" (M. S. Purnalingam Pillai), cries out:
 "Snatch the rice from the mouths of these who burden the earth!
 Stuff them with grass instead!"
 
-[^jains-in-maturai]: Nampi Āṇṭār Nampi, *Äluțaiya Piḷḷaiyār Tiruvulāmālai*, 59 and 74.
+[^jains-in-maturai]: Nampi Āṇṭār Nampi, *Äluṭaiya Piḷḷaiyār Tiruvulāmālai*, 59 and 74.
 
 [^buddhists-jains-untouchables]: *Tirumālai,* 7.
 

@@ -72,12 +72,12 @@ ini, *iṭaiccankamiruntār akattiyaṇārum*, *tolkāppiyaṇārum*, *iruntaiyu
 *pattana kaliyum*, *kurukum*, *veṇṭāliyum*, *viyāla mālai akavalum* ena *ittoṭak-*
 *kattana* eṉpa. avarkku *nūl akattiyamum*, *tolkāppiyamum*, *māpurāṇamum*,
 *icai nuņukkamum*, *pūta purāṇamumena ivaiyenpa*. *avar müvāyirattelunūṛ-*
-*riyantu cankamiruntar* eṉpa. *avaraic caṅkam irīiyinār, vențercceliyan muta-*
+*riyantu cankamiruntar* eṉpa. *avaraic caṅkam irīiyinār, venṭercceliyan muta-*
 *lāka muṭatirumāṛan īrāka aimpattoṉpatiṉmar* eṉpa*. avarul kaviyarankērinār*
 *aivar* pantiyar *eṉpa.* avar *cankamiruntu tamilārāyntatu kapāṭa purattenpa.*
 *akkālattuppōlum pāṇṭiyanāṭṭaik* kātal kontatu (v.l. *akkālam pōlum*). *inik*
 *kaṭaiccaṅkam iruntu tamilārāyntār cirumētāviyarum*, *cēntampūtaṇārum (v.l.*
-*cēntan pūtaṇārum*), *arivuṭaiyaranarum*, *perunkunrurkkilārum* (v.l. peruňkuți
+*cēntan pūtaṇārum*), *arivuṭaiyaranarum*, *perunkunrurkkilārum* (v.l. peruňkuṭi
 *kiḻār*), *ilatirumāranum*, *maturaiyāciriyar nallantuvaṇārum*, *marutaniļanāka-*
 *nārum*, *kaṇakkāyaṉār makaṇār nakkīraṇārumena ittoṭakkattar närpatton-*
 *patinmar eṉpa. avaruļļiṭṭu nānūṛru nārpatton patinmar pātinār eṉpa. avarkaļāl*
@@ -119,8 +119,8 @@ scholiasts and critics; however, this
 conclusion is purely speculative. The
 lines I have in mind are
 Maturaikkāňci 761-763: *tollāṇai nallāciriyar |*
-*punarkut* tunța pukalcāl ciṟappin *nilantaru *
-*tiruvin* nețiyon pōla. In the
+*punarkut* tunṭa pukalcāl ciṟappin *nilantaru *
+*tiruvin* neṭiyon pōla. In the
 *Payiram* to Tolk., we read
 *nilantaru tiruvil pāṇṭiyan avaiyattu*, where *avai,*
 with a rather "long" stretch of
@@ -142,7 +142,7 @@ According to Nakkīrar's account, there were three "academies"
 *(talaiccankam*, *iṭaiccankam*, *kaṭaiccaṅkam*). The first
 Sangam, whose
 seat was Southern Maturai, now submerged
-into the sea (*kațal*
+into the sea (*kaṭal*
 *kollappatta maturai*), lasted 4440 years, and 4449
 poets took part in
 it; the members included gods and sages:
@@ -218,7 +218,7 @@ in Madura". This does not say much. More important is the account given by
 Prof. Peterson in *Journ*. *Bombay Branch* of RAS, Extra Number to Vol. 17
 (1887-1889), p. 74, in A Second Report of *Operations* in Search of *Sanskrit*
 *MSS*. in the *Bombay* Circle, April 1883-March 1884: "In a Digambara
-Darśanasâra, lately obtained from Anhilwâd Pâțhan, Devasena, who gives
+Darśanasâra, lately obtained from Anhilwâd Pâṭhan, Devasena, who gives
 his own date as 909, (apparently, from his constant use of that era, Samvat
 909 = A.D. 853), tells us that Vajranandi, the pupil of Sri Pujyapâda,
 founded the Draviḍa Samgha in Matura of the Deccan in the year 525
@@ -306,8 +306,8 @@ one, but it is supplemented by a detailed commentary by U. V.
 Swaminatha Aiyar. A few lines of Aink. appear in paripāṭal*, Ci-*
 *lappatikāram, Nālaṭiyār* and other later works. There are not many
 Indo-Aryan loanwords in the text. In *Aiṅk*. 202 we hear (probably
-for the first time in Tamil texts) about the *kuțumi* “pig-tail” of
-Brahmin boys (*pārppaṇak kuṛumaka kuțumit talai*). There are
+for the first time in Tamil texts) about the *kuṭumi* “pig-tail” of
+Brahmin boys (*pārppaṇak kuṛumaka kuṭumit talai*). There are
 17 allusions to historical incidents in this anthology. The work was
 first published in 1903 by U. V. Swaminatha Aiyar. There is a good
 edition in 3 vol. prepared by Auvai S. Turaicāmi Pillai, publ. by the
@@ -385,9 +385,9 @@ poems and the epilogues provide abundant sources of sociological
 interest (J. R. Marr, op. *cit*. 283, 328). Stylistically the poems are
 similar to the rest of the poetry in *akaval* (Kailasapathy, *op. cit*. 29),
 but a few peculiar regional expressions and usages do occur (M. A.
-Thiagarajah, *The Cēranāțu during the Caṅkam and* the Post*-Cankam*
+Thiagarajah, *The Cēranāṭu during the Caṅkam and* the Post*-Cankam*
 *Period,* pp. 222 ff.). The II. decade by Kumaṭṭūrk Kaṇṇaṉār, a
-Brahmin poet, is in praise of Imayavarampaṉ Nețuňcēral Ātan (the
+Brahmin poet, is in praise of Imayavarampaṉ Neṭuňcēral Ātan (the
 son of Utiyaṉ Cēral and the father of the great Cenkuṭṭuvan). This
 king is said to have beaten the Aryas and the Yavanas, and carved
 a bow-emblem on the Himalayas.
@@ -397,7 +397,7 @@ dedicated to the younger brother of Imayavarampaṉ, king Palyānaic
 Celkeļu Kuṭṭuvaṉ.
 
 The IV. decade by Kāppiyarruk Kāppiyaṇār is in praise of
-Kalankakkaṇṇi Nārmuțic Cēral, one of the sons of Imayavarampaṉ.
+Kalankakkaṇṇi Nārmuṭic Cēral, one of the sons of Imayavarampaṉ.
 
 The V. decade, ascribed to the great Paraṇar, sings of the mighty
 Cenkuṭṭuvan, son of Imayavarampaṉ, and contemporary of
@@ -439,7 +439,7 @@ tradition.
 
 5. *Akanāṉūṟu*
 
-or "The four hundred (poems) in the *akam* genre” also called *Nețunto-*
+or "The four hundred (poems) in the *akam* genre” also called *Neṭunto-*
 *kai* or "The Anthology of Long (Poems)" is a collection of 400 stanzas
 on love plus an invocatory stanza on Śiva by Peruntēvaṇār. The
 number of verses in a stanza ranges from 13 to 31. The anthology
@@ -501,7 +501,7 @@ in praise of 48 chieftains, nine of them regarded prominent enough
 to be treated in more than 4 poems each (e.g. Atiyamāṇ Neṭumāṇ
 Añci, Vēļ, Pāri, Pēkaņ, Kāri etc.). Some kings emerge strikingly as
 heroes of *Puṟam* poems; e.g. Karikālaṉ the Chola or Kuṭakkō
-Nețuñcēralatan the Chera; clusters of poems in which certain heroes
+Neṭuñcēralatan the Chera; clusters of poems in which certain heroes
 emerge prominently are centred around certain incidents in the
 heroes' lives (Kailasapathy, op*. cit*. 20). The redactors seem to have
 tried to group the poems on the basis of the kings or chieftains
@@ -538,7 +538,7 @@ or "The guide for war-bards" (traditionally the 2nd of the Lays
 -very incorrectly called “idylls"!-) is probably the earliest among
 the poems collected later into *Pattuppāṭṭu* anthology.
 
-The genre *arruppațai* or "guide" is very productive: it is a poem
+The genre *arruppaṭai* or "guide" is very productive: it is a poem
 in which bards are directed by their fellow professionals to famous
 heroes who are patrons of art. The genre is found in the heroic
 Anthologies altogether 18 pieces in *Puṟam* and *Patiṟṟuppattu.*
@@ -553,7 +553,7 @@ conquests, his benign rule; the general wealth and fertility of his
 Chola country is dealt with, and there is a charming description of
 the beauties of the river Kāviri. There is also a delightful description
 of the *virali*, the danseuse, whose charms are treated in minute
-detail: she has, e.g., *varuntunāy nāvin peruntaku cīrați* “small feet of
+detail: she has, e.g., *varuntunāy nāvin peruntaku cīraṭi* “small feet of
 great beauty similar to the tongue of a panting hound", she has
 "young fair breasts set so close that a nib could not part them”
 (*īrkku* iṭai pōkā ēr *iļa vana mulai)* and "her navel is like a water ripple”,
@@ -561,7 +561,7 @@ while "her venus' mound seems to be the seat of bees" *(nirp peyar*
 *culiyin nivainta koppul*... *vantu iruppu anna pal kal alkul).* Finally,
 there is a very realistic description of a poor minstrel, whose clothes
 swarm with lice and mites, are soaked with sweat and much
-patched-up (79-80 *irum pēṇum iruntu* iraikūți / *vērotu nanaintu* ...).
+patched-up (79-80 *irum pēṇum iruntu* iraikūṭi / *vērotu nanaintu* ...).
 The inhabitants of *Cōḻanāṭu* are pictured as gay folk who likes to
 eat meat and drink liquor. First published in 1889.
 
@@ -666,7 +666,7 @@ meant to be an exercise in singing the *kuṟiňci* theme, a model poem, illustr
 a type, an informative poem on the *kuṟiňci* situation (M. Varadarajan,
 The *Treatment of* Nature. . . p. 62). It should also be noted that the
 catalogue itself has a high phonaesthetic quality, cf. on cen *kāntaḷ* āmpal
-*aniccam tankayak kuvaḷai kuṟiňci vețci*. . . (26).
+*aniccam tankayak kuvaḷai kuṟiňci veṭci*. . . (26).
 
 
 11. *Malaipaṭukaṭām*.
@@ -740,7 +740,7 @@ The poet was probably well versed in this particular genre (cf. his
 poems in Puṟam anthology). The title can be translated as "The
 good counsel (given to the king at the city) of Maturai” (according to
 an old commentator). The poem indeed contains some didactic
-matter, as do other stanzas composed by Māṁkuți Marutaṉār or
+matter, as do other stanzas composed by Māṁkuṭi Marutaṉār or
 Māṅkuṭi Kiḻār. There is a graphic description of city life: the
 description begins with the morning market-place and makes a full
 circle of twenty-four hours (including some description of Buddhist
@@ -909,7 +909,7 @@ No. *of lines*
 *Metre*
 *Porunarāṟṟuppaṭai*
 *Perumpāṇāṟṟuppaṭai*
-Muțattāmakkanṇiyār
+Muṭattāmakkanṇiyār
 Karikāl
 248
 *akaval* (*vaňci)*

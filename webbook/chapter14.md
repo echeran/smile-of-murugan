@@ -74,7 +74,7 @@ plus a list of 38 works ascribed to him, p. 228, LIII, or, on p. 251,
 *Agastya Vyakaraṇa* described as “a short grammar of the Tamil language
 attributed to the sage Agastya, but the genuine work is supposed not to be in
 existence"). It also seems that Det Kongelike Bibliotek in Copenhagen contains
-under Cod. *Tamoul* 10, 39, and 48 some cittar texts (*Rāmatēvar pāțal,*
+under Cod. *Tamoul* 10, 39, and 48 some cittar texts (*Rāmatēvar pāṭal,*
 *Akattiya cuttiram*, and *Cittarpāṭaltiraṭṭu)*. The more interesting and promising
 items in the BM may be found under the following numbers: Oriental 1008
 Magic, Orient. 1048 Medical, Orient. 5004, Orient. 11726, and especially
@@ -282,7 +282,7 @@ therapy (combined with the *bandhas* and *mudras)*.[^eighteen-sasanas]
 pose (*carvānkācaṇam*), 4. fish (*min*), 5. crane (kokku), 6. bow (vil), 7. topsyturvy
 pose (*viparītācaṇam*), 8. half-fish (pāti *min*), 9. plough (*kalappai),*
 10. serpent (pāmpu), 11. yogic symbol pose (*yōkamutvācanam*), 12. half
-wheel (pāti cakkaram), 13. sitting crane (*amarnta* kokku), 14. locust (vițțil),
+wheel (pāti cakkaram), 13. sitting crane (*amarnta* kokku), 14. locust (viṭṭil),
 15. supine pose *(vajroli mutrācanam*), 16. kneeling pose (supta *vajrācaṇam),*
 17. triangular pose (*mukkōṇācanam*), 18. corpse (*cavācanam).*
 
@@ -486,7 +486,7 @@ was possible to maintain eternal youth. It was possible, so they
 maintained, to get over the five limitations of *narai,* "grey hair",
 tirai, "dim vision", muppu, “old age", *nōy,* “disease", and *maraṇam*,
 “death”. Rōma Riși says explicitly in *Ṁānam* 12: “If you ask what
-is the sign (*ațaiyāļam*) of corūpa *mutti* (= true liberation of body
+is the sign (*aṭaiyāļam*) of corūpa *mutti* (= true liberation of body
 and spirit), it is the physical body *(tūla* tēkam) aglow with the fire
 (of immortality)".
 
@@ -632,7 +632,7 @@ which he plainly refutes the theory of transmigration; it deserves
 to be quoted fully:
 
 > *karanta* pāl *mulaippukā kaṭainta veņṇey mōrpukā* \
-> *uțaintu pōna cankinōcai yuyirkalum uṭarpukā* \
+> *uṭaintu pōna cankinōcai yuyirkalum uṭarpukā* \
 > *virintapu vutirnta kāyum mīṇṭu* pōy *marampukā* \
 > *irantavar* pirappa *tillai yillaiyillai yillaiye* \
 > (46)
@@ -701,7 +701,7 @@ greatest and the most potent *mantra*: *a* + *u* + *m* + *ci* = *aum*
 i.e. *ōm ci(vāyanama)*.
 
 The greatest *poet* among the Tamil Siddhas is undoubtedly
-Pațțiṇattār. It is very probable that at least two poets hide under
+Paṭṭiṇattār. It is very probable that at least two poets hide under
 this name, an earlier one (10th-11th Cent. A.D.), whose five poems[^five-poems]
 were included into the 11th book of the Saivite canon (*Tirumurai*),
 and a later one, the true *cittar,* probably of the Vijayanagara period,
@@ -712,7 +712,7 @@ time, picturing the ephemeral nature of physical pleasures and
 human sufferings in very dark colours (and this he has in common
 with the later Paṭṭiṉattar).
 
-[^five-poems]: *Kōyil nānmaṇimālai*, *Tirukkalumala mummaṇikkōvai, Tiruvițai marutūr*
+[^five-poems]: *Kōyil nānmaṇimālai*, *Tirukkalumala mummaṇikkōvai, Tiruviṭai marutūr*
 *mummaṇikkōvai*, Tiru *ēkampamuṭaiyār tiruvantāti*, *Tiruvōṛṛiyūr* orupā
 *orupaḥtu.*
 
@@ -819,7 +819,7 @@ bhakti, but indicating that we are on the road to Tāyumāṉavar
 and Rāmaliṅkar. In Paṭṭinattār's and Pattirakiriyar's writings
 there is almost no trace of that self-confidence, of the proud and
 sure knowledge of a Tirumūlar or Civaväkkiyar. Listen to Paṭṭiṉattar
-XV.1: *mūlam ariyēn muțiyu muṭivariyēn* "I do not know the
+XV.1: *mūlam ariyēn muṭiyu muṭivariyēn* "I do not know the
 beginning, I do not know the ultimate end..." Or XV.5: "The earth
 devoured me who desired earth, and the desire of gold and women
 *(ponnācai penṇācai*) do not want to leave me!" XV.13: "Fear and

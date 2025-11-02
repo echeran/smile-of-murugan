@@ -54,8 +54,8 @@ and hypotheses-testing; the conception of time as circular rather
 than linear, etc. etc. In the field of literature, its function and appreciation,
 such features are, to quote a few instances: higher regard for oral than for
 written transmission; emphasis on audience appreciation; the concept of
-"mood" *(rasa* in Sanskrit, *meyppāțu* in Tamil) and its over-all importance—
-though the Tamil *meyppāțu* is not identical, but an important "alloform"
+"mood" *(rasa* in Sanskrit, *meyppāṭu* in Tamil) and its over-all importance—
+though the Tamil *meyppāṭu* is not identical, but an important "alloform"
 of the over-all category of "mood"; literature as rhetoric to move others, to
 intensify the feelings of the *rasika;* composition is prescribed; there is therefore
 high degree of conventionalization; characters analyzed rather by types

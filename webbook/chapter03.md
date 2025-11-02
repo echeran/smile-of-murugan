@@ -290,7 +290,7 @@ nine *pāṭṭus* or lays of *Pattuppāṭṭu.*
 2. *Kuṟuntokai* "The anthology of short (poems)"
 3. *Ainkuṟunūṟu* "The five hundred short (poems)"
 4. Patiṟṟuppattu "The ten tens"
-5. *paripāṭal* "(The composition in the) *paripāțal* metre"
+5. *paripāṭal* "(The composition in the) *paripāṭal* metre"
 6. *Kalittokai* "The anthology in the *kali* metre"
 7. *Akanāṉūṟu* or *Netuntokai* "The four hundred (stanzas) about *akam*" or
 "The anthology of long (poems)"
@@ -446,7 +446,7 @@ metaphorical, and full of similes).
 
 [^nilakantan-muciri]: This can be inferred e.g. *ab intra* from the manner in which the commentary
 itself proceeds, cf. utterances like urai *naṭantu varāniņṛamai* nōkki, or
-*ini urai națantavāru collutum*, or *innanam varukinṛatu urai.* The commentary
+*ini urai naṭantavāru collutum*, or *innanam varukinṛatu urai.* The commentary
 is said to "proceed", "to come down" to us, obviously through oral tradition.
 That the commentary very probably contains later interpolations was
 recognized already in 1938 by R. Narayanan of Jaffna who describes it as a
@@ -526,7 +526,7 @@ continued in any considerable extent after the 2nd-3rd Century.[^yavana-trade-pe
 101-2, *Puṟam* 56 and 353. The Yavaṇas served as body-guards to kings
 *(Mullaip*. 66) and as palace-guards during the night (ib. 61). They were a
 drinking, freely-moving people, decorating themselves and walking along the
-city-streets during nights (*Nețunal*. 31-5). They were merchants, too; they
+city-streets during nights (*Neṭunal*. 31-5). They were merchants, too; they
 brought lamps of fine workmanship, swan-shaped and woman-shaped
 (*Netunal*. 101-2, Perumpāṇ. 316-19); they came with gold and wine in their
 ships and returned with pepper *(Akam* 149, Puṟ. 56, 343), and one of the
@@ -700,7 +700,7 @@ from about 230 B.C. By the beginning of the 3rd Cent., their empire
 had virtually ceased to exist. In the private collection of Dr. N. P.
 Dikanara Rao, Hyderabad, is found a silver coin with a short
 bilingual inscription in Prakrit and Tamil. The Prakrit text reads (?)
-*vasiți putasa* siri *satakanisa raano*. The script is Brāhmī. The meaning
+*vasiṭi putasa* siri *satakanisa raano*. The script is Brāhmī. The meaning
 is "(The coin) of the king Siri Satakaṇi (Śrī Śātakarṇi) Vasiṭiputa
 (Vasiṣṭhiputrasya)". The Tamil text, also in Brāhmī, reads *vaciṭṭi-*
 *makanku* tiru *catakaṇiku aracanku.*[^bilingual-coin] This king established himself
@@ -830,155 +830,20 @@ possible chronological order:
     i. *Ciṟupāṇāṟṟuppaṭai*
 
 
-CHART 4
-Serial
-Serial
-number
-number
-Text
-Details
-Approx. date
-7
-I
-Early Tamil Brāhmī
-Inscriptions.
 
-The two rock-inscriptions of 3th-1st Cent. B.C.
+| Serial Number | Text                                                                                                                                                                      | Details                                                                                                                                                                                                                                                                                                                                        | Aprox. Date             |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| 1             | Early Tamil Brāhmī Inscriptions.                                                                                                                                          | The two rock-inscriptions of Neṭuňceḻiyaṉ at Mangulam. Aśoka's Brāhmī introduced round ca. 250 B.C. into the Tamil country. Adapted between 250-220 to Tamil.                                                                                                                                                                                  | 3th-1st Cent. B.C.      |
+| 2             | *Ur-Tolkāppiyam*: *Eḻuttatikāram* and *Collatikāram* minus later interpolations.                                                                                          | First standardization of the Tamil language; the first literary norm of Maturai between ca. 200-50 B.C., based on oral bardic literature, pre-literary traditions and "pre-Sangam" literature of ca. 250-150 B.C.                                                                                                                              | 2nd-1st Cent. B.C.      |
+| 3             | The earliest strata of extant Tamil literature in the Anthologies: early poems of *Ainkuṟunūṟu,* *Kuṟuntokai* and *Naṟṟiṇai,* prob. also of *Paṟanāṉūṟu* and *Akanāṉūṟu*. | Earliest "Sangam" poets: Ammūvan (*Ak.* 10, 35, 140 etc., *Aink*. 101-102, *Kuṟ.* 49, 125, 163 etc., *Naṟ.* 4, 35 etc.), Ōtalāntai (*Aink*. 301-400, *Kuṟ*. 12, 21, 329), Ōrampōki (*Ak.* 286, 316, *Aink*. 1-100, *Kuṟ.* 10, 70, 122 etc., *Naṟ*. 20, 360, Puṟ. 284), Kapilar the Elder *(Aink*. 201-300 etc.), Pēyan (*Aink.* 401-500 etc.). | 1st Cent. B.C.-2nd A.D. |
+| 4             | Arikamedu *graffiti* and the related group of Tamil Brāhmī Inscriptions at Anaimalai etc.<br><br>The Sātavāhana bilingual coin.                                           |                                                                                                                                                                                                                                                                                                                                                | 1st-2nd Cent. A.D.<br><br>Ca. 150-200 A.D.      |
+| 5             | The earliest strata in the *Pattuppāṭṭu* anthology: *Porunarāṟṟuppaṭai*, *Perumpāṇāṟṟuppaṭai*, *Paṭṭinappālai,* *Kuṟiňcippāṭṭu.*                                          | Kapilar the Elder, Mutattāmakkaṇṇi, Katiyalur Uruttiraṉ Kaṇṇan.                                                                                                                                                                                                                                                                                | 2nd-3rd Cent. A.D.      |
+| 6             | The middle strata of the Anthologies: *Ainkurunūṟu, Kuṟuntokai, Naṟṟinai, Patiṟṟuppattu,* *Akanāṉūṟu, Puṟanāṉūṟu.* *Malaipaṭukaṭām, Maturaikkāňci, Neṭunalvāṭai.*         | E.g. Paraṇar (150-230 A.D.),  Nakkīrar the First, Mānkuṭimarutan.                                                                                                                                                                                                                                                                              | 2nd-4th Cent. A.D.      |
+| 7             | Late Tamil Brāhmī Inscriptions: the *Cēral* inscriptions at Pukalur etc.                                                                                                  | Later inscriptions from Araccalur, Māmaṇṭūr etc.                                                                                                                                                                                                                                                                                               | 3rd-4th Cent. A.D.      |
+| 8             | Later strata of the Anthologies *Patiṟṟuppattu,* *Akanāṉūṟu, Paṟanāṉūṟu,* *Mullaippāṭṭu, Ciṟupāṇāṟṟuppaṭai.*                                                              | E.g. Nappūtaṉār, Nallūr Nattattaṉār.                                                                                                                                                                                                                                                                                                           | 3rd-5th Cent. A.D.      |
+| 9             | Transitional Tamil Brāhmī (Proto-*vaṭṭeḻuttu*) Inscriptions at Piḷḷaiyārpaṭṭi and Tirunātarkuṉṛam.                                                                        |                                                                                                                                                                                                                                                                                                                                                | 5th-6th Cent. A.D.      |
+| 10            | Latest strata of the Anthologies: e.g.*Ciṟupāṇāṟṟuppaṭai* (?). Iṟaiyaṉār's *Akapporuḷ.*.                                                                                  |                                                                                                                                                                                                                                                                                                                                                | 4th-6th Cent. A.D.      |
 
-Neṭuňceḻiyaṉ at Mangulam.
-
-8
-2
-3
-4
-5
-6
-*Ur-Tolkāppiyam*:
-*Eḻuttatikāram* and
-*Collatikāram* minus
-later interpolations.
-
-The earliest strata of extant
-Tamil literature in
-the Anthologies: early
-poems of *Ainkuṟunūṟu,*
-*Kuṟuntokai* and *Naṟṟiṇai,*
-prob. also of *Paṟanāṉūṟu*
-and *Akanāṉūṟu*.
-
-Arikamedu *graffiti* and
-the related group of Tamil
-Brāhmī Inscriptions at
-Anaimalai etc.
-
-The Sātavāhana bilingual
-coin.
-
-The earliest strata in the
-*Pattuppāṭṭu* anthology:
-*Porunarāṟṟuppaṭai*,
-*Perumpāṇāṟṟuppaṭai*,
-*Paṭṭinappālai,*
-*Kuṟiňcippāṭṭu.*
-
-The middle strata of the
-Anthologies: *Ainkuru-*
-*nūru, Kuṟuntokai, Nar-*
-*rinai, Patiṟṟuppattu,*
-*Akanāṉūṟu, Paṟanāṉūṟu.*
-
-*Malaipaṭukaṭām, Matu-*
-*raikkāňci, Neṭunalvāṭai.*
-
-Aśoka's Brāhmī introduced
-round ca. 250 B.C. into the
-Tamil country. Adapted between
-250-220 to Tamil.
-
-First standardization of the
-Tamil language; the first
-literary norm of Maturai
-between ca. 200-50 B.C.,
-based on oral bardic literature,
-pre-literary traditions
-and "pre-Sangam" literature
-of ca. 250-150 B.C.
-
-Earliest "Sangam" poets:
-Ammūvan (Ak. 10, 35, 140
-etc., Aink. 101-102, Kur. 49,
-125, 163 etc., *Nar.* 4, 35
-etc.), Ōtalāntai (*Aink*. 301400,
-*Kur*. 12, 21, 329), Ŏrampōki
-(Ak. 286, 316, *Aink*. 1100,
-Kur. 10, 70, 122 etc.,
-*Nar*. 20, 360, Puṟ. 284), Kapilar
-the Elder *(Aink*. 201300
-etc.), Pêyan (Aink. 401500
-etc.).
-
-2nd-1st Cent. B.C.
-
-9
-1st Cent. B.C.-2nd
-A.D.
-
-Ist-2nd Cent. A.D.
-
-Ca. 150-200 A.D.
-
-Kapilar the Elder, Mutattāmakkanni,
-Katiyalur
-Uruttiraṉ Kannan.
-
-2nd-3rd Cent. A.D.
-
-E.g. Paraṇar (150-230 A.D.), 2nd-4th Cent. A.D.
-
-Nakkīrar the First,
-Mānkuțimarutan.
-
-ΙΟ
-Text
-
-Details
-Late Tamil Brāhmī
-Inscriptions: the *Cēral*
-inscriptions at Pukalur etc.
-
-Later strata of the Anthologies
-*Patiṟṟuppattu,*
-*Akanāṉūṟu, Paṟanāṉūṟu,*
-*Mullaippāṭṭu, Ciṟupāṇ-*
-*ārruppaṭai.*
-
-Transitional Tamil Brāhmī
-(Proto-*vatteluttu*) Inscriptions
-at Pillaiyārpaṭṭi
-and Tirunātarkuṇṛam.
-
-Latest strata of the
-Anthologies: e.g.
-
-*Ciṟupāṇāṟṟuppaṭai*(?).
-
-Iṟaiyaṉār's *Akapporuḷ.*
-
-Later inscriptions from
-Araccalur, Māmaṇṭūr etc.
-
-E.g. Nappūtaṇār,
-Nallur Nattattaṇār.
-
-43
-Approx. date
-3rd-4th Cent. A.D.
-
-3rd-5th Cent. A.D.
-
-5th-6th Cent. A.D.
-
-4th-6th Cent. A.D.
 
 These are the most ancient texts in the Tamil language. The
 earliest poems contained in these texts belong roughly to 100 B.C.250

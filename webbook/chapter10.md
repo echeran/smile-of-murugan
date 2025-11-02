@@ -139,13 +139,13 @@ text.
 *Aram* (*dharma* “virtue"), poru! (artha "wealth") and *kāmam*
 *(kāma* "pleasure") are dealt with in the work. There is no specific
 portion allotted to the fourth and "highest" objective of life, to
-*vīțu* (*mokṣa* “deliverance"). It is not because Valluvar had left his
+*vīṭu* (*mokṣa* “deliverance"). It is not because Valluvar had left his
 work incomplete. Not because "he thought his people were not
 prepared for the higher teaching".[^veracity-of-pope-judgement] But simply because Valluvar's
 moral code was eminently empirical, practical, pragmatic: this life,
 this world, man in his relation to this material world, to society and
 state, to his beloved, his children and family, and to his own inner
-life that was what thrilled Valļuvar; not “heaven” (*vīțu*). That
+life that was what thrilled Valļuvar; not “heaven” (*vīṭu*). That
 this interpretation is valid may also be seen from the schematic
 representation of the content-structure which shows that the progression,
 the movement is from the “imperfect”, “incomplete"
@@ -761,11 +761,11 @@ Analysis of the Language of Tirukkuṟaḷ, in Introduction to the *Historical*
 
 There is definitely a higher percentage of Sanskrit loanwords in
 the *Tirukkuṟaḷ* than in the Tolkāppiyam and in the *"Cankam"*
-works. A complete list is given in S. Vaiyapuri Pillai's *Tamilccuțar-*
+works. A complete list is given in S. Vaiyapuri Pillai's *Tamilccuṭar-*
 *maṇikaḷ,* pp. 72-3. Since I have a comment to offer on these loans,
 the list is reproduced here *in toto.*
 
-\ 1. *akaram* (1) 2. *aṅkaṇam* (720) 3. *accu* (475) 4. *aṭi* (636) 5. *antam* (563) 6. *amar* (814) 7. *amarar* (121) 8. *amiltam* (11) 9. *amaiccu* (387) 10. *araňku* (401) 11. *aracar* (381) 12. *araṇ* (381) 13. *avam* (266) 14. *avalam* (1072) 15. *avi* (259) 16. *avai* (323) 17. *ākulam* (34) 18 *ācāram* (1075) 19. *ācai* (266) 20. *āņi* (667) 21. *āti* (1) 22. *āyiram* (259) 23. *icai* (231) 24. *intiran* (25) 25) 25. *imai* (775) 26. irā (1168) 27. *ilakkam* (627) 28. *uru* (261) 29. *uruvu* (667) 30. *ulku* (756) 31. *ulakam* (11) 32.  *ulaku* (1) 33. *uvamai* (7) 34. *uru* (498) 35. *ēmam* (306) 36. *ēr* (14) 37.  *kahcu* (1037) 38. *kaṇam* (29) 39. *kanicci* (1259) 40. *katam* (130) 41.  *kantu* (507) 42. *kalulum* (1173) 43. *kavari* (969) 44. *kavuļ* (678) 45.  *kalakam* (935) 46. *kaļam* (1224) 47. *kaļan* (730) 48. *kanam* (1081) 49.  *kāmam* (360) 50. *kāman* (1197) 51. *kāraṇam* (270) 52. kārikai (571) 53. *kālam* (102) 54. *kāṇam* (772) 55. *kuṭankar* (890) 56. *kuṭi* (171) 57. *kuṭampam* (1029) 58. *kuņam* (29) 59. *kulam* (956) 60. *kuvaḷai* (1114) 61. *kūr* (599) 62. *kokku* (490) 63. koți (337) 64. *kōṭṭam* (119) 65. *kōṭṭi* (401) *66. caman* (118) *67. calam* (660) 68. *civikai* (37) 69.  *cutai* (114) 70. *cûtar* (932) 71. *cūtu* (931) 72. *takar* (486) 73. *tavam* (19) 74. *tāmarai* (1103) 75. *tiņmai* (54) 76. tiru (168) *77.* tukil (1087) 78.  *tulai* (986) 79. *tūtu* (681) 80. *teyvam* (43) 81. *tēyam* (753) 82. *tēvar* (1073) 83. toți (911) 84. tōṭṭi (24) 85. *tōņi* (1068) 86. tōļ (149) 87. *nattam* (235) 88. *nayam* (860) 89. *nākam* (763) 90. *nākarikam* (580) 91.  *nāmam* (360) 92. *nāvāy* (496) 93. *niccam* (532) 94. *nīr* (13) 95. *nutuppēm* (1148) 96. pakkam (620) 97. *pakuti* (111) 98. *paṭām* (1087) 99.  *pativattar* (586) 100. *paṇṭam* (475) 101. *pakavan* (1) 102. *patam* (548) 103. *payan* (2) 104. *parattan* (1311) 105. paļiňku (706) 106. *paļļi* (840) 107. *pākam* 108. *pākkiyam* (1142) 109. *pāvam* (146) 110. *pīlikkum* (843) 111. pīļai (658) 112. *puruvam* (1086) 113. *pūcaṇai* (18) 114. *pūtańkaļ* (271) 115. *pēți* (614) 116. *pēy* (565) 117. *mankalam* (60) 118. *maṭamai* (89) 119. *matalai* (449) 120. mati (636) 121. mantiri (639) 122. mayir (964) 123 *mayil* (1081) 124. *manam* (7) 125.   *maṇi* (1273) 126. *mā* (68) 127. *māțu* (400) 128. *māṇam* (384) 129.   *min* (931) 130. *mukam* (90) 131. *yāmam* (1136) 132. *vaňcam* (271) 133.   *vaṇṇam* (561) 134. *vaļai* (1157) 135. vaļļi (1304) 136. *vittakar* (235) 137. *vēlai* (1221).
+\ 1. *akaram* (1) 2. *aṅkaṇam* (720) 3. *accu* (475) 4. *aṭi* (636) 5. *antam* (563) 6. *amar* (814) 7. *amarar* (121) 8. *amiltam* (11) 9. *amaiccu* (387) 10. *araňku* (401) 11. *aracar* (381) 12. *araṇ* (381) 13. *avam* (266) 14. *avalam* (1072) 15. *avi* (259) 16. *avai* (323) 17. *ākulam* (34) 18 *ācāram* (1075) 19. *ācai* (266) 20. *āņi* (667) 21. *āti* (1) 22. *āyiram* (259) 23. *icai* (231) 24. *intiran* (25) 25) 25. *imai* (775) 26. irā (1168) 27. *ilakkam* (627) 28. *uru* (261) 29. *uruvu* (667) 30. *ulku* (756) 31. *ulakam* (11) 32.  *ulaku* (1) 33. *uvamai* (7) 34. *uru* (498) 35. *ēmam* (306) 36. *ēr* (14) 37.  *kahcu* (1037) 38. *kaṇam* (29) 39. *kanicci* (1259) 40. *katam* (130) 41.  *kantu* (507) 42. *kalulum* (1173) 43. *kavari* (969) 44. *kavuļ* (678) 45.  *kalakam* (935) 46. *kaļam* (1224) 47. *kaļan* (730) 48. *kanam* (1081) 49.  *kāmam* (360) 50. *kāman* (1197) 51. *kāraṇam* (270) 52. kārikai (571) 53. *kālam* (102) 54. *kāṇam* (772) 55. *kuṭankar* (890) 56. *kuṭi* (171) 57. *kuṭampam* (1029) 58. *kuņam* (29) 59. *kulam* (956) 60. *kuvaḷai* (1114) 61. *kūr* (599) 62. *kokku* (490) 63. koṭi (337) 64. *kōṭṭam* (119) 65. *kōṭṭi* (401) *66. caman* (118) *67. calam* (660) 68. *civikai* (37) 69.  *cutai* (114) 70. *cûtar* (932) 71. *cūtu* (931) 72. *takar* (486) 73. *tavam* (19) 74. *tāmarai* (1103) 75. *tiņmai* (54) 76. tiru (168) *77.* tukil (1087) 78.  *tulai* (986) 79. *tūtu* (681) 80. *teyvam* (43) 81. *tēyam* (753) 82. *tēvar* (1073) 83. toṭi (911) 84. tōṭṭi (24) 85. *tōņi* (1068) 86. tōļ (149) 87. *nattam* (235) 88. *nayam* (860) 89. *nākam* (763) 90. *nākarikam* (580) 91.  *nāmam* (360) 92. *nāvāy* (496) 93. *niccam* (532) 94. *nīr* (13) 95. *nutuppēm* (1148) 96. pakkam (620) 97. *pakuti* (111) 98. *paṭām* (1087) 99.  *pativattar* (586) 100. *paṇṭam* (475) 101. *pakavan* (1) 102. *patam* (548) 103. *payan* (2) 104. *parattan* (1311) 105. paļiňku (706) 106. *paļļi* (840) 107. *pākam* 108. *pākkiyam* (1142) 109. *pāvam* (146) 110. *pīlikkum* (843) 111. pīļai (658) 112. *puruvam* (1086) 113. *pūcaṇai* (18) 114. *pūtańkaļ* (271) 115. *pēṭi* (614) 116. *pēy* (565) 117. *mankalam* (60) 118. *maṭamai* (89) 119. *matalai* (449) 120. mati (636) 121. mantiri (639) 122. mayir (964) 123 *mayil* (1081) 124. *manam* (7) 125.   *maṇi* (1273) 126. *mā* (68) 127. *māṭu* (400) 128. *māṇam* (384) 129.   *min* (931) 130. *mukam* (90) 131. *yāmam* (1136) 132. *vaňcam* (271) 133.   *vaṇṇam* (561) 134. *vaļai* (1157) 135. vaļļi (1304) 136. *vittakar* (235) 137. *vēlai* (1221).
 
 Now from this list we have to exclude a number of items which
 were considered to be Aryan loanwords by S. Vaiyapuri Pillai, but
@@ -777,7 +777,7 @@ regarded as Dravidian in origin: *amar (DED* 137), *uru (DED* 608),
 1124), *kalakam (DED* 1132), *kaļam*, *kalan (DED* 116), kuṭi (*DED*
 171), kūr (1578), *kōṭṭam* (1709), *takar* (2430), *tiņmai* (2634), *tukil*
 (2687), tōṭṭi (2925), tō! (2940), *nayam* (2977), nir (3057), pakuti
-(3154), *pantam* (3220), palli (3309), *pēți* (3631), *pēy* (3635), *maṭamai*
+(3154), *pantam* (3220), palli (3309), *pēṭi* (3631), *pēy* (3635), *maṭamai*
 (3798), *mayir* (3854), *mayil* (3793), *mā* (3923), *min* (3999), *mukam*
 (4003), *vaļai* (4348), vaļļi (4351), vēlai (4555). Some items are of
 uncertain etymology; thus e.g. *uru*, *uruvu (DED* 566) may or may

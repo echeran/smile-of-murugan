@@ -164,8 +164,8 @@ first impact of neo-Brahmanism reflected in early bhakti texts like the
 *Tirumurukāṟṟuppaṭai* and Kāraikkāl Ammaiyār's poems.
 
 
-[^many-similes]: Cf. such passages as e.g. on s. 2: *ivalum utan pirantu uțan vaļarntu nir*
-*uțan āți cīr utan peruki* ōl *uṭanāṭṭup* pāl *uṭanunțu pal uṭaneluntu col utan karru*
+[^many-similes]: Cf. such passages as e.g. on s. 2: *ivalum utan pirantu uṭan vaļarntu nir*
+*uṭan āṭi cīr utan peruki* ōl *uṭanāṭṭup* pāl *uṭanunṭu pal uṭaneluntu col utan karru*
 *palamaiyum payirciym panpuт паприт* ... etc. This is very much the style
 of a late Tamil poet rather than of a medieval scholiast who tended to be
 more simple and less verbose (cf. Iḷampūraṇar's style, who was, in "timedepth",
@@ -177,7 +177,7 @@ There are a number of Skt. loans in the commentary (e.g. *vārttai,*
 *pirāmaṇan, cuvarkkam, caņam*, *kumāracuvāmi, vācakam*, *kāraṇikan*
 etc.). Important is that the commentary quotes extensively (325
 out of 350 stanzas) from a *Pāṇṭikkōvai* (author unknown), whose
-hero is Pănțiyan Māran (640-670 A.D.). These stanzas belong to the
+hero is Pănṭiyan Māran (640-670 A.D.). These stanzas belong to the
 7th-8th Cent., which shows that the lower limit for Nakkīrar's
 commentary is roughly 700 A.D. The upper limit would be perhaps
 750-800. This does not refute the speculation that Nakkīrar of
@@ -240,7 +240,7 @@ more of the *Akapporuḷ* ascribed to Iṟaiyaṉār.
 *Puṟapporuḷ veņpā mālai*, “The garland of *veṇpā* (stanzas) on the
 subject-matter of heroism", is a grammatical treatise of uncertain
 date but obviously later than *TP.* It seems to be a derived work,
-probably an abridgement of the lost grammar called *Pannirupața-*
+probably an abridgement of the lost grammar called *Pannirupaṭa-*
 *lam* "The Book of Twelve Chapters". It is of utmost importance for
 the study of heroic poetry. It also seems to have preserved a tradition
 to some extant different from *Tolkāppiyam*. According to Kailasapathy
@@ -628,7 +628,7 @@ gathering honey, digging up edible roots, dancing and/or wandering
 about the hills, and driving away parrots from millet-fields. The
 particular lyre (or harp), *yāl*, is called "mountain-lyre". Under
 "other items", Nakkīrar understands the name of the hero,[^literary-hero] in our
-case *cilampan, verpan*, *poruppan*;[^hill-chief] the name of the heroine, *koțicci*
+case *cilampan, verpan*, *poruppan*;[^hill-chief] the name of the heroine, *koṭicci*
 or *kuratti*;[^hill-woman] the typical waters--water-falls and mountain springs;
 human settlements: small hamlets and kuricci ("village", *DED*
 1534). Flowers: conehead *(kuriňci, Strobilanthes*), glory lily (*Gloriosa*
@@ -658,7 +658,7 @@ heroine *kiḷavi*, *kiļavōļ* or *talaivi*.
 [^hill-chief]: *cilampan* (?< Skt. or Pkt.) "hillman; chief of the hill tribe"; poruppan
 "chief of the hill-tribe"; *verpan* “id.".
 
-[^hill-woman]: *koțicci* (? DED 1704) “woman of the hill-tribe"; *kuratti* (cf. *DED* 1530
+[^hill-woman]: *koṭicci* (? DED 1704) “woman of the hill-tribe"; *kuratti* (cf. *DED* 1530
 for Dr. cognates) "woman of the hill-tribe, woman of the *Kurava* tribe".
 [^kuravar]: *kuṛavar* (*DED* 1530); *kunravar* (*DED* 1548) "hillmen, mountaineers”
 *iravular* (DED 442) "hill tribes".
@@ -690,7 +690,7 @@ emaciated elephant, panther, wild dog *(Canis dukhunensis*); trees:
 vulture, kite and pigeon. Occupation: highway robbery, murder,
 stealing. Melody type: *curam*. The term used for the hero: mīļi
 "warrior" (lit. "the strong one, the valiant man, the fighter", used
-also for the God of Death); *vițalai* “young hero" (lit. “young bull”),
+also for the God of Death); *viṭalai* “young hero" (lit. “young bull”),
 kālai “warrior” (or “bull, steer"?). The heroine called *eyirri*
 "woman of the *Eyinar* tribe" or *pētai* "the naive one" (lit. "girl
 between 5 and *7* years of age", "simple woman"). Flowers: *kurā*
@@ -721,7 +721,7 @@ is the "lord (or inhabitant) of the land of low hills” (*kurumporainā-*
 *tan*). The name of the heroine-kilatti (lit. “mistress (of the house)"
 and *manaivi* “house-wife". Flower: jasmine (*Jasminum sambac,*
 *mullai*) and Malabar glory lily (*Gloriosa superba, tōnri*). Waters:
-forest-river. Settlements: *pāți* “town, city, hamlet, pastoral village"
+forest-river. Settlements: *pāṭi* “town, city, hamlet, pastoral village"
 *(DED* 3347) and cēri “town, village, hamlet” (*DED* 1669). The
 name of the people: *iṭaiyar* (fem. *iṭaicciyar*) and *āyar* (fem. *āycciyar)*.[^herdsman]
 
@@ -776,7 +776,7 @@ makiṇan (“husband; chief of agricultural tract, lord”*, DED* 3768).
 The heroine is called *kilatti* or *manaivi* “house-wife". Flowers:
 Lotus and red water-lily. Waters: wells in the houses, ponds and
 rivers. Settlements are termed *pērūr*, lit. “big village, big town”.
-The name of the inhabitants: *kaṭaiyar* (fem. *kațaicciyar*), *uḻavar*
+The name of the inhabitants: *kaṭaiyar* (fem. *kaṭaicciyar*), *uḻavar*
 (fem. *ulattiyar*).[^low-status]
 
 
@@ -802,7 +802,7 @@ At the end of his discussion Nakkīrar refutes the one-sided
 conception of *tiṇai* as *either* "region" (*nilam*) *or* “situation” *(oluk-*
 *kam*, lit. "conventional rules of conduct"); *tiṇai* is not "either or"
 but "both"; Nakkīrar says it quite explicitly: *tiṇai* is both region
-and situation, “like the spot on which the light (*cuțar*) of a viḷakku
+and situation, “like the spot on which the light (*cuṭar*) of a viḷakku
 "lamp" falls, is also called viḷakku “light” (cf. *DED* 4524 *viḷakku*
 "lamp; light").
 
@@ -1003,8 +1003,8 @@ Heroic situations *(tinai*) *according* to
 *Number* of
 Tolkāppiyam *themes*
 *Poruḷatikāram (turai)*
-I. *vețci*
-2. *vețci*
+I. *veṭci*
+2. *veṭci*
 3. *vaňci*
 *Number* of
 *themes*
@@ -1156,7 +1156,7 @@ wearing anklets, cf. *Patiṟṟup*. 56.
 *kuravai* dance of women; women joining warriors,
 holding hands, celebrating hero's victory by dance.
 
-*paricilvițai:*
+*paricilviṭai:*
 "munificence": a king bestowing gifts on his bards,
 e.g. *Puṟ*. 140, 152, 162, 397, 399.
 
