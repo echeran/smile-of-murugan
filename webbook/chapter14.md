@@ -1,10 +1,10 @@
 # THE *CITTAR*: AN ENIGMA
 
-> "They are most popular works in Tamil and \
-> there is no pure Tamilian, educated or uneducated, \
-> who has not committed to memory \
-> at least a few stanzas from one or other of \
-> them "(M. S. Purnalingam Pillai). \
+> “They are most popular works in Tamil and
+> there is no pure Tamilian, educated or uneducated,
+> who has not committed to memory
+> at least a few stanzas from one or other of
+> them” (M. S. Purnalingam Pillai).
 
 Here and there one comes across stray poems in Tamil which
 have a number of features in common: a protest, sometimes expressed
@@ -473,10 +473,10 @@ destroyed, soul, life is destroyed. Hence it is necessary to protect
 and cherish the body. There is an important stanza in Tirumūlar
 which has become one of the corner-stones of *cittar* thinking:
 
-> If body is destroyed, soul is destroyed; \
-> and one will not attain true powerful knowledge. \
-> Having acquired the skill to foster the body, \
-> I cherished the body, and I fostered the soul. \
+>|       If body is destroyed, soul is destroyed;
+>|       and one will not attain true powerful knowledge.
+>|       Having acquired the skill to foster the body,
+>|       I cherished the body, and I fostered the soul.
 
 Hence the obsession of the Siddhas with the dream of eternal
 youth and splendid health; or at least with the possibility to prolong
@@ -557,13 +557,13 @@ to both poets which are nearly identical. Were these two indeed one and the
 same person, or did the iconoclastic Saivite cittar copy the Vaiṣṇava mystic?
 
 
-> "What does it mean - a Paraiya woman? \
-> What is it a Brahmin woman? \
-> Is there any difference in them \
-> in flesh, skin or bones? \
-> What is the difference if you sleep \
-> with a Paraiya or a Brahmin woman?" \
-> (38) \
+>|       "What does it mean - a Paraiya woman?
+>|       What is it a Brahmin woman?
+>|       Is there any difference in them
+>|       in flesh, skin or bones?
+>|       What is the difference if you sleep
+>|       with a Paraiya or a Brahmin woman?"
+>|       (38)
 
 He also rejects the division between Saivites and Vaiṣṇavites.
 Again and again he speaks of Rāma but, at the same time, he
@@ -574,16 +574,16 @@ worship in temples.
 [^extol-saviam-repudiate-brahminical-way]: *entai* rāma *rāma rāma rāmavenrum* nāmame, st. 10; civayam *enra āṭcă-*
 ram civan irukkum *āṭcāram*.
 
-> "What are temples? What are bathing tanks? \
-> Fools who worship in temples and tanks! \
-> Temples are in the mind. Tanks are in the mind." \
-> (33) \
+>|       "What are temples? What are bathing tanks?
+>|       Fools who worship in temples and tanks!
+>|       Temples are in the mind. Tanks are in the mind."
+>|       (33)
 
-> "You say that Śiva is in bricks and granite, \
-> in the red-rubbed lingam, in copper and brass! \
-> If you could learn to know yourself first, \
-> the God in temple will dance and sing within you!" \
-> (34) \
+>|       "You say that Śiva is in bricks and granite,
+>|       in the red-rubbed lingam, in copper and brass!
+>|       If you could learn to know yourself first,
+>|       the God in temple will dance and sing within you!"
+>|       (34)
 
 Recalling the scheme S<sub>1</sub> S<sub>2</sub> O<sub>1</sub> O<sub>2</sub> which we used when structurally
 analysing bhakti hymns, we observe in the poetry of the Siddhas
@@ -593,13 +593,13 @@ what he is not. This is in sharp contrast with the bhakti conception
 of a personal, individualized God having so many attributes and
 residing in a particular form in a particular shrine.
 
-> "The lazy ones say: Far away, far away, far away (is God). \
-> The *paraparam* (Supreme Being) is spread everywhere on earth and \
-> in the skies. \
-> O you poor dumb ones, running through towns and country and \
-> jungles, suffering in search, \
-> Know well that Godhead is right there within you, and stand still!" \
-> (14) \
+>|       "The lazy ones say: Far away, far away, far away (is God).
+>|       The *paraparam* (Supreme Being) is spread everywhere on earth and
+>|       in the skies.
+>|       O you poor dumb ones, running through towns and country and
+>|       jungles, suffering in search,
+>|       Know well that Godhead is right there within you, and stand still!"
+>|       (14)
 
 Observe how he describes God: ap *parāparam* "that supreme
 thing", spread everywhere (*enkumāy paranta)*, and being within men
@@ -616,13 +616,13 @@ dispute in dialogue form between *maṇam* “mind” and *aṟivu* “knowledge
 wisdom". The interesting thing is that the ignorant mind speaks in prose,
 whereas the supreme knowledge speaks in verse.
 
-> "O you who proclaim yourselves the yogis of knowledge, \
-> who search after knowledge in books! \
-> You do not know your own hearts - \
-> there you should search after the light of knowledge! \
-> Knowing the unique Lord who is knowledge, \
-> there is nothing else than the truth we proclaimed!" \
-> (453) \
+>|       "O you who proclaim yourselves the yogis of knowledge,
+>|       who search after knowledge in books!
+>|       You do not know your own hearts -
+>|       there you should search after the light of knowledge!
+>|       Knowing the unique Lord who is knowledge,
+>|       there is nothing else than the truth we proclaimed!"
+>|       (453)
 
 Elsewhere Civaväkkiyar speaks of those who drag the burden
 of books and blabber lies. True knowledge empirical and experimental.
@@ -631,16 +631,16 @@ One of the most powerful stanzas of all his poems is the one in
 which he plainly refutes the theory of transmigration; it deserves
 to be quoted fully:
 
-> *karanta* pāl *mulaippukā kaṭainta veņṇey mōrpukā* \
-> *uṭaintu pōna cankinōcai yuyirkalum uṭarpukā* \
-> *virintapu vutirnta kāyum mīṇṭu* pōy *marampukā* \
-> *irantavar* pirappa *tillai yillaiyillai yillaiye* \
-> (46)
+>|       *karanta* pāl *mulaippukā kaṭainta veņṇey mōrpukā*
+>|       *uṭaintu pōna cankinōcai yuyirkalum uṭarpukā*
+>|       *virintapu vutirnta kāyum mīṇṭu* pōy *marampukā*
+>|       *irantavar* pirappa *tillai yillaiyillai yillaiye*
+>|       (46)
 
-> "Milk does not return to the udder, nor butter to butter-milk. \
-> Nor the life within the sea-shell, when it breaks, to its body. \
-> The blown flower, the fallen fruit do not return to the tree. \
-> The dead are not born, never, never, never!" \
+>|       "Milk does not return to the udder, nor butter to butter-milk.
+>|       Nor the life within the sea-shell, when it breaks, to its body.
+>|       The blown flower, the fallen fruit do not return to the tree.
+>|       The dead are not born, never, never, never!"
 
 Civaväkkiyar also ridicules many ritual and social customs
 and practices: thus e.g. saliva, which is considered by the Hindus
@@ -667,15 +667,15 @@ In the concluding remark on Civaväkkiyar I cannot abstain from
 quoting one of his stanzas which illustrates the “purposeful obscurity"
 of the *cittar* diction (st. 221):
 
-> *akāra* kāra *ṇattilē yanēka nēka rūpamāy* \
-> *ukāra kāra ṇattilē yurutta* rittu *ninranan* \
-> *makāra kāra ṇattilē mayankukira vaiyakam* \
-> cikāra kāra *ṇattilē teļinta* tēci *vāyamē* \
+>|       *akāra* kāra *ṇattilē yanēka nēka rūpamāy*
+>|       *ukāra kāra ṇattilē yurutta* rittu *ninranan*
+>|       *makāra kāra ṇattilē mayankukira vaiyakam*
+>|       cikāra kāra *ṇattilē teļinta* tēci *vāyamē*
 
-> "Like so many forms he stands through the sound *a,* \
-> having dressed himself in shapes through the sound *u*, \
-> the world confused - through the sound *ma*; \
-> it became clear as *civāyam* - through the sound *ci*." \
+>|       "Like so many forms he stands through the sound *a,*
+>|       having dressed himself in shapes through the sound *u*,
+>|       the world confused - through the sound *ma*;
+>|       it became clear as *civāyam* - through the sound *ci*."
 
 This may indeed seem “closed by the lock of ignorance”. However:
 the sound a (*akāram*) is the symbol of beginning, and of the
@@ -730,64 +730,64 @@ almost cheerful resignation.
 
 The very first lines of his songs sound like blows of a hammer:
 
-> *pirantana* irakkum *irantana* pirakkum \
-> tōnrina *maraiyum maraintana tōnrum* \
-> *punarntana piriyum pirintana puṇarum*... \
-> *uvappana* veruppam veruppana *vuvappam* etc. \
-> 
-> Those who are born, die; the dead are born; \
-> those that appear, disappear; those who vanish, appear; \
-> who join, separate; those that separate, join. \
-> Joys become hateful; hatreds become joys \
+>|       *pirantana* irakkum *irantana* pirakkum
+>|       tōnrina *maraiyum maraintana tōnrum*
+>|       *punarntana piriyum pirintana puṇarum*...
+>|       *uvappana* veruppam veruppana *vuvappam* etc.
+>|       
+>|       Those who are born, die; the dead are born;
+>|       those that appear, disappear; those who vanish, appear;
+>|       who join, separate; those that separate, join.
+>|       Joys become hateful; hatreds become joys
 
 Paṭṭiṉattar, in most of his poems, is the great relativist and the
 great pessimist of Tamil literature. Life is a tragedy, an eternal
 interplay of contradictions and antinomies, a lie, "a tale told by
 an idiot".
 
-> "Uttering lies so much that your tongue cracks \
-> Hoarding riches and wealth \
-> You lie with women who know no good \
-> And bring forth children \
-> So rapidly, so readily \
-> Like the poor white ants that come out when earth cracks! \
-> You do not know how to foster them. \
-> You will not forsake them. \
-> You have put your foot into a hole \
-> in the bole of a tree. \
-> Like the monkey that removed the wedge \
-> You are caught to stay and suffer, \
-> You are caught, \
-> You!" \
-> (XI. 65) \
+>|       "Uttering lies so much that your tongue cracks
+>|       Hoarding riches and wealth
+>|       You lie with women who know no good
+>|       And bring forth children
+>|       So rapidly, so readily
+>|       Like the poor white ants that come out when earth cracks!
+>|       You do not know how to foster them.
+>|       You will not forsake them.
+>|       You have put your foot into a hole
+>|       in the bole of a tree.
+>|       Like the monkey that removed the wedge
+>|       You are caught to stay and suffer,
+>|       You are caught,
+>|       You!"
+>|       (XI. 65)
 
 His language is cruel, fierce and direct in his treatment of woman
 as the seat of filth and temptation, and of man as the seat of
 vileness and egoism.
 
-> "I loved this mortal vessel stuffed with blabbering air, \
-> this leather bag for rice, this torn sack wrapped in flesh, \
-> this stinking body, cow-stable of lust, \
-> and roamed about and begged, \
-> o Ēkampan of Kāňci, Lord!” \
-> (II. 27) \
+>|       "I loved this mortal vessel stuffed with blabbering air,
+>|       this leather bag for rice, this torn sack wrapped in flesh,
+>|       this stinking body, cow-stable of lust,
+>|       and roamed about and begged,
+>|       o Ēkampan of Kāňci, Lord!”
+>|       (II. 27)
 
-> "The fire says: It is mine. But the worm, too, says: It's mine. \
-> And this earth says: Well, it's mine. But the kite says: \
-> It is mine. And the jackal says It's mine \
-> And wants to devour it. And the mean dog says: It's for me! \
-> This stinking body I cherished with love. \
-> And what was the use?' \
-> (XI. 26) \
+>|       "The fire says: It is mine. But the worm, too, says: It's mine.
+>|       And this earth says: Well, it's mine. But the kite says:
+>|       It is mine. And the jackal says It's mine
+>|       And wants to devour it. And the mean dog says: It's for me!
+>|       This stinking body I cherished with love.
+>|       And what was the use?'
+>|       (XI. 26)
 
-> "The treasury of insolence; the granary of anger; \
-> the palace from which ignorance does not depart; \
-> the home of falsehood, this rag of a body, \
-> full of lust and flirting, its towering weapon \
-> swelling into skies! \
-> How to attain wisdom \
-> in worshipping you?" \
-> (XI. 55) \
+>|       "The treasury of insolence; the granary of anger;
+>|       the palace from which ignorance does not depart;
+>|       the home of falsehood, this rag of a body,
+>|       full of lust and flirting, its towering weapon
+>|       swelling into skies!
+>|       How to attain wisdom
+>|       in worshipping you?"
+>|       (XI. 55)
 
 Woman's beauty is to him the most detestable thing on earth.
 In seventy lines he strips woman totally of her glamour. "I shall
@@ -832,31 +832,31 @@ pathetic helplessness; of vile abuse-abuse of self, of women, of
 the sinners and moving appeal. He has composed a number of
 beggary stanzas, too, with a particular charm of their own.
 
-> "For the cool mist \
-> there are tight rags. \
-> There's rice in every house, \
-> just beg and eat. \
-> And when you are aroused, \
-> there are fine harlots roaming in the street. \
-> Why then grow weary of this world? \
-> O heart! To be so sore each day!" \
-> (XI. 15) \
+>|       "For the cool mist
+>|       there are tight rags.
+>|       There's rice in every house,
+>|       just beg and eat.
+>|       And when you are aroused,
+>|       there are fine harlots roaming in the street.
+>|       Why then grow weary of this world?
+>|       O heart! To be so sore each day!"
+>|       (XI. 15)
 
 There are hardly more moving “beggary stanzas” in Tamil
 literature than the following:
 
-> "When cold wind blows \
-> and the sun is gone, \
-> there is an old abandoned dressjust \
-> take it \
-> and cover your body. \
-> All the world over \
-> there's everywhere an outside porch \
-> to lie down and to sleep. \
-> When hunger comes, \
-> there's Śiva to give. \
-> O heart! \
-> There's indeed nothing which we lack!" \
+>|       "When cold wind blows
+>|       and the sun is gone,
+>|       there is an old abandoned dressjust
+>|       take it
+>|       and cover your body.
+>|       All the world over
+>|       there's everywhere an outside porch
+>|       to lie down and to sleep.
+>|       When hunger comes,
+>|       there's Śiva to give.
+>|       O heart!
+>|       There's indeed nothing which we lack!"
 
 The *cittar* tradition—especially the Siddha *vaidya,* the Siddha
 medicine is fully alive. So are most of the *cittar* songs. One can

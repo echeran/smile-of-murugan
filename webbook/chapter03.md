@@ -86,10 +86,6 @@ textual criticism.
 ![A *Tamil manuscript* on palm-*leaves*. Property of the author.](./img/page-25-tamil-palm-leaf-manuscript.png){#fig-tamil-palm-leaf-manuscript}
 
 
-
-
-
-
 1. The creative act. Several authors, lastly K. Kailasapathy
 *(Tamil* Heroic *Poetry*, 1968) have conclusively shown, that the
 earliest Tamil poetry was composed in agreement with the conventions of an oral bardic tradition, and that, obviously, a great
@@ -178,8 +174,6 @@ name: one who is sometimes called Tol-Kapilar or the "Old Kapilar"
 prince" of the so called *Caṅkam* poets, and finally the late Kapilar,
 the author of the late-medieval *Kapilarakaval,* an antibrahminic
 outcry.
-
-
 
 We have at least two Nakkīrars: the older Nakkīrar might have
 lived round about 250 A.D. and was the author of some very fine
@@ -800,14 +794,14 @@ relative chronology of the earliest Tamil texts may be arrived at on
 the basis of labours performed by S. Vaiyapuri Pillai, M. Raghava
 Iyengar, K. A. Nilakanta Sastri, John R. Marr, K. Kailasapathy
 and others. The results of this relative chronology may be seen in
-Chart 4.
+@tbl-chronology-sangam-lit.
 
 1. The *Ur-Tolkāppiyam* (that is, the two first books of this admirable
 grammar, the *Eḻuttatikāram* (Phonology) and *Collatikāram*
 (on Morphology, Semantics, Etymology, and Syntax) minus
 later interpolations, which may be dated roughly to 100 B.C.
 
-2. The earliest poems of the following anthologies:
+1. The earliest poems of the following anthologies:
     a. *Ainkuṟunūṟu*
     b. *Kuṟuntokai*
     c. *Naṟṟiṇai*
@@ -817,7 +811,7 @@ later interpolations, which may be dated roughly to 100 B.C.
 
     The earliest poems of these anthologies form thus the nuclear
 corpus of the great anthology later called *Eṭṭuttokai*.
-3. The lays of the second great anthology, *Pattuppāṭṭu*, in this
+1. The lays of the second great anthology, *Pattuppāṭṭu*, in this
 possible chronological order:
     a. *Porunarāṟṟuppaṭai*
     b. *Perumpāṇāṟṟuppaṭai*
@@ -844,6 +838,7 @@ possible chronological order:
 | 9             | Transitional Tamil Brāhmī (Proto-*vaṭṭeḻuttu*) Inscriptions at Piḷḷaiyārpaṭṭi and Tirunātarkuṉṛam.                                                                        |                                                                                                                                                                                                                                                                                                                                                | 5th-6th Cent. A.D.      |
 | 10            | Latest strata of the Anthologies: e.g.*Ciṟupāṇāṟṟuppaṭai* (?). Iṟaiyaṉār's *Akapporuḷ.*.                                                                                  |                                                                                                                                                                                                                                                                                                                                                | 4th-6th Cent. A.D.      |
 
+: Relative chronology of *Caṅkam* literature {#tbl-chronology-sangam-lit}
 
 These are the most ancient texts in the Tamil language. The
 earliest poems contained in these texts belong roughly to 100 B.C.250

@@ -81,93 +81,93 @@ strangely moving and poetic dialogue between the hunchback
 woman and the dwarf (*Kalit*. 94, in the flawless translation of
 A. K. Ramanujan):
 
-> O hunchback woman, \
-> gentle \
-> and crooked as a reflection \
-> in the water, \
-> what great good deeds \
-> did you do that I should want you so? \
-> 
-> (O mother! she swore to herself) Some \
-> auspicious moment made you dwarf, \
-> so tiny you're almost invisible, \
-> O whelp born to a man-faced bird, \
-> how dare you stop us to say \
-> you want us? Would such midgets \
-> ever get to touch such as us? \
-> 
-> O lovely one, \
-> \ \ \ \ curvaceous, \
-> \ \ \ \ \ \ \ \ convex \
-> as the blade of a plough, \
-> you strike me with love \
-> I cannot bear. \
-> \ \ \ \ I can live \
-> only by your grace. \
-> (Look at the way this creature walks!) \
-> 
-> O dwarf, standing piece of timber, \
-> you've yet to learn the right approach \
-> to girls. Humans do not copulate \
-> at noon: but you come now to hold \
-> our hand and ask us to your place. \
-> 
-> Good woman, \
-> \ \ \ \ your waist is higher \
-> than your head, your face a skinned heron \
-> with a dagger for a beak, \
-> \ \ \ \ listen to me. \
-> If I take you in the front, your hunch \
-> juts in my chest; if from the back \
-> it'll tickle me in odd places. \
-> \ \ \ \ So, I'll not \
-> even try it. Yet come close and let's touch \
-> side by side. \
-> 
-> *Chī,* you're wicked. Get lost! You half-man! \
-> As creepers hang on only to the crook of the tree \
-> there are men who'd love to hold this hunch \
-> of a body close, though nothing fits. Yet, you lecher, \
-> you ask for us sideways. What's so wrong \
-> with us, you ball, you bush of a man, \
-> A gentle hunchback type is better far than a string \
-> of black beans. \
-> 
-> (Look at the walk of this creature!) You stand \
-> like a creepy turtle stood up by somebody, \
-> hands flailing in your armpits. \
-> We've told you we're not for you. Yet you hang around. \
-> (Look, he walks now like the Love-God)! \
-> 
-> The root of this love is Kāma, \
-> the love-god with arrows, brother to Shāma. \
-> Look, this is how the love-god walks! \
-> \ \ \ \ (Look, \
-> look at this love-god!) \
-> 
-> Come, let's find joy, \
-> you in me, me in you; come, let's ask and talk \
-> agree which parts I touch. \
-> \ \ \ \ I swear \
-> by the feet of my king, I'll mock you no more. \
-> 
-> Right, O gentle-breasted one. I too will give up \
-> mockery. \
-> \ \ \ \ But I don't want this crowd in the temple \
-> laughing at us, screaming when we do it, \
-> 'Look, look! Look at that dwarf and hunchback, \
-> leaping like demon on demon!' \
-> 
-> \ \ \ \ O shape \
-> of unbeaten gold, let's get away from the temple \
-> to the wild jasmine bush. Come, let's go. \
-> You're now a gob of wax on a parchment \
-> made out in a court full of wise men, \
-> \ \ \ \ and stamped \
-> to a seal; you're now flat, incomplete. Come, \
-> let's touch close and hug hard \
-> and finish the unfinished. \
-> \ \ \ \ Let's go. \
+>|       O hunchback woman,
+>|       gentle
+>|       and crooked as a reflection
+>|       in the water,
+>|       what great good deeds
+>|       did you do that I should want you so?
+>|       
+>|       (O mother! she swore to herself) Some
+>|       auspicious moment made you dwarf,
+>|       so tiny you're almost invisible,
+>|       O whelp born to a man-faced bird,
+>|       how dare you stop us to say
+>|       you want us? Would such midgets
+>|       ever get to touch such as us?
+>|       
+>|       O lovely one,
+>|           curvaceous,
+>|               convex
+>|       as the blade of a plough,
+>|       you strike me with love
+>|       I cannot bear.
+>|           I can live
+>|       only by your grace.
+>|       (Look at the way this creature walks!)
+>|       
+>|       O dwarf, standing piece of timber,
+>|       you've yet to learn the right approach
+>|       to girls. Humans do not copulate
+>|       at noon: but you come now to hold
+>|       our hand and ask us to your place.
+>|       
+>|       Good woman,
+>|           your waist is higher
+>|       than your head, your face a skinned heron
+>|       with a dagger for a beak,
+>|           listen to me.
+>|       If I take you in the front, your hunch
+>|       juts in my chest; if from the back
+>|       it'll tickle me in odd places.
+>|           So, I'll not
+>|       even try it. Yet come close and let's touch
+>|       side by side.
+>|       
+>|       *Chī,* you're wicked. Get lost! You half-man!
+>|       As creepers hang on only to the crook of the tree
+>|       there are men who'd love to hold this hunch
+>|       of a body close, though nothing fits. Yet, you lecher,
+>|       you ask for us sideways. What's so wrong
+>|       with us, you ball, you bush of a man,
+>|       A gentle hunchback type is better far than a string
+>|       of black beans.
+>|       
+>|       (Look at the walk of this creature!) You stand
+>|       like a creepy turtle stood up by somebody,
+>|       hands flailing in your armpits.
+>|       We've told you we're not for you. Yet you hang around.
+>|       (Look, he walks now like the Love-God)!
+>|       
+>|       The root of this love is Kāma,
+>|       the love-god with arrows, brother to Shāma.
+>|       Look, this is how the love-god walks!
+>|           (Look,
+>|       look at this love-god!)
+>|       
+>|       Come, let's find joy,
+>|       you in me, me in you; come, let's ask and talk
+>|       agree which parts I touch.
+>|           I swear
+>|       by the feet of my king, I'll mock you no more.
+>|       
+>|       Right, O gentle-breasted one. I too will give up
+>|       mockery.
+>|           But I don't want this crowd in the temple
+>|       laughing at us, screaming when we do it,
+>|       'Look, look! Look at that dwarf and hunchback,
+>|       leaping like demon on demon!'
+>|       
+>|           O shape
+>|       of unbeaten gold, let's get away from the temple
+>|       to the wild jasmine bush. Come, let's go.
+>|       You're now a gob of wax on a parchment
+>|       made out in a court full of wise men,
+>|           and stamped
+>|       to a seal; you're now flat, incomplete. Come,
+>|       let's touch close and hug hard
+>|       and finish the unfinished.
+>|           Let's go.
 
 On the other hand, the traditional *aintiṇai* (i.e. "love proper")
 situations continue in *Kalittokai* and even receive new possibilities
@@ -326,26 +326,26 @@ surrounded by lovely goddesses, is very different from the
 Murukaṉ in the battlefield. There the "she-devil (*pēymaka!)* dances
 the *tuṇankai* dance ...
 
-> dry-haired, \
-> twisted and projecting teeth \
-> in her gaping mouth, \
-> rolling eye-balls, \
-> greenish eyes \
-> with a fearful gaze, \
-> ears that pain her heavy breasts \
-> as the owl with bulging eyes \
-> and the cruel snake \
-> hang down from her ears \
-> bothering her breasts. \
-> In her hands with shining bangles \
-> she holds a black skull, \
-> smelling rotten. \
-> With her cruel, sharp-nailed fingers \
-> stirring blood \
-> she had dug-out human eyeballs \
-> and eaten them up. \
-> As she dances, shoulders heaving, \
-> her mouth drips with fat. [^thuNangai]
+>|       dry-haired,
+>|       twisted and projecting teeth
+>|       in her gaping mouth,
+>|       rolling eye-balls,
+>|       greenish eyes
+>|       with a fearful gaze,
+>|       ears that pain her heavy breasts
+>|       as the owl with bulging eyes
+>|       and the cruel snake
+>|       hang down from her ears
+>|       bothering her breasts.
+>|       In her hands with shining bangles
+>|       she holds a black skull,
+>|       smelling rotten.
+>|       With her cruel, sharp-nailed fingers
+>|       stirring blood
+>|       she had dug-out human eyeballs
+>|       and eaten them up.
+>|       As she dances, shoulders heaving,
+>|       her mouth drips with fat. [^thuNangai]
 
 [^thuNangai]: This is probably the occasion to say a few words about "the fantastic,
 gruesome, and grotesque" (C. and H. Jesudasan, op. cit. 187) aspects in
@@ -406,8 +406,8 @@ offering to the god); Murukaṉ's body glows like the sun rising from
 the emerald sea---the peacock which the "red god" rides; celestial
 damsels, blessing the cock-banner of the youthful god, have
 
-> “... bright, rosy, tender feet ... \
-> thin garments purple like the Indragopa”;
+>|       “... bright, rosy, tender feet ...
+>|       thin garments purple like the Indragopa”;
 
 and the hills grow the *kāntaḷ* flowers red like fire; and across his
 handsome wide chest run red lines *(cempori*).
@@ -421,82 +421,83 @@ etc. etc.).
 There are also a few magnificent natural scenes; and the technique of contrast is cleverly employed. Listen to the first 20 lines
 in a very inadequate translation:
 
-> Like the sun seen in the sea, \
-> the delight of the world. \
-> praised by men, \
-> he is the dazzling light \
-> visible from afar \
-> even through eyes \
-> which are closed. \
->
-> His feet are strong. \
-> They destroy ignorance \
-> and support \
-> his friends. \
-> His mighty arm \
-> rivals \
-> the thunderbolt. \
-> It has crushed \
-> his fiends. \
->
-> He is the bridegroom \
-> of the maid \
-> whose front is fair \
-> and who is \
-> gently chaste. \
->
-> The forests, \
-> cool and fragrant \
-> after first showers, \
-> pouring down \
-> from gigantic clouds, \
-> pregnant with waters \
-> sucked up from the sea, \
-> scattering heavy drops \
-> upon the firmament \
-> whose darkness is dispelled \
-> by the sun and the moon. \
->
-> The forests, \
-> darkened and overspread \
-> by the dense leaves \
-> of the red *katampu* tree. \
-> He has a garland \
-> of its flowers \
-> rolling on his chest. \
->
-> High on the mountains \
-> towering into skies \
-> unearthly maidens dance. \
-> They have \
-> bright, \
-> rosy, \
-> tender feet \
-> with tinkling anklets. \
->
-> Rounded shanks \
-> and gently swaying \
-> waist. \
-> Broad luscious shoulders \
-> and thin garments red \
-> like Indragopa's wings. \
->
-> Their mounds of venus bear \
-> brilliant girdles strung \
-> with many shining gems. \
-> How lovely are they! \
-> With a beauty made \
-> not by the skill \
-> of human hands. \
->
-> And they have jewels \
-> set in Jambū gold \
-> and glowing, \
-> gleaming bright \
-> with flawless lustre \
-> shooting beams afar. \
->
-> (Transl. K.Z.) \
+>|       Like the sun seen in the sea,
+>|       the delight of the world.
+>|       praised by men,
+>|       he is the dazzling light
+>|       visible from afar
+>|       even through eyes
+>|       which are closed.
+>|       
+>|       His feet are strong.
+>|       They destroy ignorance
+>|       and support
+>|       his friends.
+>|       His mighty arm
+>|       rivals
+>|       the thunderbolt.
+>|       It has crushed
+>|       his fiends.
+>|       
+>|       He is the bridegroom
+>|       of the maid
+>|       whose front is fair
+>|       and who is
+>|       gently chaste.
+>|       
+>|       The forests,
+>|       cool and fragrant
+>|       after first showers,
+>|       pouring down
+>|       from gigantic clouds,
+>|       pregnant with waters
+>|       sucked up from the sea,
+>|       scattering heavy drops
+>|       upon the firmament
+>|       whose darkness is dispelled
+>|       by the sun and the moon.
+>|       
+>|       The forests,
+>|       darkened and overspread
+>|       by the dense leaves
+>|       of the red *katampu* tree.
+>|       He has a garland
+>|       of its flowers
+>|       rolling on his chest.
+>|       
+>|       High on the mountains
+>|       towering into skies
+>|       unearthly maidens dance.
+>|       They have
+>|       bright,
+>|       rosy,
+>|       tender feet
+>|       with tinkling anklets.
+>|       
+>|       Rounded shanks
+>|       and gently swaying
+>|       waist.
+>|       Broad luscious shoulders
+>|       and thin garments red
+>|       like Indragopa's wings.
+>|       
+>|       Their mounds of venus bear
+>|       brilliant girdles strung
+>|       with many shining gems.
+>|       How lovely are they!
+>|       With a beauty made
+>|       not by the skill
+>|       of human hands.
+>|       
+>|       And they have jewels
+>|       set in Jambū gold
+>|       and glowing,
+>|       gleaming bright
+>|       with flawless lustre
+>|       shooting beams afar.
+>|       
+>|       ---
+>|       (Transl. K.Z.)
 
 Murukaṉ has two wives; the senior, Teyvayāṇai, is the daughter
 of Indra; the younger is "the beautiful daughter of the hunters,

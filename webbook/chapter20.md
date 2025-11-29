@@ -56,19 +56,19 @@ are very striking from the point of view of form and content.
 Incidentally, Bharati considered himself to be a spiritual descendent
 of the *cittar*:
 
-> "Siddhars many have been ere my time! \
-> I am another come to this land". \
+>|       "Siddhars many have been ere my time!
+>|       I am another come to this land".
 
 Bharati's prose-poems and free-verse experiments opened new
 vistas and tried new techniques in Tamil poetry as early as during
 the decade of 1910-1920. Consider e.g. lines like these:
 
-> Mind is the enemy within \
-> And cuts our roots. \
-> Parasite Mind alone is the enemy. \
-> Let us peck at it. \
-> Let us tear it. \
-> Come, let us hunt it down.[^translator-citation] \
+>|       Mind is the enemy within
+>|       And cuts our roots.
+>|       Parasite Mind alone is the enemy.
+>|       Let us peck at it.
+>|       Let us tear it.
+>|       Come, let us hunt it down.[^translator-citation]
 
 [^translator-citation]: Transl. Prema Nandakumar, *Subramania Bharati* (1968) 116.
 
@@ -90,35 +90,35 @@ One of the most amazing poems of Bharati is *Ūļikkūttu* or “The
 Dance of Doom" which I quote here in a good though not quite
 equivalent (partial) translation by Prema Nandakumar (op. cit. 86).
 
-> As the worlds mightily clash \
-> And crash in resounding thunder, \
-> As blood-dripping demon-spirits \
-> Sing in glee amid the general ruin, \
-> To the beat and the tune \
-> Leapest thou, Mother, in dance ecstatic \
-> Dread Mahakali! \
-> Chamundi! Gangali! \
-> Mother, Mother, \
-> Thou hast drawn me \
-> To see thee dance! \
-> \
-> When the demon-hosts clash \
-> Hitting head against head, \
-> When the knocking and breaking \
-> Beat rhythmic time, \
-> When the sparks from your eyes \
-> Reach the ends of the earth, \
-> Then is the doomed hour \
-> Of universal death! \
->  \
-> When Time and the three worlds \
-> Have been cast in a ruinous heap, \
-> When the frenzy has ceased \
-> And a lone splendour has wakened, \
-> Then auspicious Siva appears \
-> To quench thy terrible thirst. \
-> Now thou smilest and treadst with him \
-> The blissful Dance of Life! \
+>|       As the worlds mightily clash
+>|       And crash in resounding thunder,
+>|       As blood-dripping demon-spirits
+>|       Sing in glee amid the general ruin,
+>|       To the beat and the tune
+>|       Leapest thou, Mother, in dance ecstatic
+>|       Dread Mahakali!
+>|       Chamundi! Gangali!
+>|       Mother, Mother,
+>|       Thou hast drawn me
+>|       To see thee dance!
+>|      
+>|       When the demon-hosts clash
+>|       Hitting head against head,
+>|       When the knocking and breaking
+>|       Beat rhythmic time,
+>|       When the sparks from your eyes
+>|       Reach the ends of the earth,
+>|       Then is the doomed hour
+>|       Of universal death!
+>|       
+>|       When Time and the three worlds
+>|       Have been cast in a ruinous heap,
+>|       When the frenzy has ceased
+>|       And a lone splendour has wakened,
+>|       Then auspicious Siva appears
+>|       To quench thy terrible thirst.
+>|       Now thou smilest and treadst with him
+>|       The blissful Dance of Life!
 
 
 315
@@ -189,37 +189,38 @@ best-known poem. It is a poem about the fall of modern
 man about a mock-hero, even an anti-hero-and the disintegration
 of traditional values.
 
-> The stork \
-> inside me \
-> ... pecks; \
-> I go \
-> rashly open \
-> a \
-> ration shop.[^translator-citation-2] \
-> ..... \
-> What is a ration shop \
-> Set up to \
-> Sell \
-> Rice pure like stars \
-> Like faultless pearls? \
-> A sieve? \
-> A winnowing field? \
-> A rice-mill? \
-> Or the woman \
-> Who levels the floor? \
-> There are \
-> Three hundred people \
-> Waiting \
-> Before I even \
-> Unpack \
-> The sack \
-> Where is the place to sift? \
-> Where is the place to winnow? \
-> Where is the time \
-> To be generous and \
-> Polite? \
->  \
-> (Transl. K. Zvelebil) \
+>|       The stork
+>|       inside me
+>|       ... pecks;
+>|       I go
+>|       rashly open
+>|       a
+>|       ration shop.[^translator-citation-2]
+>|       .....
+>|       What is a ration shop
+>|       Set up to
+>|       Sell
+>|       Rice pure like stars
+>|       Like faultless pearls?
+>|       A sieve?
+>|       A winnowing field?
+>|       A rice-mill?
+>|       Or the woman
+>|       Who levels the floor?
+>|       There are
+>|       Three hundred people
+>|       Waiting
+>|       Before I even
+>|       Unpack
+>|       The sack
+>|       Where is the place to sift?
+>|       Where is the place to winnow?
+>|       Where is the time
+>|       To be generous and
+>|       Polite?
+>|
+>|       ---
+>|       (Transl. K. Zvelebil)
 
 
 [^translator-citation-2]: Transl. S. Gopalie.
@@ -231,40 +232,41 @@ of foreign influences. Below are given a few verses from parts 2 and
 
 
 
-> In the darkness of rain \
-> In the streets \
-> No bird \
-> Not even a fly \
-> flying, \
-> The clouds \
-> Grew heavy, \
-> The fish of rain \
-> Jumped. \
-> Laughing lightning \
-> Set clouds afire. \
-> Beautiful women, \
-> Frightened and trembling, \
-> Assembled near the fire \
-> Embracing its warmth. \
+>|       In the darkness of rain
+>|       In the streets
+>|       No bird
+>|       Not even a fly
+>|       flying,
+>|       The clouds
+>|       Grew heavy,
+>|       The fish of rain
+>|       Jumped.
+>|       Laughing lightning
+>|       Set clouds afire.
+>|       Beautiful women,
+>|       Frightened and trembling,
+>|       Assembled near the fire
+>|       Embracing its warmth.
 
 
 The beginning of part 4 is a terrible vision of the modern, warridden
 world:
 
-> The trident arose \
-> And the universe shook. \
-> And all the world \
-> Turned \
-> Into a \
-> Tent. \
-> Everywhere in the cities \
-> Poisonous smoke. \
-> And all over the skies \
-> Steel wings of weapons \
-> Everywhere in the streets \
-> Mountains of corpses. \
->  \
-> (Transl. K. Zvelebil) \
+>|       The trident arose
+>|       And the universe shook.
+>|       And all the world
+>|       Turned
+>|       Into a
+>|       Tent.
+>|       Everywhere in the cities
+>|       Poisonous smoke.
+>|       And all over the skies
+>|       Steel wings of weapons
+>|       Everywhere in the streets
+>|       Mountains of corpses.
+>|
+>|       ---
+>|       (Transl. K. Zvelebil)
 
 The young authors whose poems were published in Chellappa's
 anthology wanted to dissociate themselves from the stock phrases
@@ -279,55 +281,56 @@ and "modernity” in contemporary Tamil culture, it takes place in
 the writings of these "new poets". The first of the "revolting" poems
 was probably Sundara Ramaswamy's *The nails* of *your hand*:
 
-> Cut and throw off your nails-they gather dirt. \
-> Cut and throw off your nails-they gather dirt. \
-> \
-> The whole world outside is a heap of dirt. \
-> Why then should nail-corners be so fit for dirt ? \
-> "I may scratch, say I may, \
-> I may scratch-my enemy?” \
-> \
-> You may scratch, you may tear apart \
-> In a soothing embrace \
-> The left arm \
-> Of the lovely-eyed \
-> Will drip \
-> Blood \
->  \
-> Cut and throw off the nails of your right hand \
-> Or else \
-> Forget the joys of married life \
-> \
-> Blood \
-> oozes out \
-> from the tender thighs \
-> of that darling child \
-> whom you lift and carry \
-> on your hip \
-> \
-> Cut and throw off the nails of your left hand \
-> Or else \
-> Don't ever more carry that child \
-> \
-> Cut and throw off your nails-they gather dirt. \
-> Cut and throw off your nails-they gather dirt. \
->  \
-> "I may dig out, say I may, \
-> I may dig out the wax from my ears?" \
-> \
-> You may dig out the dirt \
-> You may dig out the dirt \
-> \
-> There is a place for each and every filth \
-> The place may change \
-> And the filth move to the guts \
-> And go and mix with blood \
-> With your blood \
-> \
-> Cut and throw off your nails-they gather dirt. \
-> Cut and throw off your nails-they gather dirt. \
->  \
-> (Transl. K. Zvelebil) \
+>|       Cut and throw off your nails-they gather dirt.
+>|       Cut and throw off your nails-they gather dirt.
+>|      
+>|       The whole world outside is a heap of dirt.
+>|       Why then should nail-corners be so fit for dirt ?
+>|       "I may scratch, say I may,
+>|       I may scratch-my enemy?”
+>|      
+>|       You may scratch, you may tear apart
+>|       In a soothing embrace
+>|       The left arm
+>|       Of the lovely-eyed
+>|       Will drip
+>|       Blood
+>|       
+>|       Cut and throw off the nails of your right hand
+>|       Or else
+>|       Forget the joys of married life
+>|      
+>|       Blood
+>|       oozes out
+>|       from the tender thighs
+>|       of that darling child
+>|       whom you lift and carry
+>|       on your hip
+>|      
+>|       Cut and throw off the nails of your left hand
+>|       Or else
+>|       Don't ever more carry that child
+>|      
+>|       Cut and throw off your nails-they gather dirt.
+>|       Cut and throw off your nails-they gather dirt.
+>|       
+>|       "I may dig out, say I may,
+>|       I may dig out the wax from my ears?"
+>|      
+>|       You may dig out the dirt
+>|       You may dig out the dirt
+>|      
+>|       There is a place for each and every filth
+>|       The place may change
+>|       And the filth move to the guts
+>|       And go and mix with blood
+>|       With your blood
+>|      
+>|       Cut and throw off your nails-they gather dirt.
+>|       Cut and throw off your nails-they gather dirt.
+>|
+>|       ---
+>|       (Transl. K. Zvelebil)
 
 According to Chellappa (*New Voices*, Introd. p. 10), the poem
 caused a furore among the readers. Most of them were shocked
@@ -359,136 +362,146 @@ minds wounded by eyes / there are many scars ..."
 Then follows (87-100) the well-known passage of Tamilnad of
 today:
 
-> Tamiḻakam is neither in the East \
-> Nor quite in the West. \
-> She placed the pan on the stove \
-> But she refused to cook. \
-> Famine and loss \
-> Are the result. \
-> She does not move foreward, \
-> She does not go back. \
-> The present is hanging in the middle. \
-> Hardened tradition and \
-> Settled belief \
-> Locked from inside \
-> Refuse to give a hand \
-> To cut the knot. \
-> What should one do?" \
->  \
-> (Transl. K. Zvelebil) \
+>|       Tamiḻakam is neither in the East
+>|       Nor quite in the West.
+>|       She placed the pan on the stove
+>|       But she refused to cook.
+>|       Famine and loss
+>|       Are the result.
+>|       She does not move foreward,
+>|       She does not go back.
+>|       The present is hanging in the middle.
+>|       Hardened tradition and
+>|       Settled belief
+>|       Locked from inside
+>|       Refuse to give a hand
+>|       To cut the knot.
+>|       What should one do?"
+>|
+>|       ---
+>|       (Transl. K. Zvelebil)
 
 The poem's basic note is pessimistic, full of frustration, even
 cynical (152-161):
 
 
-> "One day: \
-> Unable to bear \
-> Many-coloured sounds \
-> Intonations of old tales \
-> Sweet invitations of darkness \
-> Age? \
-> Twenty seven \
-> Married? \
-> Not yet \
-> Whatever \
-> I would add \
-> Would it be \
-> Any use?" \
->  \
-> (Transl. K. Zvelebil) \
+>|       "One day:
+>|       Unable to bear
+>|       Many-coloured sounds
+>|       Intonations of old tales
+>|       Sweet invitations of darkness
+>|       Age?
+>|       Twenty seven
+>|       Married?
+>|       Not yet
+>|       Whatever
+>|       I would add
+>|       Would it be
+>|       Any use?"
+>|
+>|       ---
+>|       (Transl. K. Zvelebil)
 
 The frustration and the unfulfilled man-woman relationship finds
 powerful expression in lines 285-300:
 
-> "Anger raised at deaf eyes \
-> With the hard pressure \
-> Of a forefinger \
-> He dragged \
-> The weighted cart \
-> Try harder bullock \
-> He said \
-> Stumbling Stuttering \
-> Falling on the bed \
-> When she \
-> Sleep's beauty \
-> Sulked away. \
-> In the blazing sun \
-> Wriggling boneless \
-> This way and that \
-> Struggling dazed \
-> As all women of the world \
-> Turned witches \
-> Feeding fury \
-> Awakened to life \
-> In the bewildered moment \
-> Spent Arose Alive \
-> Hell \
-> Vast Hell". \
->  \
-> (Transl. S. Kokilam) \
+>|       "Anger raised at deaf eyes
+>|       With the hard pressure
+>|       Of a forefinger
+>|       He dragged
+>|       The weighted cart
+>|       Try harder bullock
+>|       He said
+>|       Stumbling Stuttering
+>|       Falling on the bed
+>|       When she
+>|       Sleep's beauty
+>|       Sulked away.
+>|       In the blazing sun
+>|       Wriggling boneless
+>|       This way and that
+>|       Struggling dazed
+>|       As all women of the world
+>|       Turned witches
+>|       Feeding fury
+>|       Awakened to life
+>|       In the bewildered moment
+>|       Spent Arose Alive
+>|       Hell
+>|       Vast Hell".
+>|
+>|       ---
+>|       (Transl. S. Kokilam)
 
 Dharmu Sivaramu from Ceylon with his surrealistic sensitivity
 and expression has a strong sense of form and an intimate feeling
 for nature. His poems are not as direct as Mani's, but his imagery
 is rather striking.
 
-> Daybreak \
-> On the skin of the Earth \
-> Spreading freckles of beauty \
-> Sun copulated \
-> Spreading sperm \
-> Breaking into beams \
-> Blossoms unfold \
-> Gangrenous worms \
->  \
-> Gorge on wings of darkness \
-> Birds bustle \
-> In the wings of light \
->  \
-> (Transl. K. Zvelebil) \
+>|                      Daybreak
+>|
+>|       On the skin of the Earth
+>|       Spreading freckles of beauty
+>|       Sun copulated
+>|       Spreading sperm
+>|       Breaking into beams
+>|       Blossoms unfold
+>|       Gangrenous worms
+>|       
+>|       Gorge on wings of darkness
+>|       Birds bustle
+>|       In the wings of light
+>|
+>|       ---
+>|       (Transl. K. Zvelebil)
 
-> Lightning \
-> The stretching beak \
-> of the bird of skies \
-> A look thrown \
-> on the Earth by the Sun \
-> Streams of nectar \
-> pouring into oceans \
-> Red sceptre \
-> in god's grip \
->
-> (Transl. K. Zvelebil) \
+>|                     Lightning
+>|     
+>|      The stretching beak
+>|      of the bird of skies
+>|      A look thrown
+>|      on the Earth by the Sun
+>|      Streams of nectar
+>|      pouring into oceans
+>|      Red sceptre
+>|      in god's grip
+>|      
+>|      ---
+>|      (Transl. K. Zvelebil)
 
-> Throwing stones \
-> Why do waves \
-> wallow and swell \
-> in the pond of time? \
-> called yesterday and tomorrow \
-> Because drops of stones called today \
-> are flung at it. \
->  \
-> (Transl. K. Zvelebil) \
+>|       Throwing stones
+>|       Why do waves
+>|       wallow and swell
+>|       in the pond of time?
+>|       called yesterday and tomorrow
+>|       Because drops of stones called today
+>|       are flung at it.
+>|
+>|       ---
+>|       (Transl. K. Zvelebil)
 
-> Speech \
-> Listen, beauty speaks \
-> Tender fleshed lips \
-> Sparkling of blood \
-> Slyly inviting \
-> Looks \
-> Youth's freshness like a \
-> Drum \
-> Beats at your eardrums \
-> Against the walls \
-> of flower-petals \
-> Echoes of humming \
-> bees die \
-> Against the curtain of \
-> Kisses \
-> Speech dies \
-> But blood speaks \
-> Silence reverberates \
->  \
-> (Transl. S. Kokilam) \
+>|                      Speech
+>|
+>|       Listen, beauty speaks
+>|       Tender fleshed lips
+>|       Sparkling of blood
+>|       Slyly inviting
+>|       Looks
+>|       Youth's freshness like a
+>|       Drum
+>|       Beats at your eardrums
+>|               Against the walls
+>|               of flower-petals
+>|               Echoes of humming
+>|               bees die
+>|               Against the curtain of
+>|               Kisses
+>|               Speech dies
+>|               But blood speaks
+>|               Silence reverberates
+>|
+>|       ---
+>|       (Transl. S. Kokilam)
 
 
 T. K. Duraiswami (Turaisvāmi) is what Chellappa calles an
@@ -527,28 +540,28 @@ hopefully needs no comment.
 
 S. Vaitheeswaran
 
->  \
-> *Fireflies* \
->  \
-> In every nightly street \
-> sprout trees of lights, \
-> fruits of flames above \
-> shedding milk on the ground. \
-> Furiously flapping \
-> fireflies in futile strain \
-> rise in the air and fail and fall. \
->  \
-> In demi-shadows \
-> jasmin-mouths smell and wed, \
-> lightnings of teeth \
-> and women's hair shine, \
-> and with love's caprice \
-> many pairs of eyes \
-> barter and clash \
-> and become \
-> fireflies. \
->  \
-> (Transl. K. Zvelebil) \
+>|       
+>|                       *Fireflies*
+>|       
+>|       In every nightly street
+>|       sprout trees of lights,
+>|       fruits of flames above
+>|       shedding milk on the ground.
+>|       Furiously flapping
+>|       fireflies in futile strain
+>|       rise in the air and fail and fall.
+>|       
+>|               In demi-shadows
+>|               jasmin-mouths smell and wed,
+>|               lightnings of teeth
+>|               and women's hair shine,
+>|               and with love's caprice
+>|               many pairs of eyes
+>|               barter and clash
+>|               and become
+>|               fireflies.
+>|       
+>|       (Transl. K. Zvelebil)
 
 
 
@@ -570,83 +583,84 @@ The same poet's "Nature" is, in the original, a very powerful poem;
 I feel that the translation of this poem in particular is very difficult,
 and that it does not do justice to the Tamil version.
 
-> The Sun reached the sea \
-> but \
-> Time dragged it ashore. \
-> Fragment of a cloud \
-> floated \
-> as it wiped the body; \
-> cold conquered \
-> with spreading body \
-> one eye winking and shut \
-> Fire rained on Earth \
-> as earth's skin caught \
-> Fire. \
-> \
-> "Why a swing \
-> for him who scorches the body? \
-> Why a festival? \
-> Why a golden gown \
-> for him who tortures life?" \
-> cursed the Earth. \
->  \
-> Suffering fell the Sun: \
-> "What can I do for nature?" \
-> It trembled \
-> With its hands \
-> tore its heart \
-> Knocked its head \
-> against mountains \
-> Shrieked out: \
->  \
-> "If body burns body \
-> must soul hate soul? \
-> If water abates fire \
-> am I the sea's enemy? \
-> See!" It said \
-> as it dived into the sea: \
->  \
-> The sea enwrapped the fire. \
->  \
-> (Transl. S. Kokilam) \
+>|       The Sun reached the sea
+>|       but
+>|       Time dragged it ashore.
+>|       Fragment of a cloud
+>|       floated
+>|       as it wiped the body;
+>|       cold conquered
+>|       with spreading body
+>|       one eye winking and shut
+>|       Fire rained on Earth
+>|       as earth's skin caught
+>|       Fire.
+>|      
+>|       "Why a swing
+>|       for him who scorches the body?
+>|       Why a festival?
+>|       Why a golden gown
+>|       for him who tortures life?"
+>|       cursed the Earth.
+>|       
+>|       Suffering fell the Sun:
+>|       "What can I do for nature?"
+>|       It trembled
+>|       With its hands
+>|       tore its heart
+>|       Knocked its head
+>|       against mountains
+>|       Shrieked out:
+>|       
+>|       "If body burns body
+>|       must soul hate soul?
+>|       If water abates fire
+>|       am I the sea's enemy?
+>|       See!" It said
+>|       as it dived into the sea:
+>|       
+>|       The sea enwrapped the fire.
+>|
+>|       ---
+>|       (Transl. S. Kokilam)
 
 The next poem, one of the best ever written in modern Tamil
 poetry, was translated very well by S. Gopalie.
 
-> *Thorn* \
->  \
-> "Shoe polish ... repair", \
-> shouted the boy. \
-> I flexed my leg \
-> showed him \
-> (the heel); \
-> Scoundrel—He \
-> Cut open my so(u)le \
-> took out the thorn, \
-> took to his heels, \
-> not taking money. \
-> .... now, \
-> my grief keeps raging: \
-> the thorn removed from the heel, \
-> has moved into my soul \
-> for good. \
+>|                       *Thorn*
+>|       
+>|       "Shoe polish ... repair",
+>|       shouted the boy.
+>|       I flexed my leg
+>|       showed him
+>|       (the heel);
+>|       Scoundrel—He
+>|       Cut open my so(u)le
+>|       took out the thorn,
+>|       took to his heels,
+>|       not taking money.
+>|       .... now,
+>|       my grief keeps raging:
+>|       the thorn removed from the heel,
+>|       has moved into my soul
+>|       for good.
 
 Vaitheeswaran is also capable of very short epigrammatic
 poetic jokes like the following two pieces:
 
-> Flesh*-cart* \
->  \
-> In the flesh-cart \
-> dragged by man \
-> the tugging horse \
-> said: "Hi, hi, hi!" \
+>|                        *Flesh-cart*
+>|         
+>|         In the flesh-cart
+>|         dragged by man
+>|         the tugging horse
+>|         said: "Hi, hi, hi!"
 
-> *Fear* \
->  \
-> In fear of darkness \
-> I closed the door of my eye-lids. \
-> "Nruff!" said the \
-> New darkness inside. \
+>|                      *Fear*
+>|      
+>|      In fear of darkness
+>|      I closed the door of my eye-lids.
+>|      "Nruff!" said the
+>|      New darkness inside.
 
 T. S. Venugopalan is considered by some the most original and
 the most gifted of all 'new poets', the one who “has everything in
@@ -657,193 +671,197 @@ remind the reader of the great achievements of classical Tamil
 poetry of the *'Cankam'* age. Here is how he sees the Moon, a constant
 companion of poets in India.
 
-> They call her Princess. \
-> I haven't seen her \
-> For many many days! \
-> Now I met her. \
-> It was \
-> When she fell \
-> Pitifully \
-> Into the well of your house \
-> And you called out \
-> To save her \
-> And stretched out your hand. \
-> Then \
-> Today in the night \
-> In the good water well of *my* garden \
-> Oh me! \
-> Slipping out of her garments \
-> She bent her body \
-> And lured me \
-> With her winking eyes \
-> Shshsh \
-> ocking! \
-> Back with your outstretched hand! \
-> Come back! \
-> No ... Wait. \
-> Take a stone. \
-> And before Jesus comes \
-> Throw and strike! \
-> Let the hands of waves \
-> Sweep away \
-> That vile vicious glee \
-> Off the Moon's face. \
-> ......... \
-> Cut off and throw away \
-> The hands outstretched \
-> To touch her and to lift \
-> Her up \
-> The leprosy of lust \
-> Sticky and glutionous \
-> Will corrupt \
-> Your form! \
-> ........ \
-> Shameless harlot \
-> Look at her \
-> The Moon \
->  \
-> (Transl. K. Zvelebil) \
+>|         They call her Princess.
+>|         I haven't seen her
+>|         For many many days!
+>|         Now I met her.
+>|         It was
+>|         When she fell
+>|         Pitifully
+>|         Into the well of your house
+>|         And you called out
+>|         To save her
+>|         And stretched out your hand.
+>|         Then
+>|         Today in the night
+>|         In the good water well of *my* garden
+>|         Oh me!
+>|         Slipping out of her garments
+>|         She bent her body
+>|         And lured me
+>|         With her winking eyes
+>|         Shshsh
+>|         ocking!
+>|         Back with your outstretched hand!
+>|         Come back!
+>|         No ... Wait.
+>|         Take a stone.
+>|         And before Jesus comes
+>|         Throw and strike!
+>|         Let the hands of waves
+>|         Sweep away
+>|         That vile vicious glee
+>|         Off the Moon's face.
+>|         .........
+>|         Cut off and throw away
+>|         The hands outstretched
+>|         To touch her and to lift
+>|         Her up
+>|         The leprosy of lust
+>|         Sticky and glutionous
+>|         Will corrupt
+>|         Your form!
+>|         ........
+>|         Shameless harlot
+>|         Look at her
+>|         The Moon
+>|
+>|         ---
+>|         (Transl. K. Zvelebil)
 
 In another poem, he addresses Siva, the dancer of doom and
 destruction.
 
-> *What sense* \
->  \
-> You burst \
-> With struggling curves \
-> Your belly turns \
-> Folding in \
-> Waves \
-> Why such burning fury? \
-> What silent weight was \
-> Born \
-> In your soul and then \
-> Grew and crushed? \
-> Burning sighs \
->  \
-> Leapt across the larynx \
-> And gurgled. Why? \
-> Through the corners of your mouth \
-> Drips \
-> The juice of the betel-leaf \
->  \
-> And burns tender shoots \
-> And blackens the earth. Why? \
-> Toothless hag's abuse \
-> A little child's hiccups \
-> Why did they become your speech? \
->  \
-> A gopuram \
-> And a few palaces \
-> Slid scattered and died: \
-> And you \
-> Though feeling the flow of time \
->  \
-> What reason you give \
-> For burning poor huts \
-> Turning them \
-> Into dust? \
->  \
-> What sense has \
-> Your \
-> Demoniac dance? \
->  \
-> (Transl. S. Kokilam) \
+>|                         *What sense*
+>|         
+>|         You burst
+>|         With struggling curves
+>|         Your belly turns
+>|         Folding in
+>|         Waves
+>|         Why such burning fury?
+>|         What silent weight was
+>|         Born
+>|         In your soul and then
+>|         Grew and crushed?
+>|         Burning sighs
+>|         
+>|                 Leapt across the larynx
+>|                 And gurgled. Why?
+>|                 Through the corners of your mouth
+>|                 Drips
+>|                 The juice of the betel-leaf
+>|         
+>|         And burns tender shoots
+>|         And blackens the earth. Why?
+>|         Toothless hag's abuse
+>|         A little child's hiccups
+>|         Why did they become your speech?
+>|         
+>|                 A gopuram
+>|                 And a few palaces
+>|                 Slid scattered and died:
+>|                 And you
+>|                 Though feeling the flow of time
+>|         
+>|         What reason you give
+>|         For burning poor huts
+>|         Turning them
+>|         Into dust?
+>|         
+>|             What sense has
+>|             Your
+>|             Demoniac dance?
+>|
+>|         ---
+>|         (Transl. S. Kokilam)
 
 As an instance of his symbolic, "metaphysical" poetry, here is a
 piece called *Ňānam* ("Enlightenment, Knowledge, Wisdom").
 
-> The doors of the porch, frame; \
-> Wind breaks. \
-> The dust of the streets \
-> Adheres \
-> To these. \
-> White ants \
-> Build \
-> Sand houses. \
->  \
-> That day \
-> I cleaned, \
-> Painted, \
-> A new lock \
-> I fixed. \
->  \
-> Ass of time \
-> Turned ant \
-> Even today \
-> In my \
-> hand \
-> A bucket of water, \
-> Pail of paint, \
-> Rags, broomstick; \
->  \
-> Work of *dharma* \
-> Service of charity \
-> Never ends. \
->  \
-> If it ends \
-> There is no world! \
->  \
-> (Transl. S. Kokilam) \
+>|       The doors of the porch, frame;
+>|       Wind breaks.
+>|       The dust of the streets
+>|       Adheres
+>|       To these.
+>|       White ants
+>|       Build
+>|       Sand houses.
+>|       
+>|       That day
+>|       I cleaned,
+>|       Painted,
+>|       A new lock
+>|       I fixed.
+>|       
+>|       Ass of time
+>|       Turned ant
+>|       Even today
+>|       In my
+>|       hand
+>|       A bucket of water,
+>|       Pail of paint,
+>|       Rags, broomstick;
+>|       
+>|             Work of *dharma*
+>|             Service of charity
+>|             Never ends.
+>|             If it ends
+>|             There is no world!
+>|
+>|       ---
+>|       (Transl. S. Kokilam)
 
 
-> *Literary experience* \
->  \
-> Two ways \
-> To be told \
-> With thought \
-> Without thinking! \
-> A swirl or \
-> A blind-fold: \
->  \
-> For both \
-> The meaning \
-> Is expressed by the poet! \
-> Pictured by the artist! \
-> The one who gazed \
-> You and I only \
-> (For shame) \
-> Are the readers' crowd! \
->  \
-> (Transl. S. Kokilam) \
+>|                         *Literary experience*
+>|         
+>|         Two ways
+>|         To be told
+>|         With thought
+>|         Without thinking!
+>|         A swirl or
+>|         A blind-fold:
+>|         
+>|         For both
+>|         The meaning
+>|         Is expressed by the poet!
+>|         Pictured by the artist!
+>|         The one who gazed
+>|         You and I only
+>|         (For shame)
+>|         Are the readers' crowd!
+>|
+>|         ---
+>|         (Transl. S. Kokilam)
 
 Finally, a poem on sterility, in a very able translation into English
 by S. Gopalie.
 
-> I heard a cry \
-> from the next door. \
-> Sweets followed suit. \
-> The bride \
-> in her maiden \
-> nuptial night \
-> grabbed her \
-> lower abdomen. \
-> Can you conquer time \
-> tearing the calender? \
-> Why wish for ergot \
-> without the wait \
-> and pain attending upon it? \
-> No use moping and mooning, \
-> If you don't care to see \
-> the genuine from the fake. \
-> Not all that sprouts \
-> is great. \
+>|       I heard a cry
+>|       from the next door.
+>|       Sweets followed suit.
+>|       The bride
+>|       in her maiden
+>|       nuptial night
+>|       grabbed her
+>|       lower abdomen.
+>|       Can you conquer time
+>|       tearing the calender?
+>|       Why wish for ergot
+>|       without the wait
+>|       and pain attending upon it?
+>|       No use moping and mooning,
+>|       If you don't care to see
+>|       the genuine from the fake.
+>|       Not all that sprouts
+>|       is great.
 
 And an epigrammatic poem by T. S. Venugopalan, entitled
 
-> *Old greatness* \
->  \
-> Curried mango-seed \
-> Spoke of noble ancestry; \
-> I planted and waited; \
-> The vast tree \
-> and its fruits \
-> turned out a shadow! \
-> Wriggled out \
-> only \
-> a worm! \
->  \
-> (Transl. S. Kokilam) \
+>|                       *Old greatness*
+>|       
+>|       Curried mango-seed
+>|       Spoke of noble ancestry;
+>|       I planted and waited;
+>|       The vast tree
+>|       and its fruits
+>|       turned out a shadow!
+>|       Wriggled out
+>|       only
+>|       a worm!
+>|
+>|       ---
+>|       (Transl. S. Kokilam)
 
 While Vaitheeswaran is more emotional, more lyrical, more
 personal, more traditional, T. S. Venugopalan is more intellectual,
@@ -862,8 +880,8 @@ at vers libre, "prose-poetry" (*vacanak kavitai*) and other formal
 experiments was and still is part of the credo of the "new poets";
 cf. *Eḻuttu* 61 where a "new poet" says
 
-> "A poem tied by prosody \
-> is like the Käviri tied by dams". \
+>|       "A poem tied by prosody
+>|       is like the Käviri tied by dams".
 
 
 However, it seems[^selvam-essay-modern-prosody] that even the most “rebellious" formal
@@ -889,28 +907,31 @@ of each first feet of the four distichs.
 [^selvam-essay-modern-prosody]: Cf. a very interesting essay on classical and modern prosody by Selvam
 (Celvam) in *Naṭai,* 3, April 1969.
 
-*kakanap paravai*
-*nīṭṭum alaku*
-katirōn *nilattil*
-*eriyum pārvai*
-*katalul valiyum*
-*amirtat tārai*
-*kaṭavuḷ unrum*
-cenkōl
+|                    |            |
+|--------------------|------------|
+| *kakanap paravai*  | ＝ － ＝ － |
+| *nīṭṭum alaku*     | － － ＝ － |
+| katirōn *nilattil* | ＝ － ＝ － |
+| *eriyum pārvai*    | ＝ － － － |
+| *katalul valiyum*  | ＝ － ＝ － |
+| *amirtat tārai*    | ＝ － － － |
+| *kaṭavuḷ unrum*    | ＝ － － － |
+| *cenkōl*           | － －      |
+
+
 
 Even very daring instances like
 
-ki
-*уй*
-vi
-*lē*
-orē *kūṭṭam*
-*(Eluttu* 91)
-in
-the
-que
-ue
-one crowd
+| | |
+|-|-|
+| *ki* | in |
+| *уū* | the |
+| vi | que |
+| *lē* | ue |
+| orē *kūṭṭam* | one crowd |
+| --- | |
+| *(Eluttu* 91) | |
+
 
 may be reconciled with tradition: according to Mr. Selvam, the
 author of the cited essay on prosody (see ftn. 1, 331), such formal
@@ -965,124 +986,129 @@ out of its lethargy, apathy and sterility.
 
 Hari Sreenivasan
 
-> *Weep* \
->  \
-> Weep Weep Weep \
-> Only if you weep you'll get milk \
-> But \
-> Don't forget \
-> There's salt in tears \
-> Beware \
-> The milk \
-> Will curdle \
+>|       *Weep*
+>|       
+>|       Weep Weep Weep
+>|       Only if you weep you'll get milk
+>|       But
+>|       Don't forget
+>|       There's salt in tears
+>|       Beware
+>|       The milk
+>|       Will curdle
 
 Tuṟai Seenisami
 
-> *Unquenchable hunger* \
->  \
-> Like bodiless souls \
-> Moving about \
-> The overwhelming peace \
-> Of pitch darkness \
-> Makes me dazed \
-> There is no moon \
-> Upon the blue cake \
-> Dots of stars are \
-> Suger-coated drops \
-> I became hungry \
-> Opening the mouth of sight \
-> I gorged the whole night \
-> But I am still hungry \
+>|                       *Unquenchable hunger*
+>|       
+>|       Like bodiless souls
+>|       Moving about
+>|       The overwhelming peace
+>|       Of pitch darkness
+>|       Makes me dazed
+>|       There is no moon
+>|       Upon the blue cake
+>|       Dots of stars are
+>|       Suger-coated drops
+>|       I became hungry
+>|       Opening the mouth of sight
+>|       I gorged the whole night
+>|       But I am still hungry
 
 V. Mali
 
-> *Question. Answer*? \
->  \
-> For many days one could watch \
-> hips and shins dancing. \
-> Everyone admired it with respect. \
-> One day one could see \
-> thighs and nipples dance. \
-> Everyone rose in boiling wrath. \
-> She asked: \
-> How is it \
-> that this \
-> is \
-> more obscene than \
-> that? \
->  \
-> *Mini Age* \
->  \
-> Mini age is \
-> born. \
-> Big \
-> man's \
-> might vanished. \
-> NOW it is \
-> mini peoples' time. \
-> Man I forgot \
-> minimen's deeds praised. Hear \
-> my crooked speech. \
-> My! When you ask how I k \
-> NOW I am a \
-> mini poet. \
->  \
-> *How's*...? \
->  \
-> Two sadhus were \
-> talking. \
->  \
-> My god is a treasure! \
-> He loves the poor and the rich alike. \
->  \
-> How's your god? \
-> My god? \
-> He is the Lord God of the Ecran[^pun] \
-> Who loves the screen-stars. \
->
-> (Transl. K. Zvelebil) \
+>|                       *Question. Answer*?
+>|       
+>|       For many days one could watch
+>|       hips and shins dancing.
+>|       Everyone admired it with respect.
+>|       One day one could see
+>|       thighs and nipples dance.
+>|       Everyone rose in boiling wrath.
+>|       She asked:
+>|       How is it
+>|       that this
+>|       is
+>|       more obscene than
+>|       that?
+
+>|                       *Mini Age*
+>|       
+>|       Mini age is
+>|       born.
+>|       Big
+>|       man's
+>|       might vanished.
+>|       NOW it is
+>|       mini peoples' time.
+>|       Man I forgot
+>|       minimen's deeds praised. Hear
+>|       my crooked speech.
+>|       My! When you ask how I k
+>|       NOW I am a
+>|       mini poet.
+
+>|                       *How's*...?
+>|       
+>|       Two sadhus were
+>|       talking.
+>|       
+>|       My god is a treasure!
+>|       He loves the poor and the rich alike.
+>|       How's your god?
+>|
+>|       My god?
+>|       He is the Lord God of the Ecran[^pun]
+>|       Who loves the screen-stars.
+>|
+>|       ---
+>|       (Transl. K. Zvelebil)
 
 [^pun]: A fine pun in the original: *tirainat cattivankaļ* virumpum | *tiraippatik*
 *kaṭavuḷ tān*.
 
 Sh. Subbiah
 
-> To *Westerners* \
-> We are not like you \
-> on the one hand \
-> who \
-> wield a way to live \
-> and on the other \
-> dig out a grave to die. \
->  \
-> But we \
-> we do not long for life \
-> we do not dare to die. \
-> We are not \
-> like you. \
-> We are we \
-> lifelessly alive, \
-> dying undying. \
->  \
-> (Transl. K. Zvelebil) \
->  \
-> *Lullaby* \
->  \
-> Why do you weep \
-> when no one beat you? \
-> Is it \
-> because you hate me \
-> that I tried \
-> hard \
-> that you should not be born? \
-> Why do you laugh \
-> when no one made you? \
-> Is it \
-> because you deceived me \
-> by the joke of being born \
-> forlorn? \
->  \
-> (Transl. K. Zvelebil) \
+>|                       *To Westerners*
+>|
+>|       We are not like you
+>|       on the one hand
+>|                       who
+>|       wield a way to live
+>|
+>|       and on the other
+>|       dig out a grave to die.
+>|       
+>|       But we
+>|           we do not long for life
+>|           we do not dare to die.
+>|       We are not
+>|       like you.
+>|       We are we---
+>|                   lifelessly alive,
+>|                   dying undying.
+>|
+>|       ---
+>|       (Transl. K. Zvelebil)
+
+>|                       *Lullaby*
+>|       
+>|       Why do you weep
+>|       when no one beat you?
+>|       Is it
+>|       because you hate me
+>|           that I tried
+>|               hard
+>|               that you should not be born?
+>|       Why do you laugh
+>|       when no one made you?
+>|       Is it
+>|       because you deceived me
+>|           by the joke of being born
+>|                              forlorn?
+>|
+>|       ---
+>|       (Transl. K. Zvelebil)
 
 It is a decade now since the "new poets" began their conscious
 attempts to evolve a new Tamil idiom, to write, uninhibitedly,

@@ -345,25 +345,26 @@ privileged recognition of the transiency of life, than with any kind
 of egalitarianism and "universal brotherhood" which had been
 read into the opening line of this beautiful poem.
 
-<blockquote>
-Any town our home-town, every man a kinsman.<br/>
-Evil and good are not things brought<br/>
-by others; neither pain, nor relief of pain.<br/>
-Death is nothing new. We do not rejoice.<br/>
-that living is sweet, nor resent it.<br/>
-for not being so.<br/>
-Life's way is like the raft's<br/>
-when the restless descending waters lash on the rocks<br/>
-as lightening skies pour down the rains<br/>
-we know this very well<br/>
-from the vision of the Open-eyed Ones.<br/>
-So we do not marvel at those<br/>
-big with excellence, nor scorn<br/>
-the little ones.<br/>
 
-*Puṟam* 192<br/>
-Translation: A. K. Ramanujan<br/>
-</blockquote>
+>|       Any town our home-town, every man a kinsman.
+>|       Evil and good are not things brought
+>|       by others; neither pain, nor relief of pain.
+>|       Death is nothing new. We do not rejoice.
+>|       that living is sweet, nor resent it.
+>|       for not being so.
+>|       Life's way is like the raft's
+>|       when the restless descending waters lash on the rocks
+>|       as lightening skies pour down the rains
+>|       we know this very well
+>|       from the vision of the Open-eyed Ones.
+>|       So we do not marvel at those
+>|       big with excellence, nor scorn
+>|       the little ones.
+>|       
+>|       ---
+>|       *Puṟam* 192
+>|       Translation: A. K. Ramanujan
+
 
 
 The ideal of human life was to be achieved in this life; and it was
@@ -393,41 +394,43 @@ poetry, it means "great, noble men" (in the moral sense). A stanza,
 *Puṟam* 182, maintains that the world exists as a liveable place because
 such perfect men exist.
 
-> This world lives because \
-> some men do not eat alone, even the sweetest things, \
-> nor even the food of the gods \
-> earned by grace and penance; \
-> they have no anger in them; \
-> they do not fear evils that other men fear, \
-> nor sleep over them; \
-> they give their lives for glory \
-> but will not touch the gifts of the whole worlds \
-> if it should be tainted; \
-> they have no faintness in their hearts, \
-> and strive not for themselves \
-> but for others; \
-> this world is, \
-> because such men are. \
->
-> *Puṟam* 182 \
-> Translation: A. K. Ramanujan \
+>|       This world lives because
+>|       some men do not eat alone, even the sweetest things,
+>|       nor even the food of the gods
+>|       earned by grace and penance;
+>|       they have no anger in them;
+>|       they do not fear evils that other men fear,
+>|       nor sleep over them;
+>|       they give their lives for glory
+>|       but will not touch the gifts of the whole worlds
+>|       if it should be tainted;
+>|       they have no faintness in their hearts,
+>|       and strive not for themselves
+>|       but for others;
+>|       this world is,
+>|       because such men are.
+>|
+>|       ---
+>|       *Puṟam* 182
+>|       Translation: A. K. Ramanujan
 
 Again, in another stanza of the anthology, *Puṟam* 191, we may
 read the following lines:
 
-> You ask me how it is \
-> my hair is not gray \
-> though I am full of years. Then listen: \
-> a wife's excellence; children fulfilled; \
-> dear ones wishing me what I wish \
-> for myself; a king who will do nothing \
-> that isn't done; and in the town \
-> where I live, several men \
-> full of virtue, courtesy, \
-> masters of their senses. \
->
-> *Puṟam* 191 \
-> Translation: A. K. Ramanujan \
+>|       You ask me how it is
+>|       my hair is not gray
+>|       though I am full of years. Then listen:
+>|       a wife's excellence; children fulfilled;
+>|       dear ones wishing me what I wish
+>|       for myself; a king who will do nothing
+>|       that isn't done; and in the town
+>|       where I live, several men
+>|       full of virtue, courtesy,
+>|       masters of their senses.
+>|       
+>|       ---
+>|       *Puṟam* 191
+>|       Translation: A. K. Ramanujan
 
 The same idea reappears later in the *Tirukkuṟaḷ* (e.g. in 571, 996);
 *paṇpuṭaiyār paṭṭuṉ tulakam*; *atuviṉṟeṉ*
@@ -496,16 +499,16 @@ face".
 Women were as brave and as thirsty for fame as men: cf. this
 amazing poem, *Puṟam* 86:
 
-> You stand against the pillar \
-> of my hut and ask me: \
-> Where is your son? \
-> I don't really know. \
-> My womb is only a lair \
-> for that tiger. \
-> You can see him now \
-> only in battlefields. \
->
-> Translation: A. K. Ramanujan \
+>|       You stand against the pillar
+>|       of my hut and ask me:
+>|       Where is your son?
+>|       I don't really know.
+>|       My womb is only a lair
+>|       for that tiger.
+>|       You can see him now
+>|       only in battlefields.
+>|       ---
+>|       Translation: A. K. Ramanujan
 
 With the longing for battle and thirst for fame is naturally
 connected the earliest Tamil conception of heaven. It is a hero's

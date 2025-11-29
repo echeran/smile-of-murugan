@@ -574,17 +574,21 @@ are indispensable parts of human life. And in the *Kāmattuppāl,*
 we have the lover and his sweetheart in physical and emotional
 rapture, described in about 250 charming couplets:
 
-> "Shall I draw back, or yield myself, or shall both mingled be, \
-> When he returns, my spouse, dear as these eyes to me" \
-> \ \ \ \ \ \ \ \ \ \ (Pope, 1267).
+>|       "Shall I draw back, or yield myself, or shall both mingled be,
+>|       When he returns, my spouse, dear as these eyes to me"
+>|       
+>|       ---
+>|       (Pope, 1267).
 
-> "Withdraw, it burns; approach, it soothes the pain; \
-> Whence did the maid this wondrous fire obtain ?" \
-> \ \ \ \ \ \ \ \ \ \ (Pope, 1104).
+>|       "Withdraw, it burns; approach, it soothes the pain;
+>|       Whence did the maid this wondrous fire obtain ?"
+>|       ---
+>|       (Pope, 1104).
 
-> "A double witchery have glances of her liquid eyes; \
-> One glance is glance that brings me pain; the other heals again" \
-> \ \ \ \ \ \ \ \ \ \ (Pope, 1091).
+>|       "A double witchery have glances of her liquid eyes;
+>|       One glance is glance that brings me pain; the other heals again"
+>|       ---
+>|       (Pope, 1091).
 
 If there is true poetry anywhere in the *Tirukkuṟaḷ,* it is here, in
 the erotic couplets of the third book. Because here, the teacher, the
@@ -615,11 +619,11 @@ line contains four feet, the second three feet.
 
 As an instance, a typical *kuraļveṇpā* (393) is quoted here:
 
-> *kannutaiya renpavar karrōr mukattirantu* \
-> *punnutaiyar kallā tavar* \
-> 
-> "The learned men alone are said to have eyes: \
-> the unlearned have but a pair of sores in their face". \
+>|      *kannutaiya renpavar karrōr mukattirantu*
+>|      *punnutaiyar kallā tavar*
+>|      
+>|      "The learned men alone are said to have eyes:
+>|      the unlearned have but a pair of sores in their face".
 
 Its metric structure is:
 

@@ -246,21 +246,21 @@ The young couple, Kōvalaṉ and Kaṇṇaki, keep, for some time,
 a quiet and happy home, spending "sweet, pleasure-filled days in
 close embrace". Kōvalaṉ loves Kaṇṇaki tenderly and passionately.
 
-> "Flawless gold, \
-> translucent pearl, \
-> unblemished seed, \
-> sweet sugar cane, \
-> honey, \
-> rare maid!" [^kokilam]
+>|       "Flawless gold,
+>|       translucent pearl,
+>|       unblemished seed,
+>|       sweet sugar cane,
+>|       honey,
+>|       rare maid!" [^kokilam]
 
 That is how he calls her. But the fore-taste of the tragedy is there,
 at the very beginning of the poem.
 
-> "Kovalan and Kaṇṇaki lay entwined \
-> like two black serpents on their couch, \
-> drank to its depth their cup of love, \
-> already having felt, perhaps, \
-> how transient is human joy." [^danielou1]
+>|       "Kovalan and Kaṇṇaki lay entwined
+>|       like two black serpents on their couch,
+>|       drank to its depth their cup of love,
+>|       already having felt, perhaps,
+>|       how transient is human joy." [^danielou1]
 
 Then Kōvalaṉ abandons Kaṇṇaki for Mātavi, the dancing girl,
 who lives in grand style, lures her lover to the fashionable resorts of

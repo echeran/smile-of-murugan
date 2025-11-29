@@ -1227,16 +1227,16 @@ may be distinguished by a true *connoisseur* of sophisticated poetry.
 Thus a charming and seemingly simple stanza(*tanipāṭal*) beginning
 in Ta. *ella utukkāṇ* says:
 
-> Look \
-> there \
-> my lord \
-> near that lovely pond \
-> with its broad green lotus leaves \
-> the heron \
-> motionless and without fear \
-> stands shining \
-> like a white and golden \
-> conch. \
+>|      Look
+>|      there
+>|      my lord
+>|      near that lovely pond
+>|      with its broad green lotus leaves
+>|      the heron
+>|      motionless and without fear
+>|      stands shining
+>|      like a white and golden
+>|      conch.
 
 This stanza, a simple picture of a quiet scene, has three layers of
 meaning. The first “obvious" meaning "on the surface" *(corporu*!)

@@ -173,71 +173,74 @@ utilised the ideal descriptions of the *aintiṇai* found in the early
 classical literature; the five ideal landscapes appear quite significantly
 in stanzas 23 ff. The fact is very obvious e.g. in stanza 28:
 
-> Turning forest into slope, \
-> field into wilderness, \
-> seashore into fertile land, \
-> changing boundaries, exchanging \
-> landscapes, \
-> \ \ \ \ \ \ \ \ the reckless waters \
-> roared on like the pasts \
-> that hurry close on the heels \
-> of lives. \
->
-> (Transl. A. K. Ramanujan) \
+>|       Turning forest into slope,
+>|       field into wilderness,
+>|       seashore into fertile land,
+>|       changing boundaries, exchanging
+>|       landscapes,
+>|               the reckless waters
+>|       roared on like the pasts
+>|       that hurry close on the heels
+>|       of lives.
+>|      
+>|       ---
+>|       (Transl. A. K. Ramanujan)
 
 Not only that: the entire opening passage on waters, taking many
 shapes and forms, is unique, characteristically Tamil, and none of
 this is in Väālmīki.
 
-> Caressing the lover's hair, \
-> the lovers' body, the lovers' limbs \
-> concubines take away whole hills \
-> of wealth yet keep little \
-> in their spendthrift hands \
-> as they move on: \
-> \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ so the waters \
-> flow from the peaks to the valleys \
-> beginning high and reaching low. \
-> (17)
->
-> Born of Himalayan stone \
-> and mingling with the seas, \
-> it spreads, ceaselessly various, \
-> one and many at once, \
-> like that Original Thing \
-> even the measureless Vedas \
-> cannot measure with words. \
-> (30) \
->
-> Through pollen-dripping groves \
-> lotus pools \
-> clumps of champak \
-> waterplaces with new sands \
-> flowering fields cross-fenced \
-> with creepers \
-> like a life filling and emptying \
-> a variety of bodies \
-> the river flowed on. \
-> (29) \
->
-> (Transl.: A. K. Ramanujan) \
+>|       Caressing the lover's hair,
+>|       the lovers' body, the lovers' limbs
+>|       concubines take away whole hills
+>|       of wealth yet keep little
+>|       in their spendthrift hands
+>|       as they move on:
+>|                       so the waters
+>|       flow from the peaks to the valleys
+>|       beginning high and reaching low.
+>|       (17)
+>|      
+>|       Born of Himalayan stone
+>|       and mingling with the seas,
+>|       it spreads, ceaselessly various,
+>|       one and many at once,
+>|       like that Original Thing
+>|       even the measureless Vedas
+>|       cannot measure with words.
+>|       (30)
+>|      
+>|       Through pollen-dripping groves
+>|       lotus pools
+>|       clumps of champak
+>|       waterplaces with new sands
+>|       flowering fields cross-fenced
+>|       with creepers
+>|       like a life filling and emptying
+>|       a variety of bodies
+>|       the river flowed on.
+>|       (29)
+>|      
+>|       ---
+>|       (Transl.: A. K. Ramanujan)
 
 Like god, the rains and the floods take the form of many things,
 like god appearing so different in the beliefs of various sects, water
 takes many different forms according to the shapes men give it.
 
-> Stealing milk and buttermilk, \
-> guzzling on warm ghee and butter \
-> straight from the pots on the ropes, \
-> leaning the *marutam* tree on the *kuruntam*, \
-> carrying away the clothes and bracelets \
-> of goatherd girls at watergames \
-> Like Kṛṣṇa dancing \
-> on the striped and spotted snake \
-> the waters are naughty. \
-> (26) \
-> \
-> (Transl. A. K. Ramanujan) \
+>|       Stealing milk and buttermilk,
+>|       guzzling on warm ghee and butter
+>|       straight from the pots on the ropes,
+>|       leaning the *marutam* tree on the *kuruntam*,
+>|       carrying away the clothes and bracelets
+>|       of goatherd girls at watergames
+>|       Like Kṛṣṇa dancing
+>|       on the striped and spotted snake
+>|       the waters are naughty.
+>|       (26)
+>|
+>|       ---
+>|       (Transl. A. K. Ramanujan)
 
 The ideal city, Ayodhyā, the seat of civilization, is governed by
 the ideal of *aṟam (dharma*), “rightness, righteousness, justice”;
@@ -419,19 +422,17 @@ Cūrppanakai, the sister of Irāvaṇaṉ, comes into Rāma's presence
 creeper, like poison, like the daughter of wickedness". Listen to the
 measure of her footfall:
 
-> *paňciyolir viňcukulir pallavama nunka* \
-> *ceňceviya kaňcanimir cīraṭiya ļāki* \
-> *ancoliļa maňňaiyena vannamena minnum* \
-> *vaйciyena naňcamena vaňcamakaļ vantāl* \
+> *paňciyoḷir viňcukuḷir pallavama nunka* \
+> *ceňceviya kaňcanimir cīraṭiya ḷāki* \
+> *ancoliḷa maňňaiyena vannamena minnum* \
+> *vaňciyena naňcamena vaňcamakaḷ vantāḷ* \
 >
 > *(Ārāṇyakkāṇṭam,* Cūrppanakaip. 24) \
 
 The fascinating, regular metrical pattern is definitely suggestive
 of the triumphant, dance-like, wicked rhythm of her gait:
 
-
--/-/
-
+    － ＝ － / － ＝ － / － ＝ － / － －
 
 What is, however, so impressive, is the sound-symbolism of this
 stanza; by an extremely skillful use of high and front vowels and
@@ -470,42 +471,42 @@ Another example in a very different tune; grandeur is the
 *"Leitmotif"* in these lines-the grandeur of Rāvaṇa, with the grave
 and somber notes after his first "taste of defeat at Rāma's hands":
 
-> *vāraṇam* poruta *mārpum varaiyinai yelutta tōļum* \
-> *nārata munivark kērpa nayampala vuraitta nāvum* \
-> *tāraṇi mauli pattum cankaran kolutta vāļum* \
-> *vīramum kaļattē pōṭṭu verunkaiyō ṭilankai pukkān* \
->
-> *(Yuttakkāṇṭam*, *Kumpakaruṇanvalaip*. 1) \
->
-> "The chest that withstood mammoths, \
-> the shoulders that lifted mountains, \
-> the tongue that spoke words fluent as Nārada's, \
-> and all the ten garlanded crowns, \
-> the sword given by Sankara \
+>|       *vāraṇam* poruta *mārpum varaiyinai yelutta tōļum*
+>|       *nārata munivark kērpa nayampala vuraitta nāvum*
+>|       *tāraṇi mauli pattum cankaran kolutta vāļum*
+>|       *vīramum kaļattē pōṭṭu verunkaiyō ṭilankai pukkān*
+>|      
+>|       *(Yuttakkāṇṭam*, *Kumpakaruṇanvalaip*. 1)
+>|      
+>|       "The chest that withstood mammoths,
+>|       the shoulders that lifted mountains,
+>|       the tongue that spoke words fluent as Nārada's,
+>|       and all the ten garlanded crowns,
+>|       the sword given by Sankara
 
 and his valour
 
-> all this he left on the battlefield \
-> and empty-handed \
-> entered Laṅkā". \
+>|       all this he left on the battlefield
+>|       and empty-handed
+>|       entered Laṅkā".
 
 Third instance: Rāma, anxious and impatient, awaits Hanumān's
 return from Laṅkā, where he went as Rāma's scout to find out
 about Sītā. His very first words, when he appears before Rāma:
 
-> *kantanan* karpinuk *kaṇiyaik kankalāl* \
-> *tentirai yalaikaṭa lilankait tennakar* \
-> *antar nayaka vinituratti yaiyamum* \
-> *pantula tuyaru mennanumān pannuvān* \
-> "I saw \
-> the ornament of virtue \
-> with these eyes \
-> in Laṅkā, the Southern City, \
-> set in a swaying ocean of clear waves! \
-> O Lord of the gods! \
-> Banish all doubt now \
-> and all past suffering! \
-> So said Hanumān”. \
+>|       *kantanan* karpinuk *kaṇiyaik kankalāl*
+>|       *tentirai yalaikaṭa lilankait tennakar*
+>|       *antar nayaka vinituratti yaiyamum*
+>|       *pantula tuyaru mennanumān pannuvān*
+>|       "I saw
+>|       the ornament of virtue
+>|       with these eyes
+>|       in Laṅkā, the Southern City,
+>|       set in a swaying ocean of clear waves!
+>|       O Lord of the gods!
+>|       Banish all doubt now
+>|       and all past suffering!
+>|       So said Hanumān”.
 
 
 

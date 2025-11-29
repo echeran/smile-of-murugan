@@ -876,14 +876,14 @@ and also *patam,* “the foot”; *aṭi*, “the footstep” of the Lord. One o
 the diagnostic features of his poetry is also his preoccupation with
 Śiva's abodes.
 
-> In his ears, he has the palm-leaf roll; \
-> riding a steer, crowned with the pure white crescent-moon, \
-> besmeared with ashes of the jungle burning ground, \
-> he is the thief who stole away my soul. \
-> He wears a flower-garland, he, who in former days \
-> when praised and worshipped, showered grace \
-> and came to famous Brahmapuram. \
-> He is our mighty Lord! \
+>|       In his ears, he has the palm-leaf roll;
+>|       riding a steer, crowned with the pure white crescent-moon,
+>|       besmeared with ashes of the jungle burning ground,
+>|       he is the thief who stole away my soul.
+>|       He wears a flower-garland, he, who in former days
+>|       when praised and worshipped, showered grace
+>|       and came to famous Brahmapuram.
+>|       He is our mighty Lord!
 
 In contrast to Campantar, the poems by Appar are almost
 exclusively emotional. There is rich material connected with the
@@ -898,14 +898,14 @@ of the *Cittar* and of Tāyumāṉavar.
 One of his best-known poems begins with the line *nāmārkum*
 *kutiyallōm namaṇai yaňcōm.*[^tirvacakam-structure]
 
-> To none are we subject! \
-> Death we do not fear! \
-> We do not grieve in hell. \
-> We never tremble \
-> and we know no illness. \
-> We do not crouch and crawl. \
-> It's joy for us through life, \
-> not pain! \
+>|       To none are we subject!
+>|       Death we do not fear!
+>|       We do not grieve in hell.
+>|       We never tremble
+>|       and we know no illness.
+>|       We do not crouch and crawl.
+>|       It's joy for us through life,
+>|       not pain!
 
 In Cuntarar's poetry, there is again a strong preference for S<sub>1</sub>, but
 of a different kind than by Appar. Cuntarar's poetry is very near
@@ -914,19 +914,19 @@ connected with his innermost emotions, with the events of his life,
 and even the epithets, forming the segment O<sub>2</sub>, are connected with
 the intimate aspect of worship, with the body of the Beloved.[^popular-tamil-saying]
 
-> I was sold \
-> and bought by you. \
-> I am no loan. \
-> I am your slave \
-> of my own free will! \
-> You made me blind. \
-> Why, Lord, \
-> did you take away \
-> my sight? \
-> You are to blame! \
-> If you will not restore \
-> the sight of my other eyewell, \
-> may you then live long! [^cuntarar]
+>|       I was sold
+>|       and bought by you.
+>|       I am no loan.
+>|       I am your slave
+>|       of my own free will!
+>|       You made me blind.
+>|       Why, Lord,
+>|       did you take away
+>|       my sight?
+>|       You are to blame!
+>|       If you will not restore
+>|       the sight of my other eyewell,
+>|       may you then live long! [^cuntarar]
 
 Finally, there is Māṇikkavācakar, whose work is usually considered
 to be the most typical and the ripest expression of Saiva *bhakti*
@@ -955,33 +955,35 @@ happens within his heart and soul. Most of his hymns have the
 pattern S<sub>1</sub> O<sub>1</sub> (O<sub>2</sub>). The central and most important portion of his
 hymns concerns the relation S<sub>1</sub>O<sub>1</sub>.
 
-> O *kuyil* who calls from flower-filled groves \
-> listen \
-> He came as a Brahman and revealed \
-> his lovely rosy feet \
-> He is mine \
-> he said with infinite grace \
-> and made me all his own \
-> The Lord Supreme \
-> Go \
-> All glowing flames his form \
-> Call him once again \
->
-> *Tiruvācakam, Kuyirpattu* 10 \
-> (Transl. by S. Kokilam) \
+>|       O *kuyil* who calls from flower-filled groves
+>|       listen
+>|       He came as a Brahman and revealed
+>|       his lovely rosy feet
+>|       He is mine
+>|       he said with infinite grace
+>|       and made me all his own
+>|       The Lord Supreme
+>|       Go
+>|       All glowing flames his form
+>|       Call him once again
+>|      
+>|       ---
+>|       *Tiruvācakam, Kuyirpattu* 10
+>|       
+>|       (Transl. by S. Kokilam)
 
 Below an analysis is given of two quatrains from his *Tiruvācakam*
 (in A. K. Ramanujan's translation).
 
-> I am the very last, but in your mercy you made me your own, \
-> O Lord of the Bull. But, look, now you give me up, \
-> O Lord, dressed in the fierce tiger's skin, O King everlasting of \
-> Uttarakocamankai, \
-> O Lord of the matted locks. I faint. Support me, Lord, Our Own. \
-> I refused your grace in my ignorance, O jewel! \
-> You loath me. Look, you give me up. Cut down \
-> this chain of acts and make me yours, O King of Uttarakōcamankai! \
-> Don't the great ones always bear with the lies of tiny puppies ? \
+>|       I am the very last, but in your mercy you made me your own,
+>|       O Lord of the Bull. But, look, now you give me up,
+>|       O Lord, dressed in the fierce tiger's skin, O King everlasting of
+>|       Uttarakocamankai,
+>|       O Lord of the matted locks. I faint. Support me, Lord, Our Own.
+>|       I refused your grace in my ignorance, O jewel!
+>|       You loath me. Look, you give me up. Cut down
+>|       this chain of acts and make me yours, O King of Uttarakōcamankai!
+>|       Don't the great ones always bear with the lies of tiny puppies ?
 
 Observe the fact that, in both poems, the segment S₂-in contrast
 to Campantar's and Cuntarar's hymns-equals zero; the segment
@@ -1009,12 +1011,13 @@ were the whole phenomenal world including the subject of the cult.
 Thus, the hymn is, in part at least, transformed into a religiousphilosophical
 treatise, and worship is accompanied by reflection:
 
-> He is the Ancient One, who creates the Creator of all; \
-> He is the God, who preserves the Preserver of things created; \
-> He is the God who destroys the Destroyer; \
-> But, thinking without thought, regards the things destroyed. \
->
-> (Transl. G. U. Pope, *Tiruvācakam* III, 13-16) \
+>|       He is the Ancient One, who creates the Creator of all;
+>|       He is the God, who preserves the Preserver of things created;
+>|       He is the God who destroys the Destroyer;
+>|       But, thinking without thought, regards the things destroyed.
+>|
+>|       ---
+>|       (Transl. G. U. Pope, *Tiruvācakam* III, 13-16)
 
 The culmination of this development is reached in the *Civapură-*
 *nam*. According to this poem, the only aim of the poet's life, of his
@@ -1023,28 +1026,29 @@ this, one must be born as a human being, after passing through
 different births not only in the organic but also in the anorganic
 nature.
 
-> This cur \
-> in ugly existence \
-> to praise you \
-> knows no words \
-> As grass as weed \
-> as worm as tree \
-> as carnal beings \
-> as bird and as snake \
-> as rock as man \
-> as devil and as demon \
-> as ascetic \
-> as god \
-> as being and non-being \
-> all creations \
-> I've lived and tired \
-> My Lord \
-> My cosmic eye has seen \
-> your golden feet Today \
-> I've reached my home \
->
-> *Tiruvācakam, Civapurāṇam* 24-32 \
-> (Transl. by S. Kokilam) \
+>|       This cur
+>|       in ugly existence
+>|       to praise you
+>|       knows no words
+>|       As grass as weed
+>|       as worm as tree
+>|       as carnal beings
+>|       as bird and as snake
+>|       as rock as man
+>|       as devil and as demon
+>|       as ascetic
+>|       as god
+>|       as being and non-being
+>|       all creations
+>|       I've lived and tired
+>|       My Lord
+>|       My cosmic eye has seen
+>|       your golden feet Today
+>|       I've reached my home
+>|      
+>|       ---
+>|       *Tiruvācakam, Civapurāṇam* 24-32
+>|       (Transl. by S. Kokilam)
 
 Śiva gives the soul the privilege to be born in human form. Śiva
 grants the devotee the gift of love and true knowledge; and, finally,

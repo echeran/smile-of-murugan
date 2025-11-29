@@ -35,24 +35,24 @@ are very heavily Sanskritized,[^sanskritized-verses] the final effect is marvell
 [^sanskritized-verses]: Considered to be a grave sin by some critics: "His poetry is heavily
 packed with Sanskrit words". C. and H. Jesudasan, op. cit. p. 212.
 
-> *ēltalampukal kāvēriyāl vilai* \
-> *cola manṭala mītē manōkara* \
-> *rāca kempira nāṭāļum nāyaka* \
-> *vayalūrā* \
->
-> "O lord of the fields, \
-> o prince who rules \
-> above the vast and charming kingdom, \
-> the Cholamandalam, fertile by Kāvēri \
-> famous for its seven shrines \
+>|       *ēltalampukal kāvēriyāl vilai*
+>|       *cola manṭala mītē manōkara*
+>|       *rāca kempira nāṭāļum nāyaka*
+>|       *vayalūrā*
+>|      
+>|       "O lord of the fields,
+>|       o prince who rules
+>|       above the vast and charming kingdom,
+>|       the Cholamandalam, fertile by Kāvēri
+>|       famous for its seven shrines
 
 Here, the ratio is about 60% of Tamil words to 40% of Sanskrit.
 But in the next stanza
 
-> *tipa mankala* cōti *namōnama* \
-> *tuya ampala līlā namōnama* \
-> *tēva kuňcara pākā namōnama* \
-> *arultārāy* \
+>|       *tipa mankala* cōti *namōnama*
+>|       *tuya ampala līlā namōnama*
+>|       *tēva kuňcara pākā namōnama*
+>|       *arultārāy*
 
 there is less than 30% of Tamil items and more than 70% of
 Sanskrit loanwords. Observe the *cantam*, the rhythmic pattern:
@@ -118,8 +118,8 @@ than Aruṇakiri, and less of a poet, yet basically belonging to the
 same type Tayumāṇavar (1706-1744), admired and loved Aruṇakiri,
 and praised him more than once, e.g.
 
-> *aiyā aruṇakiri appā unaippōla* \
-> *meyyāka* ōr col *viļampinar yār* \
+>|       *aiyā aruṇakiri appā unaippōla*
+>|       *meyyāka* ōr col *viļampinar yār*
 
 "O sir, Aruṇakiri, friend, who ever uttered such true words as
 you?" And elsewhere he speaks about him as *maturam poliyum*
@@ -234,91 +234,93 @@ these segments are usually present, but the segments S₂O₂ are
 predominant. As an illustration, here is Tiruppukaḻ 200. The first
 portion comprises segments (S<sub>1</sub>)S<sub>2</sub>:
 
-> "I was ensnared and smitten with love \
-> of maids whose tresses are fragrant night, \
-> I was attached to mountain-like breasts \
-> of women arousing lust, \
-> fed by desirous lips \
-> of females skilled in Madana's tricks!" \
+>|       "I was ensnared and smitten with love
+>|       of maids whose tresses are fragrant night,
+>|       I was attached to mountain-like breasts
+>|       of women arousing lust,
+>|       fed by desirous lips
+>|       of females skilled in Madana's tricks!"
 
 Next comes the segment O<sub>1</sub>:
 
-> "But you have never forgotten \
-> your friendship, \
-> you have not left me alone \
-> enmeshed in desire, \
-> you have endured my sins \
-> and you gave your grace \
-> to live in the shade of your sacred feet \
-> and grasp your eternal bliss!" \
+>|       "But you have never forgotten
+>|       your friendship,
+>|       you have not left me alone
+>|       enmeshed in desire,
+>|       you have endured my sins
+>|       and you gave your grace
+>|       to live in the shade of your sacred feet
+>|       and grasp your eternal bliss!"
 
 And, finally, O<sub>2</sub> which is quite developed:
 
-> "O Guha, master of Śiva, \
-> lover of Vaḷḷi, your bride! \
-> You dwell in Tiruvēṟakam \
-> on Kāviri's northern shores \
-> with fully-grown shady groves, \
-> sweet child of Umai, Gaņeṣa's brother, \
-> great hero, destroyer of demoniac pride!" \
+>|       "O Guha, master of Śiva,
+>|       lover of Vaḷḷi, your bride!
+>|       You dwell in Tiruvēṟakam
+>|       on Kāviri's northern shores
+>|       with fully-grown shady groves,
+>|       sweet child of Umai, Gaņeṣa's brother,
+>|       great hero, destroyer of demoniac pride!"
 
 O<sub>2</sub> is of course based on both Sanskritic and Tamil mythology:
 Guha is Aryan--but the lover of Vaḷḷi is Tamil; child of Umai, brother
 of Gaṇeṣa, destroyer of the demons is probably Sanskritic; but he
 who lives in Tiruvēṟakam on the shores of Kāviri is indigenous.
 
-> "Those women \
-> with swaying breasts \
-> lovely red hands \
-> filled with bangles \
-> as they jingle \
-> with dark cloud-like tresses \
-> where bees sing \
-> and soft beseeching words like the *kuyil* \
-> lovely as the five-coloured parrots \
-> their voices honey \
-> \ \ \ \ \ \ \ \ fish-like eyes \
-> \ \ \ \ \ \ \ \ vieing \
-> \ \ \ \ \ \ \ \ warm with fear \
-> their forehead a crescent moon \
-> By them I was lured \
-> in their magical ways \
-> into this sea of birth \
-> Your slave am I \
-> Help me reach the shore \
-> of your brave noble feet \
-> Conquer and bless me". \
->  \
-> *(Tiruppukal* ii, 26) \
-> (Transl. S. Kokilam) \
+>|       "Those women
+>|       with swaying breasts
+>|       lovely red hands
+>|       filled with bangles
+>|       as they jingle
+>|       with dark cloud-like tresses
+>|       where bees sing
+>|       and soft beseeching words like the *kuyil*
+>|       lovely as the five-coloured parrots
+>|       their voices honey
+>|               fish-like eyes
+>|               vieing
+>|               warm with fear
+>|       their forehead a crescent moon
+>|       By them I was lured
+>|       in their magical ways
+>|       into this sea of birth
+>|       Your slave am I
+>|       Help me reach the shore
+>|       of your brave noble feet
+>|       Conquer and bless me".
+>|
+>|       ---
+>|       *(Tiruppukal* ii, 26)
+>|       (Transl. S. Kokilam)
 
 This motive appears again and again: Aruṇakiri, the sinner and
 Aruṇakiri, the saint; temptation and redemption. Though the
 material and the form are very much alike, yet no two stanzas
 repeat themselves in a dull and uninteresting manner.
 
-> "Two tusks of black elephants \
-> are those mountainous breasts \
-> sparkling with gold chains \
-> Lovely forehead \
-> lovelier than the crescent moon \
-> Are they sharp spears \
-> those beautiful eyes? \
-> Like the dark nightfall \
-> their tresses flow \
-> They come these women \
-> who trade for wealth \
-> with sweet words \
-> with soft caresses \
-> These lewd women lured me \
-> into their homes \
-> into a life filled with *karma* \
-> This wasted sinner \
-> Give me the strength \
-> to reach your noble feet \
-> Give me the joy of enlightenment". \
-> 
-> (Transl. S. Kokilam) \
+>|       "Two tusks of black elephants
+>|       are those mountainous breasts
+>|       sparkling with gold chains
+>|       Lovely forehead
+>|       lovelier than the crescent moon
+>|       Are they sharp spears
+>|       those beautiful eyes?
+>|       Like the dark nightfall
+>|       their tresses flow
+>|       They come these women
+>|       who trade for wealth
+>|       with sweet words
+>|       with soft caresses
+>|       These lewd women lured me
+>|       into their homes
+>|       into a life filled with *karma*
+>|       This wasted sinner
+>|       Give me the strength
+>|       to reach your noble feet
+>|       Give me the joy of enlightenment".
+>|       
+>|       ---
+>|       (Transl. S. Kokilam)
 
 In the second type of Aruṇakiri's poetry-the philosophical
 stanzas with no autobiographical material—the segments (O₁) O2 are
@@ -326,19 +328,19 @@ usually the only segments present. As an illustration, a perfectly
 beautiful quatrain form *Kantaraṇupūti* (51) may be quoted. First
 the music of the original:
 
-> *uruvāy aruvāy ulatāy ilatāy* \
-> *maruvāy malaray maṇiyāy oļiyāyk* \
-> *karuvāy uyirāy katiyāy vitiyāyk* \
-> *kuruvay varuvāy aruļvāy kukanē* \
->  \
-> "You who have form and who are formless, \
-> you who are both being and non-being, \
-> who are the fragrance and the blossom, \
-> who are the jewel and its lustre, \
-> who are the seed of life and life itself, \
-> who are the mode and act of existence, \
-> who are supreme guru, come \
-> and bestow your grace, o Guha”. \
+>|       *uruvāy aruvāy ulatāy ilatāy*
+>|       *maruvāy malaray maṇiyāy oļiyāyk*
+>|       *karuvāy uyirāy katiyāy vitiyāyk*
+>|       *kuruvay varuvāy aruļvāy kukanē*
+>|       
+>|       "You who have form and who are formless,
+>|       you who are both being and non-being,
+>|       who are the fragrance and the blossom,
+>|       who are the jewel and its lustre,
+>|       who are the seed of life and life itself,
+>|       who are the mode and act of existence,
+>|       who are supreme guru, come
+>|       and bestow your grace, o Guha”.
 
 I suggest that this stanza is no "word-jugglery” but perfection
 itself as far as philosophic poetry goes—both in thought-content
@@ -372,89 +374,91 @@ pairs of actor: action or result.
 Some of his poems are a blend of reflection and prayer, like the
 following one *(Tiruppukal* VI.186):
 
-> "We need clothes \
-> to dress \
-> Rich drink to quench our thirst \
-> To be resplendent lovely attire \
-> water and perfumes \
-> To cure ills medicine \
-> A young wife for a home \
-> A cottage to rest \
-> as protector of kith and kin \
-> Life passes by \
-> as it withers aimless \
-> \ \ \ \ \ \ \ \ So \
-> be merciful to me \
-> Give me the knowledge \
-> of realization \
-> Redeem me from this *karma* \
-> the swirling mountain of life \
-> Will there come a day \
-> when you will reach this slave?" \
-> 
-> (Transl. S. Kokilam) \
+>|       "We need clothes
+>|       to dress
+>|       Rich drink to quench our thirst
+>|       To be resplendent lovely attire
+>|       water and perfumes
+>|       To cure ills medicine
+>|       A young wife for a home
+>|       A cottage to rest
+>|       as protector of kith and kin
+>|       Life passes by
+>|       as it withers aimless
+>|       \ \ \ \ \ \ \ \ So
+>|       be merciful to me
+>|       Give me the knowledge
+>|       of realization
+>|       Redeem me from this *karma*
+>|       the swirling mountain of life
+>|       Will there come a day
+>|       when you will reach this slave?"
+>|       
+>|       ---
+>|       (Transl. S. Kokilam)
 
 Finally, as an instance of the pure prayers, praises, hymns
 addressed to Murukaṉ, we have chosen one in which Aruṇakiri the
 *bhakta* points to himself as a maid of the Lord *(Tiruppukal* V.69):
 
-> "Lord with the spear \
-> worshipped by \
-> the spouse \
-> the mountain kings' daughter \
-> the spouse of the daughter of learning \
-> the spouse of the daughter of wealth \
-> You \
-> with the deer of the millet fields \
-> with the deer of the heavenly groves \
-> in love embraced \
-> in your merciful arms \
-> Rescue \
-> this daughter of the earth \
-> where great poets stray \
-> with your golden-rayed spear \
-> residing on the hills of Tiruttaṇi \
-> You redeem those lonely followers \
-> all day mounted \
-> on your beautiful peacock \
-> O pride of prides! \
-> Those bedecked women \
-> with luring words \
-> mingled with the sounds of horns \
-> and the call of black *kuyils* from the shore \
-> echo of the sea \
-> merged with waves of thoughts \
-> From the murderous arrows of Manmatan \
-> rescue this woman with creeper-like waist \
-> from being destroyed in sorrows \
-> You adorned with the *kura* flower \
-> grant me your garland of kaṭappa blossoms \
-> strung round your wide arms!" \
-> \
-> (Transl. S. Kokilam) \
+>|       "Lord with the spear
+>|       worshipped by
+>|       the spouse
+>|       the mountain kings' daughter
+>|       the spouse of the daughter of learning
+>|       the spouse of the daughter of wealth
+>|       You
+>|       with the deer of the millet fields
+>|       with the deer of the heavenly groves
+>|       in love embraced
+>|       in your merciful arms
+>|       Rescue
+>|       this daughter of the earth
+>|       where great poets stray
+>|       with your golden-rayed spear
+>|       residing on the hills of Tiruttaṇi
+>|       You redeem those lonely followers
+>|       all day mounted
+>|       on your beautiful peacock
+>|       O pride of prides!
+>|       Those bedecked women
+>|       with luring words
+>|       mingled with the sounds of horns
+>|       and the call of black *kuyils* from the shore
+>|       echo of the sea
+>|       merged with waves of thoughts
+>|       From the murderous arrows of Manmatan
+>|       rescue this woman with creeper-like waist
+>|       from being destroyed in sorrows
+>|       You adorned with the *kura* flower
+>|       grant me your garland of kaṭappa blossoms
+>|       strung round your wide arms!"
+>|
+>|       ---
+>|       (Transl. S. Kokilam)
 
 When two great poets meet, we may expect a happy outcome.
 This is in fact the case of a stanza of Aruṇakiri, translated into
 English by Subrahmanya Bharati (1882-1921), and published in
 his *Agni and Other Poems*:
 
-> "Like a child unto the barren womb, \
-> Like a mine of new-found treasures, \
-> Like a floor of diamonds, \
-> so be my songs. \
->  \
-> Like the wilful embrace of Love's soft bosom, \
-> Like a string of the purest gems, \
-> Like a garden of fragrant blossoms, \
-> Like the river that descends from heaven, \
-> even so be my songs. \
-> Like the daughter of the ocean, \
->  \
-> Like eyes unto poets, \
-> Like a stream full to the brim easy to drink of, \
-> Like the vase of the nectar of Thy beauty, \
-> So be my wondrous songs of love, \
-> by Thy grace, o Lord". \
+>|       "Like a child unto the barren womb,
+>|       Like a mine of new-found treasures,
+>|       Like a floor of diamonds,
+>|       so be my songs.
+>|       
+>|       Like the wilful embrace of Love's soft bosom,
+>|       Like a string of the purest gems,
+>|       Like a garden of fragrant blossoms,
+>|       Like the river that descends from heaven,
+>|       even so be my songs.
+>|       Like the daughter of the ocean,
+>|       
+>|       Like eyes unto poets,
+>|       Like a stream full to the brim easy to drink of,
+>|       Like the vase of the nectar of Thy beauty,
+>|       So be my wondrous songs of love,
+>|       by Thy grace, o Lord".
 
 Lastly, there is one more feature of Aruṇakiri's poetry that
 should be mentioned: his conception of Murukaṉ. True to the
@@ -463,21 +467,21 @@ for Aruṇakiri. Murukaṉ, the "lion who presides over the famous
 bards of powerful speech" *(Tirumurukārṛuppaṭai*), is the supreme
 patron of poetry, and the god of the Tamil language.
 
-> "The bridegroom of Vaḷḷi \
-> with tresses adorned with garlands \
-> is ready to foster \
-> even those who curse and abusein \
-> threefold Tamil!" \
+>|       "The bridegroom of Vaḷḷi
+>|       with tresses adorned with garlands
+>|       is ready to foster
+>|       even those who curse and abusein
+>|       threefold Tamil!"
 
 And, elsewhere, Aruṇakiri cries out, full of rapture, in verses in
 which Tamil and Sanskrit blend in resonant music:
 
-> *muttamil* vitva \
-> *vinōtā! kītā*! \
-> *marravar* oppilā \
-> *rūpā*! tīpā! \
->  \
-> "O beauty, o wisdom of three-fold Tamil! \
-> O song! \
-> Incomparable, unique Form ! \
-> O light!" \
+>|       *muttamil* vitva
+>|       *vinōtā! kītā*!
+>|       *marravar* oppilā
+>|       *rūpā*! tīpā!
+>|       
+>|       "O beauty, o wisdom of three-fold Tamil!
+>|       O song!
+>|       Incomparable, unique Form !
+>|       O light!"

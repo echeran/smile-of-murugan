@@ -641,27 +641,27 @@ to *Paṟanāṉūṟu.* Peruntēvaṇār's date was probably the 9th Cent.
 
 *In praise of God. Sung by Peruntēvaṇār who composed the Pāratam.*
 
-> The perfect ascetic[^siva] \
-> with abundant locks of falling hair \
-> and with a jar which knows not want of water[^ganga] \
-> He \
-> the protector of all creatures alive \
-> The *konrai*-flower[^konrai-flower] which smells sweet after the rains \
-> his chaplet \
-> The *konrai*-flower-a wreath of many flowers \
-> on his chest \
-> And the pure white bull[^nandi] \
-> he rides \
-> The pure white bull \
-> a banner of excellence \
-> Poison[^nilakanthan] beautifies his neck \
-> Poison praised by the Veda-chanting Brahmans[^scripture-chanting] \
-> One side of him shaped into a woman[^half-woman] \
-> He will hide and keep within himself \
-> His forehead adorned with crescent moon[^crescent-moon] \
-> That crescent moon \
-> praised by all \
-> by everyone[^everyone-praising-sivan] \
+>|       The perfect ascetic[^siva]
+>|       with abundant locks of falling hair
+>|       and with a jar which knows not want of water[^ganga]
+>|       He
+>|       the protector of all creatures alive
+>|       The *konrai*-flower[^konrai-flower] which smells sweet after the rains
+>|       his chaplet
+>|       The *konrai*-flower-a wreath of many flowers
+>|       on his chest
+>|       And the pure white bull[^nandi]
+>|       he rides
+>|       The pure white bull
+>|       a banner of excellence
+>|       Poison[^nilakanthan] beautifies his neck
+>|       Poison praised by the Veda-chanting Brahmans[^scripture-chanting]
+>|       One side of him shaped into a woman[^half-woman]
+>|       He will hide and keep within himself
+>|       His forehead adorned with crescent moon[^crescent-moon]
+>|       That crescent moon
+>|       praised by all
+>|       by everyone[^everyone-praising-sivan]
 
 [^siva]: Śiva
 
@@ -703,32 +703,32 @@ As an instance of ciṟappuppāyiram, "The specific preface", I give
 here an English rendering of the famous and very important preface
 to *Tolkāppiyam* by Paṇampāraṇār.
 
-> In the beautiful world \
-> which speaks Tamil \
-> between \
-> Northern Venkatam[^venkatam-tirupati] and Southern Kumari[^southern-kumari] \
-> he explored \
-> the sounds, the words, and the things,[^tolkappiyam-three-books] \
-> and he has fathomed \
-> both the common speech and poetry,[^speech-and-poetry] \
-> and inquired into the ancient books[^ancient-books] \
-> in the land stirred with Straight Tamil,[^centamil] \
-> and he designed a perfect plan \
-> and gathered knowledge as in faultless words[^faultless-words] \
-> he, the ascetic[^ascetic] \
-> established in ample fame, \
-> who revealed his name as Tolkāppiyaṉ[^tolkappiyan] versed \
-> in aintiram[^aintiram] \
-> surrounded by the surging waves; \
-> and he has shown the system and the order \
-> which starts with sounds \
-> in a clear and unbewildering course; \
-> and he dispelled the doubts \
-> of the Teacher of Ataṅkōṭu,[^atankotu] \
-> ripe in the wisdom of the four Vedas,[^four-scriptures] \
-> whose tongue resounded with *dharma,*[^darmam] \
-> in the assembly of Pantiyan,[^which-pantiyan-king] \
-> glorious and land-bestowing. \
+>|       In the beautiful world
+>|       which speaks Tamil
+>|       between
+>|       Northern Venkatam[^venkatam-tirupati] and Southern Kumari[^southern-kumari]
+>|       he explored
+>|       the sounds, the words, and the things,[^tolkappiyam-three-books]
+>|       and he has fathomed
+>|       both the common speech and poetry,[^speech-and-poetry]
+>|       and inquired into the ancient books[^ancient-books]
+>|       in the land stirred with Straight Tamil,[^centamil]
+>|       and he designed a perfect plan
+>|       and gathered knowledge as in faultless words[^faultless-words]
+>|       he, the ascetic[^ascetic]
+>|       established in ample fame,
+>|       who revealed his name as Tolkāppiyaṉ[^tolkappiyan] versed
+>|       in aintiram[^aintiram]
+>|       surrounded by the surging waves;
+>|       and he has shown the system and the order
+>|       which starts with sounds
+>|       in a clear and unbewildering course;
+>|       and he dispelled the doubts
+>|       of the Teacher of Ataṅkōṭu,[^atankotu]
+>|       ripe in the wisdom of the four Vedas,[^four-scriptures]
+>|       whose tongue resounded with *dharma,*[^darmam]
+>|       in the assembly of Pantiyan,[^which-pantiyan-king]
+>|       glorious and land-bestowing.
 
 
 [^venkatam-tirupati]: Ta. *vaṭavēňkaṭam*, i.e. probably the modern Tirupati north of

@@ -249,14 +249,14 @@ of his love-poems is *Kur*. 25 (the one which begins with *yārum illait*
 
 [^conscious-craftsman]: C. and H. Jesudasan, *op.* *cit.* 32.
 
-> "None else was there but he, the thief, \
-> If he denies it, what shall I do? \
-> Only a heron stood by, \
-> its thin gold legs like millet-stalks \
-> eyeing the *āral*-fish \
-> in the gliding water \
-> on the day \
-> he took me". \
+>|       "None else was there but he, the thief,
+>|       If he denies it, what shall I do?
+>|       Only a heron stood by,
+>|       its thin gold legs like millet-stalks
+>|       eyeing the *āral*-fish
+>|       in the gliding water
+>|       on the day
+>|       he took me".
 
 Kapilar's interest and genius was concentrated on nature of the
 hills. His descriptions of nature and his comparisons and metaphors,
@@ -264,13 +264,13 @@ apt and daring, have probably no match in the whole bardic corpus.
 Cf. Nar. 13: "the *venkai* scatters its blossoms like sparks of fire
 flying in the smithy". Or, from *Ak*. 292:
 
-> "A small stone \
-> sped from the woodman's catapult \
-> shot like an arrow \
-> scattering *venkai* flowers, \
-> and spilled the honey from the comb \
-> before it reached \
-> the sweet fruit of the jack". \
+>|       "A small stone
+>|       sped from the woodman's catapult
+>|       shot like an arrow
+>|       scattering *venkai* flowers,
+>|       and spilled the honey from the comb
+>|       before it reached
+>|       the sweet fruit of the jack".
 
 Another question, connected with the problem of linguistic and
 stylistic stereotype, is the problem of relative internal chronology
