@@ -1,38 +1,30 @@
-# Title Page {.unnumbered}
+# Front Cover {.unnumbered}
 
-THE SMILE OF MURUGAN
-ON TAMIL LITERATURE OF SOUTH INDIA
-THE SMILE OF MURUGAN
-ON TAMIL LITERATURE OF SOUTH INDIA
-BY
-KAMIL ZVELEBIL
-With 3 plates and a folding map
-SUB
-AEGIDE PA
-TUTA
-PALLAS.
-
-God *Murugan riding a peacock*. South Indian bronze.
+![God *Murugan riding a peacock*. South Indian bronze.](img/cover.png)
 
 From the collections of the Rijksmuseum voor *volkenkunde*,
 Leiden, Holland. Obj.no.: 1403-2843.
 
+This book was printed with financial support of the Netherlands
+Organization for the Advancement of Pure Research (Z.W.O.)
 
-*CAMARPPAṆAM*
-DEDICATION
-The great drums beat
-As Asura warriors marched.
+## *CAMARPPAṆAM* | DEDICATION
 
-Their burning rage cut asunder
-Corpses scattered
-Scorched with a spark
-From your radiant smile
-O leader of men
-With leaf-edged spear
-Lover of Vaḷḷi the gypsy
-O lord who resides on Tiruttaṇi hills!
-(Arunakiri, *Tiruppukaḻ* 5.71)
-Transl. S. Kokilam
+>|       The great drums beat
+>|       As Asura warriors marched.
+>|       Their burning rage cut asunder
+>|       Corpses scattered
+>|       Scorched with a spark
+>|       From your radiant smile
+>|       O leader of men
+>|       With leaf-edged spear
+>|       Lover of Vaḷḷi the gypsy
+>|       O lord who resides on Tiruttaṇi hills!
+>|       
+>|       ---
+>|       (Arunakiri, *Tiruppukaḻ* 5.71)
+>|       Transl. S. Kokilam
+
 Somehow or other, Murugan, the youthful god of victorious war,
 is ubiquitous in Tamil writing and culture; he is present in the
 earliest classical poems of Tamil as well as in the splendid "Lay of
