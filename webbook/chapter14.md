@@ -691,10 +691,12 @@ whole theology: God is the eternal and omnipresent Lord, clad
 in material forms, dispelling the confusion and ignorance of the
 world by the mystic doctrine of *namacivāyam*. Schematically:
 
-|*a* | = Supreme God |
-|*U* | = in many material forms |
-|*m(a*) | = in real world existing because of ignorance |
-|*ci* | removed by the doctrine and practice of *civāyam* |
+|       |                                                   |
+|-------|---------------------------------------------------|
+|*a*    | = Supreme God                                     |
+|*U*    | = in many material forms                          |
+|*m(a*) | = in real world existing because of ignorance     |
+|*ci*   | removed by the doctrine and practice of *civāyam* |
 
 Reading the first "letters" of the quatrain vertically, we get the
 greatest and the most potent *mantra*: *a* + *u* + *m* + *ci* = *aum*

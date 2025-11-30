@@ -110,19 +110,7 @@ other patterned prosodical features like alliteration, "rhyme" etc.),
 every stanza is hierarchically organized in terms of form-meaning
 composites. This hierarchy may be set up as follows:
 
-*poetic situation (tiņai)*
-
-|
-
-*theme (turai)*
-
-|
-
-*motive*
-
-|
-
-*formula*
+![](img/page-113-form-meaning-hierarchy.png)
 
 The basic and least inclusive element in this structure is the
 formula (in its shortest shape composed of two exponents, e.g.
@@ -221,11 +209,14 @@ The technique of suggestion was also exploited effectively by this
 great poet: when trying e.g. to describe the behaviour and character
 of a faithless lover he says:
 
-> "To eat the silver fish, the stork, as though \
-> Afraid its steps were audible, \
-> Moves soft— \
-> burglar entering \
-> A guarded house" *(Akam* 276). \
+>|       "To eat the silver fish, the stork, as though
+>|       Afraid its steps were audible,
+>|       Moves soft—
+>|       burglar entering
+>|       A guarded house"
+>|
+>|       ---
+>|       *(Akam* 276).
 
 Nakkīrar is probably a stronger creative personality than Paraṇar.
 He is, above all, the author of one of the "Ten Lays", the *Neṭunal-*

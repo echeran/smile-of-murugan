@@ -163,6 +163,8 @@ is hardly credible.
 It seems that, as far as its language, formal structure and contentstructure
 is concerned, the *Kuṟaḷ* is the work of a single author.
 
+![Structure of the Content in the Tirukkuṟaḷ](img/page-159-thirukkural-structure.png){#fig-thirukkural-structure}
+
 The very division into the three major parts-the *arattuppal*
 (the part on virtue), porutpal (the part on wealth) and *kāmattuppāl*
 (the part on pleasure)-may be and probably is the author's. The
@@ -179,14 +181,10 @@ divides it into three portions, other scholiasts into five or even
 six parts. It seems, though, that the poet himself was responsible
 for the basic structure of the book and for the sequence of individual
 couplets; the content seems to be organized dichotomously. Also,
-
-
-
-
 there do not seem to be any later additions to the text.[^kokilam] The
 *Tirukkuṟaḷ* is certainly not an anthology. It is the work of one poet,
 revealing a single structural plan. [^one-author] The structure of the content is
-given schematically on the pertinent Chart. The contents of the
+given schematically on the pertinent Chart (@fig-thirukkural-structure). The contents of the
 work in detail is as follows:
 
 [^kokilam]: Mrs. S. Kokilam makes me aware of the interesting fact that the number
@@ -627,10 +625,10 @@ As an instance, a typical *kuraļveṇpā* (393) is quoted here:
 
 Its metric structure is:
 
-− = −/− = /--/ = = -/
-===
-— —
-167
+<div style="margin-left: 40%">
+－ ＝ － / － ＝ / － － / ＝ ＝ － <br>
+－ ＝ － / － － / － <br>
+</div>
 
 Observe, how the above-said rules are strictly adhered to: the
 couplet has four feet in the first, three feet in the second line. The

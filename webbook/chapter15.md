@@ -199,13 +199,7 @@ chief among them being *Kantaralankāram* of 102 stanzas and
 of mythology and legends, and characterized by perfection of form
 and sovereign command of diction and prosody.
 
-<!-- 
-
-picture caption:
-
-A South *Indian* wood*-carving* from *Tamilnad.* Property of the author.
-
--->
+![A South *Indian* wood*-carving* from *Tamilnad.* Property of the author.](img/page-241-tamil-wood-carving.png)
 
 The work of Aruṇakiri may be described as religious, lyrical
 hymnody, interwoven with Saiva Siddhānta philosophic doctrines,

@@ -29,7 +29,7 @@ distinguish their work from the rest.
 
 1. Historically speaking, the "new poets" have a very definite
 line of descent which is indicated in the chart appended to this
-chapter and which includes, in succession, the four great names of
+chapter (@fig-bharati-inspired) and which includes, in succession, the four great names of
 S. Bharati, Puthumaippitthan, K. P. Rajagopalan and N. Pichamurti.
 The other features of "new poetry" are:
 
@@ -73,17 +73,7 @@ the decade of 1910-1920. Consider e.g. lines like these:
 [^translator-citation]: Transl. Prema Nandakumar, *Subramania Bharati* (1968) 116.
 
 
-CHART 17
-S. Bharati's
-prose-poetry and poems like
-Ülikkuttu and Akkinikkuñcu
-Puthumaippitthan
-K. P. Rajagopalan
-N. Pichamurti
-(T. M. C. Raghunathan)
-(S. Vallikkannan)
-C. S. Chellappa
-(S. Ramaswamy)
+![The names are only representative of larger groups of authors.](img/page-315-bharati-inspired-poets.png){#fig-bharati-inspired}
 
 
 One of the most amazing poems of Bharati is *Ūļikkūttu* or “The
@@ -119,39 +109,6 @@ equivalent (partial) translation by Prema Nandakumar (op. cit. 86).
 >|       To quench thy terrible thirst.
 >|       Now thou smilest and treadst with him
 >|       The blissful Dance of Life!
-
-
-315
-surrealistic
-natural
-description
-Dharmu intellectual
-Sivaramu
-etc.
-
-and
-metaphysical
-poetry
-T. K. Turaiswamy
-S. Vaitheeswaran
-T. S. Venugopalan
-etc.
-
-C. Mani
-and other
-experimental
-poets
-emotive, imaginist,
-symbolist trends
-irony, social
-satire, caricature
-S. Vaitheeswaran,
-T. S. Venugopalan,
-S. Ramaswamy *et al.*
-
-V. Mali etc.
-
-The names are only representative of larger groups of authors.
 
 
 After Bharati, it was the versatile Putumaippitan (1906-1948)
@@ -520,8 +477,10 @@ conscious craftsman of all the "new poets" is T. S. Venugopalan.
 However, according to some, S. Vaitheeswaran is *the* best of all
 the lot.
 
+![](img/page-324-aasai.png){#fig-aasai}
+
 S. Vaitheeswaran's experimental trifle (published in *Naṭai,*
-1969,4) is reproduced on the following page. The text says:
+1969,4) is reproduced on the following page (@fig-aasai). The text says:
 
 > DESIRE \
 >  \

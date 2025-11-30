@@ -440,16 +440,7 @@ palatal consonants, plus the rhythm and the alliterations and consonance
 placed in the crucial slots, Kampaṉ has achieved to convey
 the picture of that malevolent, demoniac and weird beauty.
 
-i
-e
-14
-7
-*U*
-4
-*0*
-2
-a
-28
+![](img/page-214-vowel-position-frequency.png)
 
 The front high i and the front *e* are very frequent (14 + 7, i.e. 21
 in comparison with 28 *a's*, *a* being the most frequent vowel in the

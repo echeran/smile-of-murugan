@@ -140,192 +140,15 @@ d) a structural and structuralistic approach to bhakti texts
 conceived purely as poetry.
 
 
-CHART 15
+::: {#fig-saivite-canon}
+
+![](img/page-188-saivite-canon-1.png)
+
+![](img/page-189-saivite-canon-2.png)
+
 The Saivite Canon*-Tirumurai*
 
-
-No. of
-*book*
-*Author*
-*Name* of *the work*
-No. of *patikams*
-*No. of hymns*
-*or stanzas*
-I
-Campantar
-2
-Campantar
-3
-Campantar
-*Tēvāram*
-*Tēvāram*
-*Tēvāram*
-I (136)
-II (122)
-383 *patikams*:
-4181 hymns
-III (125)
-4
-tirunāvukkaracar
-*Tēvāram*
-IV
-5
-tirunāvukkaracar
-*Tēvāram*
-V
-312 patikams:
-3066 hymns
-6
-tirunāvukkaracar
-*Tēvāram*
-VI
-7
-Cuntarar
-*Tēvāram*
-VII
-8a
-Māṇikkavācakar
-*Tiruvācakam*
-100 *patikams*:
-51 chapters
-1026 hymns
-656 hymns
-b
-Māṇikkavācakar
-*Tirukkōvaiyār*
-400 stanzas
-да
-Tirumāļikaittēvar
-b
-Cēntaṇār
-с
-d
-IO
-e
-f
-g
-h
-i
-I a
-Karuvūrttēvar
-Pūnturutti Nampi
-Kāṭava Nampi
-Kaṇṭarātittar
-Vēṇāṭṭatikaļ
-Tiruvāliyamutaṇār
-Puruṭōttama Nampi
-Cētiriyār
-Tirumūlar
-Tiruvalavayuṭaiyār
-Kāraikkālammaiyār
-4 *patikams* in *Tiruvicaippā*
-3 *patikams* in *Tiruvicaippā*
-10 *patikams* in *Tiruvicaippā*
-2 *patikams* in *Tiruvicaippā*
-I *patikam* in *Tiruvicaippā*
-1 *patikam* in *Tiruvicaippā*
-4 *patikams* in *Tiruvicaippā*
-2 *patikams* in *Tiruvicaippā*
-I *patikam* in *Tiruvicaippā* and *Tiruppallāṇṭu patikam* in 8 stanzas
-*Tirumantiram*
-*Tirumukappācuram*
-9 *tantirams*
-42 stanzas
-22 stanzas
-301 stanzas in 9
-*Tiruvālankāṭṭu mūtta tiruppatikam, Tiruviraṭṭai maṇimālai, Arputattiruvantāti*
-45
-stanzas
-47 stanzas
-105 stanzas
-12 stanzas
-10 stanzas
-10 stanzas
-b
-с
-Aiyatika! Kātavar Kōn
-*Ksettiratiruveṇpā*
-d Cēramāṉ Perumā!
-*Ponvannattantāti*
-*Tiruvāļūr mummaṇikkōvai*
-e
-Nakkīratēvar
-*Tirukkayilāya ňāṇavulā*
-*Kayilaipāti kāļattipāti antāti*
-*Tiru inkoymalai elupatu*
-*Tiruvalañculi mummanik kõvai*
-*Tiru elukūrrirukkai*
-*Peruntēva pāņi*
-*Kōpappiracātam*
-*Kāreṭṭu*
-*Pōrrittirukkalivenpā*
-*Tirumurukāṟṟuppaṭai*
-*Tirukkanṇapa tēvar tirumaram*
-24 stanzas
-100 stanzas
-30 stanzas
-394 lines
-100 stanzas
-70 stanzas
-15 stanzas
-55 lines
-67 lines
-99 lines
-8 stanzas
-90 lines
-248 lines
-38 lines
-20 lines
-37 lines
-101 lines
-f Kallāṭatēvar
-g
-Kapilatēvar
-*Muttanāyaṇār tiru iraṭṭai maṇimālai*
-*Civaperumāṉ manimālai, Civaperumāṇ tiruvantāti*
-h Paraṇatēvar
-*Civaperumāṉ tiruvantāti*
-i
-Ilamperumān Aṭikaḷ
-*Civaperumāṉ tirumummaṇi kōvai*
-j
-Atirāvaţikaļ
-*Mutappillaiyar tirumummaṇik kōvai*
-k
-Pattinattaṭikaļ
-*Kōyil nanmaṇimālai, Tirukkalumalai mummaṇikkōvai, Tiruviṭai marutūr*
-*mummaṇikkōvai, Tiru ēkampamuṭaiyār tiruvantāti*
-*Tiruvoṟṟiyūr orupā orupaktu*
-I I
-Nampi Aṇṭār Nampi
-*Tirunaraiyur vinayakar iraṭṭai maṇimālai*
-*Kōyil tiruppanniyar viruttam*
-*Tiruttontar tiruvantāti*
-*Āḻuṭaiya piḷḷaiyār tiruvantāti*
-*Āḻuṭaiya pillaiyar tiruccanpai viruttam*
-*Āḻuṭaiya piḷḷaiyār tirumummaṇikkovai*
-30 lines
-23 lines
-100 stanzas
-IO stanzas
-20 stanzas
-70 stanzas
-86 stanzas
-ŚAIVA BHAKTI
-*Āḻuṭaiya piḷḷaiyār tiruvulāmālai*
-*Āḻuṭaiya piḷḷaiyār tirukkalampakam*
-*Āḻuṭaiya piḷḷaiyār tiruttokai*
-*Tirunavukkaracutēvar tiruvēkātaca mālai*
-*Periyapurāṇam*
-a complex of ten or cleven stanzas.
-
-II stanzas
-4286 stanzas
-I2
-Cēkkiḻār
-Note: *patikam*
-======
-
+:::
 
 In this essay I shall try to give a brief and simplified outline of
 the first two approaches-the sociological and historical analysis of
@@ -376,21 +199,7 @@ the movement as a purely religious and ideological conflict, mostly
 as the reaction of a renascent Hinduism against Jainism and
 Buddhism.
 
-
-CHART 16
-The build-up of *Periyapurāṇam*
-Cuntarar's vision of the Sixty-Two Saints
-(Tiruttontattokai*, Tēvāram* VII, 7.-8. Cent. A.D.)
-Nampi Aṇṭār Nampi's lives of the saints in *Tiruttoṇṭar* Tiruvantāti,
-11th book of the canon, beginning of the 10th Cent. A.D.
-oral traditions
-inscriptions
-court-records and
-documents
-Cēkkilār's ultimate version of Saivite hagiography in Periyapurāṇam
-(12th Cent.), built into the story of Cuntarar.
-
-
+![The build-up of Periyapurāṇam](img/page-191-periyapuranam.png)
 
 Though I have a number of strong reservations about any vulgar
 socio-political interpretation of *bhakti*, it seems to me that its

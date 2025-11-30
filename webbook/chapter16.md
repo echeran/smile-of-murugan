@@ -227,13 +227,7 @@ importance (e.g. *Kaḷaviyal* "The Treatise on Secret Love"); 5. by an "arbitra
 or "primitive" descriptive term (e.g. *Nikanṭu* “Dictionary”).
 
 
-to the *mulam*
-*pāyiram*
-to the *urai*
-1. *potuppayiram 1.2*. cirappuppāyiram *2.1. uvaippayiram* 2.2. uraicirappuppāyiram
-1.21. tarcirappuppāyiram
-1.22. *nurcirappuppāyiram*
-
+![](img/page-252-late-medieval-prefatory-categories.png)
 
 
 1.1. —general preface (invocatory verses, in praise of a deity, in
@@ -262,18 +256,18 @@ the grammar, Pavaṇanti:
 1) It must have two prefaces, the “general preface" and the
 "specific preface" (aphorisms 1-3).
 
-2) It must have a place in one of the three orders of a literary
+1) It must have a place in one of the three orders of a literary
 work, the primary, original (*mutal)*, the deductive, derived (*vali*), the
 supporting or supplemental (*puṭai, cārpu*) (5-8).
 
-3) It must be advantageous for the reader in his quest after one
+1) It must be advantageous for the reader in his quest after one
 or the other of the four grand objects-virtue, wealth, pleasure
 or deliverance (9).
 
-4) It must agree with one or more of the *7* principles of authorship
+1) It must agree with one or more of the *7* principles of authorship
 (10).
 
-5) It must avoid the ten basic faults: to say too little, to say too
+1) It must avoid the ten basic faults: to say too little, to say too
 much, tautology, contradiction, employment of inappropriate terms,
 mystification, to begin with another subject, to introduce another
 subject, gradual loss of vigour and tone, useless verbosity (11).

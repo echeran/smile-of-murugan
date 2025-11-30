@@ -442,29 +442,8 @@ The linguistic situation in the extreme South of India, as it might
 have prevailed (simplified, of course, very considerably) sometime
 between the 4th-2nd Cent. B.C., can be represented by the following
 diagram:
-PTa.
 
-Malayalam
-Inscr.Ta.
-
-STa.
-
-Koḍ.
-
-Ko.
-
-To.
-
-Iruļa
-Lit.Ta.
-
-WTa.
-
-PTa. = Proto-Tamil; Inscr. Ta. Inscriptional Ta., Kod.
-
-Ko. Kota; To. = Toda; STa. = Spoken Ta.; WTa. =
-= Koḍagu;
-Written Tamil.
+![](img/page-140-south-india-language-geneaology.png)
 
 This was probably the period when the first bardic poetry was
 composed in the Tamil language. About 250 B.C. or slightly later,
@@ -847,15 +826,8 @@ coordinates. Uri (lit. “own, related, suitable, proper; essential",
 *DED* 563) are “essential, appropriate” entities, i.e. human feelings
 and situations “proper, appropriate" to the various time-space
 divisions. Schematically:
-space-time continuum
-_
-as
-*Universe*
-perceived and conceived
-in concrete representations
-and appropriate
-human feelings
-and actions
+
+![](img/page-148-tolkappiyam-universe.png)
 
 [^katci]: *kāṭci*, *DED* 1209 "sight, vision of a deity, view, appearance"; in this
 connection, "perception, vision".
@@ -929,7 +901,7 @@ The translation of the beginning of the Tolkāppiyam *(Eluttati-*
 *kāram*) is given here so that the reader may have an idea of the
 highly technical nature of the work.
 
-I. The *eḻuttu* are said to be \
+1. The *eḻuttu* are said to be \
 thirty in number \
 beginning with *a* \
 \[and\] ending with *ṉ* \
@@ -988,182 +960,13 @@ is to be provided with a dot.
 
 
 
+::: {#fig-tolkappiyam-structure}
 
+![*Eḻuttatikāram* 'Phonology'](img/page-152-tolkappiyam-1.png){#fig-tolkappiyam-eluttaikaram}
 
+![*Collatikāram* 'Morphology'](img/page-153-tolkappiyam-2.png){#fig-tolkappiyam-collatikaram}
 
-I. *Eḻuttatikāram* 'Phonology'
-CHART 13
-*Structural build*-up of *Tolkāppiyam*
-1. Nünmarapu. Postulates of Phonology'. Ss. 1-33.
+![*Poruḷatikāram* 'Subject-Matter'](img/page-154-tolkappiyam-3.png){#fig-tolkappiyam-porulatikaram}
 
-2. Molimarapu
-'Rules [on the occurrence of
-phonemes] in words'. Ss. 34-82.
-
-1. Pirappiyal
-'Chapter on generating [sounds]'.
-
-Ss. 83-103.
-
-4. *Punariyal*
-'Chapter on
-combination
-[of sounds]'
-Ss. 104-143.
-
-9. *Kurriyalukarappuṇariyal* 5. *Tokaimarapu*
-'Chapter on combination
-overshort *-u'.*
-
-'Collection of
-[morphophonemic]
-[of words ending in]
-rules'.
-
-*Ss*. 407-483.
-
-Ss. 144-173.
-
-6. *Urupiyal*
-'Chapter on
-[morphophonemic
-rules] in
-inflection'.
-
-*Ss*. 174-203.
-
-7. *Uyirmayankiyal*
-'Chapter on
-exceptions
-[to rules
-concerning] vowels'.
-
-Ss. 204-296.
-
-8. *Pullimayankiyal*
-'Chapter on
-exceptions
-[to rules
-concerning
-consonants]'.
-
-Ss. 297-406.
-
-2. *Collatikāram* 'Morphology'.
-
-'Utterance'
-CHART 13/2
-'Non-root morphemes [in declension]'
-1. *Kilaviyākkam* 'Formation of
-words and utterances'. *Ss*. 1-61.
-
-4. *Vilimarapu*
-"The rules of
-the vocative'.
-
-Ss. 118-154.
-
-2. *Vērrumaiyial*
-'Chapter on
-noun-declension'.
-
-Ss. 62-83.
-
-3. *Vērrumaimayankiyal*
-'Chapter on functional
-syncretism in
-declension'. *Ss*. 84-117.
-
-5. *Peyariyal*
-'Chapter on nouns'.
-
-Ss. 155-197.
-
-'Parts-of-speech system'
-6. *Vinai iyal*
-'Chapter on
-verbs'.
-
-Ss. 198-248.
-
-7. *Iṭai iyal*
-'Chapter on
-particles'.
-
-Ss. 249-296.
-
-8. Uri *iyal*
-'Chapter on
-qualifiers'.
-
-Ss. 297-396.
-
-9. *Ecca iyal*
-'Supplementary chapter'.
-
-Ss. 397-463.
-
-(compounds, morphosyntactic
-matters etc.)
-CCT
-TULKAPPIYAM
-C
-CHART 13/3
-'Chapter on the heroic situations'.
-
-Ss. 56-91.
-
-2. *Purattinai iyal*
-3. *Poruḷatikāram* 'Subject-Matter'.
-
-"Totality of human experience'
-'Chapter on the erotic situations'.
-
-Ss. I-55.
-
-1. *Akattiṇai iyal*
-3. *Kalavu iyal*
-'Chapter on
-premarital love'.
-
-Ss. 92-141.
-
-Chapter on
-wedded love'.
-
-4. *Kaṟpu iyal*
-Ss. 142-194.
-
-'Its reflection in literature'
-5. *Poruḷ iyal*
-'Chapter on Subject-Matter
-[of Literature]'.
-
-Ss. 195-248.
-
-KAPPIYAM
-6. *Meyppäṭṭu iyal*
-'Chapter on the
-exhibition of
-feelings'.
-
-Ss. 249-275.
-
-7. *Uvamai iyal*
-comparison'.
-
-'Chapter on
-*Ss*. 276-312.
-
-'Chapter on prosody
-and rhetoric'.
-
-8. *Ceyyuliyal*
-Ss. 313-555.
-
-9. *Marapu yial*
-'Chapter on
-rules [about usage
-of words]'.
-
-*Ss*. 556-665.
+Structural build-up of *Tolkāppiyam*
+:::

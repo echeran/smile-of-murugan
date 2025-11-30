@@ -817,146 +817,6 @@ line repeated as the onset of the next line) including the simile known
 to us from *Porunar.:* the small feet similar to the tongues of panting
 dogs (16-17). Published in 1889.
 
-
-*The Three "Academies*"
-CHART 5
-Southern Maturai
-Kapāṭapuram
-Upper Maturai
-*Grammar*
-*Akattiyam*
-*Akattiyam, Tolkāppiyam* +3
-*Akattiyam, Tolkāppiyam*
-*Name*
-No. of *years*
-No. of *poets*
-*Seat*
-*Talaiccaṅkam*
-4440
-4449
-*Iṭaiccankam*
-3700
-3700
-*Kaṭaiccaṅkam*
-1850
-449
-The *Anthologies (tokai*)
-*Name*
-*Ainkuṟunūṟu*
-No. *of poems*
-*Length* of poems
-*Authors*
-500
-3-6 lines
-*Kuṟuntokai*
-400+ I
-4-8 lines
-*Naṟṟiṇai*
-400+ I
-8-13 lines
-*Patiṟṟuppattu*
-Out of 10 decades,
-8 decades available;
-+ *patikams*
-
-
-Ōrampōki
-Ammūvaṇār
-Kapilar
-Ōtalāntai
-Pēyan
-205 poets
-174 poets
-Kumaṭṭūrk Kaņṇaṇār (2)
-Pālaik Kautamaṇār (3)
-Kāppiyarruk Kāppiyaṇār (4)
-Paraṇar (5)
-Kākkaipāṭiṉiyār Naccellaiyār (6)
-Kapilar (7)
-Aricil Kiḻār (8)
-Peruṅkuṉṟūr Kiḻār (9)
-*Commentaries*
-Old anonymous
-Modern by U.V. Swaminatha
-Aiyar
-U. V. Swaminatha Aiyar
-P. A. Narayanacami
-Old anonymous
-Modern by U. V. Swaminatha
-Aiyar
-*Akanāṉūṟu*
-4001
-13-31 lines
-143 poets
-*Paṟanāṉūṟu*
-400 (266 and 268 lost)
-varics
-157 poets
-Old anonymous to 1-90
-V. Rajagopala Iyengar next 70
-M. N. Venkataswamy Nattar
-and R. Venkatachalam
-Pillai
-Old anonymous up to 266
-Auvai S. Turaicāmi Pillai
-
-
-*The Lays* (*patṭu)*
-*Name*
-*Author*
-*Hevo*
-No. *of lines*
-*Metre*
-*Porunarāṟṟuppaṭai*
-*Perumpāṇāṟṟuppaṭai*
-Muṭattāmakkanṇiyār
-Karikāl
-248
-*akaval* (*vaňci)*
-*Paṭṭinappālai*
-Uruttiraṉ Kaņṇaṇār
-Uruttiraṉ Kannaṇār
-Tontaiman Ilantiraiyaṉ
-Karikāl
-500
-akaval
-301
-*vaňci* (153) *and akaval*
-(138)
-*Kuṟiňcippāṭṭu*
-Kapilar
-anonymous
-261
-*akaval*
-*Malaipaṭukaṭām*
-Peruṅkuṉṟūr
-Peruňkaucikaṇār
-Naṉṉaṉ
-583
-akaval
-*Neṭuṉalvāṭai*
-*Maturaikkāňci*
-*Mullaippāṭṭu*
-Nakkīrar
-Neṭuňceḻiyaṉ
-188
-*akaval*
-Māṅkuṭi Marutaṉār
-Neţuňceliyan
-782
-*vaňci* (*akaval*)
-Nappūtaṇār
-anonymous
-103
-akaval
-*Ciṟupāṇāṟṟuppaṭai*
-Narrattaṇār
-Nalliyakkōṭaṉ
-296
-*akaval*
-
-
-
 Such phrases and formulae, recurring again and again (cf. the
 construction *kalla ilaiyar* or *iļaiňar,* recurring e.g. in *Porunar*. 100,
 *Mullaip*. 35-36 and *Ciṟupāṇ.* 33) show how intimate and close was
@@ -966,4 +826,81 @@ We may indeed say that the 15 poems and collections of poems just
 described constitute one single corpus-in many ways unique in the
 literature of the world-stylized to such an extent that it is almost
 impossible to distinguish what belongs properly to each author.
-*The Metre*
+
+
+::: {#tbl-sangam-stats}
+
++----------------+--------------+--------------+------------------+-----------------------------+
+| Name           | No. of years | No. of poets | Seat             | Grammar                     |
++:===============+:============:+=============:+:=================+:============================+
+| *Talaiccaṅkam* | 4440         | 4449         | Southern Maturai | *Akattiyam*                 |
++----------------+--------------+--------------+------------------+-----------------------------+
+| *Iṭaiccaṅkam*  | 3700         | 3700         | Kapāṭapuram      | *Akattiyam, Tolkāppiyam* +3 |
++----------------+--------------+--------------+------------------+-----------------------------+
+| *Kaṭaiccaṅkam* | 1850         | 449          | Upper Maturai    | *Akattiyam, Tolkāppiyam*    |
++----------------+--------------+--------------+------------------+-----------------------------+
+
+: The Three "Academies" {#tbl-three-academies}
+
+
+
++-----------------+------------------------+-----------------+-----------------------------------+-----------------------------------+
+| Name            | Number of poems        | Length of poems | Authors                           | Commentaries                      |
++-----------------+------------------------+-----------------+-----------------------------------+-----------------------------------+
+| Ainkuṟunūṟu     | 500                    | 3-6 lines       | - Ōrampōki                        | - Old anonymous                   | 
+|                 |                        |                 | - Ammūvaṇār                       | - Modern by U.V. Swaminatha Aiyar | 
+|                 |                        |                 | - Kapilar                         |                                   | 
+|                 |                        |                 | - Ōtalāntai                       |                                   | 
+|                 |                        |                 | - Pēyan                           |                                   | 
++-----------------+------------------------+-----------------+-----------------------------------+-----------------------------------+
+| Kuṟuntokai      | 400 + 1                | 4-8 lines       | 205 poets                         | U. V. Swaminatha Aiyar            | 
++-----------------+------------------------+-----------------+-----------------------------------+-----------------------------------+
+| Naṟṟiṇai        | 400 + 1                | 8-13 lines      | 174 poets                         | P. A. Narayanacami                |
++-----------------+------------------------+-----------------+-----------------------------------+-----------------------------------+ 
+| Patiṟṟuppattu   | Out of 10 decades,     |                 | - Kumaṭṭūrk Kaņṇaṇār (2)          | * Old anonymous                   |
+|                 | 8 decades available;   |                 | - Pālaik Kautamaṇār (3)           | * Modern by U. V. Swaminatha Aiyar|
+|                 | + *patikams*           |                 | - Kāppiyarruk Kāppiyaṇār (4)      |                                   |
+|                 |                        |                 | - Paraṇar (5)                     |                                   |
+|                 |                        |                 | - Kākkaipāṭiṉiyār Naccellaiyār (6)|                                   |
+|                 |                        |                 | - Kapilar (7)                     |                                   |
+|                 |                        |                 | - Aricil Kiḻār (8)                |                                   |
+|                 |                        |                 | - Peruṅkuṉṟūr Kiḻār (9)           |                                   |
++-----------------+------------------------+-----------------+-----------------------------------+-----------------------------------+
+| Akanāṉūṟu       | 400 + 1                | 13-31 lines     | - 143 poets                       | Old anonymous to 1-90             |
+|                 |                        |                 | - V. Rajagopala Iyengar next 70   |                                   |
+|                 |                        |                 | - M. N. Venkataswamy Nattar       |                                   |
+|                 |                        |                 | and R. Venkatachalam Pillai       |                                   |
++-----------------+------------------------+-----------------+-----------------------------------+-----------------------------------+
+| Puṟanāṉūṟu      | 400 (266 and 268 lost) | varies          | 157 poets                         | * Old anonymous up to 266         |
+|                 |                        |                 |                                   | * Auvai S. Turaicāmi Pillai       |
++-----------------+------------------------+-----------------+-----------------------------------+-----------------------------------+
+
+: The Anthologies (tokai) {#tbl-anthologies}
+
++----------------------+------------------------------+------------------------+--------------+------------------------------+
+| Name                 | Author                       | Hero                   | No. of lines | Metre                        |
++:=====================+:=============================+:=======================+:============:+:=============================+
+| Porunararruppajai    | Mutattiimakkatp~iyiir        | Karikal                | 248          | akaval (+ vanci)             |
++----------------------+------------------------------+------------------------+--------------+------------------------------+
+| PerumpiiJJarruppatai | Uruttiran Karmanar           | Tontaiman Ilantiraiyaṉ | 500          | adkaval                      |
++----------------------+------------------------------+------------------------+--------------+------------------------------+
+| PattitJaP palai      | Uruttiran Karmanar           | Karikal                | 301          | vanci (153) and akaval (138) |
++----------------------+------------------------------+------------------------+--------------+------------------------------+
+| Kurincippaftu        | Kapilar                      | anonymous              | 261          | akaval                       |
++----------------------+------------------------------+------------------------+--------------+------------------------------+
+| M alaipatuhajiim     | Permikunrur Penuikaucikaniir | Nannan                 | 583          | akaval                       |
++----------------------+------------------------------+------------------------+--------------+------------------------------+
+| N etunalviijai       | Nakkirar                     | Netui\ce!iyau          | 188          | akaval                       |
++----------------------+------------------------------+------------------------+--------------+------------------------------+
+| M aturaikkiiiici     | Miit1kuti Marutanar          | Netui':tceliyan        | 782          | vanci (+ akaval)             |
++----------------------+------------------------------+------------------------+--------------+------------------------------+
+| M ullaippattu        | Nappiitanar                  | anonyn1ous             | 103          | akaval                       |
++----------------------+------------------------------+------------------------+--------------+------------------------------+
+| CiruPiiJJiin:uppajai | Narrattanar                  | N alli yakkotan        | 296          | akaval                       |
++----------------------+------------------------------+------------------------+--------------+------------------------------+
+
+: *The Lays* (*patṭu)* {#tbl-lays-pattu}
+
+Caṅkam Literature Anthologies - Names, Authors, Age, Number of Poems
+
+:::

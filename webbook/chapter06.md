@@ -202,24 +202,8 @@ whose works were probably widely in currency, and appears as a
 fully developed and definitive treatise" (Kailasapathy 49), different,
 in this respect, from the probably slightly earlier *IA*.
 
+![Basic division of the *poruḷ* (subject-matter) of poetry](img/page-89-chart-6.png){#fig-porul}
 
-Well-matched
-CHART 6
-Poru!
-(substance of poetry,
-subject-matter)
-*Akam* or Akapporu!
-Love
-Five Landscapes
-Ill-matched
-*peruntiṇai*
-("The Major Type')
-mismatched
-Puṟam or Purapporu!
-Heroism
-kaikkiḷai
-('The Base Relationship')
-unrequited
 
 
 There are indications that the core-*sutras* of the grammar were
@@ -267,7 +251,7 @@ of time, part and parcel of the corpus itself” (Kailasapathy*, op*. *cit*.
 problem of *Tolkāppiyam,* its date, its structure etc. will be discussed
 in detail later (cf. Chapter 9).
 
-Now to the theory of literature as such. Chart No. 6 shows the
+Now to the theory of literature as such. @fig-porul shows the
 basic division of the substance (*poru!*) or subject-matter, of the
 content of poetry.
 
@@ -363,10 +347,12 @@ The attitude of the theoreticians towards different types and
 phases of love is neither purely descriptive nor fully normative
 (prescriptive). It may be perhaps called "evaluative”.
 
+![*akam* poetry *poruḷ* divisions](img/page-93-akam-poetry-porul.png){#fig-akam-porul}
+
 According to some theoreticians, *akam* proper is divided along a
 basic dichotomy between pre-marital union of lovers, termed
 *kaḷavu,* lit. “stealing, deceit”, and wedded, marital love, called
-*kaṟpu,* lit. "chastity" (Chart 7). This binary division has been
+*kaṟpu,* lit. "chastity" (@fig-akam-porul). This binary division has been
 elaborated especially in Iṟaiyaṉār's *Akapporuḷ. Kaļavu,* pre-wedded
 love, is treated in terms of the five landscapes; while the poems
 coming under *kaṟpu* describe marital and extramarital love,
@@ -387,30 +373,10 @@ in order to indulge in harlotry is appropirate to all classes of men
 (*IA* s. 40). Observe the fact that visiting harlots (*parattai*) comes
 only under the edivision of *kaṟpu* or wedded love.
 
-
-*kaḷavu*
-pre-marital love
-aintiṇai
-(Five Landscapes)
-CHART 7
-akam proper
-kaṟpu
-marital (and extra-marital) love
-separation (pirivu)
-on account of
-learning
-protection
-appeasement
-of
-enemies
-93
-indulging in harlotry
-gaining wealth
-service
-of the king
+![Universe (*kātchi*) of subject-matter (*poruḷ*)](img/page-94-universe-katchi-of-porul.png){#fig-universe-porul}
 
 
-As Chart No. 8 shows, the universe is perceived (*kāṭci*) and conceived
+As @fig-universe-porul shows, the universe is perceived (*kāṭci*) and conceived
 (*karuttu*) in terms of three basic categories: a space-time
 continuum which provides the basic background, the space and
 time coordinates of an event; this is termed *mutal,* lit. "first, basic >
@@ -425,73 +391,6 @@ to a phase of love: the hills are a proper setting for the union of
 lovers; the forest corresponds to patient waiting; the seashore
 to long and anxious waiting; the pasture lands provide a setting for
 treatment of infidelity; and the wasteland for a long separation.
-
-UNIVERSE
-CHART 8
-*mutal* (First Things)
-space-time continuum
-basic background
-concrete representations
-*karu* (Things born)
-appropriate human feelings
-uri (Things Essential)
-and situations
-Gods
-Nature
-*Akam*
-*kālam* (Time)
-*nilam* (Place)
-(earth-water-fire-wind-sky)
-Human
-Non-human
-Puṟam
-*perumpoḻutu*
-cirupolutu
-seasons
-times of
-day and night
-
-
-animate
-inanimate
-Tribes
-Chieftains
-Occupations
-Instruments
-Arts
-Birds
-Beasts
-Flowers
-Trees
-Forms
-water
-of
-HILLS
-FOREST SEASHORE PASTURE WASTELAND
-*kuṟiňci*
-union
-*mullai*
-*neytal*
-patient
-anxious
-*marutam*
-infidelity
-*pālai*
-separation
-waiting
-waiting
-Well-matched love
-Mismatched
-*peruntiṇai*
-*akam* proper
-Love
-akam
-Unrequited
-*kaikkiḷai*
-Objects
-
-
-
 
 The second major category is termed *karu,* lit. "things born" or
 "native"; this provides a framework in terms of concrete representations
@@ -582,32 +481,16 @@ kinds: place and time (*TP* 4). According to Nakkīrar, however,
 corresponding to it. Presenting the *mutal* once more schematically
 and in accordance with Nakkīrar, we get the following charts:
 
-*aintiṇai*
-*pālai*
-"place"
-+"time"
-*tiṇai "situation"*
-*pālai*
-*kuṟiňci*
-*neytal*
-*mullai*
-*marutam*
-*place*
-the other *four tiṇais*
-+ "place"
-+"time"
-*time*
-noon; hot season; also "late
-dew"
-mountainous region
-sea-shore
-forest
-dead of night; cold season;
-also "early dew"
-sunrise
-cultivated fields
-rainy season; evening
-dawn
+![](img/page-97-ainthinai-palai-other-four.png)
+
+| tiṇai ("situation")   | place              | time                                         |
+|-----------------------|--------------------|----------------------------------------------|
+| *pālai*               |                    | noon; hot season; also "late dew"            |
+| *kuṟiňci*             | mountainous region | dead of night; cold season; also "early dew" |
+| *neytal*              | sea-shore          | sunrise                                      |
+| *mullai*              | forest             | rainy season; evening                        |
+| *marutam*             | cultivated fields  | dawn                                         |
+
 
 For confirmation, Nakkīrar quotes *TP* 5-10 and adds that all the
 six seasons of the year must be appropriate to *marutam* and *neytal,*
@@ -871,10 +754,22 @@ be translated best as the poetic *situation.* In a detailed discussion of
 the *puṟam* genre, yet another term must be introduced: tuṟai or
 *theme*.
 
+|   | Akam         | Uri                                                            | Puṟam    | Uri                                | Features common to both                                                                 |
+|---|--------------|----------------------------------------------------------------|----------|------------------------------------|-----------------------------------------------------------------------------------------|
+| 1 | *kuṟiňci*    | (first) union of lovers                                        | *vetci*  | cattle-lifting, prelude to war     | nighttime; hillside; clandestine affair                                                 |
+| 2 | *mullai*     | separation (patient waiting)                                   | *vaňci*  | preparation for war                | forest in the rainy season; separation from beloved ones                                |
+| 3 | *marutam*    | infidelity, conflict                                           | *ulinai* | siege                              | fertile area (village, town); at dawn; refusing entry                                   |
+| 4 | *neytal*     | separation (anxious waiting)                                   | *tumpai* | battle                             | seashore in *akam* = open battleground in *puṟam*; no particular season; evening; grief |
+| 5 | *pālai*      | elopement; search for  eloped girl; search for wealth and fame | *vākai*  | victory; an achievement            | praise                                                                                  |
+| 6 | *peruntiṇai* | mismatched love                                                | *kāňci*  | struggle for excellence; endurance | no landscape; struggle, defeat, note of sadness                                         |
+| 7 | *kaikkiḷai*  | unrequited love                                                | *pāṭāṇ*  | elegy; asking for gifts; praise    | no landscape; one-sided relationship; note of sadness                                   |
+
+: Akam-Puram Correspondences {#tbl-akam-puram-correspondences}
+
 It was stressed right at the beginning that all subject-matter of
 literature dealt either with emotional situations of love or with
 other situations than those of love, primarily with heroic situations.
-From chart II one sees clearly that there is an intimate connection
+From @tbl-akam-puram-correspondences one sees clearly that there is an intimate connection
 between both genres, *akam* and *puṟam;* that, behind both, there is
 a *unified perception* and *conception* of *the universe*. I cannot agree
 with J. R. Marr's (op. *cit*. p. 44) and Kailasapathy's criticism (op*. cit.*
@@ -898,71 +793,16 @@ invasion. Common features with its *akam*-counterpart, *mullai*:
 both take place in the rainy season and in the forest; both describe
 the separation from loved ones, and wifely patience, *iruttal*.
 
-<!-- sideways chart
-
-
-*pāṭāṇ*
-no landscape; one-sided relationship; note
-no landscape; struggle, defeat, note of
-sadness
-of sadness
-CHART II
-*Akam-Puram Correspondences*
-*Puṟam*
-*горда*
-*Akam*
-*kuṟiňci*
-*Uri*
-(first) union of
-lovers
-Z
-*mullai*
-separation
-*vaňci*
-(patient waiting)
-3.
-
-*marutam*
-infidelity, conflict
-*ulinai*
-4
-*neytal*
-separation (anxious
-waiting)
-tumpai
-5
-*pālai*
-elopement; search for *vākai*
-eloped girl; search for
-nighttime; hillside; clandestine affair
-*Features common to both*
-forest in the rainy season; separation from
-beloved ones
-fertile area (village, town); at dawn;
-refusing entry
-*puṟam*; no particular season; evening; grief
-seashore in *akam* = open battleground in
-praise
-wealth and fame
-9
-*peruntiṇai*
-mismatched love
-kāňci
-7
-*kaikkiḷai*
-unrequited love
--->
-
-3. *uliňai* describes the siege of a settlement or fortress; like
+1. *uliňai* describes the siege of a settlement or fortress; like
 *marutam,* it takes place in an inhabited, fertile area (city etc.) at
 dawn; the infidelity results in *akam* in *uṭal,* wifely sulking, and
 --both in love and war-in "refusing entry" (A. K. Ramanujan).
-4. tumpai or pitched battle corresponds to *neytal* in *akam*: in
+1. tumpai or pitched battle corresponds to *neytal* in *akam*: in
 both, there is anxiety, separation of wives from the heroes; the
 *akam* situation is set on the open sea-shore; the heroic situation, in
 the open battleground; evening and grief (*iraňkal*) are common to
 both.
-5. *vākai* describes victory, the ideals of achievement: its counterpart
+1. *vākai* describes victory, the ideals of achievement: its counterpart
 in the *akam* genre is *pālai;* both have in common the achievement
 of the hero: in one, the abduction and possession of the
 woman, or the search for wealth and fame; in the other, achieving
@@ -973,11 +813,11 @@ wealth and fame in victory after long separation from the wife
 specifically related to any type of landscape; both are not supposed
 to be ideal topics for poets; both are considered to be so to say
 "abnormalities” in love-situation as well as in war-situation.
-6. *kanci* in the *puṟam* genre describes struggle for excellence,
+1. *kanci* in the *puṟam* genre describes struggle for excellence,
 endurance, but also the feeling of transience of the world and defeat,
 death; in the *akam* genre, this corresponds to the *peruntiṇai,*
 struggle and defeat in the mismatched love.
-7. *pāṭān* is praise, or elegy, as well as asking for gifts in the heroic
+1. *pāṭān* is praise, or elegy, as well as asking for gifts in the heroic
 genre; this corresponds to kaikkiḷai, unreciprocated love, in *akam;*
 both have in common e.g. a one-sided relationship, a note of sadness
 etc.
@@ -989,7 +829,9 @@ on a unified conception of the universe, which comprised both the
 of economy and the technique of concentration, reflected the
 entire scale and spectre of human experience.
 
-As may be seen from chart 12, the later "grammar of heroic
+![Heroic situations according to category](img/page-106-heroic-situations-by-category.png){#fig-heroic-situations}
+
+As may be seen from @fig-heroic-situations, the later "grammar of heroic
 poetry", *Purapporulveṇpāmālai*, follows a different and more
 elaborate scheme when compared to Tolk. *Poruḷ*. It enumerates
 twelve non-love situations in contrast to seven listed in *TP.* In this
@@ -997,93 +839,6 @@ list are included the two abnormal love-situations; so that, essentially,
 there are 10 heroic situations according to PVM. The
 number of themes is also higher in *PVM* than in *TP,* as one would
 naturally expect.
-
-<!-- sideways chart
-Heroic situations *(tinai*) *according* to
-*Number* of
-Tolkāppiyam *themes*
-*Poruḷatikāram (turai)*
-I. *veṭci*
-2. *veṭci*
-3. *vaňci*
-*Number* of
-*themes*
-36
-*Purapporu!*
-Veṇpā *Mālai*
-*(turai)*
-14
-cattle-raid
-*veţci*
-20
-21
-cattle-recovery
-*karantai*
-13
-preparation for war,
-*vaňci*
-21
-invasion
-4. *ulinai*
-8
-siege of a fort
-*uliñai*
-29
-5. *ulinai*
-12
-defence of a fort
-*поссі*
-9
-6. *tumpai*
-12
-pitched battle
-*tumpai*
-24
-7. vākai
-18
-victory
-vākai
-33
-8. *kāňci*
-20
-transcience of the
-*kāňci*
-22
-world
-9. *pāṭāṇ*
-20
-praise
-*pāṭāṇ*
-48
-IO.
-
-general heroism
-II.
-
-one-sided love
-*potuviyal*
-*kaikkiḷai*
-12
-19
-12.
-
-I
-13.
-
-*peruntiṇai*
-*olipiyal*
-36
-18
-327
-138
-mismatched love.
-
-residuary items
-
--->
-
-
-
 
 The word for theme, *tuṟai,* means lit. "place, location, way,
 section; seaport, roadstead, frequented place" etc. *(DED* 2773).
@@ -1238,6 +993,8 @@ in Ta. *ella utukkāṇ* says:
 >|      like a white and golden
 >|      conch.
 
+![](img/page-109-corporul.png)
+
 This stanza, a simple picture of a quiet scene, has three layers of
 meaning. The first “obvious" meaning "on the surface" *(corporu*!)
 is the one given in the inadequate translation above. However, the
@@ -1257,10 +1014,3 @@ fully intended by the poet, since it follows certain patterns of
 convention, and since there is a unanimous and traditional agreement
 in its interpretation.
 
-<!-- chart
-
-coṟporuḷ
-kuṟippu I
-kuṟippu 2
-
--->
