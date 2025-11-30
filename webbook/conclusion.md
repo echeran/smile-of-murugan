@@ -86,19 +86,20 @@ be enriched by their general knowledge.
 
 ## EPILOGUE
 
-> *palarpukal nanmolip pulavarērē* \
-> *yarumperan marapir perumpeyar muruka*... \
-> ninnati *yulli vantanen* \
-> \
-> *(Tirumurukärruppatai* 268...279) \
+>|       *palarpukal nanmolip pulavarērē*
+>|       *yarumperan marapir perumpeyar muruka*...
+>|       ninnati *yulli vantanen*
+>|       
+>|       ---
+>|       (*Tirumurukärruppatai* 268...279)
 
-> "O lion \
-> among poets with mellifluous speech \
-> praised by many, \
-> O Muruka, great glory, \
-> goal of salvation so hard to reach \
-> I came to you \
-> seeking your feet!" \
+>|       "O lion
+>|       among poets with mellifluous speech
+>|       praised by many,
+>|       O Muruka, great glory,
+>|       goal of salvation so hard to reach
+>|       I came to you
+>|       seeking your feet!"
 
 ## SELECT AND CRITICALLY ANNOTATED BIBLIOGRAPHY OF BOOKS AND ARTICLES ON TAMIL LITERATURE IN ENGLISH, GERMAN AND FRENCH
 
