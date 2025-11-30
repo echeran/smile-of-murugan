@@ -4,8 +4,9 @@ project:
 
 book:
   title: "The Smile of Murugan"
-  author: "Norah Jones"
-  date: "6/29/2025"
+  author: "Kamil Zvelebil"
+  date: "Jan 1973"
+  date-format: "YYYY"
   chapters:
     - index.qmd
     - prologue.md
