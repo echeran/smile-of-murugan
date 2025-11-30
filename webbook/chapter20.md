@@ -523,21 +523,6 @@ S. Vaitheeswaran
 >|       (Transl. K. Zvelebil)
 
 
-
-265078
-முதுகு வரை
-
-
-
-Gibr
-விட்ட
-கூந்தலுக்கு
-மேலும் வளரத்
-$51
-டி
-டிப்
-51 QLIGITEST!
-எஸ். வைத்தீஸ்வரன்
 The same poet's "Nature" is, in the original, a very powerful poem;
 I feel that the translation of this poem in particular is very difficult,
 and that it does not do justice to the Tamil version.
