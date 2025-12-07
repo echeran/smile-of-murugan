@@ -1,4 +1,4 @@
-# THEMES, MOTIVES, FORMULAE
+# Themes, Motives, Formulae
 
 K. Kailasapathy has shown, in his excellent book *Tamil Heroic*
 *Poetry* (1968), that the most important structural element in the

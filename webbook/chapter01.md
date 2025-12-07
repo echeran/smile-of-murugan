@@ -1,4 +1,4 @@
-# INTRODUCTORY
+# Introductory
 
 Let me right at the beginning posit a problem: are we at all
 entitled to speak about Dravidian literatures (or even about South

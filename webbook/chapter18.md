@@ -1,4 +1,4 @@
-# TAMIL RENAISSANCE
+# Tamil Renaissance
 
 In the second half of the 19th Century, one may discern two
 mainstreams in the development of Tamil belletristic writing: one

@@ -1,4 +1,4 @@
-# PROBLEMS OF DATING, RELATIVE AND ABSOLUTE CHRONOLOGY
+# Problems Of Dating, Relative And Absolute Chronology
 
 As a preliminary remark one fundamental difficulty should at
 least be mentioned: the manuscripts on palmyra leaves can hardly

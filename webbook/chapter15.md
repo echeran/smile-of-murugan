@@ -1,4 +1,4 @@
-# ARUNAKIRI, THE GREAT MAGICIAN
+# Arunakiri, The Great Magician
 
 Aruṇakiri[^name-etymology] is the essence and condensation of a type: probably
 the greatest language-tamer among Tamil poets, certainly one of

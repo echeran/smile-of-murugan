@@ -1,4 +1,4 @@
-# THE IMPERIAL POET
+# The Imperial Poet
 
 In the standard German history of Indian literatures,[^german-history-indian-lit] revised
 in 1961, we do indeed come across the name of Kampaṉ. The

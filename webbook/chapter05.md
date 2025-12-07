@@ -1,4 +1,4 @@
-# ANALYSING CLASSICAL POETRY
+# Analysing Classical Poetry
 
 *The Metre*
 

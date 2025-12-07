@@ -1,4 +1,4 @@
-# CONCLUSION
+# Conclusion {.unnumbered}
 
 
 Many unorthodox views were expressed on the preceding pages,
@@ -84,7 +84,7 @@ should be translated, published and spread wide; they intrinsically
 belong to the literary heritage of the world and man's culture will
 be enriched by their general knowledge.
 
-## EPILOGUE
+## Epilogue
 
 >|       *palarpukal nanmolip pulavarērē*
 >|       *yarumperan marapir perumpeyar muruka*...
@@ -101,7 +101,7 @@ be enriched by their general knowledge.
 >|       I came to you
 >|       seeking your feet!"
 
-## SELECT AND CRITICALLY ANNOTATED BIBLIOGRAPHY OF BOOKS AND ARTICLES ON TAMIL LITERATURE IN ENGLISH, GERMAN AND FRENCH
+## Select And Critically Annotated Bibliography Of Books And Articles On Tamil Literature In English, German And French
 
 ### General Works
 

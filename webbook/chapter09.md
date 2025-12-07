@@ -1,4 +1,4 @@
-# TOLKĀPPIYAM
+# Tolkāppiyam
 
 The *Tolkāppiyam*[^name-etymology] represents much more than just the most
 ancient Tamil grammar extant. It is not only one of the finest
@@ -895,7 +895,7 @@ this categorization and these conventions went under its author's
 name and, as pointed out above, exerted a lasting influence upon
 the Tamil mind.
 
-## APPENDIX
+## Appendix
 
 The translation of the beginning of the Tolkāppiyam *(Eluttati-*
 *kāram*) is given here so that the reader may have an idea of the

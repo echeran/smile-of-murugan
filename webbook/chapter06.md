@@ -1,4 +1,4 @@
-# THE THEORY OF "INTERIOR LANDSCAPE"
+# The Theory Of "Interior Landscape"
 
 In this chapter I shall deal in detail and in a more formalized
 manner with the remarkable and to a very great extent independent

@@ -1,4 +1,4 @@
-# THE CAṄKAM LEGEND. THE TEXTS
+# The Caṅkam Legend. The Texts
 
 In the following chapters we shall mostly deal with the anatomy
 of the earliest Tamil bardic poetry, selected specimen of the two

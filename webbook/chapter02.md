@@ -1,4 +1,4 @@
-# DISTINCTIVE FEATURES OF TAMIL LITERATURE
+# Distinctive Features Of Tamil Literature
 
 One may observe, through the entire development of Tamil
 literature and, for that matter, Tamil culture in general, a kind of

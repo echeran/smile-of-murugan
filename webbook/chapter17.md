@@ -1,4 +1,4 @@
-# ORIGINS OF MODERN TAMIL PROSE. THE HISTORICAL AND THE THEORETICAL PROBLEM
+# Origins Of Modern Tamil Prose. The Historical And The Theoretical Problem
 
 The problem of the origin of modern Tamil prose- -as seen from
 a necessarily simplified perspective-is a twofold one: first, purely

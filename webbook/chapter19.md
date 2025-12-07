@@ -1,4 +1,4 @@
-# THE PROSE OF TODAY
+# The Prose Of Today
 
 The lack of literary criteria of any sort was—and to a great
 extent still is-one of the most striking characteristics of the

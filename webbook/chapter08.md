@@ -1,4 +1,4 @@
-# LATE CLASSICAL POETRY
+# Late Classical Poetry
 
 According to an ancient and persistent tradition, the *Kalittokai*
 and the *paripāṭal* belong to the original corpus of the *tokai* (anthology)

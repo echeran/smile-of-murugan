@@ -1,4 +1,4 @@
-# THE PROSE OF THE COMMENTATORS
+# The Prose Of The Commentators
 
 "Like the oil pressed out of sesamum-seed,
 so grammar derives from literature".
@@ -605,13 +605,13 @@ them Western influences), something else became the subjectmatter
 of prose-writing. The purpose and the function of prose
 changed drastically.
 
-## APPENDIX I
+## Appendix 1
 
 *Cilappatikāram* XVIII, 11.51
 
-> "'O, Sun of burning rays! Is my husband a thief?' \
-> 'He is not *a* thief, o woman with black fish-shaped eyes! \
-> Glowing fire will devour this town!' so said a voice". \
+>|       "'O, Sun of burning rays! Is my husband a thief?'
+>|       'He is not *a* thief, o woman with black fish-shaped eyes!
+>|       Glowing fire will devour this town!' so said a voice".
 
 Aṭiyārkkunallār's commentary on these lines:
 
@@ -626,7 +626,7 @@ which proclaimed him a thief, will be devoured by fire.
 *unṇumivvur* 'will-eat this town' = *ivvūraiyuṇṇum* 'will-eat
 this town-accusative suffix'; a finite verb".
 
-## APPENDIX 2
+## Appendix 2
 
 As an example of those medieval invocatory stanzas in praise
 of god *(kaṭavuļvāļttu*) which usually introduce Tamil poetic works
@@ -691,7 +691,7 @@ spirits (*vidyadhara*), serpents *(nāga*), ghosts (*bhūta*), vampires
 *(vetāla)*, hosts of stars *(tārāgaṇa*), aerial beings (*ākāśavāsi*), inhabitants
 of paradise *(bhogabhūmi)*.
 
-## APPENDIX 3
+## Appendix 3
 
 As an instance of ciṟappuppāyiram, "The specific preface", I give
 here an English rendering of the famous and very important preface

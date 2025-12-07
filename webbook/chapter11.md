@@ -1,4 +1,4 @@
-# THE LAY OF THE ANKLET
+# The Lay Of The Anklet
 
 According to Jules Bloch, *Cilappatikāram* or the "Lay of the
 Anklet" is one of the most difficult, if not the most difficult of all

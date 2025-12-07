@@ -1,4 +1,4 @@
-# SAIVA BHAKTI-TWO APPROACHES
+# Saiva Bhakti-Two Approaches
 
 The literature of Tamil *bhakti* is an enormous complex of Saivite
 and Vaiṣṇavite texts which must be regarded not only as an

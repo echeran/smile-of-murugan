@@ -1,4 +1,4 @@
-# THE BOOK OF LOFTY WISDOM
+# The Book Of Lofty Wisdom
 
 > "there hardly exists in the literature
 > of the world a collection of maxims in which
@@ -744,7 +744,7 @@ appreciate the maxims of the *Kuṟaḷ* through a translation. *Tirukkuṟaḷ*
 must be read and re-read in Tamil. This fact, too, reveals
 something about the nature and degree of its "poetic excellence".
 
-## APPENDIX: The language of Tirukkuṟaḷ
+## Appendix: The language of Tirukkuṟaḷ
 
 A number of important grammatical innovations occur in the
 language of this text when compared with the early old Tamil of

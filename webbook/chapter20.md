@@ -1,4 +1,4 @@
-# THE "NEW POETRY"
+# The "New Poetry"
 
 The term New Poetry is used here in a limited and technical sense
 of the Tamil expression putuk kavitai or *putiyak* kavitai, i.e. for

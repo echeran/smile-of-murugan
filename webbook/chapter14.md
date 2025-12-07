@@ -1,4 +1,4 @@
-# THE *CITTAR*: AN ENIGMA
+# The *Cittar*: An Enigma
 
 > “They are most popular works in Tamil and
 > there is no pure Tamilian, educated or uneducated,
