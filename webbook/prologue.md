@@ -106,237 +106,85 @@ to a complete historical treatment of Tamil literature. It is a
 fragmentary collection of essays on Tamil literature, intended to
 arouse interest and to provoke discussion.
 
-LIST OF ABBREVIATIONS
-Aink.
+## List Of Abbreviations
 
-*Ainkuṟunūṟu*
-*Akanāṉūṟu*
-Ak.
+|                   |                                                                              |
+| ----------------- | ---------------------------------------------------------------------------- |
+| *Aink.*           | *Ainkuṟunūṟu*                                                                |
+| *Ak.*             | *Akanāṉūṟu*                                                                  |
+| *Akatt*.          | *Akattiṇaiyiyal*                                                             |
+| anonym.           | anonymous                                                                    |
+| *BSOAS*           | Bulletin of the School of Oriental and African Studies, London               |
+| *Ciṟupāṇ.*        | *Ciṟupāṇāṟṟuppaṭai*                                                          |
+| *Col.*            | *Collatikāram* of *Tolk.*                                                    |
+| comm.             | commentary                                                                   |
+| *DBIA*            | *Dravidian* Borrowings *from Indo-Aryan* (1962) by T. Burrow and M. B. Emeneau                 |
+| *DED*             | *Dravidian Etymological Dictionary* (1961) by T. Burrow and M. B. Emeneau                  |
+| *DEDS*            | *Dravidian Etymological Dictionary--Supplement* (1968)                       |
+| ed.               | edition, edited                                                              |
+| *E.I.*              | *Epigrafia Indica*                                                           |
+| *Elutt*.          | *Eḻuttatikāram* of *Tolk*.                                                   |
+| ftn.              | foot-note                                                                    |
+| *HSI*             | A *History* of *South* India (1955) by K. A. Nilakanta Sastri                |
+| *HTL*             | A *History* of *Tamil Literature* (1965) by T. P. Meenakshisundaran          |
+| *HTLL*            | *History* of Tamil *Language* and *Literature* (1956) by S. Vaiyapuri Pillai |
+| *ΙΑ*              | *Iṟaiyaṉār Akapporu!*                                                        |
+| *ibid.*           | *ibidem*                                                                     |
+| id.               | idem                                                                         |
+| Ka.               | Kannada, Kanarese                                                            |
+| *Kalit*.          | *Kalittokai*                                                                 |
+| *Kur*.            | *Kuṟuntokai*                                                                 |
+| K.Z.              | Kamil Zvelebil                                                               |
+| LTa.              | Literary Tamil                                                               |
+| lw.               | loan-word                                                                    |
+| Ma.               | Malayalam                                                                    |
+| *Malaipatuk*.     | *Malaipaṭukaṭām*                                                             |
+| *Mānav*.          | *Mānavadharmaśāstra*                                                         |
+| *Maturaik*.       | *Maturaikkāňci*                                                              |
+| *Meyp*.           | *Meyppāṭṭiyal*                                                               |
+| *Mullaip*.        | *Mullaippāṭṭu*                                                               |
+| Nacciņārk.        | Nacciṉārkkiṉiyar                                                             |
+| *Nāṭyaś*.         | *Nāṭyaśāstra*                                                                |
+| *Naṟ.*            | *Naṟṟiṇai*                                                                     |
+| *Neṭuṉal.*        | *Neṭuṉalvāṭai*                                                               |
+| OTa.              | Old Tamil                                                                    |
+| *Pat.*            | *Patikam*                                                                    |
+| *Patiṟ*.          | *Patiṟṟuppattu*                                                              |
+| *Perumpāṇ.*       | *Perumpāṇāṟṟuppaṭai*                                                         |
+| Pkt.              | Prakrit                                                                      |
+| *Porunar*.        | *Porunarāṟṟuppaṭai*                                                          |
+| *Poruḷ.*          | *Poruḷatikāram* of Tolk.                                                     |
+| prob.             | probably                                                                     |
+| *Puṟ*.            | *Puṟam*, *Paṟanāṉūṟu*                                                        |
+| *PVM*             | *Puṟapporuḷveṇpāmālai*                                                       |
+| Rām.              | *Rāmāyaṇa*                                                                   |
+| *s.*              | *sūtra*                                                                      |
+| Skt.              | Sanskrit                                                                     |
+| *ss.*             | *sūtras*                                                                     |
+| st.               | stanza                                                                       |
+| Ta.               | Tamil                                                                        |
+| *Tāṭakaip*.       | *Tāṭakaippaṭalam*                                                            |
+| *Tiruk*.          | *Tirukkuṟaḷ*                                                                 |
+| *TL*              | *Tamil Lexicon*, University of Madras, 1936                                  |
+| To.               | Toda                                                                         |
+| *Tolk*.           | *Tolkāppiyam*                                                                |
+| *Tolk. Col.*      | *Tolkāppiyam*, *Collatikāram*                                                |
+| *Tolk. Elutt.*    | *Tolkāppiyam, Eḻuttatikāram*                                                 |
+| *Tolk. Poruḷ.*    | *Tolkāppiyam*, *Poruḷatikāram*                                               |
+| trans.            | translator, translated by, translation                                       |
+| Uvam.             | *Uvamaiyiyal*                                                                |
+| v.l.              | alternative reading                                                          |
 
-*Akatt*.
+## Note On Transliteration And Pronunciation
 
-anonym.
-
-*BSOAS*
-*Ciṟupāṇ.*
-
-Col.
-
-comm.
-
-*DBIA*
-*DED*
-DEDS
-ed.
-
-E.I.
-
-*Elutt*.
-
-ftn.
-
-*HSI*
-*HTL*
-*HTLL*
-*Akattiṇaiyiyal*
-anonymous
-Bulletin of the School of Oriental and African Studies, London
-*Ciṟupāṇāṟṟuppaṭai*
-*Collatikāram* of Tolk.
-
-commentary
-*Dravidian* Borrowings *from Indo-Aryan* (1962) by T. Burrow
-and M. B. Emeneau
-*Dravidian Etymological Dictionary* (1961) by T. Burrow and
-M. B. Emeneau
-*Dravidian Etymological Dictionary*--Supplement (1968)
-edition, edited
-Epigrafia Indica
-*Eḻuttatikāram* of *Tolk*.
-
-foot-note
-A *History* of *South* India (1955) by K. A. Nilakanta Sastri
-A *History* of *Tamil Literature* (1965) by T. P. Meenakshisundaran
-*History* of Tamil *Language* and *Literature* (1956) by S.
-Vaiyapuri Pillai
-*Iṟaiyaṉār Akapporu!*
-*Kalittokai*
-*ΙΑ*
-*ibid.*
-
-*ibidem*
-id.
-
-Ka.
-
-idem
-Kannada, Kanarese
-*Kalit*.
-
-*Kur*.
-
-*Kuṟuntokai*
-K.Z.
-
-Kamil Zvelebil
-LTa.
-
-Literary Tamil
-lw.
-
-loan-word
-Malayalam
-Ma.
-
-*Malaipatuk*. *Malaipaṭukaṭām*
-*Mānavadharmaśāstra*
-*Mānav*.
-
-*Maturaik*.
-
-*Meyp*.
-
-*Mullaip*.
-
-Nacciņārk.
-
-*Nāṭyaś*.
-
-*Nav.*
-
-*Neṭuṉal.*
-
-OTa.
-
-*Pat.*
-
-Patiṟ*.*
-
-*Perumpāṇ.*
-
-Pkt.
-
-*Porunar*.
-
-*Poruḷ.*
-
-*Maturaikkāňci*
-*Meyppāṭṭiyal*
-*Mullaippāṭṭu*
-Nacciṉārkkiṉiyar
-*Nāṭyaśāstra*
-Naṟṟiṇai
-*Neṭuṉalvāṭai*
-Old Tamil
-Patikam
-*Patiṟṟuppattu*
-*Perumpāṇāṟṟuppaṭai*
-Prakrit
-*Porunarāṟṟuppaṭai*
-*Poruḷatikāram* of Tolk.
-
-XIV
-LIST OF ABBREVIATIONS
-prob.
-
-Puṟ*.*
-
-*PVM*
-Rām.
-
-*S.*
-
-Skt.
-
-SS.
-
-probably
-Puṟam, *Paṟanāṉūṟu*
-*Purapporulvenpāmālai*
-*Rāmāyaṇa*
-*sūtra*
-Sanskrit
-*sūtras*
-st.
-
-Ta.
-
-*Tāṭakaip*.
-
-*Tiruk*.
-
-*TL*
-To.
-
-Tolk*.*
-
-*Tolk*. Col.
-
-Tolk. Elutt.
-
-Tolk. *Poruḷ.*
-
-trans.
-
-Uvam.
-
-v.l.
-
-stanza
-Tamil
-*Tāṭakaippaṭalam*
-*Tirukkuṟaḷ*
-*Tamil* Lexicon, University of Madras, 1936
-Toda
-Tolkāppiyam
-Tolkāppiyam, *Collatikāram*
-Tolkāppiyam, *Eḻuttatikāram*
-*Tolkāppiyam*, *Poruḷatikāram*
-translator, translated by, translation
-*Uvamaiyiyal*
-alternative reading
-NOTE ON TRANSLITERATION AND PRONUNCIATION
 The transcription used for Tamil words in this book is a strict
 transliteration, a system adopted by the Madras University *Tamil*
 *Lexicon.* The only exception are names of modern and contemporary
 Tamil writers where I follow mostly their own anglicized spelling.
 The following Roman letters are used for the Tamil characters:
-*Vowels*
-Long
-а
-Short
-a
-i
-u
-ū
-e
-10 10
-ē
-O
-au
-*Consonants*
-Lips Teeth
-Ridge behind
-Hard
-Soft
-upper teeth
-palate palate
-Stops
-Nasals
-Liquids
-P
-t
-ţ
-C
-k
-m
-n
-n
-ñ
-r
-1
-r
-Semivowels V
+
+![](img/page-xv-tamil-letter-phonology-charts.png)
+
 The Tamil long vowels are simply long vowels, unlike their
 English diphthongized counterparts. Final -ai is pronounced
 approximately like -ey.
@@ -345,12 +193,12 @@ Tamil has two series of consonants unfamiliar to English speakers:
 the dentals t, n and the retroflexes t, n, 1, 1. The dentals are pronounced
 with the tongue at the teeth, the retroflexes are produced by
 curling the tongue back towards the roof of the mouth (cf. American
-pronunciation of *girl,* sir).
+pronunciation of gi*r*l, si*r*).
 
 In the middle of Tamil words, long consonants occur. In transliteration,
 they are indicated by double letters (cf. *Nakkīrar*, *pāṭṭu*).
-English has long consonants between words, cf. Mac Kinley, four
-roads, *hot* tea.
+English has long consonants between words, cf. Mac Kinley, fou*r
+r*oads, ho*t t*ea.
 
 ## Note On Transliteration And Pronunciation
 
@@ -358,7 +206,7 @@ The Tamil r is flapped or trilled as in some European languages
 like Spanish, Italian or Czech. The 1 is somewhat like the American
 variety of r; r and r are not distinguished by most modern Tamil
 speakers, but long rr is pronounced like tr in English trap or tt in
-hot tea; nr is pronounced ndr as in *laundry*.
+hot tea; nr is pronounced ndr as in lau*ndr*y.
 
 p, t, t, c, k are pronounced differently according to their positions:
 initially, p, t, and k are pronounced as voiceless stops, ț does not
