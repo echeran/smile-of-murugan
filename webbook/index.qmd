@@ -1,3 +1,15 @@
+---
+format:
+  html:
+    toc: false
+---
+
+::: {.content-visible when-format="html"}
+
+_This is a digitization of_ The Smile of Murugan _. It is available in web form and downloads are available for [PDF](The-Smile-of-Murugan.pdf) and [ePub](The-Smile-of-Murugan.epub). Mobile web users can navigate chapters using the book icon in the upper left._
+
+:::
+
 # Front Cover {.unnumbered}
 
 ![God *Murugan riding a peacock*. South Indian bronze.](img/cover.png)

@@ -46,8 +46,11 @@ format:
     reference-location: margin
     citation-location: margin
     lightbox: true
-  pdf:
-    documentclass: scrreprt
+  pdf: default
+  epub: default
+format-links: [pdf, epub]
+downloads: true
+isbn: 9004035915
 
 
 
