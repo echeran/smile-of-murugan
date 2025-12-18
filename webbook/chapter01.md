@@ -6,8 +6,10 @@ Indian literatures) as an entity separate from other literatures of
 India? In other words: is there a complex set of features which are
 characteristic for the literatures written in Dravidian languages and
 shared only by them and not by other Indian literatures?
+
 The criteria, setting apart "Dravidian" literatures from the other
 literatures of India, are either linguistic or geopolitical.
+
 "Dravidian literatures" means nothing more and nothing less
 than just literatures written in the formal style of the Dravidian
 languages, "South Indian literatures" means, by definition,
@@ -17,7 +19,7 @@ Sanskrit literary works, produced in the South).
 The answer to this question whether there are some specific,
 unique features shared exclusively and contrastively by the literatures
 written in Dravidian languages is negative. There are no such
-features apart from the incidental (for our purposes and from our
+features—apart from the incidental (for our purposes and from our
 point of view) fact that they are written in Dravidian languages. It
 is impossible to point out specific literary features of works composed,
 e.g., in classical Telugu, and designate them as Dravidian. It
@@ -25,28 +27,27 @@ is equally impossible to select any particular feature which we could
 term Dravidian as such and would apply to all Dravidian literatures
 alike and only to them.
 
-Conclusion: there are no “Dravidian" literatures per se.
+Conclusion: there are no “Dravidian" literatures *per se*.
+
 It is, however, an entirely different matter if we consider carefully
 just one of the great literatures of the South: the Tamil literature.
 There, and only there, we are able to point out a whole complex set
-of features so to say a bundle of diagnostic isoglosses-separating
+of features so to say a bundle of diagnostic isoglosses—separating
 this Dravidian literature not only from other Indian literatures but
 from other Dravidian literatures as well. It is of course only the
 earliest period of the Tamil literature which shows these unique
 features. But the early Tamil poetry was rather unique not only by
 virtue of the fact that some of its features were so unlike everything
 else in India, but by virtue of its literary excellence; those 26,350
-
-
 lines of poetry promote Tamil to the rank of one of the great classical
-languages of the world-though the world at large only just about
+languages of the world—though the world at large only just about
 begins to realise it.
 
-All other Dravidian literatures-with the exception of Tamilbegin
-by adopting a model-in subject-matter, themes, forms, in
-prosody, poetics, metaphors etc.--only the language is different; in
+All other Dravidian literatures—with the exception of Tamilbegin
+by adopting a model—in subject—matter, themes, forms, in
+prosody, poetics, metaphors etc.—only the language is different; in
 spite of the attempts of some Indian scholars to prove that there
-were that there must have been--indigenous, "Dravidian”,
+were that there must have been—indigenous, "Dravidian”,
 pre-Aryan traditions, literary traditions, in the great languages of
 the South, it is extremely hard to find traces of these traditions, and
 such attempts are more speculative than strictly scientific. It is
@@ -66,7 +67,7 @@ before any attempt was made among the Telugu, Kannada and
 Malayalam peoples to produce written literature, and probably even
 before great oral literature was composed.[^Sanskritization] About Kannada, Telugu
 and Malayalam literatures we may say with K. A. Nilakanta Sastri
-*(HSI,* 3rd ed. p. 340): "All these literatures owed a great deal to
+(*HSI,* 3rd ed. p. 340): "All these literatures owed a great deal to
 Sanskrit, the magic wand of whose touch alone raised each of the
 Dravidian languages (but here I would most definitely add: with
 the exception of Tamil, K.Z.) from the level of a patois to that of a
@@ -87,9 +88,9 @@ of this term), at least in South India, has yet to be found. As
 M. B. Emeneau pointed out, one can enumerate a number of important
 traits even in such isolated groups as the Todas and Kotas of the Nilgiris,
 which may be called Sanskritic (even the Toda word *töw* “god” is ultimately
-derived from Sanskrit, cf. DBIA 219 Skt. *daiva-* "divine" > Pkt. *devva-*>
-Ka. *devva, devvu* "demon" whence probably To. töw; cf. "Toda Verbal Art
-and Sanskritization", *Journal* of *the Orient*. *Institute*, *Baroda,* XVI, 3-4,
+derived from Sanskrit, cf. *DBIA* 219 Skt. *daiva-* "divine" > Pkt. *devva-* >
+Ka. *devva, devvu* "demon" whence probably To. *töw*; cf. "Toda Verbal Art
+and Sanskritization", *Journal of the Orient. Institute*, *Baroda,* XVI, 3-4,
 March-June, 1965). What is important for our problem is that, according to
 Emeneau's opinion, these Sanskritic traits in the Nilgiris are very old; they
 can hardly be considered as a recent acquirement.
@@ -98,14 +99,14 @@ can hardly be considered as a recent acquirement.
 
 The beginnings of Kannada literature were almost totally
 inspired by Jainism. The first extant work of narrative literature is
-Sivakōti's *Vaḍḍārādhane* (cca 900 A.D.) on the lives of the Jaina
+Śivakōṭi's *Vaḍḍārādhane* (cca 900 A.D.) on the lives of the Jaina
 saints. The fundamental work on rhetoric in Kannada, and the first
 theoretical treatise of Kannada culture, is based on Dandin's
 *Kāvyādarśa*—that is Nṛpatunga's *Kavirājamārga.* Pampa, the first
 great poet of Kannada literature—and one who is traditionally
-considered the most eminent among Kannada classical poets-is,
+considered the most eminent among Kannada classical poets—is,
 again, indebted entirely to Sanskrit and Prakrit sources in his two
-compositions, in his version of the *Mahabharata* story, and in his
+compositions, in his version of the *Mahābhārata* story, and in his
 *Ādipurāṇa,* dealing with the life of the first Jaina Tīrthankara. The
 beginnings of Kannada literature are, thus, anchored firmly in
 traditions which were originally alien to non-Aryan South India.
@@ -113,17 +114,17 @@ Quite the same is true of Telugu literature. Telugu literature as we
 know it begins with Nannaya's translation of the *Mahābhārata*
 (11th Cent.). The vocabulary of Nannaya is completely dominated
 by Sanskrit. And again: the first theoretical work in Telugu culture,
-fragments of which have recently been discovered, *Janāśrayachan-*
-*das*, an early work on prosody, is itself written in a language which
+fragments of which have recently been discovered, *Janāśrayachandas*,
+an early work on prosody, is itself written in a language which
 is more Sanskrit than Telugu; it contains traces of metres peculiar to
 Telugu and unknown to Sanskrit, and only this fact indicates that
 there had probably existed some compositions previous to the
 overwhelming impact of Sanskritization. In Malayalam, too, the
 beginnings of literature are essentially and intrinsically connected
-with high Sanskrit literature: the *Unnunili Sandēśam*, an anonymous
+with high Sanskrit literature: the *Uṇṇunīli Sandēśam*, an anonymous
 poem of the 14th Century, is based on the models of *sandeśa* or
 *dūta* poems (the best known representative of which is Kālidāsa's
-*Meghadūta*); its very language is a true *maṇipravāļam* which is
+*Meghadūta*); its very language is a true *maṇipravāḷam* which is
 defined, in the earliest Malayalam grammar (the *Līlātilakam* of the
 15th Cent.), as *bhāṣāsamskṛtayogam*, i.e. the union of *bhāṣā* (the
 indigenous language, Malayalam) and Sanskrit.
@@ -135,7 +136,7 @@ unique in the sense that, in subject-matter, thought-content,
 language and form, it is entirely and fully indigenous, that is, Tamil,
 or, if we want (though I dislike this term when talking about
 literature), Dravidian. And not only that: it is only the Tamil
-culture that has produced---uniquely so in India—an independent,
+culture that has produced—uniquely so in India—an independent,
 indigenous literary theory of a very high standard, including
 metrics and prosody, poetics and rhetoric.
 
@@ -144,7 +145,7 @@ other Dravidian literary languages: the metalanguage of Tamil has
 always been Tamil, never Sanskrit. As A. K. Ramanujan says (in
 *Language and Modernization,* p. 31): "In most Indian languages,
 the technical gobbledygook is Sanskrit; in Tamil, the gobbledygook
-is ultra-Tamil"'.[^grammartermlanguage]
+is ultra-Tamil".[^grammartermlanguage]
 
 There is an obvious historical explanation of the fact: the earliest
 vigorous bloom of Tamil culture began before the Sanskritization
@@ -161,12 +162,13 @@ stage, Old Tamil, the first recorded stage of any Dravidian language.
 The final stages of the Tamil-Kannada split, and the beginnings of
 ancient Tamil literature, were accompanied by conscious efforts of
 grammarians and a body of bardic poets to set up a kind of norm,
-a literary standard, which was called *ceyyu!*—or the refined, poetic
-language or alternatively *centamil*-the elegant, polished, high
+a literary standard, which was called *ceyyuḷ*—or the refined, poetic
+language or alternatively *centamiḻ*—the elegant, polished, high
 Tamil. The final outcome of these events—the creation of a literature
-of very high standard and of a rich and refined linguistic mediumfound
-expression in the excellent descriptive grammar Tolkāppiyam,
+of very high standard and of a rich and refined linguistic medium—found
+expression in the excellent descriptive grammar *Tolkāppiyam*,
 one of the most brilliant achievements of human intellect in India.
+
 @tbl-earliest-south-indian-writing
 and
 @fig-time-gap-tamil-other-dravidian
@@ -181,15 +183,15 @@ commentary.
 [^grammartermlanguage]: This may be illustrated by comparisons of grammatical or philosophical
 terms. In Telugu, e.g., the gender categories of "higher" and "lower" classes
 are termed *mahat*: *amahat* ( < Sanskrit); in Tamil, the corresponding terms
-are *uyar*-*tiņai* and *ahṟiṇai* (< al *tiṇai)*, which is pure Tamil. Most Indian
+are *uyar*-*tiņai* and *ahṟiṇai* (< *al* *tiṇai)*, which is pure Tamil. Most Indian
 languages use for "vowel" and "consonant" the Sanskrit terms *svara* and
 *vyañjana*; in Tamil, the terms *uyir* (Ta. "breath") and *mey* (Ta. "body")
 have always been used (with the exception of a rather "pro-Sanskrit",
-"Aryan-oriented" Buddhist grammar *Viracoliyam* which introduced Sanskritized
+"Aryan-oriented" Buddhist grammar *Viracōḻiyam* which introduced Sanskritized
 grammatical terminology into Tamil; but the usage has not spread at
 all). Even such philosophical terms as “meaning”, “form", "soul", *karma*
 etc., have always been preferably expressed in "pure" Tamil, cf. resp. *poruḷ*
-*DED* 3711, *uru DED* 566, *uyir DED* 554, *viņai* or uļ *DED* 4473, 2258.
+*DED* 3711, *uru* *DED* 566, *uyir* *DED* 554, *viṉai* or ūḻ *DED* 4473, 2258.
 
 
 The influence which the various South Indian literatures exercised
@@ -214,17 +216,15 @@ Sanskrit authors were Southerners-Tamil, Kanarese or Kerala
 Brahmins, who in many cases could not help but let themselves be
 enriched and influenced by indigeneous traditions, conventions etc.
 A typical case is that of the great Rāmānuja, the founder of the
-Visiṣṭādvaita system. Though an exact and final proof of a direct
-connection between the Tamil Vaiṣṇava Ālvārs and Śrī Rāmānuja
+Viśiṣṭādvaita system. Though an exact and final proof of a direct
+connection between the Tamil Vaiṣṇava Āḻvārs and Śrī Rāmānuja
 is yet to be submitted, there is more than ample external evidence to
 show that the traditions and the emotional and intellectual background
 of Śrī Rāmānuja were identical with the environments which
 produced the great Tamil Vaiṣṇava Āḻvārs. Rāmānuja was a Tamil
-
-
 Brahmin born at Śrīperumpūtūr near Madras in 1018, and had his
 early philosophical training at Kāňcipuram, but built up his
-philosophy of qualified monism in Śrīrankam, and travelled
+philosophy of qualified monism in Śrīraṅkam, and travelled
 throughout India to propagate his ideas. The important fact is that
 Rāmānuja followed, in the evolvement of his philosophy, Yamunācārya
 (b. 917) who was the grandson of Ranganāthamuni (824-924),
@@ -232,10 +232,10 @@ the first of the great Ācāryas of Vaiṣṇavism who followed directly
 the Tamil Āḻvārs; Ranganāthamuni actually became the final
 redactor of the Vaiṣṇava Tamil canon; and the grandson and
 direct spiritual inheritor of this man, Yamunācārya, who also went
-under his Tamil name Āļavantār, became the guru of Rāmānuja.
+under his Tamil name Āḷavantār, became the guru of Rāmānuja.
 Thus, a direct and uninterrupted line leads back from Rāmānuja to
-the greatest of Āḻvārs and one of the greatest Tamil poets, Nammālvār,
-who was the *guru* of Ranganathamuni.
+the greatest of Āḻvārs and one of the greatest Tamil poets, Nammāḻvār,
+who was the *guru* of Ranganāthamuni.
 
 Without going into details, it is proper at least to mention by
 name the most important Sanskrit poets, commentators, philosophers
@@ -243,15 +243,15 @@ and Sanskrit literary works, intimately connected with the
 South. It is well-known that, under the patronage of early Vijayanagara
 kings, notably Bukka I, a large body of scholars headed by
 Sāyaṇa undertook and completed the enormous task of producing a
-commentary upon the Samhitās of all the four Vedas, and many of
-the Brāhmaṇas and Aranyakas.
+commentary upon the Saṃhitās of all the four Vedas, and many of
+the Brāhmaṇas and Āraṇyakas.
 
 It is not always stressed, however, that the *Bhāvagatapurāṇa* was
 composed somewhere in South India about the beginning of the
 10th Cent., and that it summed up the outlooks and beliefs of
 typical South Indian *bhakti*; it is a fact that the *Bhāgavatapurāṇa*
 combines a simple emotional bhakti to Kṛṣṇa with the *advaita* of
-Sankara in a manner that (to quote K. A. Nilakanta Sastri) "has
+Śaṅkara in a manner that (to quote K. A. Nilakanta Sastri) "has
 been considered possible only in the Tamil country of that period”.
 Among the most interesting dramatic compositions coming from the
 Tamil South are the two unique farces (*prahasanas*)*, Mattavilāsa* and
@@ -260,12 +260,12 @@ South Indian history, the “curious-minded” Mahendravarman the
 First of Kāňci.
 
 In the domain of Vedānta, all the three major schools had their
-origin in the South: Sankara (born in 788 at Kaladi in North
+origin in the South: Śaṅkara (born in 788 at Kaladi in North
 Travancore) was a Kerala Brahmin. One may go on enumerating
 hundreds of Sanskrit works in the field of belles-lettres, rhetoric,
 grammar, lexicography, commentatorial literature, philosophy
 etc., all of them written in the South. This we will not do, naturally;
-it is important, however, to appreciate the fact that Sanskrit
+it is important, however, to appreciate the fact that *Sanskrit*
 literary works are an integral and intrinsic part of the literary
 heritage of the *South* and that Sanskrit was the language of learning
 and higher culture throughout South India, though, of course, to a

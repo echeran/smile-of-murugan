@@ -152,6 +152,9 @@
    If the word actually appears correctly spelled in the text, then
    the value set of strings should be kept empty."
 
+  
+  ;; em dash
+  ;; —
 
   ;; Known bad diacritics to look for once the spelling fixes are done:
   ;;
@@ -167,7 +170,7 @@
    ;;
    ;; NG - ṅ
    ;;
-   ;; NY - ň 
+   ;; NY - ň   (or is it ñ ????)
    ;;
    ;; T - ṭ
    ;;
@@ -175,6 +178,17 @@
    ;;
    ;; upper long vowels - Ā Ō
    ;; lower long vowels - ā ē ī ō ū
+
+
+   ;; non-Thamil letters
+   ;;
+   ;; ḍ
+   ;; Ś ś
+   ;; ṛ
+   ;; ṃ
+   ;; Ṛ
+
+
    
    "absolutive" #{}
    "absolutives" #{}

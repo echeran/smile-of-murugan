@@ -8,7 +8,7 @@ large book? I am indeed very grateful to the many colleagues,
 students and friends at the Universities of Chicago, Rochester,
 Leiden and London, who discussed with me many points of the
 book, who suggested changes in the English of the text, in short,
-who made this book possible-to J. A. B. van Buitenen, Milton
+who made this book possible—to J. A. B. van Buitenen, Milton
 Singer, Don Nelson, F. B. J. Kuiper and particularly to J. R. Marr.
 In a very special way I am indebted to A. K. Ramanujan, whose
 views and whose penetrating understanding and interpretation of
@@ -25,6 +25,7 @@ Pillai.
 
 Leiden,
 Spring 1971
+
 K. Z.
 
 ## Preface
@@ -34,7 +35,7 @@ great deal to the cultural *richesse* of the world: Pallava and Chola
 temple architecture, Chola bronze sculpture, the dance-form known
 as Bharatanatyam, the so-called Carnatic system of music. But
 probably the most significant contribution is that of Tamil literature,
-which still remains to be "discovered" and enjoyed by the nonTamilians
+which still remains to be "discovered" and enjoyed by the non-Tamilians
 and adopted as an essential and remarkable part of
 universal heritage. If it is true that liberal education should “liberate"
 by demonstrating the cultural values and norms foreign to us,
@@ -48,8 +49,7 @@ However, frankly speaking, I do not think that anybody is
 capable, at the present state of affairs, of bringing out a sufficiently
 formalized, detailed and exhaustive synthesis of Tamil literature
 comparable to such magnificent works as, say, Jan Rypka's
-*Persian Literature* or Maurice Winternitz's *History* of *Indian*
-*Literature*.
+*Persian Literature* or Maurice Winternitz's *History of Indian Literature*.
 
 Much, much more detailed, analytic work must be performed and
 many monographs on various aspects, trends, literary works, writers
@@ -67,8 +67,6 @@ to understand the function of literature in India, to appreciate and
 enjoy it in terms of cultural norms and literary taste which is not
 only different from our approach but often in direct contrast to it.
 And, last but not least, we must try to formulate the results of our
-XII
-PREFACE
 analysis in a manner which will be increasingly more formalized
 and explicit and less intuitive and informal.
 
@@ -128,7 +126,7 @@ arouse interest and to provoke discussion.
 | *HSI*             | A *History* of *South* India (1955) by K. A. Nilakanta Sastri                |
 | *HTL*             | A *History* of *Tamil Literature* (1965) by T. P. Meenakshisundaran          |
 | *HTLL*            | *History* of Tamil *Language* and *Literature* (1956) by S. Vaiyapuri Pillai |
-| *ΙΑ*              | *Iṟaiyaṉār Akapporu!*                                                        |
+| *ΙΑ*              | *Iṟaiyaṉār Akapporuḷ*                                                        |
 | *ibid.*           | *ibidem*                                                                     |
 | id.               | idem                                                                         |
 | Ka.               | Kannada, Kanarese                                                            |
@@ -146,7 +144,7 @@ arouse interest and to provoke discussion.
 | Nacciņārk.        | Nacciṉārkkiṉiyar                                                             |
 | *Nāṭyaś*.         | *Nāṭyaśāstra*                                                                |
 | *Naṟ.*            | *Naṟṟiṇai*                                                                     |
-| *Neṭuṉal.*        | *Neṭuṉalvāṭai*                                                               |
+| *Neṭuṉal.*        | *Neṭunalvāṭai*                                                               |
 | OTa.              | Old Tamil                                                                    |
 | *Pat.*            | *Patikam*                                                                    |
 | *Patiṟ*.          | *Patiṟṟuppattu*                                                              |
@@ -169,7 +167,7 @@ arouse interest and to provoke discussion.
 | To.               | Toda                                                                         |
 | *Tolk*.           | *Tolkāppiyam*                                                                |
 | *Tolk. Col.*      | *Tolkāppiyam*, *Collatikāram*                                                |
-| *Tolk. Elutt.*    | *Tolkāppiyam, Eḻuttatikāram*                                                 |
+| *Tolk. Elutt.*    | *Tolkāppiyam*, *Eḻuttatikāram*                                                 |
 | *Tolk. Poruḷ.*    | *Tolkāppiyam*, *Poruḷatikāram*                                               |
 | trans.            | translator, translated by, translation                                       |
 | Uvam.             | *Uvamaiyiyal*                                                                |
@@ -190,30 +188,28 @@ English diphthongized counterparts. Final -ai is pronounced
 approximately like -ey.
 
 Tamil has two series of consonants unfamiliar to English speakers:
-the dentals t, n and the retroflexes t, n, 1, 1. The dentals are pronounced
+the dentals t, n and the retroflexes ṭ, ṇ, ḷ, ḻ. The dentals are pronounced
 with the tongue at the teeth, the retroflexes are produced by
 curling the tongue back towards the roof of the mouth (cf. American
 pronunciation of gi*r*l, si*r*).
 
 In the middle of Tamil words, long consonants occur. In transliteration,
 they are indicated by double letters (cf. *Nakkīrar*, *pāṭṭu*).
-English has long consonants between words, cf. Mac Kinley, fou*r
+English has long consonants between words, cf. Ma*c K*inley, fou*r
 r*oads, ho*t t*ea.
 
-## Note On Transliteration And Pronunciation
-
 The Tamil r is flapped or trilled as in some European languages
-like Spanish, Italian or Czech. The 1 is somewhat like the American
-variety of r; r and r are not distinguished by most modern Tamil
-speakers, but long rr is pronounced like tr in English trap or tt in
-hot tea; nr is pronounced ndr as in lau*ndr*y.
+like Spanish, Italian or Czech. The ḻ is somewhat like the American
+variety of r; r and ṟ are not distinguished by most modern Tamil
+speakers, but long ṟṟ is pronounced like tr in English *tr*ap or tt in
+ho*t t*ea; nr is pronounced ndr as in lau*ndr*y.
 
-p, t, t, c, k are pronounced differently according to their positions:
-initially, p, t, and k are pronounced as voiceless stops, ț does not
-occur, and c is initially pronounced as s or sh. Between vowels, p, t, ț
-are voiced into b, d, and d and pronounced as lax voiced stops; k and
+p, t, ṭ, c, k are pronounced differently according to their positions:
+initially, p, t, and k are pronounced as voiceless stops, ṭ does not
+occur, and c is initially pronounced as s or sh. Between vowels, p, t, ṭ
+are voiced into b, d, and ḍ and pronounced as lax voiced stops; k and
 c are pronounced as gh or h and s or sh. After nasals, all stops are
-voiced into b, d, d, j, g.
+voiced into b, d, ḍ, j, g.
 
 Instances: *akam* is pronounced usually aham, *caṅkam* is pronounced
 sangam, *kapilar* is pronounced kabilar, *kuṟuntokai* as kurundohey,

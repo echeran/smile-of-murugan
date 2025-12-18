@@ -12,6 +12,7 @@ number of other questions (such as the biculturalism of some strata
 of the Tamil community, the language-loyalty, language policy etc.).
 By “general” I mean the generally, the universally Indian, by
 "specific” I mean the specifically, distinctively Tamil.
+
 There is much talk today about the Indian linguistic area; after
 Emeneau applied the theory of a *Sprachbund* to India and so-to-say
 discovered India, in 1956, as a “linguistic area”, as an area in which
@@ -29,14 +30,14 @@ successfully produced a classified list and a really deep and penetrating
 discussion of these features). These common features are of
 course results of a converging evolution; or, one should probably
 say, and this seems to me to be rather important, of a synthesis not
-yet fully achieved, actually far from achieved. The common
+yet fully achieved—, actually far from achieved. The common
 Indianness, the “unity in diversity", should be regarded not as
 something static and finished, but as a dynamic process, as a truly
 dialectical process; not as a sum, but as a movement which alters in
 the historical evolution, a kind of striving after synthesis of oppositions
 and conflicts which are frequently rather antagonistic.
 
-One of the basic-if not the basic-components of this dynamic
+One of the basic—if not the basic—components of this dynamic
 process full of tensions and antagonisms is the striving after a
 Dravidian-Aryan synthesis. Tamil literature reflects this struggle,
 from its very beginnings in the text of the *Tolkāppiyam* until today's
@@ -49,7 +50,7 @@ writers.
 unique only for it; not confined to any particular region or bound by any
 particular linguistic unit or social community. Examples of such features
 (seen, naturally, in a somewhat "collapsed" form) are, e.g., high degree of
-conceptualization and categorizing science against low degree of factgathering
+conceptualization and categorizing science against low degree of fact-gathering
 and hypotheses-testing; the conception of time as circular rather
 than linear, etc. etc. In the field of literature, its function and appreciation,
 such features are, to quote a few instances: higher regard for oral than for
@@ -71,7 +72,7 @@ effect and any structurally deep impact upon the indigenous,
 pre-Aryan culture of the South. This does not, however, mean that
 even the earliest strata of classical Tamil culture are without any
 traces of "Sanskritization". In fact, diffusion of at least some of the
-"Sanskritic" traits must have taken place as early as in the ProtoTamil
+"Sanskritic" traits must have taken place as early as in the Proto-Tamil
 or pre-Tamil stage, since, as Emeneau pointed out, these
 traits are very ancient in Toda culture, possessed by the Todas
 probably when they first appeared in the Nilgiris. As Emeneau says,
@@ -83,9 +84,9 @@ composed by Agastya's pupil *Tolkāppiyar*, is to a great extent the
 product of an Aryan-Dravidian synthesis; and even in its *Urtext*, in
 its earliest layers, it shows beyond doubt the author's well-digested
 knowledge of such Sanskrit authors as Pāṇini and Patañjali. The
-earliest traces of another style of Tamil-a style probably rather
-near to the colloquial speech of those days-preserved in the most
-ancient inscriptions in Tamil in the Brāhmī script-are influenced to
+earliest traces of another style of Tamil—a style probably rather
+near to the colloquial speech of those days—preserved in the most
+ancient inscriptions in Tamil in the Brāhmī script—are influenced to
 a considerable extent by the Prakrit of the Jains and the Pali of the
 Buddhists.
 
@@ -93,21 +94,21 @@ Hence it is clear that Tamil literature did not develop in a cultural
 vacuum, and that the evolution of the Tamil culture was not
 achieved either in isolation, or by simple cultural mutation. The
 very beginnings of Tamil literature manifest clear traces of Aryan
-influence just as the very beginnings of the Indo-Aryan literature,
-the Rgvedic hymns, show traces of Dravidian influence. This, too,
+influence—just as the very beginnings of the Indo-Aryan literature,
+the Ṛgvedic hymns, show traces of Dravidian influence. This, too,
 is today an undisputed fact.
 
 On the other hand, there are some sharply contrasting features
 which are typical for Tamil classical culture alone, for the Tamil
 cultural and literary tradition as opposed to the non-Tamil tradition
--and in this respect, the Tamil cultural tradition is independent,
+—and in this respect, the Tamil cultural tradition is independent,
 not derived, not imitative; it is pre-Sanskritic, and from this point
 of view Tamil alone stands apart when compared with all other
 major languages and literatures of India.
 
 It is possible to express this fact briefly but precisely by saying
 that there exist in India only two great specific and independent
-classical and historically attested cultures-the Sanskritic culture
+classical and historically attested cultures—the Sanskritic culture
 and the Tamil culture.
 
 Historically speaking, from the point of development of Indian
@@ -119,19 +120,20 @@ which is, at least in its beginnings and in its first and most vigorous
 bloom, almost entirely independent of Aryan and specifically
 Sanskrit influences. This primary independence of Tamil literary
 tradition has been, incidentally, the source of many conflicts.
+
 Second: though being sometimes qualified as a neo-Indian literature,
 Tamil literature is the only Indian literature which is both
 classical and modern; while it shares antiquity with much of
 Sanskrit literature and is as classical, in the best sense of the word,
 as e.g. the ancient Greek poetry, it continues to be vigorously living
 modern writing of our days. This fact was expressed in a very happy
-formulation by A. K. Ramanujan in his excellent book The *Interior*
-*Landscape* (1967): "Tamil, one of the two classical languages of
+formulation by A. K. Ramanujan in his excellent book *The Interior Landscape*
+(1967): "Tamil, one of the two classical languages of
 India, is the only language of contemporary India which is recognizably
 continuous with a classical past”.
 
 
-This fact-the relation between tradition and modernity-has, too,
+This fact—the relation between tradition and modernity—has, too,
 been the source of constant tension: contemporary Tamil literature
 has to carry the splendid but massive burden of an uninterrupted
 tradition and classical heritage, and sometimes the burden seems
@@ -152,7 +154,7 @@ ruling nobility, of a priestly class, of nuns, monks, or of any *élite*
 group or groups of society. The whole gamut of basic human
 experience is contained in what has been best in Tamil writing.
 In this sense, it is very different from all strata of Sanskritic
-literature from the Vedic literature which is the literature of
+literature—from the Vedic literature which is the literature of
 a sacerdotal class, from the great epics which are the literature of
 the ruling barons, from the classical literature which is *par excellence*
 the literature of the "man about town", of the *nāgarika*; it is also
@@ -161,7 +163,7 @@ the literature of monastic orders, of monks and nuns. However, this
 does not mean that it is, in its finished form, as we have it, "popular"
 literature or "folk" literature. Classical Tamil literature is literature
 about and of people but not a *Volksliteratur*. It is typically a
-*Kunstdichtung.*
+*Kunstdichtung*.
 
 The poets, of both sexes, had no priestly function to perform.
 There are more than twenty women minstrels, responsible for about
@@ -171,32 +173,31 @@ vocational group, held generally in high esteem. They belonged, by
 birth, to all classes of society; quite a number of them were born as
 princes and chieftains; a great number were of peasant or merchant
 origin; however, the list of ancient poets includes potters, blacksmiths
-and carpenters-by birth, that is. Some of the names are
-revealing: e.g. Nampi Kuṭṭuvaṉ, Kur. 243, belonged to the ruling
-dynasty of the *Cēral* kings; Maturai Eḻuttāḷaṉ, Kur. 223, was
-probably a scribe at the royal court of *Maturai*; Uṟaiyūr Mutukorran,
-*Kur*. 221, is the "old headman of *Uṟaiyūr",* but Kiḷimaṅkalaṅkiḻār,
-*Kur*. 152, was a peasant by caste, while e.g. Māmūlaṉār,
+and carpenters—by birth, that is. Some of the names are
+revealing: e.g. Nampi Kuṭṭuvaṉ, *Kuṟ*. 243, belonged to the ruling
+dynasty of the *Cēral* kings; Maturai Eḻuttāḷaṉ, *Kuṟ*. 223, was
+probably a scribe at the royal court of *Maturai*; Uṟaiyūr Mutukoṟṟan,
+*Kuṟ*. 221, is the "old headman of *Uṟaiyūr",* but Kiḷimaṅkalaṅkiḻār,
+*Kuṟ*. 152, was a peasant by caste, while e.g. Māmūlaṉār,
 responsible for a number of poems, was a Brahmin scholar.
 
 These early poets, recruited from many different communities,
-received bardic training-there were probably different schools and
+received bardic training—there were probably different schools and
 traditions of this training—and became professionals; the wandering
 minstrels and bards travelled about in groups, often rather poor,
 frequently, however, very influential, and sometimes rather
-affluent. When a poet in Puṟ. 208. 7-8 says: "I am not singing for
+affluent. When a poet in *Puṟ*. 208. 7-8 says: "I am not singing for
 money" and "I am not a poet who barters his art", it implies the
 existence of "mercenary" singers. Some of the poems speak even of
-the duty, of the obligation (*katan,* lit. "debt") towards the minstrels
-which the ruling monarchs and chieftains have to perform *(Pur.*
-201. 14, 203. II).
+the duty, of the obligation (*kataṉ,* lit. "debt") towards the minstrels
+which the ruling monarchs and chieftains have to perform *(Pur.* 201. 14, 203. II).
 
 The learning of the minstrels was oral, acquired by imitation and
 practice; the basis of their knowledge was purely auditory. Cf. the
-term kēḷvi "learning" (specifically of the poets): primary meaning
-"hearing, sound” (<*kēļ*), or kiḷavi "word, speech, language,
+term *kēḷvi* "learning" (specifically of the poets): primary meaning
+"hearing, sound” (<*kēļ*), or *kiḷavi* "word, speech, language,
 utterance" <*kiļa* "to speak", i.e. "to be heard" (*DED* 1677,
-Burrow *BSOAS* 1943, 128); kiḷavi is used most frequently for
+Burrow *BSOAS* 1943, 128); *kiḷavi* is used most frequently for
 "poetic utterance": all this points to the oral-auditory nature of
 early Tamil literature.
 
@@ -205,7 +206,8 @@ the most ancient Tamil metre, the metre in which almost the entire
 bardic poetry is sung, namely *akaval,* means "call, summon, song"
 (cf. *DED* 11 *akavu* "to utter a sound as a peacock, to sing, call,
 summon", *akavar* "bards who arouse the king in the morning”).
-Later the same metre was called *āciriyam*, derived from *āciri yan*
+
+Later the same metre was called *āciriyam*, derived from *āciriyaṉ*
 "priest, teacher, author of any literary work, scholar", a very
 early lw. from Skt. *ācārya-* “a spiritual guide or teacher" (*DBIA,*
 item 30). That is, there was a semantic shift from "call, summon,
@@ -220,8 +222,8 @@ Buddhist ideology).
 But let us return to the bards: there were probably six major
 types of these early poets: the term which is used most frequently is
 
-*pāṇar*: This is connected with paṇ “song, melody", pāṇi “song,
-melody, music" and *pāņu* “song"; most probably the underlying
+*pāṇar*: This is connected with pāṇ “song, melody", pāṇi “song,
+melody, music" and *pāṇu* “song"; most probably the underlying
 monosyllabic morpheme is *paṇ* "music". There are cognates in
 Malayalam and Tulu. It is interesting that the Pkt. pāṇa- (most
 probably connected) means “a low caste" *(DED* 3351). The *pāṇar*
@@ -259,7 +261,7 @@ de-Sanskritized Tamil). Original meaning is "wise men, the learned".
 And this itself is important: the idea of wisdom, of knowledge, of
 learning connected with the person of the poet; it was a learned
 poetry. It also shows the reverence for the poets in ancient times:
-the *pulavar* are always highly respected-somewhat like in the
+the *pulavar* are always highly respected—somewhat like in the
 Jewish tradition: a scholar is the most respected man in the society.
 
 It seems from certain data that poets have not only been always
@@ -273,32 +275,33 @@ In a way, ancient Tamil poetry, especially the erotic poetry, is
 very "democratic". However, this democratism, I am afraid, was
 greatly exaggerated.[^exaggerated] The characters mentioned by name in the
 *heroic* poetry are almost exclusively aristocratic. On the other hand,
-in *love-poetry*, the personnel is anonymous-they are types, typified
+in *love-poetry*, the personnel is anonymous—they are types, typified
 common people or rather people in general, without any determination
 of their social status, their occupation, etc.: just a man and a
 woman, the woman's mother or girl-friend, the man's friend or his
 charioteer. However, there is evidence which shows that even these
 anonymous types belong, in most of the erotic poems, to the "leisure
 class". We may assume that, with a few exceptions, one and the
-same type of male is the hero of both--the war exploits and the
+same type of male is the hero of both—the war exploits and the
 erotic feats. The only difference is that when the poet describes his
 erotic achievements, he is discreetly anonymous, while anonymity in
 panegyric and heroic poetry would be quite unwanted; here, the
 hero is a concrete person. There is no personal love-poetry. The
 poet never speaks about his individual erotic experience; on the
 other hand, there is a lot of personal experience of the poet revealed
-in the poems from the other sphere--the sphere of public life.
+in the poems from the other sphere—the sphere of public life.
+
 The male hero, though an "aristocrat", cannot be compared with
 let us say a feudal baron of the Norman period. The Old Tamil hero
 was very close to the land, the economic basis of his existence,
 though he himself did probably no manual work in the fields; he did
 not live in huge castles, but in villages in big houses called *maṉai*,
-*akam*, il, and only occasionally in small fortresses. However, as
+*akam*, *il*, and only occasionally in small fortresses. However, as
 *Puṟam* 311 says,
 
 [^exaggerated]: I would now hesitate to use the term at all. It is true that, on the one
-hand, the akam genre of classical poetry has for its *dramatis personae* anonymous
-types representative of men and women an *sich* (irrespective, among
+hand, the *akam* genre of classical poetry has for its *dramatis personae* anonymous
+types representative of men and women *an sich* (irrespective, among
 other features, of caste or class) who undergo common and total human
 experience of love in all its phases and aspects; on the other hand, these
 idealized types represent cultured, well-matched and fit pairs, to the exclusion
@@ -306,7 +309,7 @@ of uncultured, ignorant, unfit people, who, in later scholastic literature,
 are said explicitly to be servants and workers. The ideology of the
 *puṟam* (heroic) genre is definitely "clannish" and "aristocratic".
 
-> "he wears spotless white clothes washed by the pulaitti (washer-
+> "he wears spotless white clothes washed by the *pulaitti* (washer-
 > woman), who digs the salt land for water. He also wears a garland
 > of flowers. He is always helpful to others. But he fights alone,
 > unaided in battle. A fierce and mighty hero, he is, who wards
@@ -319,8 +322,8 @@ ethics of war or the problems of extramarital relationship or nonmonogamous
 sexuality of the heroes (Kailasapathy, 79, 80). Only
 later—probably due to the impact of Jainism, Buddhism and later
 Brahmanism there is some gnomic content in the poems—the
-central idea being the impermanence of life in the world: *Tolkāppi-*
-*yam* calls this theme *kāňci*, and *Puṟapporuḷ veṇpāmālai* calls it
+central idea being the impermanence of life in the world: *Tolkāppiyam*
+ calls this theme *kāňci*, and *Puṟapporuḷ veṇpāmālai* calls it
 *vākai*. They stand apart, probably as later additions. Whether they
 are later or not, all of them are to an extent pervaded by some conception
 of universal humanism and unity of mankind. The reasons
@@ -335,8 +338,8 @@ poems as a reflection of the progressive transformation of values,
 which were originally pertinent simply and purely to the heroic age,
 into more idealized values, interpreted from the moral standpoint.
 Whatever the process was, the outcome, represented e.g. by the
-well-known and often quoted poem beginning *yātum ūrē yāvaruṅ*
-*kēḷir, Puṟam* 192, played a very great role in subsequent ideological
+well-known and often quoted poem beginning *yātum ūrē yāvaruṅ kēḷir*,
+*Puṟam* 192, played a very great role in subsequent ideological
 development, and is probably even more important today in its
 very contemporary political interpretations, and even misinterpretations.
 The whole context of the poem shows that we have to do
@@ -352,9 +355,9 @@ read into the opening line of this beautiful poem.
 >|       Death is nothing new. We do not rejoice.
 >|       that living is sweet, nor resent it.
 >|       for not being so.
->|       Life's way is like the raft's
+>|                       Life's way is like the raft's
 >|       when the restless descending waters lash on the rocks
->|       as lightening skies pour down the rains
+>|       as lightening skies pour down the rains—
 >|       we know this very well
 >|       from the vision of the Open-eyed Ones.
 >|       So we do not marvel at those
@@ -370,7 +373,7 @@ read into the opening line of this beautiful poem.
 The ideal of human life was to be achieved in this life; and it was
 the ideal of a wise man of human proportions and with human
 qualities. There is even a specific term for this ideal man, appearing
-again and again in many stanzas-in fact one of the key-words of
+again and again in many stanzas—in fact one of the key-words of
 Tamil poetry, if not the key-word of the best in Tamil culture. I
 have in mind the term *cāṉṟōr*. This is a participial noun derived
 from the verb stem *cal* "to be abundant, full, suitable, filling, great,
@@ -379,12 +382,12 @@ nobility" (*DED* 2037 a). Hence *cāṉṟōṉ*, pl. *cāṉṟōr* means “a
 complete, a whole man, a perfect, noble man".
 
 Actually the medieval glossators and scholiasts called consistently
-the most ancient poetry of the Tamils *cāṉṟōr ceyyuḷ!* "poetry of the
+the most ancient poetry of the Tamils *cāṉṟōr ceyyuḷ* "poetry of the
 noble ones". K. Kailasapathy adds the following very true statement
 about this term: "It is perhaps no great exaggeration to
 say that no other expression sums up the totality of the nature
 of the earliest Tamil poetry as does *cāṉṟōr ceyyuḷ* 'poetry of the
-noble ones". The TL iii 1397 gives the following meanings of
+noble ones". The *TL* iii 1397 gives the following meanings of
 *cāṉṟōr*: “the warrior, the great, the learned, the noble”, and “the
 poets of the *Caṅkam* period”. In a book of essays, *Aňciṟaittumpi*,
 on pp. 49-64, M. S. Venkataswamy discussed this word and its
@@ -398,15 +401,19 @@ such perfect men exist.
 >|       some men do not eat alone, even the sweetest things,
 >|       nor even the food of the gods
 >|       earned by grace and penance;
+>|
 >|       they have no anger in them;
 >|       they do not fear evils that other men fear,
 >|       nor sleep over them;
+>|
 >|       they give their lives for glory
 >|       but will not touch the gifts of the whole worlds
 >|       if it should be tainted;
+>|
 >|       they have no faintness in their hearts,
 >|       and strive not for themselves
 >|       but for others;
+>|
 >|       this world is,
 >|       because such men are.
 >|
@@ -432,9 +439,10 @@ read the following lines:
 >|       *Puṟam* 191
 >|       Translation: A. K. Ramanujan
 
-The same idea reappears later in the *Tirukkuṟaḷ* (e.g. in 571, 996);
+The same idea reappears later in the *Tirukkuṟaḷ* (e.g. in 571, 996);\ 
 *paṇpuṭaiyār paṭṭuṉ tulakam*; *atuviṉṟeṉ*
 *maṇpukku māyvatu man* (996)
+
 "The world exists because noble and cultured men exist; without
 them the world would vanish in dust".
 
@@ -447,13 +455,12 @@ fully dedicated to his social and civic duties. And this humanistic
 tradition is very much alive in Tamil literature from its beginnings
 to its present short-story writing, and is found strongly expressed in
 the best works of Tamil literature: in the earliest poetry which is
-
-
 its source, in the pragmatic and empiric ethics of the *Tirukkuṟaḷ,* in
 the best of the *bhaktas,* in the conception of Kampaṉ's Ayodhyā, and
 even in the medieval poets like Pukaḻēnti and Aruṇakiri, in Rāmaliṅka
 Cuvāmi and, much later, in the two probably greatest figures
 of new Tamil writing, in Pārati (Bharati) and Putumaippittaṉ.
+
 Before discussing another general characteristic feature of Tamil
 writing as such, let me trace in some detail the other key-words,
 the other diagnostic concepts typical for the earliest and most
@@ -463,7 +470,7 @@ One of such terms is *nāṇ* “sense of shame”. According to the most
 accurate and sensible commentator on early old Tamil literature,
 Iḷampūraṇar, "what is meant by this word is a state of mind that
 leads to the actions contrary to the conduct of the noble ones; it
-cannot be explained"*. Akam* 273.15 speaks about *pulavar pukaḻnta*
+cannot be explained". *Akam* 273.15 speaks about *pulavar pukaḻnta*
 *nāṇ* "sense of shame praised by the bards".
 
 Another key-term, and probably even more important, is *pukaḻ*,
@@ -475,7 +482,7 @@ In *Puṟam* 36 it is said that "for fame they would give their very
 lives; against blame even the entire world they would not have".
 And again, *Puṟam* 182. 5 says *pukaḻeṉiṉ uyiruṅ koṭukkuvar* “for
 fame they would give their very lives". The synonyms for *pukaḻ* are
-*urai, icai*, *perumpeyar, cīrtti*, all meaning, “praise, fame". K. Kailasapathy
+*urai*, *icai*, *perumpeyar*, *cīrtti*, all meaning, “praise, fame". K. Kailasapathy
 examines in detail the contents and attributes of these
 items (231 ff.). The poems are saturated with constructions involving
 these terms. The warrior constantly endeavours to establish his
@@ -488,25 +495,22 @@ hero longs for battle. Cf. *Akam* 154. 3-4: "Having consumed plenty
 of strong palm-wine, the furious men long for battle". Hence the
 hero's pride in wounds received in battle, in *viḻuppuṇ* “excellent
 wounds" (*Puram* 180. 4.) which, according to the celebrated
-commentator of the Tirukkuṟaḷ, Parimēlaḻakar *(Kuṛaļ* 76.
+commentator of the *Tirukkuṟaḷ*, Parimēlaḻakar (*Kuṛaḷ* 76.
 6), are "glorious wounds which one receives ... on one's chest and
 face".
-
-
-
-
 
 Women were as brave and as thirsty for fame as men: cf. this
 amazing poem, *Puṟam* 86:
 
 >|       You stand against the pillar
 >|       of my hut and ask me:
->|       Where is your son?
->|       I don't really know.
->|       My womb is only a lair
->|       for that tiger.
->|       You can see him now
->|       only in battlefields.
+>|               Where is your son?
+>|               I don't really know.
+>|               My womb is only a lair
+>|               for that tiger.
+>|               You can see him now
+>|               only in battlefields.
+>|
 >|       ---
 >|       Translation: A. K. Ramanujan
 
@@ -514,23 +518,24 @@ With the longing for battle and thirst for fame is naturally
 connected the earliest Tamil conception of heaven. It is a hero's
 heaven, the world of great renown, the world of the noble ones;
 whereas the earth is peopled by heroes and non-heroes, the warrior's
-heaven is inhabited only by renowned *(perumpeyar*) persons. They
+heaven is inhabited only by renowned (*perumpeyar*) persons. They
 will enjoy the bliss of marriage with the spotless maidens in heaven
-*(Puram* 287. 10-12). "Lucky are those who are killed by someone
+(*Puram* 287. 10-12). "Lucky are those who are killed by someone
 rather than just die” *(Akam* 61.1-2). Those who died a natural death
 were laid on a grass mat and cut asunder with a sword, so that they
 might die a warrior's death. Even children did not escape this
 gruesome custom, cf. *Puṟam* 74. 1-2: "Whether it be a still-born
 child or a mere foetus, it is not spared but cloven asunder”.
+
 Leaving these gruesome aspects of early Tamil civilization behind,
 let me mention another and very typical and characteristic feature
-of the pre-Aryan Tamil literature-its predominantly secular
+of the pre-Aryan Tamil literature—its predominantly secular
 inspiration, the absence of any "religious" sentiment. The earliest
 extant poetry is emphatically not ritualistic at all; even reflection
 and didactic features appear later. It was suspected and hinted at
 more than once, and probably quite conclusively proved by Kailasapathy,
-that the early poetry of the Tamils is founded on *secular,*
-*oral bardic* tradition-in sharp contrast to the Vedic poetry, and
+that the early poetry of the Tamils is founded on *secular*,
+*oral bardic* tradition—in sharp contrast to the Vedic poetry, and
 comparable rather with the Greek or Welsh bardic literature and, in
 some respects, with the early amorous lyric poetry of the *trobadors*
 of Languedoc and Provence.
@@ -550,8 +555,9 @@ elements of speculation appear, they are often of very different
 quality from what we find in Aryan texts: in old Tamil literature,
 reflections and speculations are of a general, humanistic and “stoic"
 character, preoccupied mostly with the impermanence and transience
-of human affairs, with man's duties as a zoon politikon and as a
+of human affairs, with man's duties as a *zoon politikon* and as a
 social being, with the ability to live a full, happy life in this world.
+
 This original secularism and the absence of almost any religious
 inspiration is the one feature that later disappears from Tamil
 literature, and Tamil becomes what has been called “the language of
@@ -559,8 +565,9 @@ devotion" and of religious philosophy. But Tamil religiosity is
 undoubtedly of a different colour than any other Indian religiosity;
 it has its specific and peculiar features, which will be discussed in
 detail when Tamil *bhakti* poetry, and the *cittar* texts, are analysed.
+
 Apart from these more general typical features of Tamil literature
--its so-called “democratism", humanism and secularism--we may
+—its so-called “democratism", humanism and secularism—we may
 of course characterize Tamil writing by its typical subject-matters,
 by its leading themes and motives. The traditional and in fact the
 only content of ancient Tamil poetry seems again to be something
@@ -576,25 +583,23 @@ love poems ever composed in world literature: a poetry based on a
 concept definitely broader and deeper than the Sanskritic *kāma*.
 The second genre is that of *puṟam*, of the “outer world", poetry
 concerning individual heroes; about war, greatness, fame and duty;
-about public and political life; the result-magnificent bardic
+about public and political life; the result—magnificent bardic
 poetry, panegyrics and war lyrics. The genre comprises a great
 many aspects of the Sanskritic *dharma* and *artha.*
 
 Finally, there is yet another feature which should be mentioned,
-a formal feature which is perhaps rather typical of the best achieve-
-
-
-ments of Tamil literature as such, from the earliest exquisite lyrical
+a formal feature which is perhaps rather typical of the best achievements
+ of Tamil literature as such, from the earliest exquisite lyrical
 stanzas to the quite contemporary prose-writings of such authors as
-L. S. Ramamirtham or the very contemporary putu *kavitai,* “new
+L. S. Ramamirtham or the very contemporary *putu kavitai,* “new
 poetry" school. It seems somehow that the thing which matters
-most in Tamil creative writing *is* a conscious effort after brevity and
+most in Tamil creative writing is a conscious effort after brevity and
 conciseness, a striving after powerful abbreviation, clarity and
 transparence, which is the result of much effort to exploit to the
 utmost the technique of suggestion, of allusion, of inference and
 word-play, of a complex and telling use of imagery, of multiple
 overtones. This effort may be seen in the earliest lyrical stanzas as
-well as in the intensely concise couplets of the *Tirukkuṟaḷ,* in the
+well as in the intensely concise couplets of the *Tirukkuṟaḷ*, in the
 songs of *Cilappatikāram*, in various stanzas of Kampaṉ's epic, in
 modern essays and short stories.
 
@@ -602,7 +607,7 @@ Hence, the two most typical and best developed forms of Tamil
 writing throughout the ages are *lyrical poetry* and *short story*, that is
 basically brief forms. Epic poetry appears later, and is almost always
 an imitation; even the greatest Tamil epic poetry—with the possible
-exception of *Cilappatikāram* and its majestic grandeur-is rather a
+exception of *Cilappatikāram* and its majestic grandeur—is rather a
 series of miniature dramatic situations arranged like a chain of
 individual stanzas similar to beads on a string, stanzas which are
 finished, homogenous and perfect in themselves. And, frankly
