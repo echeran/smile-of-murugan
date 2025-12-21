@@ -195,7 +195,7 @@ in the legend are found in inscriptions and other authentic records
 (e.g. the poet Peruṅkuṉṟūr Kiḻār). Second, and this is very interesting,
 according to Nakkīrar, the number of poets of the 3rd Sangam
 was 449. Now, according to an edition of the early texts known as
-*Canka Ilakkiyam* (*Samājam,* 1940), the total number of poets was
+*Caṅka Ilakkiyam* (*Samājam,* 1940), the total number of poets was
 473 (+ 88 anonymous); but this number includes 35 poets named
 after some significant expression in their poems; if we disregard
 these 35 we get the number 438, and these two numbers, the
@@ -289,7 +289,7 @@ discussion is meaningless. Sometimes these facts are by themselves
 rather revealing. The various anthologies and poems will be described
 here in chronological order.
 
-I. *Ainkuṟunūṟu*
+1. *Ainkuṟunūṟu*
 
 Traditionally the third among the anthologies. "(The collection of)
 five hundred short (poems)". It owes its name to the fact that it is
@@ -881,7 +881,7 @@ impossible to distinguish what belongs properly to each author.
 
 
 | Name                   | Author                          | Hero                     | No. of lines | Metre                            |
-|------------------------|---------------------------------|--------------------------|--------------|----------------------------------|
+|:-----------------------|:--------------------------------|:-------------------------|-------------:|:---------------------------------|
 | *Porunarāṟṟuppaṭai*    | *Muṭattāmakkaṇṇiyār*            | *Karikāl*                | 248          | *akaval* (+ *vañci*)             |
 | *Perumpāṇāṟṟuppaṭai*   | *Uruttiraṉ Karṇṇaṉār*           | *Tontaiman Ilantiraiyaṉ* | 500          | *akaval*                         |
 | *Paṭṭiṉappalai*        | *Uruttiraṉ Karṇṇaṉār*           | *Karikāl*                | 301          | *vañci* (153) and *akaval* (138) |
