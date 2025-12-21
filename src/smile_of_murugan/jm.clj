@@ -158,7 +158,7 @@
 
   ;; Known bad diacritics to look for once the spelling fixes are done:
   ;;
-  ;; ń ǹ ļ ț ṛ ä ţ
+  ;; ń ǹ ļ ț ṛ ä ţ ň
   ;;
   
 
@@ -170,7 +170,7 @@
    ;;
    ;; NG - ṅ
    ;;
-   ;; NY - ň   (or is it ñ ????)
+   ;; NY - ñ    (TODO: change from ň)
    ;;
    ;; T - ṭ
    ;;
@@ -178,6 +178,11 @@
    ;;
    ;; upper long vowels - Ā Ō
    ;; lower long vowels - ā ē ī ō ū
+
+   ;; consonant clusters
+   ;;
+   ;; ṇṭ
+   ;; ṉṟ
 
 
    ;; non-Thamil letters
