@@ -46,7 +46,10 @@ format:
     reference-location: margin
     citation-location: margin
     lightbox: true
-  pdf: default
+    mainfont: noto
+  pdf:
+    fontfamily: noto
+    # mainfont: notomath
   epub: default
 format-links: [pdf, epub]
 downloads: true
