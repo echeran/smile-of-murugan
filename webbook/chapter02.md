@@ -222,7 +222,8 @@ Buddhist ideology).
 But let us return to the bards: there were probably six major
 types of these early poets: the term which is used most frequently is
 
-*pāṇar*: This is connected with pāṇ “song, melody", pāṇi “song,
+*pāṇar*
+: This is connected with pāṇ “song, melody", pāṇi “song,
 melody, music" and *pāṇu* “song"; most probably the underlying
 monosyllabic morpheme is *paṇ* "music". There are cognates in
 Malayalam and Tulu. It is interesting that the Pkt. pāṇa- (most
@@ -234,21 +235,25 @@ of the time of Pallava Nandivarman III, 846-869; historically a
 reliable text), the *pāṇar* are compared with *pēy,* “the devils, the
 demons", and with *nay*, "the dogs".
 
-*kūttar* were dancing minstrels, performers of choral dramas (a
+*kūttar* 
+: were dancing minstrels, performers of choral dramas (a
 synonymous term is *āṭunar*). Cf. Greek *choroi* who sang as well as
 danced at the festivals. This class of minstrels was degraded, too:
 kūtti "danseuse" in later time means "prostitute".
 
-*porunar*: a term which probably means "war-bards"; they were
+*porunar*
+: a term which probably means "war-bards"; they were
 especially close to the chiefs and princes; the accompanying
 instrument in this case was the *taṭāri* or *kiṇai* “small drum".
 
-*akavunar, akavalar* or *akavar* <*akavu* “to utter a sound as a peacock,
+*akavunar, akavalar* or *akavar* < *akavu*
+: “to utter a sound as a peacock,
 to sing, call, summon", i.e. "summoners, callers". Probably
 "heralds". We also come across the term *akavaṉ makaļir* “women
 heralds".
 
-*viṟaliyar*: these were female dancers and singers; originally highly
+*viṟaliyar*
+: these were female dancers and singers; originally highly
 respected cf. the case of Auvaiyār, who was a great and esteemed
 poetess and a danseuse. In later times, however, mainly due to the
 puritanical attitude of Jainism and Buddhism, they became to be
