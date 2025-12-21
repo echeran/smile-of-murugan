@@ -59,7 +59,7 @@ Pillai, 1939, pp. 5-7): "*talaiccaṅkam, iṭaiccaṅkam, kaṭaiccaṅkam eṉ
 *nāṟpattoṉpatiṉmār eṉpa. avaruḷḷiṭṭu nālāyirattu nāṉūṟṟu nāṟpattoṉpatiṉmār*
 *pātiṉār eṉpa*. *avarkaḷāl pāṭappaṭṭaṉa ettuṇaiyō paripāṭalum*,
 *mutunāraiyum*, *mutukurukum*, *kaḷariyāviraiyum eṉa ittoṭakkattaṉa*. *avar*
-*nālāyirattu nāṉūṟṟu nāṟpatiṟṟiyāṇṭu caṅkamiruntā* eṉpa. avarkaḷaic caṅkam*
+*nālāyirattu nāṉūṟṟu nāṟpatiṟṟiyāṇṭu caṅkamiruntā eṉpa. avarkaḷaic caṅkam*
 *irīiyiṉār kāyciṉa vaḻuti mutalākak katunkōṉ īṟāka eṉpattoṉpatiṉmar eṉpa.*
 *avaruḷ kavi araṅkēṟiṉār eḻuvar pāṇṭiyar eṉpa. avar caṅkam iruntu tamiḻārāyntatu*
 *kaṭal koḷḷappaṭṭa maturai eṉpa. avarukku nūl akattiyam.* \
@@ -80,25 +80,30 @@ Pillai, 1939, pp. 5-7): "*talaiccaṅkam, iṭaiccaṅkam, kaṭaiccaṅkam eṉ
 *kiḻār), iḷatirumāṟaṉum, maturaiyāciriyar nallantuvaṉārum, marutaṉiḷanākaṉārum,*
 *kaṇakkāyaṉār makaṉār nakkīraṉārumeṉa ittoṭakkattār nāṟpattoṉpatiṉmar*
 *eṉpa. avaruḷḷiṭṭu nāṉūṟṟu nāṟpattoṉpatiṉmar pātiṉār eṉpa. avarkaḷāl*
-*pātappaṭṭaṉa neṭuntokai nāṉūṟum, kuṟuntokai nāṉūṟum*, *naṟṟiṇai nāṉūṟum,*
-*puṟanāṉūṟum, aiṅkuṟunūṟum, patiṟṟuppattum, nūṟṟaimpatu kaliyum*, eḻupatu*
+*pātappaṭṭaṉa neṭuntokai nāṉūṟum, kuṟuntokai nāṉūṟum, naṟṟiṇai nāṉūṟum,*
+*puṟanāṉūṟum, aiṅkuṟunūṟum, patiṟṟuppattum, nūṟṟaimpatu kaliyum, eḻupatu*
 *paripāṭalum, kūttum, variyum, ciṟṟicaiyum, pēricaiyumeṉṟu ittoṭakkattaṉa.*
 *avarkku nūl akattiyamum, tolkāppiyamumeṉpa. avar caṅkam iruntu tamiḻārāyntatu*
 *āyirattoṇṇūṟṟaimpatiṟṟiyāṇṭu eṉpa. avarkaḷaic caṅkamirīiyiṉār*
 *katal koḷḷappaṭṭup pōntirunta mutattirumāṟaṉ mutalāka ukkirap peruvaḻuti*
 *īṟaka nāṟpattoṉpatiṉmar eṉpa. avaruḷ kaviyarankēṟinār mūvar pāṇṭiyar eṉpa.*
-*avar caṅkamiruntu tamiḻārāyntatu uttara maturai eṉpa"*. For Engl. translation
+*avar caṅkamiruntu tamiḻārāyntatu uttara maturai eṉpa"*. \
+\
+For Engl. translation
 cf. T. G. Aravamuthan, "The Oldest Account of the Tamil Academies", *JORM*
 1930, 183-201 and 289-317, and K. V. Zvelebil, "The Earliest Account of the
 Tamil Academies", *IIJ* (forthcoming, 1973). From this account it may be
-seen 1) that by the time Nakkīrar wrote his commentary, the anthologization
+seen \
+1) that by the time Nakkīrar wrote his commentary, the anthologization
 of the collections (including the rather late *Paripāṭal* and *Kalittokai*) must
 have been already a *fait accompli*; on the other hand, this account does *not*
 mention either the *(Eṭṭut)tokai* or the *(Pattup)pāṭṭu* arrangement as such
 (nor, as a matter of fact, any of the pāṭṭu
-"lays"); 2) it mentions, for the
+"lays"); \
+2) it mentions, for the
 first time, the *Tolkāppiyam* as
-a *single grammatical work*; 3) the language of
+a *single grammatical work*; \
+3) the language of
 this account shows that its author was
 definitely *not* identical with any of the
 older Nakkīrars; there are some
