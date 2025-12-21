@@ -682,7 +682,7 @@ Naṟṟiṇai 149
 >|      Transl. A. K. Ramanujan
 >|      (The *Interior Landscape* 1967)
 
-*Paṟanāṉūṟu* 271
+*Puṟanāṉūṟu* 271
 
 >|       The dark-clustered *nocci* trees blend with the land
 >|       that knows no dryness; the colors on the leaves
@@ -706,7 +706,7 @@ Naṟṟiṇai 149
 >|       *Tiṇai*: nocci | *veṭci*
 >|       Transl.: A. K. Ramanujan
 
-*Paṟanāṉūṟu* 279
+*Puṟanāṉūṟu* 279
 
 >|       May her grief come to an end!
 >|       Her courage is cruel.
@@ -739,7 +739,7 @@ Naṟṟiṇai 149
 >|       *Tiṇai*: *vākai*
 >|       Transl. A. K. Ramanujan
 
-*Paṟanāṉūṟu* 82
+*Puṟanāṉūṟu* 82
 
 >|       The festival hour close at hand
 >|       his woman in labor
@@ -763,7 +763,7 @@ Naṟṟiṇai 149
 >|       Transl. A. K. Ramanujan
 
 
-*Paṟanāṉūṟu* 295
+*Puṟanāṉūṟu* 295
 
 >|       A heaving sea:
 >|       the battlefield with its tents.
@@ -791,7 +791,7 @@ Naṟṟiṇai 149
 >|       *Tiṇai:* *tumpai*
 >|       Transl. A. K. Ramanujan
 
-*Paṟanāṉūṟu* 300
+*Puṟanāṉūṟu* 300
 
 >|       A shield, you say, a shield?
 >|       Yes, a shield and a stone to stave off the enemy,
@@ -809,7 +809,7 @@ Naṟṟiṇai 149
 >|       *Tiṇai*: *tumpai*
 >|       Transl.: E. Annamalai - H. Schiffman 
 
-*Paṟanāṉūṟu* 88
+*Puṟanāṉūṟu* 88
 
 >|       Whoever you may be,
 >|               beware
@@ -833,7 +833,7 @@ Naṟṟiṇai 149
 >|       *Tiṇai*: *tumpai*
 >|       Transl.: Kamil Zvelebil
 
-*Paṟanāṉūṟu* 349
+*Puṟanāṉūṟu* 349
 
 >|       The king scraped the sweat
 >|       off his brow
@@ -856,7 +856,7 @@ Naṟṟiṇai 149
 >|       *Tiṇai*: *kāňci*
 >|       Transl. A. K. Ramanujan
 
-*Paṟanāṉūṟu* 223
+*Puṟanāṉūṟu* 223
 
 >|       The horse did not come back.
 >|       His horse did not come back.
@@ -874,7 +874,7 @@ Naṟṟiṇai 149
 >|       *Tiṇai*: *potuviyal*
 >|       Transl. A. K. Ramanujan
 
-*Paṟanāṉūṟu* 256
+*Puṟanāṉūṟu* 256
 
 >|       Potter, O potter, maker of pitchers,
 >|           I've come with him
@@ -896,7 +896,7 @@ Naṟṟiṇai 149
 >|       Transl. A. K. Ramanujan
 
 
-*Paṟanāṉūṟu* 389
+*Puṟanāṉūṟu* 389
 
 >|       Summers when the fruit of waterpalms dry and harden
 >|       when forest neems go to seed

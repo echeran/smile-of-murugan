@@ -89,7 +89,7 @@ printed along with) the original text under the term *kuṟippurai* or
 "annotations" (lit. “note-commentaries”).
 
 Somewhat more explicit and detailed commentaries (like the old
-anonymous commentary to *Paṟanāṉūṟu* or Parimēlaḻakar's commenry
+anonymous commentary to *Puṟanāṉūṟu* or Parimēlaḻakar's commenry
 on *paripāṭal)* are called *polippurai* or "abstracts", "summaries".
 
 In course of time, commentaries became more involved and
@@ -631,7 +631,7 @@ this town-accusative suffix'; a finite verb".
 As an example of those medieval invocatory stanzas in praise
 of god *(kaṭavuļvāļttu*) which usually introduce Tamil poetic works
 I give a very close translation of Peruntēvaṇār's introductory poem
-to *Paṟanāṉūṟu.* Peruntēvaṇār's date was probably the 9th Cent.
+to *Puṟanāṉūṟu.* Peruntēvaṇār's date was probably the 9th Cent.
 
 *In praise of God. Sung by Peruntēvaṇār who composed the Pāratam.*
 

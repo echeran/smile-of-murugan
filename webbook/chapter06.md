@@ -233,7 +233,7 @@ the time of the *TP* itself. It provides poems illustrating each theme,
 composed probably *ad hoc* for the treatise, but embodying early
 material. From this point of view, PVM is in some respects a
 literary work. Kailasapathy (op. cit. 53) quotes a few parallelisms
-between the illustrative stanzas in *PVM* and *Paṟanāṉūṟu (Pur*. 290
+between the illustrative stanzas in *PVM* and *Puṟanāṉūṟu (Pur*. 290
 PVM v. 19, Puṟ. 292 *PVM* v. 32). The authorship is ascribed
 to Aiyaṉār Itaṇār of the royal *Cēral* family.
 
@@ -862,7 +862,7 @@ was equivalent to the composition of a theme” (192).
 
 How does the "theme" work in the corpus of texts?
 
-Let us take, as an example, the very first poem of *Paṟanāṉūṟu*
+Let us take, as an example, the very first poem of *Puṟanāṉūṟu*
 (designated as Puṟ. 2 since Puṟ. I is the invocatory stanza). The
 colophon says: “tiņai (poetic situation): *pāṭāṇ*: "praise"; *tuṟai*
 (theme): *cevi yarivuṛūu* “god counsel”; *välttiyalumām* “or praise of

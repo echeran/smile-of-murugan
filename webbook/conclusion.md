@@ -205,7 +205,7 @@ ed., Higginbotham and Co., Madras, 1882.
 *An Anthology* with *Studies and Translations*. Madras, Tirunelveli S.I.S.S.
 Works Publishing Society, 1959. A compilation of a number of different older
 translations of classical Tamil poetry ranging from the
-of *Paṟanāṉūṟu*
+of *Puṟanāṉūṟu*
 poems
 to Rāmaliṅka Cuvāmikal's verses. The originals are mostly given along with
 the translations which are dated and bad in most cases. There are many
@@ -282,7 +282,7 @@ Poetry", *Proceedings* of the I. *International* Conference *Seminar* of *Tamil*
 *Studies*, Vol. II, Kuala Lumpur, 1969, 63-69.
 
 12. Marr, John Ralston, *The Eight* Tamil *Anthologies* with *special reference*
-to *Paṟanāṉūṟu and Patiṟṟuppattu.* Unpublished doctoral dissertation at the
+to *Puṟanāṉūṟu and Patiṟṟuppattu.* Unpublished doctoral dissertation at the
 University of London, 1958. An excellent, critical treatment of all aspects of
 early Tamil classical poetry, including the prosody.
 
