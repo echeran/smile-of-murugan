@@ -6,45 +6,45 @@ The entire corpus of earlier classical poetry is composed in two
 metres: [^classical-prosody] *akaval* and *vaňci*.
 
 The basic metrical unit [^metrical-unit] is the *acai,* [^acai] which is of two types: the
-*nēr* and the niṟai. The *nĕr* is a simple metrical unit, long or short,
-which may or may not be followed by a consonant, that is (C) V (C).
-We designate it by The niṟai is a compound metrical unit, made
+*nēr* and the *nirai*. The *nēr* is a simple metrical unit, long or short,
+which may or may not be followed by a consonant, that is (C) V̄̆ (C).
+We designate it by —. The *nirai* is a compound metrical unit, made
 up of two short syllables, or a short followed by a long syllable,
-with or without a consonant following, i.e. (C) VCV (C). We symbolize
-the *niṟai* by We see that the *nēr* may be quantitatively
-long or short, whereas the first, initial syllable of a *niṟai* is always
-short; in terms of Western notation, then, a *nēr* is always (a
-macron), while a *niṟai* may be (pyrrhic) or
+with or without a consonant following, i.e. (C) V̆CV̄̆ (C). We symbolize
+the *nirai* by =. We see that the *nēr* may be quantitatively
+long or short, whereas the first, initial syllable of a *nirai* is always
+short; in terms of Western notation, then, a *nēr* is always — (a
+macron), while a *nirai* may be ◡◡ (pyrrhic) or ◡—
 (iambic).[^ner-nirai]
 
-If either of these two are followed by -u or by the "overshort" *-u,*
-they become *nērpu* and niraipu, i.e. modified *nēr* and *niṟai*. This
-does not apply to cases where the -u follows a single short syllable,
-whence it becomes not a *nērpu* but a *niṟai.* [^nerpu-nirai] The possible combinations
-of these four units (*nēr, nērpu, niṟai,* niraipu) are sixteen. And
+If either of these two are followed by *-u* or by the "overshort" *-u,*
+they become *nērpu* and *niraipu*, i.e. modified *nēr* and *nirai*. This
+does not apply to cases where the *-u* follows a single short syllable,
+whence it becomes not a *nērpu* but a *nirai.* [^nerpu-nirai] The possible combinations
+of these four units (*nēr*, *nērpu*, *nirai*, *niraipu*) are sixteen. And
 all of them are permitted in the *akaval* metre. The most common
-combinations are or *tēmā,* or *pulimā, kuvilam* and
-*karuvilam*. These combinations form the next level in the
-metrical structure the level of the *cir* "feet”. The feet proper to
+combinations are or *tēmā,* or *puḷimā*, *kuviḷam* and
+*karuviḷam*. These combinations form the next level in the
+metrical structure the level of the *cīr* "feet”. The feet proper to
 the *akaval* are termed *iyaṟcīr* or “natural feet”, also *āciriyaccīr* or
 "feet proper to the *āciriyam* (= *akaval*) metre".
 
 [^classical-prosody]: For the most recent treatment of Tamil classical prosody, cf. K. Zvelebil,
-An *Introduction* to *Tamil Classical Prosody,* Hoe & Co., Madras, 1972.
+An *Introduction* to *Tamil Classical Prosody*, Hoe & Co., Madras, 1972.
 
 [^metrical-unit]: Some writers translated *acai* as "syllable" which is incorrect (cf. the
-criticism of this term by J. R. Marr, op. cit. 273). *acai* is not a syllable,
+criticism of this term by J. R. Marr, *op. cit.* 273). *acai* is not a syllable,
 neither is it a mora. Vithianathan translates it as "quantitative unit of a
-movement" (op. cit. 273), Kailasapathy as "basic metrical unit" (op. *cit*.
+movement" (*op. cit.* 273), Kailasapathy as "basic metrical unit" (*op. cit*.
 140). I hesitated for some time between "prosodic” or “metrical syllable"
 and some kind of "unit", and then, after discussing the matter with J. R.
 Marr, decided for "fundamental" or "basic metrical unit".
 
 [^acai]: Cf. *DED* 39: *acai* "to move, stir, etc.".
 
-[^ner-nirai]: Cf. J. R. Marr, op. cit. 415.
+[^ner-nirai]: Cf. J. R. Marr, *op. cit.* 415.
 
-[^nerpu-nirai]: E.g. in the words *karu* = and *mulu* =.
+[^nerpu-nirai]: E.g. in the words *karu* = and *muḻu* =.
 
 
 
@@ -60,14 +60,14 @@ Elsewhere, a three-feet line is exceptional.[^three-feet-line]
 The *vaňci* metre (which occasionally occurs with the *akaval* in the
 songs of the *Pattuppāṭṭu* anthology) has a somewhat different
 scheme. The *vaňci* foot is made of three *acais*, e.g.
-― = —
-*nērnirai-*
-*nēr*. The possible combinations of the four *acais* are sixty for the
+— = —
+*nērnirainēr*.
+The possible combinations of the four *acais* are sixty for the
 *vaňcippā*. The usual *vaňci* line has two feet, so that it usually has
-six *acais*. The last line in a *vaňci* stanza may be in *akaval.*
+six *acais*. The last line in a *vaňci* stanza may be in *akaval*.
 
 The next (and for our purposes the final) important concept to
-discuss is the *toṭai,* lit. “connexion, joining”, “fastening, tying”,
+discuss is the *toṭai*, lit. “connexion, joining”, “fastening, tying”,
 "series, succession", i.e. the art of joining the lines of a poem in
 succession, making use of "rhyme", alliteration, assonance, contrast
 etc.[^nokku] The line is considered by indigenous theoreticians as the basic
@@ -75,34 +75,35 @@ and self-contained unit, in fact, as the largest single unit in a poem.
 According to Pērāciriyar, “the poet completes the intended meaning
 in each line; he does not need another line". *Toṭai* is precisely the
 art of stringing together lines so that they constitute a song. There
-are various kinds of *toṭai.* For our purposes, we shall mention just
-two: *etukai* and *mōnai. Etukai* is the "consonance" in the coda of the
+are various kinds of *toṭai*. For our purposes, we shall mention just
+two: *etukai* and *mōṉai*. *Etukai* is the "consonance" in the coda of the
 first closed syllables in the feet, e.g. in *peru* (1st line)... *aru* (2nd
-line), the -- is the seat of *etukai* ; in *pāṭu* (1st line). . *kōṭi* (2nd line),
-the -- is the seat of *etukai*. *Mõnai* is alliteration, like in *māyōṇ*
+line), the *-r-* is the seat of *etukai* ; in *pāṭu* (1st line)....*kōṭi* (2nd line),
+the *-ṭ-* is the seat of *etukai*. *Mōṉai* is alliteration, like in *māyōṉ*
 *mārpil* or *paranta pāṭi*.
 
 *Specimen Analysis*
+
 The basic prosodic and rhetoric features of classical Tamil poetry
 will now be demonstrated through the analysis of three selected
 poems.
 
-[^three-feet-line]: It was very probably rightly suggested by John R. Marr (op. cit. 464)
+[^three-feet-line]: It was very probably rightly suggested by John R. Marr (*op. cit.* 464)
 that the three-feet penultimate line in *akaval* might have indicated the approaching
-end of a song. Kailasapathy (op. cit. 143-143) suggests an analogy
+end of a song. Kailasapathy (*op. cit.* 143-143) suggests an analogy
 of the penultimate line to the cadence in a musical composition.
 
-[^nokku]: The next constituent is nōkku “gaze, look, view", i.e. the cohesion of the
+[^nokku]: The next constituent is *nōkku* “gaze, look, view", i.e. the cohesion of the
 various elements into one single whole; Kailasapathy says that it connects
-"the smooth flow of meaning" (op*. cit.* 146).
+"the smooth flow of meaning" (*op. cit.* 146).
 
 
 *Kuṟuntokai* 119 (by Catti Nātaānr)
 
->|      *ciruvel laravi navvarik kuruļai*
->|      *kāna yānai yanṇańki yāan*
->|      *kiļaiyaṇ muļaivā ļeyirraļ*
->|      *valaiyuṭaik kaiyaḍem maṇanki yōļē*
+>|      *ciṟuveḷ ḷaravi ṉavvarik kuruḷai*
+>|      *kāṉa yāṉai yanṇaṅki yāaṅ*
+>|      *kiḷaiyaṇ muḷaivā ḷeyiṟṟaḷ*
+>|      *vaḷaiyuṭaik kaiyaḷem maṇaṅki yōḷē*
 
 In literal translation, this means:
 
@@ -116,10 +117,10 @@ In A.K. Ramanujan's charming translation:
 >|       As a little white snake
 >|       with lovely stripes on its young body
 >|       troubles the jungle elephant
->|       this slip of a girl
->|       her teeth like sprouts of new rice
->|       her wrists stacked with bangles
->|       troubles me.
+>|               this slip of a girl
+>|               her teeth like sprouts of new rice
+>|               her wrists stacked with bangles
+>|               troubles me.
 >|
 >|       ---
 >|       (The *Interior Landscape*, 1967)
@@ -127,15 +128,15 @@ In A.K. Ramanujan's charming translation:
 The prosodic pattern is as follows:
 
 <div style="margin-left: 40%">
-＝ － / ＝ － / － ＝ / ＝ － <br>
-－ － / － － / ＝ － / － － <br>
-＝ － / ＝ － / ＝ － <br>
-＝ ＝ / － ＝ / ＝ － / － －
+＝ — / ＝ — / — ＝ / ＝ — <br>
+— — / — — / ＝ — / — — <br>
+＝ — / ＝ — / ＝ — <br>
+＝ ＝ / — ＝ / ＝ — / — —
 </div>
 
 We observe in this stanza four lines of four feet, the penultimate
 line has three feet; the metre contains only feet of two metrical
-units *(acai*) each, of the pattern ＝ －, － ＝, － － and ＝ ＝; these
+units *(acai*) each, of the pattern ＝ —, — ＝, — — and ＝ ＝; these
 feet are called *īr acai cīr* “two-unit-feet”. The metre is therefore
 *akaval* or *āciriyam*.
 
@@ -144,7 +145,7 @@ As for the *toṭai,* there is e.g. a *etukai* or “consonance" between the
 "alliteration" in the 2nd line: */y/āṉai* */y/aṇaṅki* */y/āaṅ(ku)*.
 
 Now for the phonaesthetic analysis: almost all consonants belong
-to the nasal (so-called *mellinam*) or liquid (*iṭaiyinam*) series; the
+to the nasal (so-called *melliṉam*) or liquid (*iṭaiyiṉam*) series; the
 most favoured is the retroflex liquid *ḷ* which occurs 8 times. The
 occlusives are rare: *c* occurs only once, there is no *t*, *k* as a tense stop
 occurs only 3 times. This consonantal structure of the stanza results
@@ -161,30 +162,30 @@ impression:
 
 Observe the various patterns in consonantal sequences in terms of
 feet. Given enough space one could discern similar patterns with
-regard to the vowels. Every stanza-every line, to be precise, since
-the line is a finished and self-contained unit-has its own phonic
-structure which is *functional.* The functional status of phonaesthetic
+regard to the vowels. Every stanza—every line, to be precise, since
+the line is a finished and self-contained unit—has its own phonic
+structure which is *functional*. The functional status of phonaesthetic
 properties, of "orchestration" (instrumentovka), is one of the
 very important and characteristic features of classical Tamil poetry.
 Much later, there comes a period in the development of Tamil
-literature when like in most literatures--the purely formal qualities
+literature when—like in most literatures—the purely formal qualities
 become the most important features of a poem (e.g. in medieval and
 late medieval devotional literature). Not so, however, in early old
-Tamil classical texts: there, the formal side is most often-though
-not always in perfect unity with the thought-content, and hence
+Tamil classical texts: there, the formal side is most often—though
+not always—in perfect unity with the thought-content, and hence
 the purely formal aspect of the poems is fully functional.
 
 Next the rhetoric analysis in terms of traditional Tamil poetics,
 i.e. in terms of the first and most ancient descriptions of these
 matters as preserved in Iṟaiyaṉār's *Akapporuḷ* and in the 3rd part
-of *Tolkāppiyam (Poruļatikāram)*.
+of *Tolkāppiyam* (*Poruḷatikāram*).
 
 The two fundamental genres which were mentioned several times
 before are the *akam* “love” and *puṟam* “war”. It is obvious that our
 poem belongs to *akam* poetry. Within the *akam* genre, the first
-dichotomy runs between well-matched love *(akam* proper) and
+dichotomy runs between well-matched love (*akam* proper) and
 ill-matched love. Our poem belongs to the genre of well-matched
-love (see detailed discussion later). Akam proper is subdivided into
+love (see detailed discussion later). *Akam* proper is subdivided into
 five erotic situations, five phases of love, which are matched with
 the physiographic regions; these are the five *tiṇais*. Our *tiṇai* is
 called *kuṟiňci* or "lovers union", appropriate to the mountainous
@@ -197,10 +198,8 @@ which, to an informed listener and reader, reveal immediately the
 type of *tiṇai* and theme in which the poem is composed. Sometimes
 they are abundant. Sometimes, they are only a few. They are
 conventional and traditional. There is great fixity, great stylization.
-The poet is obliged to abide by traditions. The bardic practice
-
-
--both in the *akam* and in the *puṟam* genres-is conditioned by
+The poet is obliged to abide by traditions. The bardic practice—both
+ in the *akam* and in the *puṟam* genres—is conditioned by
 traditional material. The inner tension, the very dynamism of
 classical Tamil poetry arises out of this relation between the
 traditional materia represented by conventions and formulae, and
@@ -209,13 +208,13 @@ freedom and limitation constitute the dynamism of Tamil
 classical poetry. Now what is this traditional and conventionalized
 matter in our particular poem? What are the diagnostic features?
 First, there are some elements of the so-called *karupporuḷ* present
-here, i.e. of "things born" or "native": the strata of *karupporuḷ!* is
-represented by the "snake" *(aravu*) and by the "jungle elephant"
-*(kana yanai*); that is by the beasts typical for the mountainous
-region (*kuriňci*). The word *kāṇam* "jungle, forest" also belongs to
-this strata. As far as the uripporuḷ is concerned, or the strata which
-deals with human situations and feelings, the key-word is *aṇaňku*
-"trouble"; "be troubled, afflicted, suffer pain", "afflict"-a feeling
+here, i.e. of "things born" or "native": the strata of *karupporuḷ* is
+represented by the "snake" (*aravu*) and by the "jungle elephant"
+(*kāṉa yāṉai*); that is by the beasts typical for the mountainous
+region (*kuṟiňci*). The word *kāṉam* "jungle, forest" also belongs to
+this strata. As far as the *uripporuḷ* is concerned, or the strata which
+deals with human situations and feelings, the key-word is *aṇaṅku*
+"trouble"; "be troubled, afflicted, suffer pain", "afflict"—a feeling
 typical again for the *kuṟiňci* situation. The "troubles" or "sufferings
 of love" belong to the characteristic behavioural features of the
 "mountain-poetry" (union of lovers). There are no other elements
@@ -225,12 +224,12 @@ sufficient and diagnostic. This is the basic traditional and conventional
 material around which the poem has been built. The presence
 of representative features of all conventions is certainly not obligatory.
 But some *must* be present. This is the kind of limitation
-imposed on the poet: first, the broadest frame-he may decide
+imposed on the poet: first, the broadest frame—he may decide
 between love (*akam*) or war (*puram*) as his two main themes; now,
 if he decides for love, he again has a binary choice: well-matched or
 ill-matched. Within *akam* proper, he has to make his choice among
 the five situations; and after he has chosen one, he is obliged to
-give clues in terms of *mutal* or "First things", and/or karu or
+give clues in terms of *mutal* or "First things", and/or *karu* or
 "Native things" and/or *uri* or "Appropriate human feelings". He
 is also expected to use the technique of direct and indirect comparison
 and suggestion (inference). Within this framework, he is
@@ -239,27 +238,27 @@ relatively free.
 As far as the last point is concerned: in the poem under analysis,
 the comparison is rather explicit; actually, the whole poem is a
 wonderful simile (made explicit by the use of comparative particle
-*anku* "similarly, of that nature; like, as"): the lover-a jungle
-elephant (*kāna yānai*); the sweetheart-a small young snake: no
-real danger for the mighty elephant; and yet--she troubles and
+*āṅku* "similarly, of that nature; like, as"): the lover—a jungle
+elephant (*kāṉa yāṉai*); the sweetheart—a small young snake: no
+real danger for the mighty elephant; and yet—she troubles and
 afflicts him, by her elusiveness, mockery, and who knows what.
-There is also the *technique* of *suggestion* used here, or rather comparison
+There is also the *technique of suggestion* used here, or rather comparison
 by suggestion, which is not apparent at first sight and which
 requires knowledge of some cultural traits: the *avvari* "lovely
 stripes" at the body of the snake hint at the fair lines, stripes and/or
-dots (vari) which were considered to be marks of beauty on the body
+dots (*vari*) which were considered to be marks of beauty on the body
 of a woman (particularly on her breasts and venus' mound).
 Let us now analyse another poem, *Kuṟuntokai* 3, ascribed to
 Tēvakulattār. First the original Tamil text again:
 
->|       *nilattinum* peritē *vāninu muyarntanru*
->|       *nīriņu māraļa vinrē cărar*
->|       *karunkōr kuriйcip pūkkoṇṭu*
->|       peruntē nilaikkum *nāṭanoṭu natpē*
+>|       *nilattiṉum peritē vāṉiṉu muyarntaṉṟu*
+>|       *nīriṉu māraḷa viṉṟē cāraṟ*
+>|       *karuṅkōṟ kuṟiñcip pūkkoṇṭu*
+>|       peruntē ṉiḻaikkum nāṭaṉoṭu naṭpē*
 >|       
 >|       'earth-than big(ger), sky-than high(er)
 >|       water-than hard(er)-to-fathom mountain-slope
->|       black-stalk-*kuriйci*-flower(s) taking
+>|       black-stalk-*kuṟiñci*-flower(s) taking
 >|       rich-honey-making-country's-lord-with love'.
 >|       
 >|       Bigger than earth, certainly,
@@ -272,41 +271,49 @@ Tēvakulattār. First the original Tamil text again:
 >|           that has such black stalks.
 >| 
 >|       ---
->|       (A. K. Ramanujan, The *Interior Landscape*, 1967)
+>|       (A. K. Ramanujan, *The Interior Landscape*, 1967)
 
 Metric analysis will tell us that this is a poem of the same structure
 as the one preceding: four lines, each of four feet, the penultimate
 line has three feet; feet of two and three metrical units are used.
-This kind of stanza (which is technically known as *nēricai āciriyap-*
-pā) seems to have been the earliest type of stanza in the *akaval*
+This kind of stanza (which is technically known as *nēricai āciriyappā*)
+ seems to have been the earliest type of stanza in the *akaval*
 metre, and hence the earliest type of stanzaic structure extant in the
 language. The metric patterns are
+
+<div style="margin-left: 40%">
+＝ ＝ / ＝ — / — ＝ / ＝ — — <br>
+— ＝ / — ＝ / — — / — — <br>
+＝ — / ＝ — / — — — <br>
+＝ — / ＝ — / — ＝ — / — —
+</div>
+
 Before we go into the rhetoric analysis, let us observe yet another
 property which many or most of these early Tamil poems composed
-as nēricai āciriyappās have: they are divided, from the point of
+as *nēricai āciriyappās* have: they are divided, from the point of
 thought-content *and* form, into two parts: the first part, usually
 longer (purely quantitatively; in a 4-line stanza, the first 2 lines,
-sometimes part of the 3rd line), deals with the *mutal* and/or karupporuḷ,
+sometimes part of the 3rd line), deals with the *mutal* and/or *karupporuḷ*,
 i.e. with the time-space continuum as basic background, and
 with the concrete representations of the five-fold physiographic
-regions in *Kur*. 119, we have in those lines the snake and the
+regions: in *Kur*. 119, we have in those lines the snake and the
 elephant; in this stanza, we have in the first 2 lines the earth, the
 sky, the waters, the mountain-slopes, and the 3rd line, too, is filled
 with the *karupporuḷ* material: the black-stalked *kuṟiňci* flowers.
 The second part, usually shorter (in a 4-line stanza it usually begins
 in the penultimate 3-feet line, or sometimes only in the very last line)
-contains the substance of the poem, its essence (*uripporul*), the
-pointe: in *Kur*. 119, the human element appears in the 3rd line, and
+contains the substance of the poem, its essence (*uripporuḷ*), the
+*pointe*: in *Kur*. 119, the human element appears in the 3rd line, and
 the essential feeling (the trouble of love) as the last word of the 4th
 line; in *Kur*. 3, the human element occurs only in the very last line
-*(nātan*), and the *pointe,* the essential feeling, again as the very last
+(*nātan*), and the *pointe*, the essential feeling, again as the very last
 word of the whole stanza (*naṭpē* “love”).
 
 This kind of structure gives to the classical Tamil stanzas a
 wonderful conciseness, terseness, pithiness and an inner tension
 which is resolved usually at the very end of the stanza. Sometimes,
 though, the procedure is exactly opposite, and the same effect is
-achieved by a reverse technique: the *pointe,* the essence of the poem
+achieved by a reverse technique: the *pointe*, the essence of the poem
 is revealed in the very first line, it is a sort of direct attack on the
 listener; and what follows, is a kind of “decrescendo”, an unfolding
 of the *pointe*. But always, in the best stanzas of the collections
@@ -314,7 +321,7 @@ of the *pointe*. But always, in the best stanzas of the collections
 striving after a perfect and extremely potent and effective *form*.
 
 The genre of *Kur.* 3 is *akam* or love, clearly well-matched love or
-*akam* proper; the basic theme-*tinai*-is *kuṟiňci* or lover's union.
+*akam* proper; the basic theme—*tiṇai*—is *kuṟiňci* or lover's union.
 The time-space continuum is not explicitly given in this poem;
 neither is it implicit in some suggestion or other. However, according
 to some interpretations, the main components of the place or
@@ -323,27 +330,27 @@ and in this particular poem, three of them, earth, sky and water are
 actually mentioned, to stress the greatness and depth and intensity
 of the heroine's love. As far as the *karupporuḷ* or concrete representations
 of the physiographic regions are concerned, we have here no
-gods, but the term *nāṭan* for the lover; this is a specific term used
+gods, but the term *nāṭaṉ* for the lover; this is a specific term used
 for the chief of the mountain-tribe, so that this in itself provides the
 clue for the *tiṇai*; second, among the birds and beasts and insects,
 we have, implicitly, the bees, in the sphere of flora we have the
 *kuṟiňci* flower, and honey which stands for the bees, being the
 typical conventional apparatus of the "mountain-poetry". The
-uripporuḷ or the psychological essence is represented by the word
+*uripporuḷ* or the psychological essence is represented by the word
 *naṭpu* "love". According to some commentaries, the attributes
-*karunkōl* "black-stalked" and *perunten* "rich honey" belong to
-so-called iṟaicci or suggestion (or inference) in form of some additional
+*karuṅkōl* "black-stalked" and *peruntēn* "rich honey" belong to
+so-called *iṟaicci* or suggestion (or inference) in form of some additional
 material, as qualifier or adjunct to some basic concept: the
 *kuṟiňci* flowers with black stalks stand for the woman in love; the
 bees gathering honey from these flowers are supposed to stand for
 the man's action of gathering sweetness from the pleasure of the
 lover's union. As in the previous poem, the comparison is explicit,
-made overt by the use of the ablative plus -um: "big(ger) *than* earth,
+made overt by the use of the ablative plus *-um*: "big(ger) *than* earth,
 high(er) *than* sky" etc. What is compared is the intensity, the depth
 and greatness of the heroine's *naṭpu*, love.
 
 Finally, a third poem, from the same *tokai*, collection, *Kuṟuntokai*
-68, ascribed to Aḷḷur Nanmullai. I abstain this time from quoting
+68, ascribed to Aḷḷūr Naṉmullai. I abstain this time from quoting
 the original. Here is Ramanujan's lovely translation:
 
 >|       The bare root of the bean is pink
@@ -358,8 +365,8 @@ the original. Here is Ramanujan's lovely translation:
 >|       ---
 >|       (The *Interior Landscape*, 1967)
 
-The genre is obviously *akam,* love, and *akam* proper, or wellmatched
-love. The tiṇai is a mixed one; and this is no chance, nor
+The genre is obviously *akam,* love, and *akam* proper, or well-matched
+love. The *tiṇai* is a mixed one; and this is no chance, nor
 an error on the part of the poet. How do we know it is a mixed
 "poetic situation"? As far as the time-space continuum is concerned,
 the poem mentions explicitly "early frost" (this comes under
@@ -372,7 +379,7 @@ the beast mentioned is the deer, again typical for *mullai* or the
 The *uripporuḷ* or essential human feeling is defined as "memory and
 desire": that is, “memory of lovers' union" (*kuriňci*) and “desire of
 patient waiting" (*mullai*): the *tiṇai* of this poem, the “situation" is
-thus kuṟiňci *mullai*, a *mixed* tiṇai, a mixed situation. There is,
+thus *kuṟiňci + mullai*, a *mixed tiṇai*, a mixed situation. There is,
 again, an explicit comparison present (the pink root of the bean
 compared to the leg of the jungle hen). But there is also suggestion
 and inference in this stanza: the bare root of the bean, pink and
@@ -382,7 +389,7 @@ by memories of union and longing for embrace.
 
 RANDOM READER OF *akam* AND *puṟam* POEMS
 
-*Kuṟuntokai* 119, by Catti Nātaṇār
+*Kuṟuntokai* 119, by Catti Nātaṉār
 
 >|       As a little white snake
 >|       with lovely stripes on its young body
@@ -393,7 +400,7 @@ RANDOM READER OF *akam* AND *puṟam* POEMS
 >|           troubles me.
 >|
 >|       ---
->|       (A. K. Ramanujan, The *Interior Landscape,* 1967)
+>|       (A. K. Ramanujan, *The Interior Landscape,* 1967)
 
 1. *akam*
 2. *well*-*matched*
@@ -424,29 +431,29 @@ RANDOM READER OF *akam* AND *puṟam* POEMS
 >|           that has such black stalks.
 >|       
 >|       ---
->|       (A. K. Ramanujan, The *Interior Landscape,* 1967)
+>|       (A. K. Ramanujan, *The Interior Landscape,* 1967)
 
-1. akam
+1. *akam*
 2. *well-matched*
-3. tiṇai*: kuṟiňci*
+3. *tiṇai*: kuṟiňci*
    1. *mutal: kālam* (time): ø \
     *nilam* (place): *earth, sky, water*
    2. *karu*: gods: Ø
         * nature:
-            * human: *nāṭan*-mountain-chief
+            * human: *nāṭaṉ*-mountain-chief
             * non-human:
                 * animate: (bees, implicit)
                 * inanimate:
-                    * kuṟiňci *flowers*
+                    * *kuṟiňci flowers*
                     * *honey*
                     * *mountain-slopes*
-   3. uri: *love*
+   3. *uri*: *love*
 4. *comparison*: love great and deep like earth, sky, water \
     *iṟaicci* (suggestion):
         * black-stalked flowers = woman
         * honey-gathering = gathering of pleasure
 
-*Kuṟuntokai* 68 by Aḷḷur Nanmullai
+*Kuṟuntokai* 68 by Aḷḷur Naṉmullai
 
 > The bare root of the bean is pink \
 > like the leg of a jungle hen, \
@@ -458,15 +465,15 @@ RANDOM READER OF *akam* AND *puṟam* POEMS
 > (A. K. Ramanujan, *The Interior Landscape*, 1967)
 
 1. *akam*
-2. well*-matched*
-3. *tiṇai*: mixed *kuriňci-mullai*
-    1. *mutal: kalam*: *early dew* (*kuriňci*) \
+2. *well-matched*
+3. *tiṇai*: mixed *kuṟiňci-mullai*
+    1. *mutal: kalam*: *early dew* (*kuṟiňci*) \
         *nilam*: Ø
     2. *karu*: gods: Ø
         * nature:
             * human: Ø
             * non-human:
-                * animate: *jungle-hen (mullai*) \
+                * animate: *jungle-hen* (*mullai*) \
                     *deer* (*mullai*) 
                 * inanimate: *bean* (*mullai*)
     3. uri: *memory and desire*
@@ -487,7 +494,7 @@ RANDOM READER OF *akam* AND *puṟam* POEMS
 >|
 >|       ---
 >|       Author: Anonymous (*"Cempulapeyalnīrār”*)
->|       *Tiṇai*: *Kurinci*
+>|       *Tiṇai*: *kuṟiňci*
 >|       Transl.: K. Zvelebil
 
 *Kuṟuntokai* 2
@@ -523,7 +530,7 @@ RANDOM READER OF *akam* AND *puṟam* POEMS
 >|       fresh with the rains.
 >|
 >|       ---
->|       Author: Anonymous (*"Orerulavaṇār"*)
+>|       Author: Anonymous (*"Ōrēruḻavaṉār"*)
 >|       *Tiṇai*: kuṟiňci - *mullai*
 >|       Transl. S. Kokilam
 
@@ -539,7 +546,7 @@ RANDOM READER OF *akam* AND *puṟam* POEMS
 >|       and all the lives in it.
 >|
 >|       ---
->|       Author: Pēyaṇār
+>|       Author: Pēyaṉār
 >|       *Tiṇai*: *mullai*
 >|       Transl. A. K. Ramanujan
 
@@ -558,7 +565,7 @@ RANDOM READER OF *akam* AND *puṟam* POEMS
 >|           with bright upswinging shiny tusks.
 >|
 >|       ---
->|       Author: Teypuripalankayirraṇār
+>|       Author: Tēypuripaḻaṅkayiṟṟaṉār
 >|       *Tiṇai*: *pālai*
 >|       Transl.: E. Annamalai-H. Schiffman
 
@@ -579,7 +586,7 @@ RANDOM READER OF *akam* AND *puṟam* POEMS
 >|           and black feet feed.
 >|
 >|       ---
->|       Author: Nannākaiyār
+>|       Author: Naṉṉākaiyār
 >|       *Tiṇai*: *marutam*
 >|       Transl. S. Kokilam
 
@@ -604,9 +611,9 @@ RANDOM READER OF *akam* AND *puṟam* POEMS
 >|       of his son's dear mother.
 >|
 >|       ---
->|       Author: Alankuṭi Vankaṇār
+>|       Author: Ālaṅkuṭi Vaṅkaṉār
 >|       *Tiṇai*: *marutam*
->|       Transl. A. K. Ramanujan (The *Interior Landscape*, 1967)
+>|       Transl. A. K. Ramanujan (*The Interior Landscape*, 1967)
 
 *Kuṟuntokai* 324
 
@@ -630,7 +637,7 @@ RANDOM READER OF *akam* AND *puṟam* POEMS
 
 >|       Will it stay for my lord's coming—
 >|       the blossom, new and glowing
->|       of the dark *vempu* tree?
+>|       of the dark *vēmpu* tree?
 >|       Now, that my lover's gone
 >|       these cruel women's tongues
 >|       are working on me,
@@ -661,7 +668,7 @@ Naṟṟiṇai 149
 >|       Then to hell with these townsfolk and their gossip!
 >|
 >|       ---
->|       Author: Uloccaṇār
+>|       Author: Ulōccaṉār
 >|       *Tiṇai*: *neytal*
 >|       Transl.: E. Anamalai - H. Schiffman
 
@@ -677,10 +684,10 @@ Naṟṟiṇai 149
 >|          and will do worse.
 >|
 >|      ---
->|      Author: Pēreyin Muruvalār
+>|      Author: Pēreyiṉ Muṟuvalār
 >|      *Tiṇai*: *peruntiṇai*
 >|      Transl. A. K. Ramanujan
->|      (The *Interior Landscape* 1967)
+>|      (*The Interior Landscape* 1967)
 
 *Puṟanāṉūṟu* 271
 
@@ -702,8 +709,8 @@ Naṟṟiṇai 149
 >|           wore them for glory.
 >|
 >|       ---
->|       Author: Veripāṭiya Kāmakkaṇiyār
->|       *Tiṇai*: nocci | *veṭci*
+>|       Author: Veṟipāṭiya Kāmakkaṇiyār
+>|       *Tiṇai*: *nocci* | *veṭci*
 >|       Transl.: A. K. Ramanujan
 
 *Puṟanāṉūṟu* 279
@@ -735,7 +742,7 @@ Naṟṟiṇai 149
 >|       to go.
 >|
 >|       ---
->|       Author: Okkür Mācāttiyār
+>|       Author: Okkūr Mācāttiyār
 >|       *Tiṇai*: *vākai*
 >|       Transl. A. K. Ramanujan
 
@@ -758,7 +765,7 @@ Naṟṟiṇai 149
 >|           to take the land.
 >|
 >|       ---
->|       Author: Cattantaiyār
+>|       Author: Cāttantaiyār
 >|       *Tiṇai*: *vākai*
 >|       Transl. A. K. Ramanujan
 
@@ -852,7 +859,7 @@ Naṟṟiṇai 149
 >|       no doubt, the very place of her birth.
 >|
 >|       ---
->|       Author: Maturai Marutaniļanākaṇār
+>|       Author: Maturai Marutaṉiḷanākaṉār
 >|       *Tiṇai*: *kāňci*
 >|       Transl. A. K. Ramanujan
 
@@ -870,7 +877,7 @@ Naṟṟiṇai 149
 >|           his horse had fallen
 >|           under him.
 >|       
->|       Author: Erumai Veliyaṇār
+>|       Author: Erumai Veḷiyaṉār
 >|       *Tiṇai*: *potuviyal*
 >|       Transl. A. K. Ramanujan
 
@@ -904,23 +911,21 @@ Naṟṟiṇai 149
 >|       unadapting silverfish
 >|       swim south and leave behind
 >|       a fish famine,
->|       dear young warrior,
->|       put me among those you remember
->|       on such days,
->|       said my lord once
+>|               dear young warrior,
+>|               put me among those you remember
+>|               on such days,
+>|                       said my lord once
 >|       and gave me gifts, my lord of lasting glory.
 >|       
 >|       He is now where no one can reach him:
 >|       yet if one could go, he is not the kind
 >|       who would be hard to see.
->|       
->|       He, old king Ātaṇunkaṇ,
->|       would tie up in his city
->|       in public places
->|       the young of jungle elephants
->|       and make the soft-browed
->|       mother beast grieve.
->|       
+>|               He, old king Ātaṇunkaṇ,
+>|               would tie up in his city
+>|               in public places
+>|               the young of jungle elephants
+>|               and make the soft-browed
+>|               mother beast grieve.
 >|       Like him, O Nallērmutiya
 >|       of Vēnkaṭam, rock and falling water, O you
 >|       who do not rise at once to run
@@ -936,8 +941,8 @@ Naṟṟiṇai 149
 >|       the funeral drums of grief!
 >|
 >|       ---
->|       Author: Kallil Attiraiyaṇār
->|       *Tiṇai*: *pāṭāṇ*
+>|       Author: Kaḷḷil Āttiraiyaṉār
+>|       *Tiṇai*: *pāṭāṉ*
 >|       Transl.: A. K. Ramanujan
 
 
@@ -951,11 +956,11 @@ Old Tamil poetry.
 
 Tamil text:
 
->|        *yārumillait tānē kaḷvaṉ*
->|        *tānatu* poyppin *yānevanceykō*
->|        *tinaitta lanna cirupacun kāla*
->|        *olukunī rāral pārkkum*
->|        kuruku *munṭutān maṇanta ňānrē*
+>|        *yārumillait tāṉē kaḷvaṉ*
+>|        *tāṉatu poyppiṉ yāṉevaṉceykō*
+>|        *tiṉaittā ḷaṉṉa ciṟupacuṅ kāla*
+>|        *oḻukunī rāral pārkkum*
+>|        *kuruku muṇṭutāṉ maṇanta ňāṉṟē*
 >|        
 >|        ---
 >|        *Kuṟuntokai* 25
@@ -990,7 +995,7 @@ Tamil text:
     Only the stork, with leg as thin as a wisp of straw,<br>
     That into the gliding water peered for prey.<br>
     <br>
-    (C. and H. Jesudasan, *A History* of *Tamil Literature*, 1961)<br>
+    (C. and H. Jesudasan, *A History of Tamil Literature*, 1961)<br>
     </blockquote>
 
     Translation B
@@ -1011,13 +1016,13 @@ Tamil text:
     <br>
     <blockquote>Only the thief was there, no one else.<br>
     And if he should lie, what can I do?<br>
-    There was only<br>
-    a thin-legged heron standing<br>
-    on legs yellow as millet stems<br>
-    and looking<br>
-    for lampreys<br>
-    in the running water<br>
-    when he took me.<br>
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>There was only<br>
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>a thin-legged heron standing<br>
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on legs yellow as millet stems<br>
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>and looking<br>
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>for lampreys<br>
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>in the running water<br>
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>when he took me.<br>
     <br>
     (A. K. Ramanujan, The Interior *Landscape*, 1967)<br>
     </blockquote>
@@ -1025,8 +1030,7 @@ Tamil text:
     Translation D
     <br>
     <blockquote>None else was there but he,<br>
-    the thief.<br>
-    <br>
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>the thief.<br>
     If he denies it, what shall I do?<br>
     Only a heron stood by,<br>
     its thin gold legs like millet stalks<br>
