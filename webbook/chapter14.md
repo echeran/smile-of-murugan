@@ -41,7 +41,7 @@ or even a near-to-critical manner. The first modern comprehensive
 1947 and was reprinted in 1956.[^first-modern-printings] It is not even an approximation
 to a critical edition (though the editor is capable of preparing nearto-critical
 editions, as we know e.g. from his excellent edition of
-*Iṟaiyaṉār Akapporu!)*; it lacks the *apparatus criticus*, there is no
+*Iṟaiyaṉār Akapporuḷ)*; it lacks the *apparatus criticus*, there is no
 commentary on the poems, no notes, reading variations are not
 given in short, the book is rather a kind of "popular print” serving
 as an aid to memory for those who profess devotion to the *cittar*.
@@ -124,7 +124,7 @@ be performed against the background of and in relation to this
 pan-Indian *siddhācharya* movement.
 
 Probably the most important reason why Siddhar texts remain
-enigmatic to us has already been hinted at. Unlike e.g. the *"Cankam”*
+enigmatic to us has already been hinted at. Unlike e.g. the *"Caṅkam”*
 poetry or the Cilappati *kāram,* these texts are fully alive in the sense
 that they are until this day used and followed in daily yoga practice;
 but unlike the *bhakti* hymns, which are "open" texts, the *cittar* texts
@@ -230,9 +230,9 @@ historical figure is no more than a will o' the wisp but as a tradition he
 wields an influence which is felt in all walks of Tamilian life".
 
 [^multiple-works-of-poetry-medicine-alchemy]: That *this* Agastya was a very late author may be seen from two works
-ascribed to him, *Irunurṛaňcu* (a medical treatise) and *Pūraṇacuttiram*
+ascribed to him, *Irunurṟaňcu* (a medical treatise) and *Pūraṇacuttiram*
 (alchemy) in which he speaks about syphilis as *parankiviyāti* “Frankish
-disease", and about quick-silver as *parańki paṣanam* “Frankish remedy”.
+disease", and about quick-silver as *paraṅki paṣanam* “Frankish remedy”.
 
 
 Some of the medical works contain fascinating details. Thus e.g. in
@@ -440,7 +440,7 @@ are within your minds".
 Second, in contrast to bhakti which emphasizes passionate
 devotion to God, to the *iṣṭadevatā,* the *cittar* emphasize knowledge
 *(ňāṇam*), yoga practice, and character, moral behaviour, right
-conduct. Anger (*kōpam)*, lust (*ācai*), egoism (*akaǹkāram*) are the
+conduct. Anger (*kōpam)*, lust (*ācai*), egoism (*akaṅkāram*) are the
 worst sins. According to Akattiyar 7,1, if the mind is in the right
 disposition, it is unnecessary to say prayers.[^right-mind-no-need-prayers]
 
@@ -715,7 +715,7 @@ human sufferings in very dark colours (and this he has in common
 with the later Paṭṭiṉattar).
 
 [^five-poems]: *Kōyil nānmaṇimālai*, *Tirukkalumala mummaṇikkōvai, Tiruviṭai marutūr*
-*mummaṇikkōvai*, Tiru *ēkampamuṭaiyār tiruvantāti*, *Tiruvōṛṛiyūr* orupā
+*mummaṇikkōvai*, Tiru *ēkampamuṭaiyār tiruvantāti*, *Tiruvōṟṟiyūr* orupā
 *orupaḥtu.*
 
 However, here we are not concerned with the poems of this

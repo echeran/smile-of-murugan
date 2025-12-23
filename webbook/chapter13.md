@@ -550,7 +550,7 @@ was not easy for him to show the mysterious state of God, he has
 succeeded, I think, better than Vālmīki, to show Rāma as a man
 (and hence the title, *Irāmāvatāram,* "The Descent of Rāma", lit.
 "the Rāma's becoming an *avatar"*). There is a phrase which sums up
-his conception of Rāma: *māṇitam vēnṛataṇrē* “truly, human nature
+his conception of Rāma: *māṇitam vēnṟataṇrē* “truly, human nature
 has won!"[^human-nature]
 
 [^human-nature]: 4.3.19. Cf. T. P. Meenakshisundaran, op. cit. p. 119.

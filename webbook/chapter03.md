@@ -345,7 +345,7 @@ than the actual creation of the poetry, and that the final codification
 is very probably, again, much later than the anthologization. The
 name Peruntēvaṉār was mentioned before. Five of the six earlier
 collections of the *Eṭṭuttokai* hyper-anthology are introduced by
-*Peruntēvaṉār*'s invocatory verses: *Akanāṉūṟu*, *Ainkuṟunūṟu*, *Kuṟuntokai*,
+*Peruntēvaṉār*'s invocatory verses: *Akanāṉūṟu*, *Aiṅkuṟunūṟu*, *Kuṟuntokai*,
  *Naṟṟiṇai*, and *Puṟanāṉūṟu*. A certain *Peruntēvaṇār* is
 quoted as the author of a Tamil version of the *Mahabharata* (this
 *campū* work has unfortunately reached us only as a fragment). A few
@@ -805,7 +805,7 @@ grammar, the *Eḻuttatikāram* (Phonology) and *Collatikāram*
 later interpolations, which may be dated roughly to 100 B.C.
 
 1. The earliest poems of the following anthologies:
-    a. *Ainkuṟunūṟu*
+    a. *Aiṅkuṟunūṟu*
     b. *Kuṟuntokai*
     c. *Naṟṟiṇai*
     d. *Patiṟṟuppattu*
@@ -872,7 +872,7 @@ II. *International Conference*-*Seminar* of *Tamil Studies*, Madras, 1968.
 * id., "An important Tamil Brahmi Inscription", *I. International Conference-Seminar of Tamil Studies*,
  Kuala Lumpur, 1966.
 * *Canka Ilakkiyam* (*pāṭṭum tokaiyum*), 1st ed., 1940, 2nd ed., 1967, Madras.
-* *Ainkuṟunūṟu*, ed. by U. V. Swaminatha Aiyar, 1903 and 1920; preface.
+* *Aiṅkuṟunūṟu*, ed. by U. V. Swaminatha Aiyar, 1903 and 1920; preface.
 * *Puṟanāṉūṟu,* ed. by U. V. Swaminatha Aiyar, 1894, 1923, 1935, 1936;
 preface.
 * S. Vaiyapuri Pillai, *History of Tamil Language and Literature,* Madras (1956).

@@ -612,7 +612,7 @@ him to become not only a great modern poet but a people's poet as
 well". When reading his poems, one can feel how very carefully
 he writes--the detachment and impersonality of some of his poems
 remind the reader of the great achievements of classical Tamil
-poetry of the *'Cankam'* age. Here is how he sees the Moon, a constant
+poetry of the *'Caṅkam'* age. Here is how he sees the Moon, a constant
 companion of poets in India.
 
 >|         They call her Princess.
@@ -911,7 +911,7 @@ of Tamil poetry, not in denying and destroying them.
 
 Finally, the "new poets" strive seriously after an organic and
 intimate relation between form and meaning, after the unity of
-meaning (*poru!*) and form (uru, *uruvu*, *uruvam*). The “new poets"
+meaning (*poruḷ*) and form (uru, *uruvu*, *uruvam*). The “new poets"
 are in their absolute majority no empty formalists.[^new-poets-not-sterile-formalists] *L'art pour*
 l'artism is not their credo, though some of the very contemporary
 poets, like V. Mali, go rather far in their formal experiments.

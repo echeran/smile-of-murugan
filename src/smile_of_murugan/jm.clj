@@ -176,6 +176,8 @@
    ;;
    ;; SH - ṣ
    ;;
+   ;; ஃ - ẖ (different from the ISO 15919 standard established decades later)
+   ;;
    ;; upper long vowels - Ā Ō
    ;; lower long vowels - ā ē ī ō ū
 

@@ -52,7 +52,7 @@ and comments upon them (*urai)*.[^bhakti-not-lit] These conditions were prevalen
 in a high degree in Tamilnad between the 12th-16th centuries, but
 especially in the 13th-15th centuries, the "golden age" of the commentators.
 There was a definite "return to classicism" (to the great
-classical literature of the *“Cankam”* and post-*“Cańkam*” epoch) in
+classical literature of the *“Caṅkam”* and post-*“Caṅkam*” epoch) in
 the works of such men as Parimēlaḻakar (14th Cent.),[^return-to-classicism] the authority
 of the original text went unquestioned, and hence the criticism of
 the commentator was always positive and appreciative: the commentator
@@ -105,7 +105,7 @@ or *viritturai*, "detailed commentaries, dissertations”, and *viļakkurai,*
 There can be hardly any doubt that, originally, commentaries
 were transmitted orally in the same way as the underlying literary
 texts. This fact is explicitly mentioned e.g. in the famous commentary
-of Nakkīrar (8th Cent. A.D.) to *Iṟaiyaṉār Akapporu!.* It
+of Nakkīrar (8th Cent. A.D.) to *Iṟaiyaṉār Akapporuḷ.* It
 says: ini *urai naṭantu vantavāru collutum* "Now we shall reveal the
 way (āru) how the commentary came down [to us] (*naṭantu vanta*)”;
 and it goes on to report how the commentary passed from Nakkīrar
@@ -350,7 +350,7 @@ present form the work is indebted to *Cīvakacintāmaṇi*, and hence could not
 have been prior to the 10th-11th Cent. A.D. The lower limit, in any case, is
 provided by the fact that the commentary quotes 325 poems from the
 *Pāṇṭikkōvai*, a work of probably late 7th Cent. which praises the Pāņṭiya
-king Neṭumāṛan (640-670 A.D.). Hence, Nakkīrar's commentary cannot be
+king Neṭumāṟan (640-670 A.D.). Hence, Nakkīrar's commentary cannot be
 earlier that the 7th Cent. On the other hand, it is older than Iḷampūraṇar.
 Late 7th-8th Cent. A.D. seems to be a reasonable estimate for the original
 text of the commentary, at least as far as our knowledge goes. Later careful
@@ -381,7 +381,7 @@ structure, Nakkīrar's prose "*akaval*-like”.[^nakkirar-prose-akaval-like]
 *Ninkalum cuvaiyunkal* (1954), 195-6.
 
 [^nakkirar-prose-akaval-like]: Nakkīrar's commentary: innūl *ceytār* yārō enin, *māl varai puraiyum*
-*māṭakkūṭal ālavāyiṛ pal purai pacunkatirk kulavittinkaļaik kuṛunkaṇṇiyāka*
+*māṭakkūṭal ālavāyiṟ pal purai pacunkatirk kulavittinkaļaik kuṟunkaṇṇiyāka*
 *utaiya alalavir* cōti *arumaraik katavul enpatu* (*ed*. 1939, p. 3).
 
 One of the great qualities of this commentary is its liveliness,
@@ -562,7 +562,7 @@ And so we come to those "makers of modern Tamil", already
 mentioned, who were directly indebted, in their prose-writings, to
 the commentators of past ages. There were many of them, but
 probably the most important of those who "bridged" medieval and
-modern prose, was the controversial Āṛumuka Nāvalar (1822-1876).
+modern prose, was the controversial Āṟumuka Nāvalar (1822-1876).
 He was a very prolific writer, editor, translator, and commentator.
 Besides a great number of original prose-works (narrations of
 *puranic* stories in prose, polemic writings against Christian missionaries)

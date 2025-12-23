@@ -108,7 +108,7 @@ arouse interest and to provoke discussion.
 
 |                   |                                                                              |
 | ----------------- | ---------------------------------------------------------------------------- |
-| *Aink.*           | *Ainkuṟunūṟu*                                                                |
+| *Aiṅk.*           | *Aiṅkuṟunūṟu*                                                                |
 | *Ak.*             | *Akanāṉūṟu*                                                                  |
 | *Akatt*.          | *Akattiṇaiyiyal*                                                             |
 | anonym.           | anonymous                                                                    |

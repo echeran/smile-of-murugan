@@ -458,7 +458,7 @@ Lastly, there is one more feature of Aruṇakiri's poetry that
 should be mentioned: his conception of Murukaṉ. True to the
 ancient, almost pre-historic tradition, Murukaṉ and Tamil are one
 for Aruṇakiri. Murukaṉ, the "lion who presides over the famous
-bards of powerful speech" *(Tirumurukārṛuppaṭai*), is the supreme
+bards of powerful speech" *(Tirumurukārṟuppaṭai*), is the supreme
 patron of poetry, and the god of the Tamil language.
 
 >|       "The bridegroom of Vaḷḷi

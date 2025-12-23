@@ -534,7 +534,7 @@ RANDOM READER OF *akam* AND *puṟam* POEMS
 >|       *Tiṇai*: kuṟiňci - *mullai*
 >|       Transl. S. Kokilam
 
-*Ainkuṟunūṟu* 409
+*Aiṅkuṟunūṟu* 409
 
 >|       The father holds his son close,
 >|       the son's mother holds them both

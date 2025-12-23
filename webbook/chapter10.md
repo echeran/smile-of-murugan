@@ -3,13 +3,13 @@
 > "there hardly exists in the literature
 > of the world a collection of maxims in which
 > we find so much lofty wisdom" (A. Schweitzer,
-> *Indian Thought and* Its *Development*, 1960,
+> *Indian Thought and Its Development*, 1960,
 > p. 199).
 
 The facts about the *Tirukkuṟaḷ,* formulated as briefly as possible,
 are as follows: It is a comprehensive manual on ethics, polity and
 love, consisting of 1330 distichs divided into 133 sections of 10
-distichs each; the first 38 on ethics (*aram*), the next 70 on political
+distichs each; the first 38 on ethics (*aṟam*), the next 70 on political
 and economic matters *(porul)*, and the rest on love (*kāmam*). The
 author was probably a learned Jain with eclectic leanings and
 intimate acquaintance with the early works of Tamil classical
@@ -30,7 +30,7 @@ of the work, and its "ideology”.
 The *Tirukkuṟaḷ* has always been in the highest esteem among the
 Tamil people. This great reverence for the author and his work is
 reflected by the nine different names under which the book goes:[^extra-titles]
-1. Tirukkuṟaḷ, lit. "The sacred *kural*", 2. *Uttaravētam* "The
+1. Tirukkuṟaḷ, lit. "The sacred *kuṟaḷ*", 2. *Uttaravētam* "The
 ultimate Veda", 3. *Tiruvalluvar* (= the author's name, “Saint
 Vaļļuvar”), 4. *Poyyāmoļi* “The falseless word", 5. *Vāyurai vāļttu*
 "Truthful praise", 6. *Teyvanul* “The divine book", 7. *Potumarai*
@@ -57,7 +57,7 @@ internal evidence (the language of the work, allusions to earlier
 works, indebtedness of the *Kuṟaḷ* to some Sanskrit treatises, etc.)
 all points to a date which is considerably later than the early
 classical poetry (and in this respect the *Kuṟaḷ* does certainly *not*
-belong to the *"Cańkam*” age), but earlier than the beginnings of
+belong to the *"Caṅkam*” age), but earlier than the beginnings of
 *bhakti* in Tamilnad. The 5th Cent. A.D., probably sometime between
 450-550 A.D., is the best date that can be suggested.[^date]
 
@@ -85,7 +85,7 @@ the proclaiming boys analogous to a trumpet-major of an army".[^chief-trumpet-ma
 royal drummers, and priests for Paraiyas. Ma. *vaḷḷuvaṉ* a priest of the Parayas,
 a low-caste sage, a caste of slaves.
 
-Almost every religious group in India has claimed the *Tirukkuṛaļ*
+Almost every religious group in India has claimed the *Tirukkuṟaļ*
 for itself, including the Christians. G. U. Pope sees the poet as an
 eclectic, who came, in Mayilāpur, into contact with Christian
 teachers (like Pantaenus of Alexandria), “imbibing Christian ideas,
@@ -136,7 +136,7 @@ doctrine in the work, it is rather the Jaina terminology and the
 Jaina atmosphere (cf. Tiruk. 251-260, 321-330) which we find in the
 text.
 
-*Aram* (*dharma* “virtue"), poru! (artha "wealth") and *kāmam*
+*Aram* (*dharma* “virtue"), poruḷ (artha "wealth") and *kāmam*
 *(kāma* "pleasure") are dealt with in the work. There is no specific
 portion allotted to the fourth and "highest" objective of life, to
 *vīṭu* (*mokṣa* “deliverance"). It is not because Valluvar had left his
@@ -197,7 +197,7 @@ units in the author's name is also seven: ti-*ru-va-l*-*ļu-va-r*.
 Preface, iv).
 
 
-Book I. Virtue (*aram). Arattuppāl.*
+Book I. Virtue (*aṟam). Arattuppāl.*
 
 
 <center>Introduction. *Payiram.*</center>
@@ -207,7 +207,7 @@ Book I. Virtue (*aram). Arattuppāl.*
 3. The greatness of those who have renounced.
 4. Assertion of the strength of virtue.
 
-<center>I. Domestic virtue (*illaram).*</center>
+<center>I. Domestic virtue (*illaṟam).*</center>
 
 5. Domestic life (*ilvālkkai).*
 6. The goodness of wife (= *vāļkkaittuņai* ‘the life's help').
@@ -230,7 +230,7 @@ Book I. Virtue (*aram). Arattuppāl.*
 23. Giving.
 24. Fame (*pukal)*.
 
-<center>\ II. Ascetic virtue *(turavaram).*</center>
+<center>\ II. Ascetic virtue *(turavaṟam).*</center>
 
 25. Possession of grace (*aru!).*
 26. Abstinence from flesh (vegetarianism).
@@ -376,8 +376,8 @@ Virtue
 THE BOOK OF LOFTY WISDOM
 
 Domestic
-(*illaram*)
-Virtue (*aram*)
+(*illaṟam*)
+Virtue (*aṟam*)
 man's relation to wife,
 children, friends; his
 life in the family
@@ -387,7 +387,7 @@ from 'domestic life'
 From the 'imperfect,
 incomplete' married
 man
-*(turavaram*)
+*(turavaṟam*)
 Ascetic
 man's relation
 to oneself
@@ -502,7 +502,7 @@ his place in the hierarchies and orders, his relationship towards the
 king; the material and social basis of his existence; his public life;
 in short man, the zoon *politikon*.
 
-It is in this second book on “Wealth” (*poru!*) that the *Tirukkuṟaḷ*
+It is in this second book on “Wealth” (*poruḷ*) that the *Tirukkuṟaḷ*
 is not only a book of noble, "lofty” wisdom, but also a book of
 shrewd cunning. Here, the moral is very empirical, very pragmatic.
 It is true that Tiruvalluvar approaches even these worldly matters
@@ -553,7 +553,7 @@ second part of the book.
 It is the third part of the work, the *Kāmattuppal,* which contains
 some of the most “poetic" couplets. The reason is clear; it is in this
 part dealing with "pleasure" that the traditions of early classical
-literature, of the “*Cankam”* poetry, are still strong. Every couplet in
+literature, of the “*Caṅkam”* poetry, are still strong. Every couplet in
 the third part may be considered a "dramatic monologue of the
 *akam* variety"[^akam-variety]. The man who has unfolded his personality in the
 moral and spiritual order and who is taking part in the social and
@@ -603,7 +603,7 @@ unity prevails throughout the entire text in that it employs one
 kind of metre which is eminently suitable to gnomic poetry. The
 *veṇpā* is the most difficult, and the most highly esteemed of stanzaic
 structures of classical Tamil literature. There are five different
-kinds of this stanza. The *Tirukkuṛaļ* uses just one of them, the
+kinds of this stanza. The *Tirukkuṟaļ* uses just one of them, the
 *kuraļveṇpā.* Here are its structural properties:
 
 a) Only feet of three or two metrical units may be employed.
@@ -751,10 +751,10 @@ language of this text when compared with the early old Tamil of
 the classical period: the plural suffix *-kaļ* is used with both nouns
 of the "higher" and "lower" class (cf. 263 *marraiyavarkal*, 919
 *puriyarkal)*; the conditional suffix -ēl occurs frequently (368
-*untel,* 655 *ceyvānēl,* 556 *inṛēl* etc.); negative forms in *-āmal* belong
+*untel,* 655 *ceyvānēl,* 556 *inṟēl* etc.); negative forms in *-āmal* belong
 to the innovations, too (101, 103 *ceyyamal,* 1024 *cūlāmal*); there are
 more of such features which show that, linguistically, the *Tirukkuṟaḷ*
-cannot be contemporaneous with (or older than) the "*Cankam*"
+cannot be contemporaneous with (or older than) the "*Caṅkam*"
 poems, but later.[^tirukkural-after-cankam-age]
 
 [^tirukkural-after-cankam-age]: For a complete linguistic analysis of the text, cf. J. J. Glazov, Morphemic
@@ -762,12 +762,12 @@ Analysis of the Language of Tirukkuṟaḷ, in Introduction to the *Historical*
 *Grammar of the Tamil Language*, Moscow, 1967, 113-176.
 
 There is definitely a higher percentage of Sanskrit loanwords in
-the *Tirukkuṟaḷ* than in the Tolkāppiyam and in the *"Cankam"*
+the *Tirukkuṟaḷ* than in the Tolkāppiyam and in the *"Caṅkam"*
 works. A complete list is given in S. Vaiyapuri Pillai's *Tamilccuṭar-*
 *maṇikaḷ,* pp. 72-3. Since I have a comment to offer on these loans,
 the list is reproduced here *in toto.*
 
-\ 1. *akaram* (1) 2. *aṅkaṇam* (720) 3. *accu* (475) 4. *aṭi* (636) 5. *antam* (563) 6. *amar* (814) 7. *amarar* (121) 8. *amiltam* (11) 9. *amaiccu* (387) 10. *araňku* (401) 11. *aracar* (381) 12. *araṇ* (381) 13. *avam* (266) 14. *avalam* (1072) 15. *avi* (259) 16. *avai* (323) 17. *ākulam* (34) 18 *ācāram* (1075) 19. *ācai* (266) 20. *āņi* (667) 21. *āti* (1) 22. *āyiram* (259) 23. *icai* (231) 24. *intiran* (25) 25) 25. *imai* (775) 26. irā (1168) 27. *ilakkam* (627) 28. *uru* (261) 29. *uruvu* (667) 30. *ulku* (756) 31. *ulakam* (11) 32.  *ulaku* (1) 33. *uvamai* (7) 34. *uru* (498) 35. *ēmam* (306) 36. *ēr* (14) 37.  *kahcu* (1037) 38. *kaṇam* (29) 39. *kanicci* (1259) 40. *katam* (130) 41.  *kantu* (507) 42. *kalulum* (1173) 43. *kavari* (969) 44. *kavuļ* (678) 45.  *kalakam* (935) 46. *kaļam* (1224) 47. *kaļan* (730) 48. *kanam* (1081) 49.  *kāmam* (360) 50. *kāman* (1197) 51. *kāraṇam* (270) 52. kārikai (571) 53. *kālam* (102) 54. *kāṇam* (772) 55. *kuṭankar* (890) 56. *kuṭi* (171) 57. *kuṭampam* (1029) 58. *kuņam* (29) 59. *kulam* (956) 60. *kuvaḷai* (1114) 61. *kūr* (599) 62. *kokku* (490) 63. koṭi (337) 64. *kōṭṭam* (119) 65. *kōṭṭi* (401) *66. caman* (118) *67. calam* (660) 68. *civikai* (37) 69.  *cutai* (114) 70. *cûtar* (932) 71. *cūtu* (931) 72. *takar* (486) 73. *tavam* (19) 74. *tāmarai* (1103) 75. *tiņmai* (54) 76. tiru (168) *77.* tukil (1087) 78.  *tulai* (986) 79. *tūtu* (681) 80. *teyvam* (43) 81. *tēyam* (753) 82. *tēvar* (1073) 83. toṭi (911) 84. tōṭṭi (24) 85. *tōņi* (1068) 86. tōļ (149) 87. *nattam* (235) 88. *nayam* (860) 89. *nākam* (763) 90. *nākarikam* (580) 91.  *nāmam* (360) 92. *nāvāy* (496) 93. *niccam* (532) 94. *nīr* (13) 95. *nutuppēm* (1148) 96. pakkam (620) 97. *pakuti* (111) 98. *paṭām* (1087) 99.  *pativattar* (586) 100. *paṇṭam* (475) 101. *pakavan* (1) 102. *patam* (548) 103. *payan* (2) 104. *parattan* (1311) 105. paļiňku (706) 106. *paļļi* (840) 107. *pākam* 108. *pākkiyam* (1142) 109. *pāvam* (146) 110. *pīlikkum* (843) 111. pīļai (658) 112. *puruvam* (1086) 113. *pūcaṇai* (18) 114. *pūtańkaļ* (271) 115. *pēṭi* (614) 116. *pēy* (565) 117. *mankalam* (60) 118. *maṭamai* (89) 119. *matalai* (449) 120. mati (636) 121. mantiri (639) 122. mayir (964) 123 *mayil* (1081) 124. *manam* (7) 125.   *maṇi* (1273) 126. *mā* (68) 127. *māṭu* (400) 128. *māṇam* (384) 129.   *min* (931) 130. *mukam* (90) 131. *yāmam* (1136) 132. *vaňcam* (271) 133.   *vaṇṇam* (561) 134. *vaļai* (1157) 135. vaļļi (1304) 136. *vittakar* (235) 137. *vēlai* (1221).
+\ 1. *akaram* (1) 2. *aṅkaṇam* (720) 3. *accu* (475) 4. *aṭi* (636) 5. *antam* (563) 6. *amar* (814) 7. *amarar* (121) 8. *amiltam* (11) 9. *amaiccu* (387) 10. *araňku* (401) 11. *aracar* (381) 12. *araṇ* (381) 13. *avam* (266) 14. *avalam* (1072) 15. *avi* (259) 16. *avai* (323) 17. *ākulam* (34) 18 *ācāram* (1075) 19. *ācai* (266) 20. *āņi* (667) 21. *āti* (1) 22. *āyiram* (259) 23. *icai* (231) 24. *intiran* (25) 25) 25. *imai* (775) 26. irā (1168) 27. *ilakkam* (627) 28. *uru* (261) 29. *uruvu* (667) 30. *ulku* (756) 31. *ulakam* (11) 32.  *ulaku* (1) 33. *uvamai* (7) 34. *uru* (498) 35. *ēmam* (306) 36. *ēr* (14) 37.  *kahcu* (1037) 38. *kaṇam* (29) 39. *kanicci* (1259) 40. *katam* (130) 41.  *kantu* (507) 42. *kalulum* (1173) 43. *kavari* (969) 44. *kavuļ* (678) 45.  *kalakam* (935) 46. *kaļam* (1224) 47. *kaļan* (730) 48. *kanam* (1081) 49.  *kāmam* (360) 50. *kāman* (1197) 51. *kāraṇam* (270) 52. kārikai (571) 53. *kālam* (102) 54. *kāṇam* (772) 55. *kuṭankar* (890) 56. *kuṭi* (171) 57. *kuṭampam* (1029) 58. *kuņam* (29) 59. *kulam* (956) 60. *kuvaḷai* (1114) 61. *kūr* (599) 62. *kokku* (490) 63. koṭi (337) 64. *kōṭṭam* (119) 65. *kōṭṭi* (401) *66. caman* (118) *67. calam* (660) 68. *civikai* (37) 69.  *cutai* (114) 70. *cûtar* (932) 71. *cūtu* (931) 72. *takar* (486) 73. *tavam* (19) 74. *tāmarai* (1103) 75. *tiņmai* (54) 76. tiru (168) *77.* tukil (1087) 78.  *tulai* (986) 79. *tūtu* (681) 80. *teyvam* (43) 81. *tēyam* (753) 82. *tēvar* (1073) 83. toṭi (911) 84. tōṭṭi (24) 85. *tōņi* (1068) 86. tōļ (149) 87. *nattam* (235) 88. *nayam* (860) 89. *nākam* (763) 90. *nākarikam* (580) 91.  *nāmam* (360) 92. *nāvāy* (496) 93. *niccam* (532) 94. *nīr* (13) 95. *nutuppēm* (1148) 96. pakkam (620) 97. *pakuti* (111) 98. *paṭām* (1087) 99.  *pativattar* (586) 100. *paṇṭam* (475) 101. *pakavan* (1) 102. *patam* (548) 103. *payan* (2) 104. *parattan* (1311) 105. paļiňku (706) 106. *paļļi* (840) 107. *pākam* 108. *pākkiyam* (1142) 109. *pāvam* (146) 110. *pīlikkum* (843) 111. pīļai (658) 112. *puruvam* (1086) 113. *pūcaṇai* (18) 114. *pūtaṅkaļ* (271) 115. *pēṭi* (614) 116. *pēy* (565) 117. *mankalam* (60) 118. *maṭamai* (89) 119. *matalai* (449) 120. mati (636) 121. mantiri (639) 122. mayir (964) 123 *mayil* (1081) 124. *manam* (7) 125.   *maṇi* (1273) 126. *mā* (68) 127. *māṭu* (400) 128. *māṇam* (384) 129.   *min* (931) 130. *mukam* (90) 131. *yāmam* (1136) 132. *vaňcam* (271) 133.   *vaṇṇam* (561) 134. *vaļai* (1157) 135. vaļļi (1304) 136. *vittakar* (235) 137. *vēlai* (1221).
 
 Now from this list we have to exclude a number of items which
 were considered to be Aryan loanwords by S. Vaiyapuri Pillai, but

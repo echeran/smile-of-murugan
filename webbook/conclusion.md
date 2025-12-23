@@ -23,7 +23,7 @@ of which is comparatively late (middle of the 1st Millennium A.D.);
 and that, possibly, the whole third book (*Poruļatikāram*) is later
 than the first two portions.
 
-I disagree with the conception that early classical (Cańkam)
+I disagree with the conception that early classical (Caṅkam)
 poetry was "democratic in spirit". I believe that this poetry—the
 best which has ever been composed in the Tamil language-is
 basically aristocratic and early feudal in outlook and bardic and
@@ -477,7 +477,7 @@ valuable.
 1. Lamairesse, E., *Poésies populaires du Sud de l'Inde,* Paris, 1867, 364 pp.
 
 2. Lamairesse, E.*, Chants populaires du Sud* de *l'Inde*, Paris, 1868, 334 pp.
-3. Percival, Peter, *Tiruttanta cańkirakam*, or A Collection of *Proverbs* in
+3. Percival, Peter, *Tiruttanta caṅkirakam*, or A Collection of *Proverbs* in
 *Tamil* with their *Translation* in English. Jaffna, Jaffna Book Society, American
 Mission Press, 1834. A valuable and copious collection of Tamil sayings
 and proverbs.

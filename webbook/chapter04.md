@@ -289,7 +289,7 @@ discussion is meaningless. Sometimes these facts are by themselves
 rather revealing. The various anthologies and poems will be described
 here in chronological order.
 
-1. *Ainkuṟunūṟu*
+1. *Aiṅkuṟunūṟu*
 
 Traditionally the third among the anthologies. "(The collection of)
 five hundred short (poems)". It owes its name to the fact that it is
@@ -307,7 +307,7 @@ to have been made by Pulattuṟai Muṟṟiya Kūṭalūr Kiḻār on the
 direction of a *Cēral* king Yāṉaikkaṭ Cēy Māntaraň Cēral Irumpoṟai.
 The anonymous old commentary on this anthology is not a detailed
 one, but it is supplemented by a detailed commentary by U. V.
-Swaminatha Aiyar. A few lines of *Aink*. appear in *Paripāṭal*, *Cilappatikāram*
+Swaminatha Aiyar. A few lines of *Aiṅk*. appear in *Paripāṭal*, *Cilappatikāram*
 *Nālaṭiyār* and other later works. There are not many
 Indo-Aryan loanwords in the text. In *Aiṅk*. 202 we hear (probably
 for the first time in Tamil texts) about the *kuṭumi* “pig-tail” of
@@ -320,7 +320,7 @@ Annamalai University (1938).
 [^patirrupattu]: The arrangement into tens is found also in *Patiṟṟuppattu* "Ten Tens",
 and the traditions of tens continues all through the history of Tamil literature
 in the *Tirukkuṟaḷ*, in the *bhakti* poetry, etc.; it may be of Sanskritic
-origin, cf. the *śataka* arrangement. The tens in *Ainkuṟunūṟu* are named after
+origin, cf. the *śataka* arrangement. The tens in *Aiṅkuṟunūṟu* are named after
 the word or line repeated in each of the ten verses; such poems with recurring
 lines and phrases show the underlying bardic tradition.
 

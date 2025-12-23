@@ -379,7 +379,7 @@ the development of Tamil belletristic writing most important of
 his contribution is probably his very readable rendering of the
 *Periyapuraṇam* into prose.
 
-[^saying-about-arumuka-navalar]: A current saying about him was *vaitālum valuvinṛi vaivārē*, "Even in
+[^saying-about-arumuka-navalar]: A current saying about him was *vaitālum valuvinṟi vaivārē*, "Even in
 abuse he would speek faultlessly". Once, so the story goes, he went to the
 bazaar to buy some coconuts and asked about the price in the following
 manner: "*Ammaiye*, *nīvir tenkankāykaļai māral ennaṇamo*?" Unfortunately
