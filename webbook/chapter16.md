@@ -32,7 +32,7 @@ called urai.[^terms-etymology]
 
 [^bharatidasan-commentary-in-verse]: Cf. Päratitācan (Bharatidasan) *Kavitaikal,* 2nd vol., containing a
 "verse-commentary" on some *Kuṟuntokai* poems, and Kannadasan's poetic
-comments upon *Muttoļļāyiram*.
+comments upon *Muttoḷḷāyiram*.
 
 [^terms-etymology]: For the etymology of the two basic terms: *mūlam* < Sanskr. *mula-*
 “root, base, fundament, basic, original text"; *urai* (Dr. ?) "word, speech;
@@ -132,7 +132,7 @@ the super-commentaries or commentaries on commentaries (*uraikkurai*)
 were born. A typical case is, e.g., that of the great commentary
 of Parimēlaḻakar on the "Sacred *Kural”*. In the 17th Century,
 T. Irattiņa Kavirāyar composed a commentary to Parimēlaḻakar's
-commentary (called *Nunporul mālai*). Another super-commentary
+commentary (called *Nunporuḷ mālai*). Another super-commentary
 was written in 1869, and another in 1885 (by Murugesa Mudaliar).
 We have, in addition, five other modern commentaries which
 comment upon Parimēlaḻakar's classical work.
@@ -479,7 +479,7 @@ I would not go as far as to say that he "twisted the text" "to
 fit his Brahmin prejudices", but Brahmanic, Sanskrit sources
 certainly enriched and influenced his thinking, as well as his
 vocabulary and style. The one quality which is traditionally
-attributed to Parimēlaḻakar's thinking and writing is teļļu, *teļivu,*
+attributed to Parimēlaḻakar's thinking and writing is teḷḷu, *teļivu,*
 *tenmai*, i.e. 'clarity'. This quality gives him a great power of argumentation,
 one of the characteristic features of his commentaries.
 
@@ -620,7 +620,7 @@ is a thief. So she said, and he declared standing (there) in a bodiless
 state: Your husband is not a thief, o woman; look (how) this town
 which proclaimed him a thief, will be devoured by fire.
 
-*oļļeri =* 'the fire which will listen to your command';
+*oḷḷeri =* 'the fire which will listen to your command';
 *ivvur* 'this town' 'this town which said this'.
 
 *unṇumivvur* 'will-eat this town' = *ivvūraiyuṇṇum* 'will-eat

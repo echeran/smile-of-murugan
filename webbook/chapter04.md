@@ -404,7 +404,7 @@ The IV. decade by Kāppiyaṟṟuk Kāppiyaṉār is in praise of
 Kalaṅkākkaṇṇi Nārmuṭic Cēral, one of the sons of Imayavarampaṉ.
 
 The V. decade, ascribed to the great Paraṇar, sings of the mighty
-Cenkuṭṭuvan, son of Imayavarampaṉ, and contemporary of
+Ceṅkuṭṭuvan, son of Imayavarampaṉ, and contemporary of
 Gajabāhu I of Ceylon (cca 180 A.D.).
 
 The VI. decade, composed by a poetess called Kākkaipāṭiṉiyār

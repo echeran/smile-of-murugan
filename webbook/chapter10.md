@@ -555,7 +555,7 @@ As an instance, a typical *kuraḷveṇpā* (393) is quoted here:
 
 Its metric structure is:
 
-<div style="margin-left: 40%">
+<div style="margin-left: 20%">
 － ＝ － / － ＝ / － － / ＝ ＝ － <br>
 － ＝ － / － － / － <br>
 </div>

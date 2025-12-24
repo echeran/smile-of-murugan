@@ -12,7 +12,7 @@ perhaps with Aruṇācala Kavirāyar (1712-1779) and his *Irāmanā-*
 *ṭakam,* and it develops in two directions: on the one hand, in the
 "opera" *Nantaṇār Carittirak Kīrttanai,* about a poor Paraiya serf
 becoming a Saiva saint, composed by Gōpālakṛṣṇa Pārati; and, on
-the other hand, in ballads like *Kōvalankatai, Rāja Tēcinku, Purāṇic*
+the other hand, in ballads like *Kōvalankatai, Rāja Tēciṅku, Purāṇic*
 ballads—in short, in a rich undergrowth of literature representing
 in a charmingly naive, crude, often sentimental and silly way all
 spheres of life, political, social, religious-but always with sure
@@ -32,7 +32,7 @@ The scholastic, high-flown type of writing, is practised in the
 *mutts,* but "a slight relaxation of style, an accommodation of common
 speech and life, can also be traced in the *palļus* and the *kuravancis"*,[^relaxed-style-pallu-kuravanci]
 like Rājappa Kavirāyar's (1718) *Kurṟālakkuṟavaňci*, or
-in the *Mukkūṭalpaļļu.* The sentiments expressed are coarse, and
+in the *Mukkūṭalpaḷḷu.* The sentiments expressed are coarse, and
 here and there we get a glimpse of the daily experience of genuine
 folk but the language is highly literary and even these pieces have
 to be considered "highbrow" literature.

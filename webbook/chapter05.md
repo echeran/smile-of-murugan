@@ -127,7 +127,7 @@ In A.K. Ramanujan's charming translation:
 
 The prosodic pattern is as follows:
 
-<div style="margin-left: 40%">
+<div style="margin-left: 20%">
 ＝ — / ＝ — / — ＝ / ＝ — <br>
 — — / — — / ＝ — / — — <br>
 ＝ — / ＝ — / ＝ — <br>
@@ -281,7 +281,7 @@ This kind of stanza (which is technically known as *nēricai āciriyappā*)
 metre, and hence the earliest type of stanzaic structure extant in the
 language. The metric patterns are
 
-<div style="margin-left: 40%">
+<div style="margin-left: 20%">
 ＝ ＝ / ＝ — / — ＝ / ＝ — — <br>
 — ＝ / — ＝ / — — / — — <br>
 ＝ — / ＝ — / — — — <br>
@@ -971,7 +971,7 @@ Tamil text:
 <br>
 
 1. Prosodic pattern:<br>5 lines, each of them four feet, the penultime three feet;
-<div style="margin-left: 40%">
+<div style="margin-left: 20%">
 － － / － － / － － / － － <br>
 － ＝ / － － / － ＝ / － － <br>
 ＝ － / － － / ＝ ＝ / － － <br>

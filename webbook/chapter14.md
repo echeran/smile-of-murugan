@@ -152,7 +152,7 @@ say, the greatest and most interesting *poets* among the Siddhas?--that
 is, Civaväkkiyar, Pattirakiriyar, Pāmpāṭṭi Cittar, Iṭaikkāṭṭuccittar
 and Paṭṭiṉattar, flourished between the 10th-15th Cent. A.D.[^cittar-diversity]
 
-[^cittar-diversity]: Among the *cittar*, we have a few Muslim poets, e.g. Kuṇankuṭimastāṇ,
+[^cittar-diversity]: Among the *cittar*, we have a few Muslim poets, e.g. Kuṇaṅkuṭimastāṇ,
 the obscure mystic, who was under strong influence of sūfism. In Paṭṭinattār's
 poems, we find the Telugu pl. suff.-*lu* and some other indications which
 seem to point out that the poet belonged to the Vijayanagar period. Some

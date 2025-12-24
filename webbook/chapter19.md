@@ -853,7 +853,7 @@ darted beams of light like a black crystal".
 Ramamirtham's language is extremely rich. He has at his
 disposal a great number of (so-called) synonyms: e.g., in just four
 lines of "Stained Leaf", the story just discussed, he uses four
-"synonyms" for "water": *veļļam*, *punal,* tanṇīr, jalam, each with
+"synonyms" for "water": *veḷḷam*, *punal,* tanṇīr, jalam, each with
 slightly different connotation and function. This in itself need not
 be a sign of art, just of skill. Whenever necessary, he is able to use
 highly classical (and "pure") Tamil words, e.g. *tivalai* for *malai,*
@@ -877,7 +877,7 @@ both sides of the middle parting, two loose locks parted and played
 on the hillock of the forehead in the swift wind of the electric fan.
 floating round mark, above the spot where the curves of her
 irregular black brows began, melted in sweat, shedding its red
-*kunkum* and casting a glow on the face" (*Tayā*, p. 6). “Green
+*kuṅkum* and casting a glow on the face" (*Tayā*, p. 6). “Green
 pastures On the grass-tips stood drops of dew. A golden bow
 sprouted and spread upon the indigo above. Silver laces of water
 rose and descended up and down the grass-stalks, rolling about
