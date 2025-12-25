@@ -111,18 +111,18 @@ Index. A fair, mildly critical and rather objective general introduction,
 usually quite reliable; good for quick orientation and reference; no doubt the
 best which is available for a non-specialist.
 
-1. Meenakshisundaran, T.P., A *History* of *Tamil Literature*, Annamalai
+1. Meenakshisundaran, T.P., A *History of Tamil Literature*, Annamalai
 University, Annamalainagar, 1965. Pp. 211. Index. Based on a series of
 lectures at the University of Chicago. Not as thorough and reliable as No. 1.
 Very uneven in quality. Contains some brilliant observations and interesting
 formulations, but also a few superficial portions. Rather essayistic in parts.
 Should be read with caution.
 
-1. Meenakshisundaran, T. P., The *Pageant* of *Tamil Literature*, Sekar
+1. Meenakshisundaran, T. P., *The Pageant of Tamil Literature*, Sekar
 Pathippagam, Madras, 1966. Pp. 126. A collection of 21 essays on Tamil
 literature, of very uneven quality.
 
-1. Vaiyapuri Pillai, S., *History* of *Tamil Language and Literature*, New
+1. Vaiyapuri Pillai, S., *History of Tamil Language and Literature*, New
 Century Book House, Madras, 1956. Pp. 206. Index. The most scholarly and
 the most critical, as well as very richly documented history of Tamil literature
 up to the epic age. Based on strict historical methodology; biased rather in
@@ -130,7 +130,7 @@ the "overcritical" direction. Contains many misprints and inaccuracies. In
 parts, dated. Should be studied by all who want to penetrate deeper into the
 problems of Tamil literary history.
 
-1. Renou, L. Filliozat, J., *L'Inde classique,* Paris, 1947-53, t.I, 446-463, t. 
+1. Renou, L. — Filliozat, J., *L'Inde classique,* Paris, 1947-53, t.I, 446-463, t. 
 II, 297-314, 717. Pertinent portions on Tamil literature and prosody
 written by P. Meile and J. Filliozat. Short, but brilliant and reliable survey
 of classical Tamil literature.
@@ -140,7 +140,7 @@ Press, Madras, 3rd ed. 1966, pp. 365-393. A short but detailed account of
 Tamil literature from its beginnings to cca 1650 A.D. Good for first quick
 reference. Dating reliable. Slight pro-Sanskritic bias.
 
-1. Basham, L., The *Wonder That Was India,* Evergreen, New York, 1961
+1. Basham, L., *The Wonder That Was India,* Evergreen, New York, 1961
 (the orig. edition published in 1954 in London). The pertinent pages contain
 a very good but very brief evaluation of classical Tamil literature, and a few
 good translations of Tamil poetry by J. R. Marr.
@@ -170,13 +170,13 @@ Makes a charming reading. The dates and factual information should
 not be trusted, unless supplemented by T.P.M.'s notes in the 2nd ed. Contains
 a wealth of traditions, anecdotes and textual quotations with translations.
 
-1.  Seshagiri Sastri, M., Essay *on Tamil Literature*, S.P.C.K. Press,
+1.  Seshagiri Sastri, M., *Essay on Tamil Literature*, S.P.C.K. Press,
 Madras, 1897. Antiquated.
 
 1.  Srinivasa Aiyangar, M., *Tamil Studies*, Guardian Press, Madras, 1914.
 Dated but interesting.
 
-1.  Chengalvaraya Pillai, V. S., *History of* Tamil *Prose Literature,* Tirunelveli
+1.  Chengalvaraya Pillai, V. S., *History of Tamil Prose Literature,* Tirunelveli
 S.I.S.S. Works Publishing Society, 1966 (1st ed., 1904). Deals mostly
 with the beginnings and early developments of Tamil prose (commentaries,
 etc.). Very brief, fragmentary and dated.
@@ -188,35 +188,35 @@ writing.
 
 ### Bibliographies and Catalogues
 
-1. Thani Nayagam, Xavier S., *A Reference Guide to Tamil Studies*: *Books*.
+1. Thani Nayagam, Xavier S., *A Reference Guide to Tamil Studies: Books*.
 University of Malaya Press, Kuala Lumpur, 1966. Very good handbook, in
 spite of the misprints.
 
-2. Barnett, L. D., A Supplementary *Catalogue to the Tamil Books in the*
+2. Barnett, L. D., *A Supplementary Catalogue to the Tamil Books in the*
 *Library of the British Museum*, British Museum, London, 1931.
-3. Barnett, L. D. and Pope G. U., A *Catalogue of the Tamil Books in the*
+
+3. Barnett, L. D. and Pope G. U., *A Catalogue of the Tamil Books in the*
 *Library of the British Museum*, British Museum, London, 1909.
+
 4. Wilson, H. H., *The Mackenzie Collection*, 1st ed., Calcutta, 1828, 2nd.
 ed., Higginbotham and Co., Madras, 1882.
 
 ### Anthologies of Translations from Tamil Poetry with Annotations
 
-1. Somasundaram Pillai, J. M., Two *Thousand Years* of *Tamil Literature*:
-*An Anthology* with *Studies and Translations*. Madras, Tirunelveli S.I.S.S.
+1. Somasundaram Pillai, J. M., *Two Thousand Years of Tamil Literature*:
+*An Anthology with Studies and Translations*. Madras, Tirunelveli S.I.S.S.
 Works Publishing Society, 1959. A compilation of a number of different older
-translations of classical Tamil poetry ranging from the
-of *Puṟanāṉūṟu*
-poems
+translations of classical Tamil poetry ranging from the poems of *Puṟanāṉūṟu*
 to Rāmaliṅka Cuvāmikal's verses. The originals are mostly given along with
 the translations which are dated and bad in most cases. There are many
 footnotes and annotations. Though the translations are antiquated, and
 the notes should be read very cautiously, the anthology is useful as a first
 introduction to Tamil poetry.
 
-2. Illavazhanar (ed.) and Balakrishna Mudaliar, A. (transl.), The *Golden*
-*Anthology of Ancient Tamil* Literature. 3 vols. Madras, Tirunelveli S.I.S.S.
+2. Illavazhanar (ed.) and Balakrishna Mudaliar, A. (transl.), *The Golden*
+*Anthology of Ancient Tamil Literature*. 3 vols. Madras, Tirunelveli S.I.S.S.
 Works Publishing Society, 1959. Includes very unsatisfactory, inexact and
-wooden prosaic translations from the Tolkāppiyam, the "Ten Lays", the
+wooden prosaic translations from the *Tolkāppiyam*, the "Ten Lays", the
 "Eight Anthologies", and the "Eighteen Shorter Works", with the original
 texts.
 
@@ -226,18 +226,18 @@ Valuable. The translations lack true poetic qualities, but are quite reliable
 (though not exactly precise); the introductory parts and notes contain much
 information which in most cases is quite sound.
 
-4. Kingsbury, Francis, and Phillips, G. E., *Hymns* of the *Tamil Saivite*
+4. Kingsbury, Francis, and Phillips, G. E., *Hymns of the Tamil Saivite*
 *Saints*, Oxford University Press, London, 1921. A valuable selection of the
 original texts and very readable translations from Appar, Campantar,
 Cuntarar and Māṇikkavācakar.
 
-5. Hooper, J. S. M., Hymns of the Alvars, Association Press, Calcutta, 1929.
+5. Hooper, J. S. M., *Hymns of the Alvars*, Association Press, Calcutta, 1929.
  A valuable anthology of the original texts and good translations of the
 songs of the Vaṣṇava *bhakta* poets of the 7th - 10th Cent. A.D.
 
-6. Gover, Charles, E., *The* Folk Songs *of Southern India,* 2nd., Tirunelveli
+6. Gover, Charles, E., *The Folk Songs of Southern India,* 2nd., Tirunelveli
 S.I.S.S. Works Publishing Society, Madras, 1959. Contains a number of
-Tamil, Kannada, Kodagu etc., folk-songs and poems by "popular" poets in
+Tamil, Kannaḍa, Koḍagu etc., folk-songs and poems by "popular" poets in
 English translation, with studies and notes which should be taken very
 cautiously. In many respects, though, a "classic" of its kind.
 
@@ -246,12 +246,16 @@ cautiously. In many respects, though, a "classic" of its kind.
 1. Aiyar, V. V. S., *Kamba Ramayana*: A *Study.* Bombay, Bharatiya Vidya
 Bhavan, 1965. A thought-provoking and sharp study of Kampaṉ's great epic.
 Has not lost its attraction even after 40 years (the present book is a reprint).
-2. Duraiswami Pillai, A. S., An *Introduction* to *the Study of Tiruvalluvar,*
+
+2. Duraiswami Pillai, A. S., *An Introduction to the Study of Tiruvalluvar,*
 Madurai, 1961.
 
-3. Jesudasan, C., "Paranar”*, Tamil Culture* III, 3-4 (1954), 268-84.
+3. Jesudasan, C., "Paranar”, *Tamil Culture* III, 3-4 (1954), 268-84.
+
 4. id., "A Study of Kabilar", *Tamil Culture* III, 1 (1954), 18-35.
+
 5. id., *Peaks of Sangam Poetry,* Trivandrum, 1960. Solid and reliable.
+
 6. Kailasapathy, K., *Tamil Heroic Poetry,* Oxford University Press, London,
 1968, pp. 282 + xv. So far the best treatment of classical Tamil *puṟam*
 poems; against a historical and sociological background; exact, reliable,
@@ -260,13 +264,14 @@ poetry compared to Greek and Welsh heroic poetry. Lacks structural and
 aestetic evaluation of the poetry. Sociological bias. Written in excellent
 English. Indispensable for students of Tamil culture.
 
-7. Kanakasabhai, V., The Tamils *Eighteen Hundred Years* Ago. 1st ed.,
+7. Kanakasabhai, V., *The Tamils Eighteen Hundred Years* Ago. 1st ed.,
 Madras, Higginbotham and Co., 1904; 2nd ed., Tirunelveli S.I.S.S. Works
 Publishing Society, Madras, 1956. This classic, dated though it is in many
 respects, is still worth while reading; it includes a general discussion of
 ancient Tamil literature, and the summaries of the "twin epics”.
-8. Keller, C. A., "A literary study of the *Tirumurukarruppadai*", *Proceed-*
-*ings* of the *I. International Conference* Seminar of Tamil *Studies*, Vol. II,
+
+8. Keller, C. A., "A literary study of the *Tirumurukarruppadai*", *Proceedings*
+ *of the *I. International Conference Seminar of Tamil Studies*, Vol. II,
 Kuala Lumpur, 1969, 55-62.
 
 9. Krishnaswami Aiyangar, S., *Manimekhalai in its Historical Setting*,
@@ -278,7 +283,7 @@ with the *akam* genre of classical poetry and in particular with its psychologic
 and social background.
 
 11. Manuel, M., "The use of literary conventions in Tamil Classical
-Poetry", *Proceedings* of the I. *International Conference Seminar of Tamil*
+Poetry", *Proceedings of the I. International Conference Seminar of Tamil*
 *Studies*, Vol. II, Kuala Lumpur, 1969, 63-69.
 
 12. Marr, John Ralston, *The Eight Tamil Anthologies with special reference*
@@ -290,14 +295,14 @@ early Tamil classical poetry, including the prosody.
 1961.
 
 14. Natarajan, Avvai D., "An Introduction to the Traditional Doctrine
-of Love", *Proceedings* of the I. *International* Conference Seminar of *Tamil*
+of Love", *Proceedings of the I. International Conference Seminar of Tamil*
 *Studies*, Vol. II, Kuala Lumpur, 1969, 70-87.
 
 15. Nau, Heinrich, *Prolegomena zu Pattanattu Pillaiyars Padal,* Zwickau, 1920. 
 Important for its detailed discussion of chronological problems of
 Tamil literature.
 
-16. Navaratnam, Ratna, *Tiruvachakam*, the *Hindu Testament of* Love,
+16. Navaratnam, Ratna, *Tiruvachakam, the Hindu Testament of Love*,
 Bombay, 1963. Translation and annotations.
 
 17. Pattabiraman, P.Z.-Dessigane, R., *La légende des jeux de Civa à*
@@ -314,13 +319,13 @@ comparative religionist, they are also important and interesting for the
 student of Tamil literature. The first is probably the best treatment of Saiva
 Siddhānta philosophy published so far.
 
-21. Singaravelu, S. A., A Comparative *Study of the Story of Rama in South*
+21. Singaravelu, S. A., *A Comparative Study of the Story of Rama in South*
 *India and Southeast Asia,* Kuala Lumpur, 1966.
 
 22. Srinivasa Iyengar, P. T., *Pre-Aryan Tamil Culture,* Madras, Univ. of
 Madras, 1930.
 
-23. Subramania Aiyar, A. V., The *Poetry* and *Philosophy* of the Tamil
+23. Subramania Aiyar, A. V., *The *Poetry and Philosophy of the Tamil*
 *Siddhars*, Tirunelveli, 1957. So far as I know the only treatise on the subject
 in English. Therefore important, though unsatisfactory in itself. Too brief;
 rather critical.
@@ -328,94 +333,105 @@ rather critical.
 24. Thani Nayagam, Xavier S., *Nature in Ancient Tamil Poetry*. Tuticorin,
 1953. To be recommended. Rather important.
 
-25. Thani Nayagam, Xavier S., *Indian* Thought and Roman Stoicism
+25. Thani Nayagam, Xavier S., *Indian Thought and Roman Stoicism*
 (Inaugural lecture, University of Malaya), Kuala Lumpur, 1963. Very much
 thought-provoking.
 
-26. Thani Nayagam, Xavier S., Landscape *and Poetry.* A *Study of Nature*
-in *Classical* Tamil *Poetry*, Asia Publishing House, Bombay, 1965. A revised
+26. Thani Nayagam, Xavier S., *Landscape and Poetry. A Study of Nature*
+*in Classical Tamil Poetry*, Asia Publishing House, Bombay, 1965. A revised
 version of No. 24. Highly recommended.
 
 27. Varadarajan, M., "Tamil", in *Indian Literatures*, Agra, 1959, 13.
-28. Varadarajan, M., The *Treatment* of Nature in *Sangam Literature*,
+
+28. Varadarajan, M., *The Treatment of Nature in Sangam Literature*,
 Madras, 1956. A solid collection of rich classified material. Highly recommended.
-29. Varadarajan, M., "Literary Theories in Early Tamil-*Eṭṭuttokai",*
-*Proceedings of the* I. *International* Conference *Seminar of Tamil Studies*, Vol.
+
+29. Varadarajan, M., "Literary Theories in Early Tamil—*Eṭṭuttokai",*
+*Proceedings of the I. International Conference Seminar of Tamil Studies*, Vol.
 II, Kuala Lumpur, 1969, 45-54.
 
-30. Vithiananthan, S., The *Pattuppaṭṭu*-a *historical, social and linguistic*
+30. Vithiananthan, S., *The Pattuppaṭṭu—a historical, social and linguistic*
 *study.* Unpublished doctoral dissertation at the University of London, 1950.
+
 31. Uwise, M. M., Muslim Contribution to *Tamil Literature*, Kandy, Tamil
 Manram, 1953.
 
-32. Zvelebil, K., "Tamil Poetry 2000 Years Ago", New Orient *Bimonthly*
+32. Zvelebil, K., "Tamil Poetry 2000 Years Ago", *New Orient Bimonthly*
 (1960), 6.
 
 33. Zvelebil, K., "The Lay of the Anklet"*, Mahfil* 3-4 (1968) 5-12.
 
 ### Translations from classical Tamil literature
 
-1. Aiyar, V. V. S. (transl.), The *Kuṟaḷ* or the Maxims *of Tiruvalluvar,* 3rd
-ed., V. V. S. Krishnamurti (ed.), Tiruccirappalli, 1952. One of the best
+1. Aiyar, V. V. S. (transl.), *The Kuṟaḷ or the Maxims of Tiruvaḷḷuvar,* 3rd
+ed., V. V. S. Krishnamurti (ed.), Tiruccirāppaḷḷi, 1952. One of the best
 English translations of the text, though rather free.
 
-2. Balasubramaniam, T. V. K. (transl.), The *Tiruvembavai* in *Tamil by*
+2. Balasubramaniam, T. V. K. (transl.), *The Tiruvembavai in Tamil by*
 *Saint Manikkavachagar,* Madras, 1954.
 
-3. Balasubramaniam, T. V. K. (transl.), *Tirukkuṟaḷ*, Lakshmanan Mudaliar
+3. Balasubramaniam, T. V. K. (transl.), *Tirukkurral*, Lakshmanan Mudaliar
 Endowments, Madras, 1962.
 
-4. Daniélou, A.-Desikan, R. S. (transl.), Prince Ilangô Adigal, Le *roman*
+4. Daniélou, A.—Desikan, R. S. (transl.), Prince Ilangô Adigal, *Le roman*
 *de l'anneau,* Gallimard, Paris, 1961.
 
-5. Daniélou, A. (transl.), The *Shilappadikaram* (The Ankle *Bracelet)*, New
-York: New Directions Publ. Corp., 1965. The two books under 4 and *5*
+5. Daniélou, A. (transl.), *The Shilappadikaram* (*The Ankle *Bracelet)*, New
+York: New Directions Publ. Corp., 1965. The two books under 4 and 5
 represent complete prosaic French and English versions of the epic. Good for
 reference (though unaccompanied by notes), but as an artistic translation
 leaves much to be desired. Frequently imprecise.
 
 6. Dessigane, R. (transl.), *Tirouppavai de Sainte Andal,* Pondichéry, 1952.
+
 7. Dessigane, R. (transl.), *Hymnes tamouls a Çareçuvati,* Pondichéry, 1959.
+
 8. Dikshitar, V. R. Ramachandra (transl.), *The Silappadikaram*, Madras,
 Oxford University Press, 1939. A complete prosaic English version of the
 epic, with important notes and appendices. Though dated in many respects
 (particularly in the questions of dates), still very valuable.
+
 9. Drew, W. H., *Tirukkuṟaḷ,* Tirunelveli S.I.S.S. Works Publ. Society,
 Madras, 1958 (repr.).
 
-10. Ellis, F. W. (transl.), *Tirukkuṟaḷ*: *Ellis*' *Commentary*, ed. by R. P.
+10. Ellis, F. W. (transl.), *Tirukkural*: *Ellis*' *Commentary*, ed. by R. P.
 Sethu Pillai, Madras: University of Madras, 1955 (first published in 1819).
-11. Gnanou Diagou (transl.), *Kambarāmāyaṇam* (1. part), *Revue* hist. de
-*l'Inde* franc., t. VIII (1952), 273-279.
 
-12. Gros, François, Le *paripāṭal, texte tamoul, introduction*, *traduction* et
+11. Gnanou Diagou (transl.), *Kambarāmāyaṇam* (1. part), *Revue hist. de*
+*l'Inde franc.*, t. VIII (1952), 273-279.
+
+12. Gros, François, *Le *paripāṭal, texte tamoul, introduction, traduction et*
 *notes*, Pondichéry, Institut français d'indologie, 1968. An excellent work,
 highly recommended.
 
 13. Karavelane (transl.), *Karaikkalammaiyar,* Oeuvres editées et traduites,
 Publications de l'Institut français d'indologie, No. 1, Pondichéry, 1965.
-14. Langton, Maurice (transl.), The Story of King *Nala* and Princess
-*Damayanti*, A *Narrative* Poem from the Tamil of Puhalendi *Pulavar.*
+
+14. Langton, Maurice (transl.), *The Story of King Nala and Princess*
+*Damayanti, A Narrative Poem ... from the Tamil of Puhalendi Pulavar.*
 Madras, C.L.S. Indian Research Series, vol. IV, 1950.
 
-15. Lehmann, A. (transl.), *The* Hymns *of Tayumanavar,* Guetersloh, 1935.
-16. Nallaswami, Pillai J. M. (transl.), Umapathi Sivacharya, The *Thiru-*
-*varutpayan*, Dharmapuram: The Gnanasambandan Press, 1945.
+15. Lehmann, A. (transl.), *The Hymns of Tayumanavar,* Guetersloh, 1935.
+
+16. Nallaswami, Pillai J. M. (transl.), Umapathi Sivacharya, *The Thiruvarutpayan*,
+ Dharmapuram: The Gnanasambandan Press, 1945.
+
 17. Nallaswami, Pillai J. M. (transl.), Meykanda Devar, *Sivagnana*
 *Botham,* Dharmapuram: The Gnanasambandan Press, 1945.
 
 18. Narayanan, N. (transl.), *Tirumurugarruppadai,* with Tamil Paraphrase
 and English Translation and Notes, Jaffna, Ardra Publ. No. 1, 1938.
-19. Pope, G. U. (transl.), The *"Sacred*" *Kurval* of *Tiruvalluva*-*Nayanâr,*
+
+19. Pope, G. U. (transl.), *The "Sacred" Kurval of Tiruvaḷḷuva—Nâyanâr,*
 1st ed., London, W. Allen, 1886. 2nd ed., Calcutta, Y.M.C.A. Publ. House,
 1958.
 
-20. Pope, G. U. (transl.), The *Naladiyar*, or *Four Hundred Quatrains* in
+20. Pope, G. U. (transl.), *The Naladiyar, or Four Hundred Quatrains in*
 *Tamil,* Introduction, translation, and notes critical, philological and explanatory.
 Oxford: Clarendon Press, 1893.
 
-21. Pope, G. U. (transl.) and (ed.), The *Tiruvacagam* or "*Sacred Utter-*
-*ances*" of *the Tamil Poet*, *Saint and* Sage *Manikka-vacagar*. Oxford: Clarendon
+21. Pope, G. U. (transl.) and (ed.), *The Tiruvacagam or "Sacred Utterances"*
+ *of the Tamil Poet, Saint and Sage Manikka-vacagar*. Oxford: Clarendon
 Press, 1900. Though naturally dated in language and style, Pope's
 translations are immensely valuable, since they contain detailed introductions,
 meticulously prepared texts, a wealth of notes, and concordances,
@@ -428,7 +444,7 @@ translated, with introduction and notes, Calcutta, 1931.
 1.  Rajagopalachari, C. R. (transl.), *The *Ayodhya Canto of the Ramayana*
 *as Told by Kamban*, London: George Allen and Unwin, 1961.
 
-1.  Rajagopalachari, C. R. (transl.), *Kuṟaḷ, the Great* Book of *Tiruvalluvar*
+1.  Rajagopalachari, C. R. (transl.), *Kuṟaḷ, the Great Book of Tiruvalluvar*
 (Selections from Books I and II), Bombay, Bharatiya Vidya Bhavan, 1965.
 
 1.  Ramanujan, A. K. (transl.), *The Interior Landscape*: Love Poems from
@@ -437,13 +453,13 @@ The best translation into English of classical Tamil poetry published so far.
 Reflects faithfully the excellence of Tamil love-poetry. Contains a brief but
 brilliant exposé of classical Tamil rhetoric.
 
-1.  Robinson, Edward J. (transl.), *Tales and Poems* of *South India.* Ist
+1.  Robinson, Edward J. (transl.), *Tales and Poems of South India.* Ist
 ed. London, 1873, appeared under the title Tamil Wisdom: Traditions
 concerning Hindu sages, and Selections from their writings. With an Introduction
 by the late Rev. Elijah Hoole, D.D. 2nd end., Tirunelveli S.I.S.S.
 Works Publishing Society, Madras, 1957.
 
-1.  Schomerus, H. W. (transl.), *Die Hymnen* des *Manikka-Vasaga,* Jena,
+1.  Schomerus, H. W. (transl.), *Die Hymnen des Manikka-Vasaga,* Jena,
 1923.
 
 1.  Schomerus, H. W. (transl.), *Schivaistische Heiligenlegenden* (*Periya*
@@ -451,34 +467,35 @@ Works Publishing Society, Madras, 1957.
 since it is a full and carefull translation of the standard Saivite hagiography
 with many notes.
 
-1.  Taylor, W. (transl.), Paraňcōti Muņivar, *Tiruvilaiyātar Purāṇam*, in
-*Oriental Historical Manuscripts* in the *Tamil Language* (2 vols., Madras,
+1.  Taylor, W. (transl.), Paraňcōti Muṉivar, *Tiruviḷaiyātaṟ Purāṇam*, in
+*Oriental Historical Manuscripts in the Tamil Language* (2 vols., Madras,
 1835), Vol. I, pp. 55-116. A lively and charming translation.
 
 ### Tamil Folk Literature
 
 1. Babington, B. G. (transl.), The *Adventures* of *Gooroo Paramartan*, by
 C. B. Beschi, Cleveland, The Clerk's Press, 1916. Appeared also under the
-title *The Strange*, *Surprising Adventures* of *the Venerable* Gooroo Simple *and*
-His Five Disciples, London, 1961. Originally published in 1822, and republished
+title *The Strange, Surprising Adventures of the Venerable Gooroo Simple and*
+*His Five Disciples*, London, 1961. Originally published in 1822, and republished
 in 1861, 1871 and 1915. Though written by the great C. G. Beschi
 (18th Cent.), the work is based on Indian, Greek, Italian and other folkmotives,
 and became a popular work of Tamil folk-literature.
 
-1. Jensen, H., A *Classified Collection of* Tamil Proverbs, Engl. translation
+1. Jensen, H., A *Classified Collection of Tamil Proverbs*, Engl. translation
 by A. C. Clayton, London, 1897. An excellent and very valuable collection of
 the original proverbs with translations (originally into German), classified
 according to topics.
 
-1. Kingscote, G., *Tales of the Sun*, or Folklore *of* Southern *India.* Collected
+1. Kingscote, G., *Tales of the Sun, or Folklore of Southern India.* Collected
 by Mrs Howard Kingscote and Pandit Natesa Sastri. London, 1890. Very
 valuable.
 
 1. Lamairesse, E., *Poésies populaires du Sud de l'Inde,* Paris, 1867, 364 pp.
 
 2. Lamairesse, E.*, Chants populaires du Sud* de *l'Inde*, Paris, 1868, 334 pp.
-3. Percival, Peter, *Tiruttanta caṅkirakam*, or A Collection of *Proverbs* in
-*Tamil* with their *Translation* in English. Jaffna, Jaffna Book Society, American
+
+3. Percival, Peter, *Tiruttanta caṅkirakam, or A Collection of Proverbs in*
+*Tamil with their Translation in English*. Jaffna, Jaffna Book Society, American
 Mission Press, 1834. A valuable and copious collection of Tamil sayings
 and proverbs.
 
@@ -488,13 +505,13 @@ and proverbs.
 *Mahfil* 1968, 3-4, 21-36.
 
 2. Asher, R. E., "The Tamil Renaissance and the Beginnings of the Tamil
-Novel", *Journ*. of the *Royal Asiatic Society*, 1969, 13-28. Cf. also in *The*
-Novel in *India* (ed. T. W. Clark), 1970, pp. 179-204, an excellent study.
+Novel", *Journ. of the Royal Asiatic Society*, 1969, 13-28. Cf. also in *The*
+*Novel in India* (ed. T. W. Clark), 1970, pp. 179-204, an excellent study.
 
-3. Balakrishnan, P., The *Gold Bangle and other Stories*, Bombay: Bharatiya
+3. Balakrishnan, P., *The Gold Bangle and other Stories*, Bombay: Bharatiya
 Vidya Bhavan, 1968.
 
-4. Bharathi Tamil Sangam (ed.), *Essays* on *Bharathi*, 2 vols., Calcutta:
+4. Bharathi Tamil Sangam (ed.), *Essays on Bharathi*, 2 vols., Calcutta:
 Bharathi Tamil Sangam, 1958 and 1962.
 
 5. *Contemporary Indian Literature.* Special Issue on Tamil Literature. Vol.
@@ -503,8 +520,8 @@ V. No. 8 (August, 1965).
 6. Gopalie, S., "New Bearings in Tamil Poetry", *The Overseas Hindustan*
 *Times*, July 26, 1969.
 
-7. Govinda Rajulu Chetty, T. V., Sri *Chidambaram Ramalinga Svamiji*:
-*His Life*, *Mission and Studies*. Madras, Central Cooperative Printing Works,
+7. Govinda Rajulu Chetty, T. V., *Sri Chidambaram Ramalinga Svamiji*:
+*His Life, Mission and Studies*. Madras, Central Cooperative Printing Works,
 1935 (includes the Engl. version of some of the devotional songs of Ramalinga
 Svami).
 
@@ -513,11 +530,13 @@ Svami).
 
 9. Kanakasabapathy, C., "A New Voice in Tamil Poetry", in *Books*
 *Abroad,* special issue: Letters of India in Transition, Autumn, 1969, 526-29.
+
 10. Lakshmanan Chettiar, L., "Trends in Modern Tamil Prose", *Tamil*
 *Culture* II, 2 (April, 1953), 158-169.
 
 11. Mahadevan, P., *Subramania Bharati*, *Patriot and Poet*: *A Memoir.*
 Madras, Atri Publishers, 1957. A good monograph on the poet.
+
 12. Mahfil, A Quarterly of South Asian Literature, *Tamil Issue,* Vol. IV,
 Nos 3 and 4, Spring and Summer, 1968. Guest editors Kamil Zvelebil and
 Donald Nelson, Contains, apart from 3 papers, a select bibliography of books
@@ -526,6 +545,7 @@ early classical poems, and of 11 modern Tamil short stories (translators
 A. K. Ramanujan, D. Nelson, E. Annamalai, H. Schiffman, F. Clothey,
 K. Zvelebil; authors N. Piccamūrtti, Puthumaippitthan, L. S. Ramamirtham,
 T. Janakiraman, S. Ramaswamy, Jeyakanthan and Vaiyavan).
+
 13. Marais, F., “Vedanayagam Pillai", *Tamil Culture* X, 2 (April-June,
 1963), 31-41.
 
@@ -533,10 +553,10 @@ T. Janakiraman, S. Ramaswamy, Jeyakanthan and Vaiyavan).
 *Indian Literature*, A *Symposium*. Ed. by the Sahitya Akademi, 2nd ed.,
 Delhi, 1959, 269-283.
 
-15. Mutharasu, P., The Life of St. *Ramalingar*. Tirunelveli, Samarasa
+15. Mutharasu, P., *The Life of St. Ramalingar*. Tirunelveli, Samarasa
 Sanmarga Sangam, 1961.
 
-16. Nandakumar, Prema, *Bharati* in *English* Verse, Madras, Higginbotham
+16. Nandakumar, Prema, *Bharati in English Verse*, Madras, Higginbotham
 and Co., 1958. A selection of very readable translations of Bharati's
 poems.
 
@@ -548,19 +568,19 @@ poet's life and works.
 Publishing Society, Madras, 1965. Short biographies of Maraimalai Adigal,
 K. Subramania Pillai and Thiru. Vi. Kalyanasundaram.
 
-19. Rajagopalachari, C. R., The *Fatal Cart* and Other *Stories*. Translated
+19. Rajagopalachari, C. R., *The Fatal Cart and Other Stories*. Translated
 by his son. New Delhi, The Hindustan Times, 1946.
 
-20. Santhanam, K., *Eight Seers* of Rice and *Other Stories* of *Indian* Life.
+20. Santhanam, K., *Eight Seers of Rice and Other Stories of Indian Life*.
 Translated from the Tamil by the author, Madras, 1958.
 
 21. Srinivasan, Thomas, "Beschi, the Tamil Scholar and Poet", *Tamil*
 *Culture* III, 3-4 (Oct. 1954), 297-313.
 
-22. Subramania Bharati, *Bharati's* Poems: Kannan and *Kuyil Pattu.*
+22. Subramania Bharati, *Bharati's Poems: Kannan and Kuyil Pattu.*
 Translated by A. Doraiswamy Pillai, Madras, New Century Book House, 1966.
 
-23. Subramania Bharati, The Voice of a Poet: being English renderings
+23. Subramania Bharati, *The Voice of a Poet*: being English renderings
 from the Tamil originals of poems by Subramanya Bharati. 2nd ed., Calcutta, 1965.
 
 24. Subramaniam, Ka. Naa, "What is wrong with Tamil novel", *The*
@@ -572,13 +592,13 @@ from the Tamil originals of poems by Subramanya Bharati. 2nd ed., Calcutta, 1965
 26. Subramaniam, Ka. Naa., "The first three novels in the Tamil language",
 *Quest*, 30, 1961, 29-32.
 
-27. Sundaram, P. M. *Bharatiyar*: His Life *and Poetry*. Madras, 1956. A
+27. Sundaram, P. M. *Bharatiyar: His Life and Poetry*. Madras, 1956. A
 good brief monograph.
 
 28. Sundararajan, P. G., “The Short Story in Tamil", *Indian Writing*
 Today, 1969, 4, 58-64.
 
-29. Swaminathan, K. et *al.* (*editores*), The *Plough* and the *Stars*: *Stories*
+29. Swaminathan, K. et *al.* (*editores*), *The Plough and the Stars: Stories*
 *from Tamilnad*. Bombay, Asia Publishing House, 1963. A collection of 26
 modern short stories, in no way representative of the short story writing in
 the sixties. Out of the 26 stories, the best are those by Akilan, Alagirisami,
@@ -589,6 +609,7 @@ like Mauni, S. Ramaswamy and L. S. Ramamirtham.
 
 30. Thani Nayagam, Xavier S., “Regional Nationalism in 20th Century
 Tamil Literature", *Tamil Culture,* X, 1 (Jan.-March 1963), 1-23.
+
 31. Thani Nayagam, Xavier S., "The novelist of the city of Madras",
 *Tamil Culture*, X, 2 (April-June 1963), 1-18. Deals with the works of M.
 Varadarajan.
@@ -597,15 +618,17 @@ Varadarajan.
 Doctoral Dissertation, Annamalai University, 1968.
 
 33. Vijaya Bharathi, S., "The Poetic Aspect in Bharathi's Personality",
-*Proceedings* of the I. *International Conference-Seminar* of *Tamil Studies*.
+*Proceedings of the I. International Conference-Seminar of Tamil Studies*.
+
 34. Vijaya Bharathi, S., "The Other Harmony: A Study of Bharathi's
-Prose-Writings", paper presented at the II *International Conference-Seminar*
-*of Tamil* Studies, Madras, January, 1968.
+Prose-Writings", paper presented at the *II International Conference-Seminar*
+*of Tamil Studies*, Madras, January, 1968.
 
 35. Zvelebil, K., "The Prose Works of Bharati", Tamil *Culture*, V,
 (1956).
 
 36. Zvelebil, K., “S. Baradi, der Begründer der modernen tamilischen
-Literatur", Rocznik *Orientalistyczny* XX, 1956, 23-26.
+Literatur", *Rocznik Orientalistyczny* XX, 1956, 23-26.
+
 37. Zvelebil, K., "The Tamil Short Story Today: Jeyakanthan, Janakiraman,
 Ramamirtham"*, Mahfil* 1968, 3-4, 37-45.
