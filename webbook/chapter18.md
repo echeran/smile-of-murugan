@@ -31,7 +31,7 @@ under direct impact of English literature.
 The scholastic, high-flown type of writing, is practised in the
 *mutts,* but "a slight relaxation of style, an accommodation of common
 speech and life, can also be traced in the *paḷḷus* and the *kuṟavañcis"*,[^relaxed-style-pallu-kuravanci]
-like Rājappa Kavirāyar's (1718) *Kuṟṟālakkuṟavaňci*, or
+like Rājappa Kavirāyar's (1718) *Kuṟṟālakkuṟavañci*, or
 in the *Mukkūṭalpaḷḷu.* The sentiments expressed are coarse, and
 here and there we get a glimpse of the daily experience of genuine
 folk—but the language is highly literary and even these pieces have

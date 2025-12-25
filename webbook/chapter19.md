@@ -236,7 +236,7 @@ K. Santhanam).
 
 [^critique-of-ambitious-collection]: There is a relatively very good collection of Tamil short stories, published
 by the Sahitya Akademi in 1959 under the editorship of the late A. Chidambaranatha
-Chettiar, entitled simply *Ciṟukataik kalaňciyam*. Why has not
+Chettiar, entitled simply *Ciṟukataik kalañciyam*. Why has not
 *this* short-story collection been translated *in toto* into English and published
 rather than The *Plough and the Stars*, is beyond my comprehension.
 
@@ -715,7 +715,7 @@ is nothing new to tell ...".
 Ramamirtham has so far written more than one hundred short
 stories and two novels *(Putra*, 1st part 1965, *Apitā,* 1970). The
 collections of short stories comprise *Jaṉaṉi* (1957), *Itaḻkaļ* (1959,
-'Petals'), *Paccaikkaṉavu* (1961, 'Green Dream'), Kaňkā (1962),
+'Petals'), *Paccaikkaṉavu* (1961, 'Green Dream'), Kañkā (1962),
 *Añcali* (1963 'Gesture of Worship') Alaikaḷ (1964 'Waves') and
 *Tayā* (1966). He works in the Punjab National Bank in Madras.
 He is very shy, very difficult to talk to.
@@ -893,7 +893,7 @@ rhythm—cf. such utterances (taken at random from the novel
 (p. 33) "Isn't there running water (for me) to bathe in, to be cooled
 and refreshed and appeased, at the side of the village?"; or *inta*
 *eṇṇattai eṉṉum nērattukku pālaiyil pūtta pūppol, enṇattiṉ paccai*
-*neňcu kacintatu* (p. 45) "Like a flower, blossoming in the barren
+*neñcu kacintatu* (p. 45) "Like a flower, blossoming in the barren
 soil, within the span of time necessary to produce this thought,
 the heart melted, by the tender freshness of the thought".
 

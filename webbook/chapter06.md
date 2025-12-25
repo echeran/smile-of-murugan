@@ -437,7 +437,7 @@ waiting under *neytal* or seashore; infidelity of the man under
 
 | *Phase*  of love                                             | *Landscape*                   |
 | ------------------------------------------------------------ | ----------------------------- |
-| Union of lovers                                              | *Kuṟiňci* - hills             |
+| Union of lovers                                              | *Kuṟiñci* - hills             |
 | Domesticity<br/>Patient waiting                              | *Mullai* - Forests            |
 | Lover's infdelity<br/>Sulking scenes                         | *Marutam* - Cultivated Fields |
 | Separation<br/>Anxious waiting                               | *Neytal* - Sea-coast          |
@@ -456,7 +456,7 @@ what about the corpus of the texts themselves? Did they really
 describe all these situations? The answer—probably surprisingly—is
 positive. Indeed they did. There was probably an evolution in
 this literature: it seems that the oldest poems could be classed
-under *kuṟiňci* and *pālai*, i.e. dealing with the immediate erotic
+under *kuṟiñci* and *pālai*, i.e. dealing with the immediate erotic
 union and with the elopement of the girl; while the two *tiṇais*
 dealing with ill-matched union seem to be later additions: not
 additions of the theoreticians, though, in search of pedantic completion,
@@ -474,7 +474,7 @@ necessary. After an engaging and charming discussion of what is
 treatment of the theory of the five physiographic regions and the
 five basic love-situations.
 
-First he gives the five terms in the order *kuṟiňci*, *neytal*, *pālai*,
+First he gives the five terms in the order *kuṟiñci*, *neytal*, *pālai*,
 *mullai*, *marutam* (quoting *TP* 3); he adds at once that these five are
 discussed in terms of *mutal*, *karu* and *uri*. *Mutaṟporuḷ* is of two
 kinds: place and time (*TP* 4). According to Nakkīrar, however,
@@ -487,7 +487,7 @@ and in accordance with Nakkīrar, we get the following charts:
 | tiṇai ("situation")   | place              | time                                         |
 |-----------------------|--------------------|----------------------------------------------|
 | *pālai*               |                    | noon; hot season; also "late dew"            |
-| *kuṟiňci*             | mountainous region | dead of night; cold season; also "early dew" |
+| *kuṟiñci*             | mountainous region | dead of night; cold season; also "early dew" |
 | *neytal*              | sea-shore          | sunrise                                      |
 | *mullai*              | forest             | rainy season; evening                        |
 | *marutam*             | cultivated fields  | dawn                                         |
@@ -501,7 +501,7 @@ Nakkīrar gives then a detailed list of concrete natural representations
 (*karu*). *Karu*, he says (quoting *TP* 18 as authority), is "god,
 food, beast, tree, bird, drum, occupation, lyre and other items".
 
-Ideally, the *kuṟiňci* or mountainous region has Murukavēḷ as its
+Ideally, the *kuṟiñci* or mountainous region has Murukavēḷ as its
 god, its food is the five varieties of paddy and millet, the beasts are
 the tiger (panther), wild hog and elephant; the trees: eagle-wood,
 ebony, *Pterocarpus marsupium*, teak and the kino tree; typical
@@ -515,7 +515,7 @@ particular lyre (or harp), *yāl*, is called "mountain-lyre". Under
 case *cilampaṉ*, *veṟpaṉ*, *poruppaṉ*;[^hill-chief] the name of the heroine, *koṭicci*
 or *kuṟatti*;[^hill-woman] the typical waters—water-falls and mountain springs;
 human settlements: small hamlets and *kuṟicci* ("village", *DED*
-1534). Flowers: conehead (*kuriňci*, *Strobilanthes*), glory lily (*Gloriosa*
+1534). Flowers: conehead (*kuriñci*, *Strobilanthes*), glory lily (*Gloriosa*
 *superba*), kino (*Terminalia tomentosa*) and water-lily *(Pontederia)*;
 and, finally, the name of the people is *kuṟavar*, *iṟavuḷar*, *kuṉṟavar*.[^kuravar]
 
@@ -618,7 +618,7 @@ caste", *ā* "female of ox, sambur and buffalo".
 
 | | Lover's Union | Patient Waiting | Lover's Unfaithfulness | Anxiety, Separation | Elopement, Separation |
 |-|-|-|-|-|-|
-| Typical flower<br>(=name of region and poetic theme) | *kuriňci* | *mullai* | *marutam* | *neytal* | *pālai* |
+| Typical flower<br>(=name of region and poetic theme) | *kuriñci* | *mullai* | *marutam* | *neytal* | *pālai* |
 | Landscape | mountains | forest, pasture | cultivated countryside | seashore | wasteland |
 | Season | cold season, early frost | rainy season | all seasons | all seasons | summer, late dew |
 | Time | night | evening | dawn | sunrise | midday |
@@ -631,16 +631,16 @@ caste", *ā* "female of ox, sambur and buffalo".
 | Waters | water-fall, hill-pond | pond, rivulet | river, pool, well | well, sea, salt-marshes | waterless well, stagnant water |
 | Beasts | monkey, tiger, bear, elephant | deer, hare | buffalo, freshwater fish, otter | crocodile, shark |wild dog, tiger, lizard, elephant |
 | Birds | peacock, parrot | jungle hen, sparrow | heron, stork, swan | sea-gull, marine crow | dove, eagle, kite, hawk |
-| Trees | teak, sandal, bamboo, jack | koṉṟai, waterlily, red *kāntaḷ, piṭavam* | mango, lotus |  *puṉṉai,* *tāḻai*-shrub, *muṇṭakam, aṭampu* | *uliňai, ōmai*, cactus |
+| Trees | teak, sandal, bamboo, jack | koṉṟai, waterlily, red *kāntaḷ, piṭavam* | mango, lotus |  *puṉṉai,* *tāḻai*-shrub, *muṇṭakam, aṭampu* | *uliñai, ōmai*, cactus |
 | Food | millet, mountain-rice | *varaku, tuvarai*  | rice | fish | |
 | Instrument | *toṇṭaka*-drum, mountain-lute  | *ēṟṟu*-drum, forest-lute | *maṇa*-drum, *kiṇai*, field-lute | *pampai*-drum, *viḷari* lute | *uḷukkai*-drum, desert-lute |
-| Melody-type | *kuriňcippaṇ* | *cātāri* | *marutappaṇ* | *cevvaḻi* | *curam* |
+| Melody-type | *kuriñcippaṇ* | *cātāri* | *marutappaṇ* | *cevvaḻi* | *curam* |
 | God | Murukaṉ | Māyōṉ (Tirumāl) | Intiraṉ | Varuṇaṉ |  Koṟṟavai (Kāḷi) |
 
 : Attributes of the Five Landscapes  {#tbl-five-landscapes}
 
 
-Note: *kuṟiňci*: conehead, *Strobilanthes*; various S. and *Barleria* species; said to grow at an altitude of 6000 ft. and flower only
+Note: *kuṟiñci*: conehead, *Strobilanthes*; various S. and *Barleria* species; said to grow at an altitude of 6000 ft. and flower only
 once in 12 years; flower is bluish. *mullai*: *Jasminum sambac*; Arabian jasmine. *marutam*: *Terminalia tomentosa*. *neytal*:
 white Indian water-lily, Nymphaea *lotus alba*; blue nelumbo. pālai: silvery-leaved ape-flower, Mimusops kauki; grows
 in barren tracts; is evergreen;
@@ -677,7 +677,7 @@ found in the texts.
 
 Nakkīrar turns then his attention (pp. 24-25 ed. cit.) to the
 *uripporuḷ*, and, quoting *TP* 14, makes the following statement (cf.
-@tbl-uri): sexual union (of lovers), *puṇartal,* is the *kuriňci*-phase
+@tbl-uri): sexual union (of lovers), *puṇartal,* is the *kuriñci*-phase
 (situation); separation, *pirital*, is the *pālai*-phase; waiting, *iruttal*,
 is the *mullai*-phase; anxiety, *iraṅkal,* is the *neytal*-phase; sulking,
 *ūṭal,* is the *marutam*-phase.
@@ -743,7 +743,7 @@ waiting: the two *tiṇais* appropriate for waiting *par excellence* are
 for the hero to return. But *pālai,* wasteland, also deals with waiting
 and separation (apart from elopement); and so does *marutam*: here
 the wife is waiting till the debauchee returns from the harlot.
-Finally the *kuṟiňci* theme might be considered as an echo of the
+Finally the *kuṟiñci* theme might be considered as an echo of the
 primitive, tribal, pre-nuptial promiscuity.
 
 The second genre—*puṟam*—has, of course, its conventions, too.
@@ -756,12 +756,12 @@ the *puṟam* genre, yet another term must be introduced: *tuṟai* or
 
 |   | Akam         | Uri                                                            | Puṟam    | Uri                                | Features common to both                                                                 |
 |---|--------------|----------------------------------------------------------------|----------|------------------------------------|-----------------------------------------------------------------------------------------|
-| 1 | *kuṟiňci*    | (first) union of lovers                                        | *veṭci*  | cattle-lifting, prelude to war     | nighttime; hillside; clandestine affair                                                 |
-| 2 | *mullai*     | separation (patient waiting)                                   | *vaňci*  | preparation for war                | forest in the rainy season; separation from beloved ones                                |
+| 1 | *kuṟiñci*    | (first) union of lovers                                        | *veṭci*  | cattle-lifting, prelude to war     | nighttime; hillside; clandestine affair                                                 |
+| 2 | *mullai*     | separation (patient waiting)                                   | *vañci*  | preparation for war                | forest in the rainy season; separation from beloved ones                                |
 | 3 | *marutam*    | infidelity, conflict                                           | *uḻinai* | siege                              | fertile area (village, town); at dawn; refusing entry                                   |
 | 4 | *neytal*     | separation (anxious waiting)                                   | *tumpai* | battle                             | seashore in *akam* = open battleground in *puṟam*; no particular season; evening; grief |
 | 5 | *pālai*      | elopement; search for  eloped girl; search for wealth and fame | *vākai*  | victory; an achievement            | praise                                                                                  |
-| 6 | *peruntiṇai* | mismatched love                                                | *kāňci*  | struggle for excellence; endurance | no landscape; struggle, defeat, note of sadness                                         |
+| 6 | *peruntiṇai* | mismatched love                                                | *kāñci*  | struggle for excellence; endurance | no landscape; struggle, defeat, note of sadness                                         |
 | 7 | *kaikkiḷai*  | unrequited love                                                | *pāṭāṇ*  | elegy; asking for gifts; praise    | no landscape; one-sided relationship; note of sadness                                   |
 
 : Akam-Puram Correspondences {#tbl-akam-puram-correspondences}
@@ -785,14 +785,14 @@ The heroic situations are, too, described under 5 *tiṇais*:
 
 1. *veṭci(ttinai*) is the prelude to war: this is the cattle-raid. The
 features which this situation has in common with its *akam*-counterpart,
-*kuṟiňci*, are the time: night, the place: a mountain-forest; and
+*kuṟiñci*, are the time: night, the place: a mountain-forest; and
 the fact that it is a clandestine affair, just like *puṇartal* or sexual
 union of lovers before marriage.
-1. *vaňci* is the preparation for war and the beginning of the
+1. *vañci* is the preparation for war and the beginning of the
 invasion. Common features with its *akam*-counterpart, *mullai*:
 both take place in the rainy season and in the forest; both describe
 the separation from loved ones, and wifely patience, *iruttal*.
-1. *uḻiňai* describes the siege of a settlement or fortress; like
+1. *uḻiñai* describes the siege of a settlement or fortress; like
 *marutam,* it takes place in an inhabited, fertile area (city etc.) at
 dawn; the infidelity results in *akam* in *ūṭal,* wifely sulking, and
 —both in love and war—in "refusing entry" (A. K. Ramanujan).
@@ -812,7 +812,7 @@ wealth and fame in victory after long separation from the wife
 specifically related to any type of landscape; both are not supposed
 to be ideal topics for poets; both are considered to be so to say
 "abnormalities” in love-situation as well as in war-situation.
-1. *vāňci* in the *puṟam* genre describes struggle for excellence,
+1. *vāñci* in the *puṟam* genre describes struggle for excellence,
 endurance, but also the feeling of transience of the world and defeat,
 death; in the *akam* genre, this corresponds to the *peruntiṇai,*
 struggle and defeat in the mismatched love.

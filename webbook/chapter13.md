@@ -38,7 +38,7 @@ creator.
 
 There are no reliable enough sources about the poet and his life.
 Even his name presents a problem: it is of course the name of
-Śiva in Kāňci (*Tēvāram* 3240). There was also a Pallava king,
+Śiva in Kāñci (*Tēvāram* 3240). There was also a Pallava king,
 Kampavarmaṉ (870-912? See K. A. N. Sastri, *A History of South*
 *India*<sup>iii</sup>, *175*), in fact the very last of the Pallava kings. According
 to one legend, the poet was born in the vicinity of a temple-pillar
@@ -424,10 +424,10 @@ Cūrppanakai, the sister of Irāvaṇaṉ, comes into Rāma's presence
 creeper, like poison, like the daughter of wickedness". Listen to the
 measure of her footfall:
 
-> *paňciyoḷir viňcukuḷir pallavama nuṅka* \
-> *ceňceviya kaňcanimir cīraṭiya ḷāki* \
-> *añcoliḷa maňňaiyeṉa vaṉṉameṉa miṉṉum* \
-> *vaňciyeṉa naňcameṉa vaňcamakaḷ vantāḷ* \
+> *pañciyoḷir viñcukuḷir pallavama nuṅka* \
+> *ceñceviya kañcanimir cīraṭiya ḷāki* \
+> *añcoliḷa maññaiyeṉa vaṉṉameṉa miṉṉum* \
+> *vañciyeṉa nañcameṉa vañcamakaḷ vantāḷ* \
 >
 > *(Ārāṇyakkāṇṭam,* *Cūrppanakaip*. 24) \
 
@@ -453,14 +453,14 @@ give the predominant colour to the whole stanza. For the Tamil
 reader there is apart from the direct acoustic effect of the sounds—a
 subconscious association between the palatal cluster *-ñc-* and
 things which are bizarre, uncouth, dangerous, deadly, e.g. *añcal*
-"fear", *kaňcam* “trick”, *kiňci* “crocodile", *naňcam* “poison",
-*paňcam* “famine”, *piñcam* “killing”, *muňcal* “dying", *vaňcaṉam*
-"trick", *vaňcalam* "serpent" etc. The sound-symbolism is found,
+"fear", *kañcam* “trick”, *kiñci* “crocodile", *nañcam* “poison",
+*pañcam* “famine”, *piñcam* “killing”, *muñcal* “dying", *vañcaṉam*
+"trick", *vañcalam* "serpent" etc. The sound-symbolism is found,
 in a different layout, in many parts of the poem; and in one and the
 same stanza (e.g. see the sequence of palatal, dentoalveolar and
-labial nasals in line 3: *maňňaiyeṉa aṉṉameṉa miṉṉum*, or the
+labial nasals in line 3: *maññaiyeṉa aṉṉameṉa miṉṉum*, or the
 contrast between these consonants and the codas of the last two
-feet of the stanza: *vaňcamakaḷ vantāḷ*).
+feet of the stanza: *vañcamakaḷ vantāḷ*).
 
 Another example in a very different tune; grandeur is the
 *"Leitmotif"* in these lines-the grandeur of Rāvaṇa, with the grave

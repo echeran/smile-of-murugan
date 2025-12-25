@@ -467,7 +467,7 @@ Works Publishing Society, Madras, 1957.
 since it is a full and carefull translation of the standard Saivite hagiography
 with many notes.
 
-1.  Taylor, W. (transl.), Paraňcōti Muṉivar, *Tiruviḷaiyātaṟ Purāṇam*, in
+1.  Taylor, W. (transl.), Parañcōti Muṉivar, *Tiruviḷaiyātaṟ Purāṇam*, in
 *Oriental Historical Manuscripts in the Tamil Language* (2 vols., Madras,
 1835), Vol. I, pp. 55-116. A lively and charming translation.
 

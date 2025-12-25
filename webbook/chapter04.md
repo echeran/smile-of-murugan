@@ -122,7 +122,7 @@ as referring to a body of poets and/or
 scholiasts and critics; however, this
 conclusion is purely speculative. The
 lines I have in mind are
-*Maturaikkāňci* 761-763: *tollāṇai nallāciriyar /*
+*Maturaikkāñci* 761-763: *tollāṇai nallāciriyar /*
 *puṇarkūṭ ṭuṇṭa pukaḻcāl ciṟappiṉ nilantaru*
 *tiruviṉ neṭiyōṉ pōla*. In the
 *Pāyiram* to *Tolk*., we read
@@ -296,15 +296,15 @@ five hundred short (poems)". It owes its name to the fact that it is
 divided into five groups of 100 short stanzas each, each group being
 concerned with one of the five basic "physiographic regions"
 (*aintiṇai*) in the following order: *marutam* “riverine”, *neytal* “littoral",
-kuṟiňci "montane”, *pālai* “arid" and *mullai* "pastoral". Each
+kuṟiñci "montane”, *pālai* “arid" and *mullai* "pastoral". Each
 hundred is subdivided into tens or *pattu*.[^patirrupattu] The poems have three to
 six lines each. Stanzas 129 and 130 are not extant. Five poets are
 credited with the authorship of the work: the centum on *marutam*
-was composed by Ōrampōki, on *neytal* by Ammūvaṇār, on *kuṟiňci*
+was composed by Ōrampōki, on *neytal* by Ammūvaṇār, on *kuṟiñci*
 by Kapilar the Elder, on *pālai* by Ōtalāntai, on *mullai* by Pēyaṉ.
 Peruntēvaṉār composed an invocatory song. The anthology is said
 to have been made by Pulattuṟai Muṟṟiya Kūṭalūr Kiḻār on the
-direction of a *Cēral* king Yāṉaikkaṭ Cēy Māntaraň Cēral Irumpoṟai.
+direction of a *Cēral* king Yāṉaikkaṭ Cēy Māntarañ Cēral Irumpoṟai.
 The anonymous old commentary on this anthology is not a detailed
 one, but it is supplemented by a detailed commentary by U. V.
 Swaminatha Aiyar. A few lines of *Aiṅk*. appear in *Paripāṭal*, *Cilappatikāram*
@@ -391,7 +391,7 @@ similar to the rest of the poetry in *akaval* (Kailasapathy, *op. cit*. 29),
 but a few peculiar regional expressions and usages do occur (M. A.
 Thiagarajah, *The Cēranāṭu during the Caṅkam and the Post-Caṅkam Period*,
  pp. 222 ff.). The II. decade by Kumaṭṭūrk Kaṇṇaṉār, a
-Brahmin poet, is in praise of Imayavarampaṉ Neṭuňcēral Ātan (the
+Brahmin poet, is in praise of Imayavarampaṉ Neṭuñcēral Ātan (the
 son of Utiyaṉ Cēral and the father of the great Ceṅkuṭṭuvaṉ). This
 king is said to have beaten the Aryas and the Yavanas, and carved
 a bow-emblem on the Himalayas.
@@ -418,11 +418,11 @@ with 3 generations of rulers.
 The VII. decade composed by the well-known Kapilar is a panegyric
 on Celvakkaṭunkō Vāḻiyātan who belonged to the second line
 of the *Ceral*, the one called *Irumpoṟai*. The greatest king of this line
-was probably Peruňcēral Irumpoṟai, the victor of Takaṭūr, praised
+was probably Peruñcēral Irumpoṟai, the victor of Takaṭūr, praised
 in the VIII. decade by Aricil Kiḻār.
 
-The IX. decade is dedicated to Iruňcēral Irumpoṟai, the son of
-Peruňcēral and the grandson of Celvakkaṭunkō. This decade was
+The IX. decade is dedicated to Iruñcēral Irumpoṟai, the son of
+Peruñcēral and the grandson of Celvakkaṭunkō. This decade was
 composed by a *vēḷāḷa* poet called Peruṅkuṉṟūr Kiḻār. This king, too,
 won victorious battles with the Cholas and Pāṇḍya. Hence we see,
 that decades VII-IX deal with the *Irumpoṟai* line of the *Cerals*, and
@@ -458,7 +458,7 @@ poets is 143 (+ Peruntēvaṉār); 114, 117 and 165 are by anonymous
 authors. The stanzas are arranged according to a peculiar scheme:
 the stanzas bearing odd numbers belong to *pālai* (1, 3, 5, 7, ...)
 which means that half of the entire anthology is dedicated to *pālai*;
-poems bearing number 2, 8, 12, 18, 22, 28, etc. belong to the *kuriňcittiṇai*
+poems bearing number 2, 8, 12, 18, 22, 28, etc. belong to the *kuriñcittiṇai*
 (80 in all); poems bearing number 4, 14, 24. 34. 44, etc. are
 *mullai* (40 in all); poems with number 6, 16, 26, 36, etc. are *marutam*
 (total 40), and all stanzas having ten or its multiples (10, 20, 30, etc.)
@@ -550,7 +550,7 @@ Five of the "Ten Songs" belong to the genre.
 
 The *Porunarāṟṟuppaṭai* sends a war-bard (*porunar*) to the famous
 Chola king Karikāl. The poem consists of 248 lines in the *akaval*
-metre (and a few *vaňci* lines) and was sung by Muṭattāmakkaṇṇiyār.
+metre (and a few *vañci* lines) and was sung by Muṭattāmakkaṇṇiyār.
 The poet gives biographical facts about the king (especially his
 great victory at the battle of Veṇṇi), and describes his prowess,
 conquests, his benign rule; the general wealth and fertility of his
@@ -574,12 +574,12 @@ eat meat and drink liquor. First published in 1889.
 or "The guide for bards with the large lute" is another of this
 "guidance" poems; attributed to Uruttiraṅkaņṇaṉār, who also
 sang the *Paṭṭiṉappalai*, it has 500 lines in the *akaval* metre in praise
-of the chieftain *Toṇṭaimāṉ Iḷantiraiyaṉ*, the ruler of Kāňci. The
+of the chieftain *Toṇṭaimāṉ Iḷantiraiyaṉ*, the ruler of Kāñci. The
 *perumpaṇar* are a class of minstrels (*pāṇar*) who obviously accompanied
 their singing or reciting of the songs by playing the *pēriyāḻ* or
 large lute. One special feature of this lay is the detailed description
 of the five physiographical regions (*tiṇai*) and a mythical account
-about the origin of the *Toṇṭaimāṉ* dynasty. The city of Kāňci is
+about the origin of the *Toṇṭaimāṉ* dynasty. The city of Kāñci is
 eulogized thus: "Among the great cities in this wide-placed earth,
 girt by the sea that smells of fish, and canopied by the sky, this is
 the greatest. It is an old city of ancient might and fame, abounding
@@ -595,7 +595,7 @@ flower (*Mimusops kauki*); desert tract, one of the love divisions".
 It is a poem by Uruttiraṅkaṇṇaṉār about the proposed separation of
 a lady from her lover who wants to go to Kāvirippaṭṭiṉam, the
 capital of the Cholas. It has 301 lines, some of them in the *akaval*,
-some in *vaňci* metre, in praise of the great Chola king Karikāl. First
+some in *vañci* metre, in praise of the great Chola king Karikāl. First
 there is a lengthy account of the city, then 5 lines dedicated to the
 love element proper, and the rest of the lines deal with the exploits
 of Karikāl the Great. The poem gives a vivid portrait of the life in
@@ -613,11 +613,11 @@ was very popular with the court panegyrists of the later Chola
 empire (850-1200 A.D.). It is mentioned in inscriptions and literary
 works of the 11th and 12th Cent. Some of these works say that
 Karikāl gave 1,600.000 gold pieces (*poṉ*) to the bard for his song—indeed
- a royal royalty! The name of the song was also *Vaňci*
-*neṭum pāṭṭu*, "The Long Song in the *vaňci* metre". Indeed there are
-153 lines in *vaňci* and 138 lines in *akaval* metre. According to J. R.
-Marr (*op. cit.* 435) the *vaňci* lines were introduced to effect a change
-of rhythm that would please the listeners. The short staccato *vaňci*
+ a royal royalty! The name of the song was also *Vañci*
+*neṭum pāṭṭu*, "The Long Song in the *vañci* metre". Indeed there are
+153 lines in *vañci* and 138 lines in *akaval* metre. According to J. R.
+Marr (*op. cit.* 435) the *vañci* lines were introduced to effect a change
+of rhythm that would please the listeners. The short staccato *vañci*
 lines with their swinging movement were apparently more suited
 for cataloguing things besides serving as a deliberate contrast to the
 *akaval* lines (Kailasapathy, *op. cit.* 39). Published in 1889.
@@ -627,11 +627,11 @@ for cataloguing things besides serving as a deliberate contrast to the
 meaning liter. "The song of the mountains", narrates the story of
 premarital love among the people living in the hilly regions. It is the
 love-poem *par excellence*, ascribed to the great Kapilar (also called
-*Peruňkuriñci*, "The large mountain song"). The story preserved in
+*Peruñkuriñci*, "The large mountain song"). The story preserved in
 the colophon accompanying the commentary says that it was
 composed for the instruction of an Aryan king, called Pirakattaṉ,
 cf. Skt. *bṛhat* "great". This story and the fact that the poem
-contains a catalogue of 99 flowers typical for the *kuṟiňci* region,
+contains a catalogue of 99 flowers typical for the *kuṟiñci* region,
 appear to substantiate the suggestion that the poem was composed
 as a "model".[^pattupattu] This is roughly the content of the lay: A chieftain of
 the hill-tribe falls in love at first sight with a fair maiden. The
@@ -652,7 +652,7 @@ Published in 1889.
 *study*, PhD thesis, Univ. of London, 1950, p. 20. The catalogues were a rather
 typical feature in ancient Tamil poetry. We do find catalogues of different
 items (e.g. the seven great donors), and perhaps the longest catalogue is this
-one in the *Kuṟiňcippāṭṭu*. In the midst of the description of a girl and her
+one in the *Kuṟiñcippāṭṭu*. In the midst of the description of a girl and her
 foster-sister the song bursts into a methodical enumeration of the flowers
 characteristic for the hilly region (*ll.* 61-95). The presence of this catalogue
 has, as Kailasapathy says (op. cit. p. 131), discomforted many modern
@@ -664,11 +664,11 @@ an intrusion, and somewhat detracts from the high poetic level of the poem"
 according to whom the presence of the catalogue need cause no
 surprise (p. 131). Bardic training included information pertinent to flora and
 fauna, among other types of information. And our poem was very probably
-meant to be an exercise in singing the *kuṟiňci* theme, a model poem, illustrating
-a type, an informative poem on the *kuṟiňci* situation (M. Varadarajan,
+meant to be an exercise in singing the *kuṟiñci* theme, a model poem, illustrating
+a type, an informative poem on the *kuṟiñci* situation (M. Varadarajan,
 The *Treatment of Nature*  ... p. 62). It should also be noted that the
 catalogue itself has a high phonaesthetic quality, cf. *oṇ ceṅ kāntaḷ āmpal*
-*aṉiccam / taṇkayak kuvaḷai kuṟiňci veṭci* ... (26).
+*aṉiccam / taṇkayak kuvaḷai kuṟiñci veṭci* ... (26).
 
 
 11. *Malaipaṭukaṭām*.
@@ -720,7 +720,7 @@ her maids, the languishing queen lies plunged into grief
 the tip / Of her rosy finger now and then she spills / The shining
 tear-drops that in heavy lids / collected, roll down fast”. Her
 thoughts are far away—and suddenly one is taken to the king's
-winter-camp (? at Talaiyālaṅkāṉam), where her lord (? Neṭuňceḻiyaṉ),
+winter-camp (? at Talaiyālaṅkāṉam), where her lord (? Neṭuñceḻiyaṉ),
 “at war with numberless foes", is fully absorbed in his stern
 duties. In one of the most vivid scenes in the entire bardic poetry
 one sees the king inspecting at night the camp with wounded
@@ -728,13 +728,13 @@ warriors. The climax of the poem is a prayer to the Goddess of
 Victory, Koṟṟavai. As Kailasapathy says (42), “the poem is indeed a
 *tour de force*, exhibiting the bard at his best." Published in 1884.
 
-13. *Maturaikkāňci*
+13. *Maturaikkāñci*
 
 is the longest of the lays, containing 782 lines in the *akaval* metre
-interspersed with a great number of *vaňci* lines, ascribed to the bard
+interspersed with a great number of *vañci* lines, ascribed to the bard
 Māṅkuṭi Marutaṉār who was probably the chief court poet of
-Neṭuňceḻiyaṉ (whose fame the poem celebrates), and also the author
-of a number of stanzas in *Puṟanāṉūṟu.* A *kāňci* is a later genre of
+Neṭuñceḻiyaṉ (whose fame the poem celebrates), and also the author
+of a number of stanzas in *Puṟanāṉūṟu.* A *kāñci* is a later genre of
 "Sangam" poetry; it can be translated as a “hint” or “gentle hint",
 a kind of "moral epistle" (M. S. Purnalingam Pillai) based on the
 philosophy of the instability and perishability of world and life.
@@ -753,10 +753,10 @@ and manners: he has captured successfully the sights and sounds of
 Maturai in the morning, in the afternoon, during dusk, mignight and
 dawn. There is absolutely no love element in the poem. The first
 portion is dedicated to the valour and victories of the greatest hero
-of the Pāṇḍyas, Neṭuňceḻiyaṉ. The poem ends with a "good council"
+of the Pāṇḍyas, Neṭuñceḻiyaṉ. The poem ends with a "good council"
 to the king to be happy throughout the allotted portion of his life.[^makilntu]
 There are relatively many Aryan loanwords. *Maturaik*. looks like a
-later "lay"; Neṭuňceḻiyaṉ might have been ruling in Maturai around
+later "lay"; Neṭuñceḻiyaṉ might have been ruling in Maturai around
 215 A.D. And, indeed, this lay might be dated well in the beginning
 of the 3rd Century. Published in 1889.
 
@@ -820,7 +820,7 @@ to us from *Porunar*.: the small feet similar to the tongues of panting
 dogs (16-17). Published in 1889.
 
 Such phrases and formulae, recurring again and again (cf. the
-construction *kallā iḷaiyar* or *iḷaiňar,* recurring e.g. in *Porunar*. 100,
+construction *kallā iḷaiyar* or *iḷaiñar,* recurring e.g. in *Porunar*. 100,
 *Mullaip*. 35-36 and *Ciṟupāṇ.* 33) show how intimate and close was
 the connection between the various poems of the corpus, and how
 stereotyped and conventional is the language of this bardic poetry.
@@ -885,10 +885,10 @@ impossible to distinguish what belongs properly to each author.
 | *Porunarāṟṟuppaṭai*    | *Muṭattāmakkaṇṇiyār*            | *Karikāl*                | 248          | *akaval* (+ *vañci*)             |
 | *Perumpāṇāṟṟuppaṭai*   | *Uruttiraṉ Karṇṇaṉār*           | *Tontaiman Ilantiraiyaṉ* | 500          | *akaval*                         |
 | *Paṭṭiṉappalai*        | *Uruttiraṉ Karṇṇaṉār*           | *Karikāl*                | 301          | *vañci* (153) and *akaval* (138) |
-| *Kuṟiňcippāṭṭu*        | *Kapilar*                       | anonymous                | 261          | *akaval*                         |
+| *Kuṟiñcippāṭṭu*        | *Kapilar*                       | anonymous                | 261          | *akaval*                         |
 | *Malaipaṭukaṭām*       | *Peruṅkuṉṟūr Peruṅkaucikaṉār*   | *Naṉṉaṉ*                 | 583          | *akaval*                         |
-| *Neṭunalvāṭai*         | *Nakkīrar*                      | *Neṭuňceḻiyaṉ*           | 188          | *akaval*                         |
-| *Maturaikkāňci*        | *Māṅkuṭi Marutaṉār*             | *Neṭuňceḻiyaṉ*           | 782          | *vañci* (+ *akaval*)             |
+| *Neṭunalvāṭai*         | *Nakkīrar*                      | *Neṭuñceḻiyaṉ*           | 188          | *akaval*                         |
+| *Maturaikkāñci*        | *Māṅkuṭi Marutaṉār*             | *Neṭuñceḻiyaṉ*           | 782          | *vañci* (+ *akaval*)             |
 | *Mullaippāṭṭu*         | *Nappūtaṉār*                    | anonymous                | 103          | *akaval*                         |
 | *Ciṟupāṇāṟṟuppaṭai*    | *Naṟṟattaṉār*                   | *Nalliyakkōṭaṉ*          | 296          | *akaval*                         | 
 

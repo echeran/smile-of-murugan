@@ -328,7 +328,7 @@ sexuality of the heroes (Kailasapathy, 79, 80). Only
 later—probably due to the impact of Jainism, Buddhism and later
 Brahmanism there is some gnomic content in the poems—the
 central idea being the impermanence of life in the world: *Tolkāppiyam*
- calls this theme *kāňci*, and *Puṟapporuḷ veṇpāmālai* calls it
+ calls this theme *kāñci*, and *Puṟapporuḷ veṇpāmālai* calls it
 *vākai*. They stand apart, probably as later additions. Whether they
 are later or not, all of them are to an extent pervaded by some conception
 of universal humanism and unity of mankind. The reasons
@@ -394,7 +394,7 @@ say that no other expression sums up the totality of the nature
 of the earliest Tamil poetry as does *cāṉṟōr ceyyuḷ* 'poetry of the
 noble ones". The *TL* iii 1397 gives the following meanings of
 *cāṉṟōr*: “the warrior, the great, the learned, the noble”, and “the
-poets of the *Caṅkam* period”. In a book of essays, *Aňciṟaittumpi*,
+poets of the *Caṅkam* period”. In a book of essays, *Añciṟaittumpi*,
 on pp. 49-64, M. S. Venkataswamy discussed this word and its
 semantic field and tried to demonstrate that it originally connoted
 "warriors". That may be true: but in the bulk of so-called Sangam

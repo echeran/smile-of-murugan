@@ -48,7 +48,7 @@ as an aid to memory for those who profess devotion to the *cittar*.
 We must, nevertheless, be grateful to the editor for having collected
 the texts and for having them printed in one handy volume.[^gratitude-to-first-editor]
 
-[^first-modern-printings]: *Cittar ňāṉak kōvai*, edited by Mē. Vi. Vēṇukōpālap Piḷḷai, Madras, 1947,
+[^first-modern-printings]: *Cittar ñāṉak kōvai*, edited by Mē. Vi. Vēṇukōpālap Piḷḷai, Madras, 1947,
 2nd ed. 1956. Another recent edition is Aru. Rāmanātaṉ's *Cittar Pāṭalkaḷ,*
 Madras, 1959, 2nd 1963, 3rd 1968.
 
@@ -62,7 +62,7 @@ works of similar kind; on the other hand, it does not contain the texts
 ascribed to some of the traditionally quoted *cittar* like Pōkanātar, Pōtakuru,
 Kōrakkar, Taṉvantiri etc.—There had been other editions earlier, e.g. a
 fairly comprehensive and good edition by Ramalinga Mudaliyar, *Periya*
-*ňāṉak kōvai,* 1899, in 2 vols. The works of individual siddha poets were also
+*ñāṉak kōvai,* 1899, in 2 vols. The works of individual siddha poets were also
 published, cf. e.g. Rajagopala Pillai who in 1915 published a book entitled
 *Tiruveṇkāṭareṉṉum paṭṭtiṉattup piḷḷaiyār carittiva purāṇamum*, *tiruppāṭaṟṟiraṭṭum*
  (British Museum Libr. 14170. dd. 69). A few years ago I
@@ -219,8 +219,8 @@ assumed the name of the ancient, legendary *ṛṣi*, and there exists a
 number of works on medicine and alchemy, but also poetic works,
 ascribed to an Akattiyar.[^multiple-works-of-poetry-medicine-alchemy]
 
-[^akattiyan-ascribed-source]: *Editio* M. V. Venugopala Pillai contains *Akastiyar ňāṉam* I-IV (pp.
-277 ff) and *Akastiyar ňāṉam* V (p. 559).
+[^akattiyan-ascribed-source]: *Editio* M. V. Venugopala Pillai contains *Akastiyar ñāṉam* I-IV (pp.
+277 ff) and *Akastiyar ñāṉam* V (p. 559).
 
 [^potiyil]: Potiyil is the southernmost mountain of the Western Ghats, the Bettigo
 of Ptolemy.
@@ -230,7 +230,7 @@ historical figure is no more than a will o' the wisp but as a tradition he
 wields an influence which is felt in all walks of Tamilian life".
 
 [^multiple-works-of-poetry-medicine-alchemy]: That *this* Agastya was a very late author may be seen from two works
-ascribed to him, *Irunūrṟaňcu* (a medical treatise) and *Pūraṇacūttiram*
+ascribed to him, *Irunūrṟañcu* (a medical treatise) and *Pūraṇacūttiram*
 (alchemy) in which he speaks about syphilis as *paṟaṅkiviyāti* “Frankish
 disease", and about quick-silver as *paṟaṅki paṣaṉam* “Frankish remedy”.
 
@@ -291,7 +291,7 @@ Breathing is of course a most important part of *citta* yoga. Breath,
 Rōma Ṛṣi, one of the classical Siddha therapeutists, as complete
 loss of *prāņa: pirāṇaṉ pōyviṭṭa nilai maraṇam.* On various practices
 of breathing, the Siddhas based their theory and practice of physical
-longevity and even immortality. According to *Rōma riṣi ňāṉam* 13,
+longevity and even immortality. According to *Rōma riṣi ñāṉam* 13,
 a man who is one hundred years old breathes 21,600 times per day.[^age-breathing-math]
 That is, during one hour this healthy centenarian breathes 900 times,
 which will give 15 respirations per minute.[^western-age-breathing-math] The span of life is
@@ -350,7 +350,7 @@ power of changing the course of nature and assuming any form;
 8. *karimā* (Skt. *gariman*) "weight", the power of rendering the
 body immaterial and able to penetrate matter.
 
-According to *Vāṉmīki cūttira ňāṉam* 3, “by purifying the mind
+According to *Vāṉmīki cūttira ñāṉam* 3, “by purifying the mind
 and attaining perfection one becomes a *cittan*; he is indeed fit to
 be called Śiva".[^pure-cittan-as-sivan] A classical definition of the Siddhas is given by
 the great Tirumūlar: "Those who live in yoga and see the divine
@@ -413,7 +413,7 @@ knowledge, without devotion, they are gluttonous and foolish". Cf. also
 [^body-temple]: 1823: *uḷḷam peruṅkōyil un uṭampu ālayam.*
 
 [^tirumular]: Accord. to A. V. Subramania Aiyar, Tirumūlar was probably an advaitic
-vedantin (cf. 116, 1789, 2820), cf. the *pratyabhijňa* school of Kashmir
+vedantin (cf. 116, 1789, 2820), cf. the *pratyabhijña* school of Kashmir
 Śaivism. It is believed that he came to Tamilnad from Kashmir.
 
 In what follows I shall discuss some of the features which are
@@ -440,7 +440,7 @@ are within your minds".
 
 Second, in contrast to *bhakti* which emphasizes passionate
 devotion to God, to the *iṣṭadevatā,* the *cittar* emphasize knowledge
-*(ňāṉam*), yoga practice, and character, moral behaviour, right
+*(ñāṉam*), yoga practice, and character, moral behaviour, right
 conduct. Anger (*kōpam)*, lust (*ācai*), egoism (*akaṅkāram*) are the
 worst sins. According to Akattiyar 7,1, if the mind is in the right
 disposition, it is unnecessary to say prayers.[^right-mind-no-need-prayers]
@@ -607,7 +607,7 @@ Absolute, with *aṟivu*, knowledge. This is, of course, nothing new;
 again we may point back to Tirumūlar who says "Those who say
 that knowledge and *civam* are two (different) things, are ignorant”.
 
-This *aṟivu* or *ňāṉam*[^knowledge] is naturally not the discursive kind of knowledge
+This *aṟivu* or *ñāṉam*[^knowledge] is naturally not the discursive kind of knowledge
 found in the texts:
 
 [^knowledge]: A rather late highly philosophical Siddha text *(Civāṉanta pōtam*) is a
@@ -769,7 +769,7 @@ vileness and egoism.
 >|       this leather bag for rice, this torn sack wrapped in flesh,
 >|       this stinking body, cow-stable of lust,
 >|       and roamed about and begged,
->|       o Ēkampan of Kāňci, Lord!”
+>|       o Ēkampan of Kāñci, Lord!”
 >|       (II. 27)
 
 >|       "The fire says: It is mine. But the worm, too, says: It's mine.
@@ -811,7 +811,7 @@ yoga differ significantly.
 While the early *cittar* are full of confidence and self-respect,
 Paṭṭiṉattār and his disciple, the poet Pattirakiriyar (Bhadragiri,
 who composed the heart-rending *Moaning cry of true wisdom*,
-*Meyňňāṉappulampal*) show a kind of spiritual frustration, a
+*Meyññāṉappulampal*) show a kind of spiritual frustration, a
 passionate longing for peace, even in death, for deliverance, for
 liberation. Their songs are pathetic outcries ending with passionate
 wails; personal God returns, not to the extent we know in classical

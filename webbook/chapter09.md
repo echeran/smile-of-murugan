@@ -159,7 +159,7 @@ book", two basic kinds of compositions: one which is governed by
 restrictions concerning lines and metres, the other which has no
 restrictions.[^ancient-line-metre-restriction-poems] The grammar seems to suggest also the existence of
 narrative poems.[^ancient-narrative-poems] In these literary forms, six kinds of metres were
-employed: *veṇpā*, *āciriyam, kali, vaňci*, *maruḷ* and *paripāṭal.*[^ancient-six-metres]
+employed: *veṇpā*, *āciriyam, kali, vañci*, *maruḷ* and *paripāṭal.*[^ancient-six-metres]
 
 [^ancient-line-metre-restriction-poems]: *Tolk*. *Poruḷ.* 476.
 
@@ -380,7 +380,7 @@ Tamil inscriptions in Brāhmī.
 poems? Is it a "pre-*Caṅkam*” or a “post-*Caṅkam”* work?
 1. The identity of the political and social background of the
 *Tolkāppiyam* and early Tamil classical poetry.
-1. The references (if any), in the *Tolkāppiyam*, to a. Pataňjali, b. Pāṇini, c. *Mānavadharmaśāstra*, d. Kauṭilya's *Arthaśāstra,* e. Bharata's *Nāṭyaśāstra,* f. *Kāmasūtra*.
+1. The references (if any), in the *Tolkāppiyam*, to a. Patañjali, b. Pāṇini, c. *Mānavadharmaśāstra*, d. Kauṭilya's *Arthaśāstra,* e. Bharata's *Nāṭyaśāstra,* f. *Kāmasūtra*.
 1. Inconsistencies among the *sūtras* of the text.
 
 Also, we have to start our investigation of this problem with a
@@ -527,7 +527,7 @@ phonemic shapes in the bardic poetry, e.g. *Tolk. viyar*: *Porunar*. 80
 *Neṭunal.* 30 *āṟu* "river”.
 
 There is a restriction on the occurrence of the palatals in the
-*Tolk*.; according to *sūtras* 62, 64, 65, the palatal *c*, *ň* and *y* cannot be
+*Tolk*.; according to *sūtras* 62, 64, 65, the palatal *c*, *ñ* and *y* cannot be
 followed by *a;* but this restriction is no more valid for the bardic
 poems, in which a number of words occur with the palatals followed
 by *a* (cf. *Puṟ*. 14.9, 56.18, 74.3 and elsewhere).[^words-after-collatikaram] Honorific plurals,
@@ -540,7 +540,7 @@ the third person, cf. *Tolk*. 512, 513) are no longer valid in the
 prescribed in *Tolk*., is relaxed in “*Caṅkam”* works. The restriction
 of the *viyaṅkōl.* “implied command", to the third person, is not
 valid for bardic texts (*Tolk*. 711). There had also been some semantic
-shift, e.g. *tuňcal* in *Tolk*. *Poruḷ*. 260 means "to sleep", while in
+shift, e.g. *tuñcal* in *Tolk*. *Poruḷ*. 260 means "to sleep", while in
 *Patiṟ*. 72 it means “to die”; *kavarvu* "to desire" *(Tolk*. *Col.* 362)
 means “to eat" in *Paṭṭiṉap*. 22. According to *Tolk*. *Col.* 269, el
 means "light", in *Malaipaṭuk*. 416 it means "night”.
@@ -590,7 +590,7 @@ Patañjali on the *sūtras* of Pāṇini and the *vārttikas* of Kātyāyana).
 
 S. Vaiyapuri Pillai also points to Tolkāppiyaṉ using the term
 *ilakkaṇam* <Pkt. *lakhana-*, Skt. *lakṣaṇa-* in the sense of "grammar”;
-this, he says, was first introduced by Pataňjali (cf. *HTLL,* p. 49).[^grammar-etymology]
+this, he says, was first introduced by Patañjali (cf. *HTLL,* p. 49).[^grammar-etymology]
 
 [^grammar-etymology]: Cf. *Tolk. Col.* 27. Before Patañjali, only the term *vyākaraṇa-* was used to
 denote "grammar". Cf. also Tolkāppiyaṉ's use of the loan-translation *kuṟi*
@@ -656,7 +656,7 @@ Sanskrit treatise.[^Nāṭyaśāstra]
 [^Nāṭyaśāstra]: P. R. Bhandarkar, *Indian Antiquary* 41 (1912) 158. The two texts in
 question run as follows: \
 *śṛngāra hāsya karuṇā raudra vīra bhayānakāḥ* \
-*bībhatsādbhuta saṃjňau cētya nāṭyerasāḥ smṛtāḥ* \
+*bībhatsādbhuta saṃjñau cētya nāṭyerasāḥ smṛtāḥ* \
 \ \ \ \ \ \ \ (*Nāṭyaś*. VI. 15) \
 *nakaiyē yaḻukai yiḷivaraṉ maruṭkai* \
 *yaccam perumitam vekuḷi yuvakaiyeṉ* \

@@ -21,7 +21,7 @@ great poetic splendour and grace of the original.
 
 [^russian-translation]: by J. J. Glazov, *Povest' o braslete*, Moskva, 1966.
 
-[^czech-translation]: *Píseň o klenotu-Silappadigáram*, transl. by Kamil Zvelebil, Praha,
+[^czech-translation]: *Píseñ o klenotu-Silappadigáram*, transl. by Kamil Zvelebil, Praha,
 *SNKL*, 1965. It took me ten years to translate the text and reshape it in
 Czech verse.
 
@@ -320,7 +320,7 @@ Kaṇṇaki then turns west to the land of the Cheras where Kōvalaṉ,
 in a divine chariot, meets her on a mountain and they are received
 into heaven.
 
-A temple to Kaṇṇaki is built in Vaňci, the Chera capital. Ceṅkuṭṭuvaṉ,
+A temple to Kaṇṇaki is built in Vañci, the Chera capital. Ceṅkuṭṭuvaṉ,
 the powerful *Cēral* king, has the stone for carving her
 image brought down all the way from the Himalayas on the
 shoulders and heads of conquered arya kings. Kaṇṇaki comes back

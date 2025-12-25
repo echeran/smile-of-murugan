@@ -31,7 +31,7 @@ one-sided affair and the mismatched relationship.
 
 The anthology has 150 poems in the *kali* metre. The first poem is
 an invocation to Śiva, and the rest are love-poems divided into the
-five traditional divisions: 35 stanzas about *pālai*, 29 about *kuṟiňci,*
+five traditional divisions: 35 stanzas about *pālai*, 29 about *kuṟiñci,*
 33 songs on *neytal.*[^peruntinai-kaikkilai] The compiler of the anthology was a certain
 Nallantuvaṉār, supposed to be the author of the *neytal* portion,
 and there exists a detailed and excellent commentary by Nacciṉārkkiṉiyar
@@ -54,12 +54,12 @@ A very strong evidence points to the fact that the poems of
 anthologies, roughly between the 5th-7th Cent. A.D.
 
 First, the form, the metre, the structure of the poems, when
-compared with the *akaval* and *vaňci* stanzas of early classical
+compared with the *akaval* and *vañci* stanzas of early classical
 poetry, display further development; the *kali* metre itself appears
 to have been a later development; the *kali* stanza seems to be a
 combination and a development of the *āciriyam* and the *veṇpā.* It
 can hardly be denied that the *kali*-metre and the *kali*-stanza is
-later, historically younger than the *akaval* (and *vaňci*).
+later, historically younger than the *akaval* (and *vañci*).
 
 There are new structural elements in the *kali* stanzas: *dialogues*
 which sometimes look like “a one-act play in miniature" (C. and
@@ -212,7 +212,7 @@ individual authorship of the whole collection (granted even the
 over-all uniformity and homogeneity of the bardic poetry). On the
 other hand, a rather late *veṇpā* quatrain[^ilakkiya-tipam] exists which ascribes the
 five divisions of the anthology to five "Sangam" poets: *pālai* to
-Peruṅkaṭuṅkōṉ, *kuṟiňci* to the great Kapilar, *marutam* to Marutaṉ
+Peruṅkaṭuṅkōṉ, *kuṟiñci* to the great Kapilar, *marutam* to Marutaṉ
 Iḷanākaṉār, *mullai* to Cōḻaṉ Nalluruttiraṉ and *neytal* to Nallantuvaṉār
 the Compiler. The *veṇpā* itself is not found in any manuscript of
 the text, and is unknown to the commentator; its veracity may be

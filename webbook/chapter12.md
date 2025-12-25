@@ -339,7 +339,7 @@ Only they are filled with the feeling of wonderful freedom. They
 have one master alone—Śiva; they are "slaves" (*aṭiyār*), “servants”
  *(toṇṭar*) but also comrades and companions *(tōḻar*) of Śiva.
 In an admirable hymn typical of this feeling of freedom, Appar
-sings: *nāmārkkum kuṭi yalōm namaṉai yaňcōm* “We are subjects to
+sings: *nāmārkkum kuṭi yalōm namaṉai yañcōm* “We are subjects to
 no one; we do not fear death... It's joy for us through life, not
 pain!" Towards each other, they, too, are "slaves” and “servants":
 *aṭiyārkkum aṭiyēṉ,* “I am the servants' servant",
@@ -401,7 +401,7 @@ Jains their great merit of cultivating Tamil learning. Cuntarar,
 too, speaks of the Jains and Buddhists with contempt and ridicule:
 thus, in his hymn 33.9, he mentions the “shameless Jains, jeering
 at everyone, who recite the (meaningless) sounds *ñamaṇa ñānaṇa*
-*ňāṇa ňōṇam*." Toṇṭaraṭiyāḻvār, a Vaiṣṇava saint, condemns, too,
+*ñāṇa ñōṇam*." Toṇṭaraṭiyāḻvār, a Vaiṣṇava saint, condemns, too,
 the Buddhists and Jains and speaks of them as of "untouchables".[^buddhists-jains-untouchables]
 Even the great Periyāḻvār of whom it was said that "his poems show
 no hatred of other religions" (M. S. Purnalingam Pillai), cries out:
@@ -705,7 +705,7 @@ vision seems to anticipate the most typical features of the poetry
 of the *Cittar* and of Tāyumāṉavar.
 
 One of his best-known poems begins with the line *nāmārkum*
-*kuṭiyallōm namaṉai yaňcōm.*[^tirvacakam-structure]
+*kuṭiyallōm namaṉai yañcōm.*[^tirvacakam-structure]
 
 >|       To none are we subject!
 >|       Death we do not fear!

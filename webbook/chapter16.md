@@ -465,7 +465,7 @@ and learned. Occasionally, his commentary reads itself like a learned
 epic poem.
 
 Parimēlaḻakar (2nd half of the 13th—1st half of the 14th Cent.),
-a Brahmin of Kāňcipuram, is considered by many the "prince" of
+a Brahmin of Kāñcipuram, is considered by many the "prince" of
 Tamil commentators. According to V. V. S. Aiyar (*op. cit.* 42), “his
 prose is very terse and in some places too brief to be easily
 intelligible ... Like the style of the great poet whose work he had
@@ -556,7 +556,7 @@ commentaries was still kept alive, and the greatest literary personality
 from the *mutts,* the monasteries, Civañāṉa Muṉivar († 1785),
 was a great commentator-probably a greater commentator and
 prose-writer than a poet. It is especially his monumental commentary
-on *Civaňāṉapōtam* which contains his best prose-passages.
+on *Civañāṉapōtam* which contains his best prose-passages.
 
 And so we come to those "makers of modern Tamil", already
 mentioned, who were directly indebted, in their prose-writings, to
@@ -724,7 +724,7 @@ to *Tolkāppiyam* by Paṉampāraṉār.
 >|       glorious and land-bestowing.
 
 
-[^venkatam-tirupati]: Ta. *vaṭavēňkaṭam*, i.e. probably the modern Tirupati north of
+[^venkatam-tirupati]: Ta. *vaṭavēñkaṭam*, i.e. probably the modern Tirupati north of
 Madras, a place which has been always considered the northern
 boundary of Tamiḻnāṭu
 

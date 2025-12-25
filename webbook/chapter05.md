@@ -3,7 +3,7 @@
 *The Metre*
 
 The entire corpus of earlier classical poetry is composed in two
-metres: [^classical-prosody] *akaval* and *vaňci*.
+metres: [^classical-prosody] *akaval* and *vañci*.
 
 The basic metrical unit [^metrical-unit] is the *acai,* [^acai] which is of two types: the
 *nēr* and the *nirai*. The *nēr* is a simple metrical unit, long or short,
@@ -57,14 +57,14 @@ In the *akaval* or *āciriyam* metre, the standard line has four feet
 (= eight *acai*). Only the penultimate line consists of three feet.
 Elsewhere, a three-feet line is exceptional.[^three-feet-line]
 
-The *vaňci* metre (which occasionally occurs with the *akaval* in the
+The *vañci* metre (which occasionally occurs with the *akaval* in the
 songs of the *Pattuppāṭṭu* anthology) has a somewhat different
-scheme. The *vaňci* foot is made of three *acais*, e.g.
+scheme. The *vañci* foot is made of three *acais*, e.g.
 — = —
 *nērnirainēr*.
 The possible combinations of the four *acais* are sixty for the
-*vaňcippā*. The usual *vaňci* line has two feet, so that it usually has
-six *acais*. The last line in a *vaňci* stanza may be in *akaval*.
+*vañcippā*. The usual *vañci* line has two feet, so that it usually has
+six *acais*. The last line in a *vañci* stanza may be in *akaval*.
 
 The next (and for our purposes the final) important concept to
 discuss is the *toṭai*, lit. “connexion, joining”, “fastening, tying”,
@@ -188,7 +188,7 @@ ill-matched love. Our poem belongs to the genre of well-matched
 love (see detailed discussion later). *Akam* proper is subdivided into
 five erotic situations, five phases of love, which are matched with
 the physiographic regions; these are the five *tiṇais*. Our *tiṇai* is
-called *kuṟiňci* or "lovers union", appropriate to the mountainous
+called *kuṟiñci* or "lovers union", appropriate to the mountainous
 region.
 
 How can we tell?
@@ -211,11 +211,11 @@ First, there are some elements of the so-called *karupporuḷ* present
 here, i.e. of "things born" or "native": the strata of *karupporuḷ* is
 represented by the "snake" (*aravu*) and by the "jungle elephant"
 (*kāṉa yāṉai*); that is by the beasts typical for the mountainous
-region (*kuṟiňci*). The word *kāṉam* "jungle, forest" also belongs to
+region (*kuṟiñci*). The word *kāṉam* "jungle, forest" also belongs to
 this strata. As far as the *uripporuḷ* is concerned, or the strata which
 deals with human situations and feelings, the key-word is *aṇaṅku*
 "trouble"; "be troubled, afflicted, suffer pain", "afflict"—a feeling
-typical again for the *kuṟiňci* situation. The "troubles" or "sufferings
+typical again for the *kuṟiñci* situation. The "troubles" or "sufferings
 of love" belong to the characteristic behavioural features of the
 "mountain-poetry" (union of lovers). There are no other elements
 of conventions present in the poem; but these four catch-words or
@@ -267,7 +267,7 @@ Tēvakulattār. First the original Tamil text again:
 >|       is this love for this man
 >|           of the mountain slopes
 >|           where bees make rich honey
->|           from the flowers of the *kuṟiňci*
+>|           from the flowers of the *kuṟiñci*
 >|           that has such black stalks.
 >| 
 >|       ---
@@ -299,7 +299,7 @@ with the concrete representations of the five-fold physiographic
 regions: in *Kur*. 119, we have in those lines the snake and the
 elephant; in this stanza, we have in the first 2 lines the earth, the
 sky, the waters, the mountain-slopes, and the 3rd line, too, is filled
-with the *karupporuḷ* material: the black-stalked *kuṟiňci* flowers.
+with the *karupporuḷ* material: the black-stalked *kuṟiñci* flowers.
 The second part, usually shorter (in a 4-line stanza it usually begins
 in the penultimate 3-feet line, or sometimes only in the very last line)
 contains the substance of the poem, its essence (*uripporuḷ*), the
@@ -321,7 +321,7 @@ of the *pointe*. But always, in the best stanzas of the collections
 striving after a perfect and extremely potent and effective *form*.
 
 The genre of *Kur.* 3 is *akam* or love, clearly well-matched love or
-*akam* proper; the basic theme—*tiṇai*—is *kuṟiňci* or lover's union.
+*akam* proper; the basic theme—*tiṇai*—is *kuṟiñci* or lover's union.
 The time-space continuum is not explicitly given in this poem;
 neither is it implicit in some suggestion or other. However, according
 to some interpretations, the main components of the place or
@@ -334,14 +334,14 @@ gods, but the term *nāṭaṉ* for the lover; this is a specific term used
 for the chief of the mountain-tribe, so that this in itself provides the
 clue for the *tiṇai*; second, among the birds and beasts and insects,
 we have, implicitly, the bees, in the sphere of flora we have the
-*kuṟiňci* flower, and honey which stands for the bees, being the
+*kuṟiñci* flower, and honey which stands for the bees, being the
 typical conventional apparatus of the "mountain-poetry". The
 *uripporuḷ* or the psychological essence is represented by the word
 *naṭpu* "love". According to some commentaries, the attributes
 *karuṅkōl* "black-stalked" and *peruntēn* "rich honey" belong to
 so-called *iṟaicci* or suggestion (or inference) in form of some additional
 material, as qualifier or adjunct to some basic concept: the
-*kuṟiňci* flowers with black stalks stand for the woman in love; the
+*kuṟiñci* flowers with black stalks stand for the woman in love; the
 bees gathering honey from these flowers are supposed to stand for
 the man's action of gathering sweetness from the pleasure of the
 lover's union. As in the previous poem, the comparison is explicit,
@@ -370,16 +370,16 @@ love. The *tiṇai* is a mixed one; and this is no chance, nor
 an error on the part of the poet. How do we know it is a mixed
 "poetic situation"? As far as the time-space continuum is concerned,
 the poem mentions explicitly "early frost" (this comes under
-*kālam*, time): “early dew" is typical for *kuṟiňci* or “lover's union".
+*kālam*, time): “early dew" is typical for *kuṟiñci* or “lover's union".
 Now to the "things native" or "concrete representations": the
 bird mentioned is the jungle hen, typical for *mullai* or forest,
 appropriate to "patient waiting" in terms of the phases of love;
 the beast mentioned is the deer, again typical for *mullai* or the
 "patient waiting" situation. The "bean" also belongs to *mullai*.
 The *uripporuḷ* or essential human feeling is defined as "memory and
-desire": that is, “memory of lovers' union" (*kuriňci*) and “desire of
+desire": that is, “memory of lovers' union" (*kuriñci*) and “desire of
 patient waiting" (*mullai*): the *tiṇai* of this poem, the “situation" is
-thus *kuṟiňci + mullai*, a *mixed tiṇai*, a mixed situation. There is,
+thus *kuṟiñci + mullai*, a *mixed tiṇai*, a mixed situation. There is,
 again, an explicit comparison present (the pink root of the bean
 compared to the leg of the jungle hen). But there is also suggestion
 and inference in this stanza: the bare root of the bean, pink and
@@ -404,7 +404,7 @@ RANDOM READER OF *akam* AND *puṟam* POEMS
 
 1. *akam*
 2. *well*-*matched*
-3. *tiṇai: kuṟiňci*
+3. *tiṇai: kuṟiñci*
     1. *mutal: Ø*
     2. *karu:* gods: Ø
         * nature: human: Ø
@@ -427,7 +427,7 @@ RANDOM READER OF *akam* AND *puṟam* POEMS
 >|       is this love for this man
 >|           of the mountain slopes
 >|           where bees make rich honey
->|           from the flowers of the *kuṟiňci*
+>|           from the flowers of the *kuṟiñci*
 >|           that has such black stalks.
 >|       
 >|       ---
@@ -435,7 +435,7 @@ RANDOM READER OF *akam* AND *puṟam* POEMS
 
 1. *akam*
 2. *well-matched*
-3. *tiṇai*: kuṟiňci*
+3. *tiṇai*: kuṟiñci*
    1. *mutal: kālam* (time): ø \
     *nilam* (place): *earth, sky, water*
    2. *karu*: gods: Ø
@@ -444,7 +444,7 @@ RANDOM READER OF *akam* AND *puṟam* POEMS
             * non-human:
                 * animate: (bees, implicit)
                 * inanimate:
-                    * *kuṟiňci flowers*
+                    * *kuṟiñci flowers*
                     * *honey*
                     * *mountain-slopes*
    3. *uri*: *love*
@@ -466,8 +466,8 @@ RANDOM READER OF *akam* AND *puṟam* POEMS
 
 1. *akam*
 2. *well-matched*
-3. *tiṇai*: mixed *kuṟiňci-mullai*
-    1. *mutal: kalam*: *early dew* (*kuṟiňci*) \
+3. *tiṇai*: mixed *kuṟiñci-mullai*
+    1. *mutal: kalam*: *early dew* (*kuṟiñci*) \
         *nilam*: Ø
     2. *karu*: gods: Ø
         * nature:
@@ -494,7 +494,7 @@ RANDOM READER OF *akam* AND *puṟam* POEMS
 >|
 >|       ---
 >|       Author: Anonymous (*"Cempulapeyalnīrār”*)
->|       *Tiṇai*: *kuṟiňci*
+>|       *Tiṇai*: *kuṟiñci*
 >|       Transl.: K. Zvelebil
 
 *Kuṟuntokai* 2
@@ -507,7 +507,7 @@ RANDOM READER OF *akam* AND *puṟam* POEMS
 >|
 >|       ---
 >|       Author: Iṟaiyaṉār
->|       *Tiṇai*: *kuṟiňci*
+>|       *Tiṇai*: *kuṟiñci*
 >|       Transl.: J. R. Marr
 
 *Kuṟuntokai* 131
@@ -531,7 +531,7 @@ RANDOM READER OF *akam* AND *puṟam* POEMS
 >|
 >|       ---
 >|       Author: Anonymous (*"Ōrēruḻavaṉār"*)
->|       *Tiṇai*: kuṟiňci - *mullai*
+>|       *Tiṇai*: kuṟiñci - *mullai*
 >|       Transl. S. Kokilam
 
 *Aiṅkuṟunūṟu* 409
@@ -860,7 +860,7 @@ Naṟṟiṇai 149
 >|
 >|       ---
 >|       Author: Maturai Marutaṉiḷanākaṉār
->|       *Tiṇai*: *kāňci*
+>|       *Tiṇai*: *kāñci*
 >|       Transl. A. K. Ramanujan
 
 *Puṟanāṉūṟu* 223
@@ -960,7 +960,7 @@ Tamil text:
 >|        *tāṉatu poyppiṉ yāṉevaṉceykō*
 >|        *tiṉaittā ḷaṉṉa ciṟupacuṅ kāla*
 >|        *oḻukunī rāral pārkkum*
->|        *kuruku muṇṭutāṉ maṇanta ňāṉṟē*
+>|        *kuruku muṇṭutāṉ maṇanta ñāṉṟē*
 >|        
 >|        ---
 >|        *Kuṟuntokai* 25

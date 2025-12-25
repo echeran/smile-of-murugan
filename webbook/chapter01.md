@@ -223,7 +223,7 @@ show that the traditions and the emotional and intellectual background
 of Śrī Rāmānuja were identical with the environments which
 produced the great Tamil Vaiṣṇava Āḻvārs. Rāmānuja was a Tamil
 Brahmin born at Śrīperumpūtūr near Madras in 1018, and had his
-early philosophical training at Kāňcipuram, but built up his
+early philosophical training at Kāñcipuram, but built up his
 philosophy of qualified monism in Śrīraṅkam, and travelled
 throughout India to propagate his ideas. The important fact is that
 Rāmānuja followed, in the evolvement of his philosophy, Yamunācārya
@@ -257,7 +257,7 @@ Among the most interesting dramatic compositions coming from the
 Tamil South are the two unique farces (*prahasanas*)*, Mattavilāsa* and
 *Bhagavadajjuka,* written by that immensely attractive figure in
 South Indian history, the “curious-minded” Mahendravarman the
-First of Kāňci.
+First of Kāñci.
 
 In the domain of Vedānta, all the three major schools had their
 origin in the South: Śaṅkara (born in 788 at Kaladi in North

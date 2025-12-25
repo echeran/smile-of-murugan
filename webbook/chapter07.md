@@ -94,7 +94,7 @@ strong hand of the monsoon-rain" may be recognized in *Ciṟupāṇ.* 124
 *Uvam*. 11 and 14, Pērāciriyar's comm., cf. also *Puṟ*. 54.6-7), and
 even in such medieval texts like *Cīvakacintāmaṇi* 2779 (*maḻai*
 *taḻīiya kaiyāy*). Or, the formula *uḷḷi ṉuḷḷam vēmē* (*Kuṟ*. 102.1, and
-elsewhere) reappears in *Tirukkuṟaḷ* 1207 *uḷḷiņu muḷḷaň cuṭum* and
+elsewhere) reappears in *Tirukkuṟaḷ* 1207 *uḷḷiņu muḷḷañ cuṭum* and
 much later in Kampaṇ's *Rām. Tāṭakaip*. 5 (*karutin* vēm *uḷḷamum).*
 
 Some of the formulae seem to be echoes of colloquial utterances,
@@ -118,7 +118,7 @@ situation (there are hundreds and hundreds of formulae but only
 fourteen basic poetic situations accord. to *Tolk*. *Poruḷ*.). To quote an
 instance: in *Kuṟ*. 190, the poetic situation (*tiṇai*) can be characterized
 as *mullai* “separation and patient waiting", mixed with
-*kuṟiňci* "desire". Next in the hierarchy comes the theme *(tuṟai*)
+*kuṟiñci* "desire". Next in the hierarchy comes the theme *(tuṟai*)
 (also enclosing the entire stanza; but, under each *tiṇai* there are
 several decades of themes)[^theme-turai] which is, in our particular instance,
 "what the heroine, unable to bear separation, said to her girl-friend".
@@ -328,7 +328,7 @@ are probably older than poems which bear traces or elements of
 reflection and philosophy;
 3) didactic and philosophical poems with an undertone of
 pessimism are probably rather late;
-4) certain situations and themes (like *kāňci* and *vākai* in the
+4) certain situations and themes (like *kāñci* and *vākai* in the
 *puṟam* genre and *kaikkiḷai* and *peruntiṇai* in the *akam* genre) are
 probably later.
 

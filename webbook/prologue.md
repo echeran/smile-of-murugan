@@ -138,7 +138,7 @@ arouse interest and to provoke discussion.
 | Ma.               | Malayalam                                                                    |
 | *Malaipatuk*.     | *Malaipaṭukaṭām*                                                             |
 | *Mānav*.          | *Mānavadharmaśāstra*                                                         |
-| *Maturaik*.       | *Maturaikkāňci*                                                              |
+| *Maturaik*.       | *Maturaikkāñci*                                                              |
 | *Meyp*.           | *Meyppāṭṭiyal*                                                               |
 | *Mullaip*.        | *Mullaippāṭṭu*                                                               |
 | Nacciņārk.        | Nacciṉārkkiṉiyar                                                             |

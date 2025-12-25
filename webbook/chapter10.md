@@ -827,7 +827,7 @@ the list is reproduced here *in toto.*
 129. *mīṉ* (931) 
 130. *mukam* (90) 
 131. *yāmam* (1136) 
-132. *vaňcam* (271) 
+132. *vañcam* (271) 
 133. *vaṇṇam* (561) 
 134. *vaḷai* (1157) 
 135. *vaḷḷi* (1304) 

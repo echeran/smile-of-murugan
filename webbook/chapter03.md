@@ -299,9 +299,9 @@ nine *pāṭṭus* or lays of *Pattuppāṭṭu*.
 3. *Ciṟupāṇāṟṟuppaṭai* "The guide for the bards with the small lute"
 4. *Perumpāṇāṟṟuppaṭai* "The guide for the bards with the large lute"
 5. *Mullaippāṭṭu* "The song about the forest (life)"
-6. *Maturaikkāňci* "The reflection on Maturai"
+6. *Maturaikkāñci* "The reflection on Maturai"
 7. *Neṭunalvāṭai* "The good long northern wind"
-8. *Kuṟiňcippāṭṭu* "The song about the hills"
+8. *Kuṟiñcippāṭṭu* "The song about the hills"
 9. *Paṭṭiṉappalai* "(The poem about) separation (and about) the city"
 10. *Malaipaṭukaṭām* "(The poem of the sound) *kaṭām* pertaining to the
 mountains"
@@ -489,7 +489,7 @@ evidence for the dating of the earliest literature of the Tamils.
 
 Let us first consider the purely historical correlations. According
 to G. Jouveau-Dubreuil (*The Pallavas*, 1917, p. 10), the beginnings
-of the Pallava dynasty of Kāňci is to be dated sometime in the
+of the Pallava dynasty of Kāñci is to be dated sometime in the
 first half of the 3rd Cent. A.D. In the 6th and 7th Cent. A.D. the
 Pallavas were one of the most powerful and important South Indian
 dynasties. The first important Tamil Pallava inscription may be
@@ -758,11 +758,11 @@ names occur in these epigraphs, with the heroes of poems from
 Tamil-Brāhmī Inscription (dated with the help of the Arikamedu
 *graffiti*) became another sheet-anchor of the early Tamil chronology. \
  \
-c) The two rock inscriptions of Neṭuňceḻiyaṉ found at Mangulam
+c) The two rock inscriptions of Neṭuñceḻiyaṉ found at Mangulam
 near Madurai are the earliest known historical records in Tamilnad.
 The archaic palaeography and the linguistic features of these
 inscriptions indicate an earlier date than the Arikamedu *graffiti.*
-They can be dated towards the close of the 2nd Cent. B.C. Neṭuňceḻiyaṉ
+They can be dated towards the close of the 2nd Cent. B.C. Neṭuñceḻiyaṉ
 was probably the ruling king of the day (who should not be
 identified with his namesake of Cilappatikāram and other so-called
 *Caṅkam* works!). The end of the 2nd Cent. B.C. seems to be the
@@ -819,10 +819,10 @@ possible chronological order:
     a. *Porunarāṟṟuppaṭai*
     b. *Perumpāṇāṟṟuppaṭai*
     c. *Paṭṭiṉappālai*
-    d. *Kuṟiňcippāṭṭu*
+    d. *Kuṟiñcippāṭṭu*
     e. *Malaipaṭukaṭām*
     f. *Neṭuṉalvāṭai*
-    g. *Maturaikkāňci*
+    g. *Maturaikkāñci*
     h. *Mullaippāṭṭu*
     i. *Ciṟupāṇāṟṟuppaṭai*
 
@@ -830,12 +830,12 @@ possible chronological order:
 
 | Serial Number | Text                                                                                                                                                                      | Details                                                                                                                                                                                                                                                                                                                                          | Aprox. Date                                     |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- |
-| 1             | Early Tamil Brāhmī Inscriptions.                                                                                                                                          | The two rock-inscriptions of Neṭuňceḻiyaṉ at Mangulam. Aśoka's Brāhmī introduced round ca. 250 B.C. into the Tamil country. Adapted between 250-220 to Tamil.                                                                                                                                                                                    | 3th-1st Cent. B.C.                              |
+| 1             | Early Tamil Brāhmī Inscriptions.                                                                                                                                          | The two rock-inscriptions of Neṭuñceḻiyaṉ at Mangulam. Aśoka's Brāhmī introduced round ca. 250 B.C. into the Tamil country. Adapted between 250-220 to Tamil.                                                                                                                                                                                    | 3th-1st Cent. B.C.                              |
 | 2             | *Ur-Tolkāppiyam*: *Eḻuttatikāram* and *Collatikāram* minus later interpolations.                                                                                          | First standardization of the Tamil language; the first literary norm of Maturai between ca. 200-50 B.C., based on oral bardic literature, pre-literary traditions and "pre-Sangam" literature of ca. 250-150 B.C.                                                                                                                                | 2nd-1st Cent. B.C.                              |
 | 3             | The earliest strata of extant Tamil literature in the Anthologies: early poems of *Aiṅkuṟunūṟu,* *Kuṟuntokai* and *Naṟṟiṇai,* prob. also of *Puṟanāṉūṟu* and *Akanāṉūṟu*. | Earliest "Sangam" poets: Ammūvan (*Ak.* 10, 35, 140 etc., *Aiṅk*. 101-102, *Kuṟ.* 49, 125, 163 etc., *Naṟ.* 4, 35 etc.), Ōtalāntai (*Aiṅk*. 301-400, *Kuṟ*. 12, 21, 329), Ōrampōki (*Ak.* 286, 316, *Aiṅk*. 1-100, *Kuṟ.* 10, 70, 122 etc., *Naṟ*. 20, 360, *Puṟ*. 284), Kapilar the Elder *(Aiṅk*. 201-300 etc.), Pēyaṉ (*Aiṅk.* 401-500 etc.). | 1st Cent. B.C.-2nd A.D.                         |
 | 4             | Arikamedu *graffiti* and the related group of Tamil Brāhmī Inscriptions at Ãṉaimalai etc.<br><br>The Śātavāhana bilingual coin.                                           |                                                                                                                                                                                                                                                                                                                                                  | 1st-2nd Cent. A.D.<br><br>Ca. 150-200 A.D.      |
-| 5             | The earliest strata in the *Pattuppāṭṭu* anthology: *Porunarāṟṟuppaṭai*, *Perumpāṇāṟṟuppaṭai*, *Paṭṭiṉappālai,* *Kuṟiňcippāṭṭu.*                                          | Kapilar the Elder, Mutattāmakkaṇṇi, Kaṭiyalūr Uruttiraṉ Kaṇṇaṉ.                                                                                                                                                                                                                                                                                  | 2nd-3rd Cent. A.D.                              |
-| 6             | The middle strata of the Anthologies: *Aiṅkuṟunūṟu*, *Kuṟuntokai*, *Naṟṟiṇai*, *Patiṟṟuppattu*, *Akanāṉūṟu*, *Puṟanāṉūṟu*. *Malaipaṭukaṭām*, *Maturaikkāňci*, *Neṭunalvāṭai*.         | E.g. Paraṇar (150-230 A.D.),  Nakkīrar the First, Māṅkuṭimarutaṉ.                                                                                                                                                                                                                                                                                | 2nd-4th Cent. A.D.                              |
+| 5             | The earliest strata in the *Pattuppāṭṭu* anthology: *Porunarāṟṟuppaṭai*, *Perumpāṇāṟṟuppaṭai*, *Paṭṭiṉappālai,* *Kuṟiñcippāṭṭu.*                                          | Kapilar the Elder, Mutattāmakkaṇṇi, Kaṭiyalūr Uruttiraṉ Kaṇṇaṉ.                                                                                                                                                                                                                                                                                  | 2nd-3rd Cent. A.D.                              |
+| 6             | The middle strata of the Anthologies: *Aiṅkuṟunūṟu*, *Kuṟuntokai*, *Naṟṟiṇai*, *Patiṟṟuppattu*, *Akanāṉūṟu*, *Puṟanāṉūṟu*. *Malaipaṭukaṭām*, *Maturaikkāñci*, *Neṭunalvāṭai*.         | E.g. Paraṇar (150-230 A.D.),  Nakkīrar the First, Māṅkuṭimarutaṉ.                                                                                                                                                                                                                                                                                | 2nd-4th Cent. A.D.                              |
 | 7             | Late Tamil Brāhmī Inscriptions: the *Cēral* inscriptions at Pukalūr etc.                                                                                                  | Later inscriptions from Araccalūr, Māmaṇṭūr etc.                                                                                                                                                                                                                                                                                                 | 3rd-4th Cent. A.D.                              |
 | 8             | Later strata of the Anthologies *Patiṟṟuppattu*, *Akanāṉūṟu*, *Puṟanāṉūṟu*, *Mullaippāṭṭu*, *Ciṟupāṇāṟṟuppaṭai*.                                                              | E.g. Nappūtaṉār, Nallūr Nattattaṉār.                                                                                                                                                                                                                                                                                                             | 3rd-5th Cent. A.D.                              |
 | 9             | Transitional Tamil Brāhmī (Proto-*vaṭṭeḻuttu*) Inscriptions at Piḷḷaiyārpaṭṭi and Tirunātarkuṉṛam.                                                                        |                                                                                                                                                                                                                                                                                                                                                  | 5th-6th Cent. A.D.                              |

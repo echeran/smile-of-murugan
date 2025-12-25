@@ -51,7 +51,7 @@ But in the next stanza
 
 >|       *tīpa maṅkaḷa cōtī *namōnama*
 >|       *tūya ampala līlā namōnama*
->|       *tēva kuňcara pākā namōnama*
+>|       *tēva kuñcara pākā namōnama*
 >|               *aruḷtārāy*
 
 there is less than 30% of Tamil items and more than 70% of
