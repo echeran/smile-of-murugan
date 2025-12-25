@@ -1,11 +1,11 @@
 # The "New Poetry"
 
 The term New Poetry is used here in a limited and technical sense
-of the Tamil expression putuk kavitai or *putiyak* kavitai, i.e. for
+of the Tamil expression *putuk kavitai* or *putiyak kavitai*, i.e. for
 the works of a particular group of "new poets" who made their
 appearance approximately after 1958-59, and whose poems were
 collectively published for the first time in October 1962 in a slender
-yet path-breaking volume entitled *Putukkuralkaļ* "New Voices". It
+yet path-breaking volume entitled *Putukkuralkaḷ* "New Voices". It
 is therefore not used for post-Bharati Tamil poetry, not even for
 post-Bharatidasan Tamil poetry. I do not deal in this chapter with
 such influential modern poets as S. D. S. Yogi, not even with some
@@ -48,9 +48,9 @@ with French, English, American etc. modern poetry.
 hitherto ignored *sujets*. If traditional subjects are handled,
 they are treated from a new, non-traditional angle and point of view.
 
-The beginnings of “new poetry"-if we disregard a somewhat
+The beginnings of “new poetry"—if we disregard a somewhat
 similar intellectual and emotional milieu of some of the Siddhar
-poems may be found in Subrahmanya Bharati's (1882-1921)
+poems—may be found in Subrahmanya Bharati's (1882-1921)
 works, in his "prose-poetry" as well as in a few stray poems which
 are very striking from the point of view of form and content.
 Incidentally, Bharati considered himself to be a spiritual descendent
@@ -76,39 +76,39 @@ the decade of 1910-1920. Consider e.g. lines like these:
 ![The names are only representative of larger groups of authors.](img/page-315-bharati-inspired-poets.png){#fig-bharati-inspired}
 
 
-One of the most amazing poems of Bharati is *Ūļikkūttu* or “The
+One of the most amazing poems of Bharati is *Ūḻikkūttu* or “The
 Dance of Doom" which I quote here in a good though not quite
 equivalent (partial) translation by Prema Nandakumar (op. cit. 86).
 
 >|       As the worlds mightily clash
->|       And crash in resounding thunder,
+>|           And crash in resounding thunder,
 >|       As blood-dripping demon-spirits
->|       Sing in glee amid the general ruin,
+>|           Sing in glee amid the general ruin,
 >|       To the beat and the tune
->|       Leapest thou, Mother, in dance ecstatic
+>|           Leapest thou, Mother, in dance ecstatic
 >|       Dread Mahakali!
->|       Chamundi! Gangali!
+>|           Chamundi! Gangali!
 >|       Mother, Mother,
->|       Thou hast drawn me
->|       To see thee dance!
+>|           Thou hast drawn me
+>|           To see thee dance!
 >|      
 >|       When the demon-hosts clash
->|       Hitting head against head,
+>|           Hitting head against head,
 >|       When the knocking and breaking
->|       Beat rhythmic time,
+>|           Beat rhythmic time,
 >|       When the sparks from your eyes
->|       Reach the ends of the earth,
+>|           Reach the ends of the earth,
 >|       Then is the doomed hour
->|       Of universal death!
+>|           Of universal death!
 >|       
 >|       When Time and the three worlds
 >|       Have been cast in a ruinous heap,
 >|       When the frenzy has ceased
->|       And a lone splendour has wakened,
+>|           And a lone splendour has wakened,
 >|       Then auspicious Siva appears
->|       To quench thy terrible thirst.
+>|           To quench thy terrible thirst.
 >|       Now thou smilest and treadst with him
->|       The blissful Dance of Life!
+>|           The blissful Dance of Life!
 
 
 After Bharati, it was the versatile Putumaippitan (1906-1948)
@@ -132,18 +132,18 @@ himself a good prose-writer and poet, and probably the most unorthox
 and modern-oriented literary critic, founded his review
 *Eḻuttu,* "Writing", which opened its pages for anything new and
 truly creative. The results of the new ferment were visible in a
-path-breaking and all-important slender collection entitled *Putuk-*
-*kuralkaļ*, “New Voices" (Ezhutthu Prachuram, Madras, 1962) which,
+path-breaking and all-important slender collection entitled *Putukkuralkaḷ*,
+ “New Voices" (Ezhutthu Prachuram, Madras, 1962) which,
 besides five poems by Pichamurti and Rajagopalan, contains poems
-composed only between 1959-1962. This volume-apart from 63
+composed only between 1959-1962. This volume—apart from 63
 poems by 24 poets (a selection made out of about 200 pieces published
-on the pages of *Eluttu*)-contained also a very important
+on the pages of *Eḻuttu*)—contained also a very important
 introduction written by C. S. Chellappa.
 
 In addition to Pichamurti's "Wild duck", it is probably his
-*Pettikkatai Naraṇan* ("Petty shopkeeper Nāraṇan") which is Pichamurti's
+*Pettikkatai Naraṇan* ("Petty shopkeeper Nāraṇaṉ") which is Pichamurti's
 best-known poem. It is a poem about the fall of modern
-man about a mock-hero, even an anti-hero-and the disintegration
+man about a mock-hero, even an anti-hero—and the disintegration
 of traditional values.
 
 >|       The stork
@@ -193,7 +193,7 @@ of foreign influences. Below are given a few verses from parts 2 and
 >|       In the streets
 >|       No bird
 >|       Not even a fly
->|       flying,
+>|                       flying,
 >|       The clouds
 >|       Grew heavy,
 >|       The fish of rain
@@ -206,7 +206,7 @@ of foreign influences. Below are given a few verses from parts 2 and
 >|       Embracing its warmth.
 
 
-The beginning of part 4 is a terrible vision of the modern, warridden
+The beginning of part 4 is a terrible vision of the modern, war-ridden
 world:
 
 >|       The trident arose
@@ -236,22 +236,21 @@ bearers of a revolt (*puraṭci*) of a new, different generation. If there
 is indeed a break with the past, if there is a clash between "tradition"
 and "modernity” in contemporary Tamil culture, it takes place in
 the writings of these "new poets". The first of the "revolting" poems
-was probably Sundara Ramaswamy's *The nails* of *your hand*:
+was probably Sundara Ramaswamy's *The nails of your hand*:
 
->|       Cut and throw off your nails-they gather dirt.
->|       Cut and throw off your nails-they gather dirt.
+>|       Cut and throw off your nails—they gather dirt.
+>|       Cut and throw off your nails—they gather dirt.
 >|      
 >|       The whole world outside is a heap of dirt.
 >|       Why then should nail-corners be so fit for dirt ?
->|       "I may scratch, say I may,
->|       I may scratch-my enemy?”
->|      
->|       You may scratch, you may tear apart
->|       In a soothing embrace
->|       The left arm
->|       Of the lovely-eyed
->|       Will drip
->|       Blood
+>|               "I may scratch, say I may,
+>|               I may scratch—my enemy?”
+>|               You may scratch, you may tear apart
+>|               In a soothing embrace
+>|               The left arm
+>|               Of the lovely-eyed
+>|               Will drip
+>|               Blood
 >|       
 >|       Cut and throw off the nails of your right hand
 >|       Or else
@@ -270,18 +269,18 @@ was probably Sundara Ramaswamy's *The nails* of *your hand*:
 >|      
 >|       Cut and throw off your nails-they gather dirt.
 >|       Cut and throw off your nails-they gather dirt.
->|       
->|       "I may dig out, say I may,
->|       I may dig out the wax from my ears?"
+>|
+>|               "I may dig out, say I may,
+>|               I may dig out the wax from my ears?"
 >|      
->|       You may dig out the dirt
->|       You may dig out the dirt
+>|               You may dig out the dirt
+>|               You may dig out the dirt
 >|      
->|       There is a place for each and every filth
->|       The place may change
->|       And the filth move to the guts
->|       And go and mix with blood
->|       With your blood
+>|               There is a place for each and every filth
+>|               The place may change
+>|               And the filth move to the guts
+>|               And go and mix with blood
+>|               With your blood
 >|      
 >|       Cut and throw off your nails-they gather dirt.
 >|       Cut and throw off your nails-they gather dirt.
@@ -293,10 +292,10 @@ According to Chellappa (*New Voices*, Introd. p. 10), the poem
 caused a furore among the readers. Most of them were shocked
 and disgusted.
 
-Another important poem is C. Mani's (Maņi) *Narakam* ("Hell”),
+Another important poem is C. Mani's (Maṇi) *Narakam* ("Hell”),
 published first in *Eḻuttu* 43. It is a true milestone in modern Tamil
-poetry. The minor theme of the unfulfilled relationship between
-man and woman-is set within the major theme of corruption in
+poetry. The minor theme—of the unfulfilled relationship between
+man and woman—is set within the major theme of corruption in
 the city (*nakaram*). Mani's imagery is extremely effective; his
 technique is influenced by T. S. Eliot. Hyperbolic abbreviation and
 powerful phantasy can do without much rhetoric; raw naturalism
@@ -313,7 +312,7 @@ endless streets" of the hellish city. The city of Madras. Mani
 describes the Marina; there are the women, whose "handfuls of
 tresses become stars in the southern wind, and the light of the
 eyes are all rainbows in the skies, and all their open lips become
-split hearts". There, “in the sand wounded by feet and in the
+split hearts". There, “in the sand wounded by feet / and in the
 minds wounded by eyes / there are many scars ..."
 
 Then follows (87-100) the well-known passage of Tamilnad of
@@ -416,10 +415,13 @@ is rather striking.
 >|     
 >|      The stretching beak
 >|      of the bird of skies
+>|
 >|      A look thrown
 >|      on the Earth by the Sun
+>|
 >|      Streams of nectar
 >|      pouring into oceans
+>|
 >|      Red sceptre
 >|      in god's grip
 >|      
@@ -427,10 +429,12 @@ is rather striking.
 >|      (Transl. K. Zvelebil)
 
 >|       Throwing stones
+>|
 >|       Why do waves
+>|       called yesterday and tomorrow
 >|       wallow and swell
 >|       in the pond of time?
->|       called yesterday and tomorrow
+>|
 >|       Because drops of stones called today
 >|       are flung at it.
 >|
@@ -477,8 +481,6 @@ conscious craftsman of all the "new poets" is T. S. Venugopalan.
 However, according to some, S. Vaitheeswaran is *the* best of all
 the lot.
 
-![](img/page-324-aasai.png){#fig-aasai}
-
 S. Vaitheeswaran's experimental trifle (published in *Naṭai,*
 1969,4) is reproduced on the following page (@fig-aasai). The text says:
 
@@ -493,6 +495,8 @@ S. Vaitheeswaran's experimental trifle (published in *Naṭai,*
 > hair \
 > reaching \
 > the rounded back! \
+
+![](img/page-324-aasai.png){#fig-aasai}
 
 What follows is a short random reader of their poetry which
 hopefully needs no comment.
@@ -610,7 +614,7 @@ T. S. Venugopalan is considered by some the most original and
 the most gifted of all 'new poets', the one who “has everything in
 him to become not only a great modern poet but a people's poet as
 well". When reading his poems, one can feel how very carefully
-he writes--the detachment and impersonality of some of his poems
+he writes—the detachment and impersonality of some of his poems
 remind the reader of the great achievements of classical Tamil
 poetry of the *'Caṅkam'* age. Here is how he sees the Moon, a constant
 companion of poets in India.
@@ -633,9 +637,9 @@ companion of poets in India.
 >|         Slipping out of her garments
 >|         She bent her body
 >|         And lured me
->|         With her winking eyes
->|         Shshsh
->|         ocking!
+>|         With her winking eyes ...
+>|         Shshsh .... ocking!
+>|         .........
 >|         Back with your outstretched hand!
 >|         Come back!
 >|         No ... Wait.
@@ -663,7 +667,7 @@ companion of poets in India.
 >|         ---
 >|         (Transl. K. Zvelebil)
 
-In another poem, he addresses Siva, the dancer of doom and
+In another poem, he addresses Śiva, the dancer of doom and
 destruction.
 
 >|                         *What sense*
@@ -711,7 +715,7 @@ destruction.
 >|         (Transl. S. Kokilam)
 
 As an instance of his symbolic, "metaphysical" poetry, here is a
-piece called *Ňānam* ("Enlightenment, Knowledge, Wisdom").
+piece called *Ňāṉam* ("Enlightenment, Knowledge, Wisdom").
 
 >|       The doors of the porch, frame;
 >|       Wind breaks.
@@ -801,7 +805,7 @@ And an epigrammatic poem by T. S. Venugopalan, entitled
 >|       and its fruits
 >|       turned out a shadow!
 >|       Wriggled out
->|       only
+>|               only
 >|       a worm!
 >|
 >|       ---
@@ -813,39 +817,39 @@ more reflexive, impersonal, cooler; while Vaitheeswaran is more
 colourful, economical and yet rich in words, and more individual
 and self-centred, Venugopalan is more disciplined, sharper, less
 individual and more open towards society and contemporary
-problems. However, it is very difficult really to say--and probably
-it is quite unnecessary and even naive to try to-who is the better
+problems. However, it is very difficult really to say—and probably
+it is quite unnecessary and even naive to try to—who is the better
 of the two. What is important is the fact that, unlike fifteen or even
 ten years ago, contemporary Tamil writing has at least two poets
 who are first-rate and full of growth and promise.
 
 Doing away with traditional poetic forms, and trying their hand
-at vers libre, "prose-poetry" (*vacanak kavitai*) and other formal
+at vers libre, "prose-poetry" (*vacaṉak kavitai*) and other formal
 experiments was and still is part of the credo of the "new poets";
 cf. *Eḻuttu* 61 where a "new poet" says
 
 >|       "A poem tied by prosody
->|       is like the Käviri tied by dams".
+>|       is like the Kāviri tied by dams".
 
 
 However, it seems[^selvam-essay-modern-prosody] that even the most “rebellious" formal
 experiments of the "new poets" may somehow and to some extent
 be reconciled with the literary *marapu* or tradition: thus, e.g., the
 so-called *centoṭai*, i.e. verses without *etukai* "rhyme (initial)" and
-*mōnai* “alliteration", may be considered a kind of vers *libre*; or,
+*mōnai* “alliteration", may be considered a kind of *vers libre*; or,
 rather, the free-verse experiments are nothing but a kind of traditional
 *centoṭai.* On the other hand, the basic properties of classical
 and traditional poetry and prosody are used frequently even by
 the most "rebellious" "new poets" simply because the features are
 inherently connected with the very structure and nature of Tamil
-phonology and syllabification, just like the notion of acai "fundamental
+phonology and syllabification, just like the notion of *acai* "fundamental
 metric unit” is inherently connected with the very rhythm
 of Tamil speech. Thus, e.g., if we consider a poem like D. Sivaramu's
-*Minnal* (Lightning) we see a rather firm rhythmic structure in
-terms of the basic, “traditional" prosodic units, *acai* and *cir* “feet”
+*Miṉṉal* (Lightning) we see a rather firm rhythmic structure in
+terms of the basic, “traditional" prosodic units, *acai* and *cīr* “feet”
 (the poem being limited to the use of the socalled *iyaṟcīr* “natural
 feet" of two *acai* each). We also unmistakenly hear the initial
-alliteration (*mōnai*) of (ka-), placed most regularly at the beginning
+alliteration (*mōnai*) of (*ka-*), placed most regularly at the beginning
 of each first feet of the four distichs.
 
 [^selvam-essay-modern-prosody]: Cf. a very interesting essay on classical and modern prosody by Selvam
@@ -853,14 +857,14 @@ of each first feet of the four distichs.
 
 |                    |            |
 |--------------------|------------|
-| *kakanap paravai*  | ＝ － ＝ － |
+| *kakaṉap paṟavai*  | ＝ － ＝ － |
 | *nīṭṭum alaku*     | － － ＝ － |
-| katirōn *nilattil* | ＝ － ＝ － |
-| *eriyum pārvai*    | ＝ － － － |
-| *katalul valiyum*  | ＝ － ＝ － |
+| *katirōṉ nilattil* | ＝ － ＝ － |
+| *eṟiyum pārvai*    | ＝ － － － |
+| *kataluḷ vaḻiyum*  | ＝ － ＝ － |
 | *amirtat tārai*    | ＝ － － － |
-| *kaṭavuḷ unrum*    | ＝ － － － |
-| *cenkōl*           | － －      |
+| *kaṭavuḷ uṉṟum*    | ＝ － － － |
+| *ceṅkōl*           | － －      |
 
 
 
@@ -874,19 +878,19 @@ Even very daring instances like
 | *lē* | ue |
 | orē *kūṭṭam* | one crowd |
 | --- | |
-| *(Eluttu* 91) | |
+| *(Eḻuttu* 91) | |
 
 
 may be reconciled with tradition: according to Mr. Selvam, the
 author of the cited essay on prosody (see ftn. 1, 331), such formal
-device was well-known as a kind of cittirakkavi “picture-poem” (cf.
+device was well-known as a kind of *cittirakkavi* “picture-poem” (cf.
 *taṇṭiyalaṅkāram* 68).
 
 We are prepared to agree with this opinion to the extent that
 the "new poetry” is, indeed, reconcilable with Tamil tradition[^classical-style-modern-poetry] as
-far as the basic, “low-level" structural elements-i.e. the *acai* and the
-cir (foot), partly also the line (*aṭi*)-are concerned. The traditional
-stanzaic structures of higher levels (pā, *inam*) are, however, not
+far as the basic, “low-level" structural elements—i.e. the *acai* and the
+cir (foot), partly also the line (*aṭi*)—are concerned. The traditional
+stanzaic structures of higher levels (*pā*, *iṉam*) are, however, not
 adhered to by the “new poets". Indeed, there is one very fundamental
 'high-level' feature which means a definitive break with tradition
 as far as the "new poetry" is concerned. Since the early bardic poetry
@@ -904,16 +908,15 @@ tradition (*marapu*) is a very typical pan-Indian tendency, and has been so
 for ages.
 
 Another novelty of this modern and avantgarde poetry lies in
-the new, surprisingly effective and forcible use of the traditional
+the new, surprisingly effective and forcible *use* of the traditional
 material; in the new, and hence different, and most powerful,
 utilization and application of the basic prosodic and formal properties
 of Tamil poetry, not in denying and destroying them.
-
 Finally, the "new poets" strive seriously after an organic and
 intimate relation between form and meaning, after the unity of
-meaning (*poruḷ*) and form (uru, *uruvu*, *uruvam*). The “new poets"
+meaning (*poruḷ*) and form (*uru*, *uruvu*, *uruvam*). The “new poets"
 are in their absolute majority no empty formalists.[^new-poets-not-sterile-formalists] *L'art pour*
-l'artism is not their credo, though some of the very contemporary
+*l'artism* is not their credo, though some of the very contemporary
 poets, like V. Mali, go rather far in their formal experiments.
 
 [^new-poets-not-sterile-formalists]: Tamil literature has known empty, unproductive and repetitive formalism
@@ -930,9 +933,9 @@ out of its lethargy, apathy and sterility.
 
 Hari Sreenivasan
 
->|       *Weep*
+>|                        *Weep*
 >|       
->|       Weep Weep Weep
+>|       Weep    Weep    Weep
 >|       Only if you weep you'll get milk
 >|       But
 >|       Don't forget
@@ -941,7 +944,7 @@ Hari Sreenivasan
 >|       The milk
 >|       Will curdle
 
-Tuṟai Seenisami
+Turai Seenisami
 
 >|                       *Unquenchable hunger*
 >|       
@@ -950,10 +953,12 @@ Tuṟai Seenisami
 >|       The overwhelming peace
 >|       Of pitch darkness
 >|       Makes me dazed
+>|
 >|       There is no moon
 >|       Upon the blue cake
 >|       Dots of stars are
 >|       Suger-coated drops
+>|
 >|       I became hungry
 >|       Opening the mouth of sight
 >|       I gorged the whole night
@@ -969,10 +974,10 @@ V. Mali
 >|       One day one could see
 >|       thighs and nipples dance.
 >|       Everyone rose in boiling wrath.
->|       She asked:
->|       How is it
->|       that this
->|       is
+>|               She asked:
+>|               How is it
+>|               that this
+>|               is
 >|       more obscene than
 >|       that?
 
@@ -1008,7 +1013,7 @@ V. Mali
 >|       ---
 >|       (Transl. K. Zvelebil)
 
-[^pun]: A fine pun in the original: *tirainat cattivankaļ* virumpum | *tiraippatik*
+[^pun]: A fine pun in the original: *tirainaṭ cattiraṅkaḷ virumpum / tiraippatik*
 *kaṭavuḷ tān*.
 
 Sh. Subbiah

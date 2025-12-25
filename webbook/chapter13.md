@@ -551,7 +551,7 @@ but I wonder whether Sitā could characterize better her lord Rāma
 by saying anything else than *oru pakal paḻakiṉāl uyirai īvar* “if one
 knows him but a single day, one would give his life (for him).”
 
-If, in one place (*Pālakāṇṭam*, Päyiram 2), Kampaṉ says that it
+If, in one place (*Pālakāṇṭam*, Pāyiram 2), Kampaṉ says that it
 was not easy for him to show the mysterious state of God, he has
 succeeded, I think, better than Vālmīki, to show Rāma as a man
 (and hence the title, *Irāmāvatāram,* "The Descent of Rāma", lit.

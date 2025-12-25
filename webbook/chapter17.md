@@ -1,7 +1,7 @@
 # Origins Of Modern Tamil Prose. The Historical And The Theoretical Problem
 
-The problem of the origin of modern Tamil prose- -as seen from
-a necessarily simplified perspective-is a twofold one: first, purely
+The problem of the origin of modern Tamil prose—as seen from
+a necessarily simplified perspective—is a twofold one: first, purely
 historical; and second, theoretical.
 
 The first part of the problem means to trace down and find out,
@@ -14,13 +14,13 @@ and could and did it arise and develop only under predominant
 foreign impact—or not?
 
 I shall not at all attempt to answer these questions, to solve
-these problems. There are unfortunately almost no valid Vor*arbeiten*
+these problems. There are unfortunately almost no valid *Vorarbeiten*
 in this field, and only very recently Tamil scholars themselves
 have begun to search for answers to these questions.[^two-books-to-mention]
 
 [^two-books-to-mention]: The two books in Tamil that probably deserve to be mentioned in this
-connection are K. Kailasapathy's *Tamil nāval* ("Tamil Novel"), Pāri
-Nilaiyam, Madras, 1968, and Mu. Vai. Aravintan's *uraiyāciriyarkaḷ* (“The
+connection are K. Kailasapathy's *Tamiḻ nāval* ("Tamil Novel"), Pāri
+Nilaiyam, Madras, 1968, and Mu. Vai. Aravintaṉ's *uraiyāciriyarkaḷ* (“The
 Commentators"), Madras, 1968.
 
 In this chapter I shall try to arrange some facts reflecting the
@@ -43,7 +43,7 @@ of humanistic studies, of ideas of “enlightenment” etc. played
 an enormous role in the development of indigenous cultures. On
 the other hand, we must not forget the immense influence which the
 work of early Western Indologists had on the intellectual élite of
-India their editions and translations of ancient Indian texts were
+India: their editions and translations of ancient Indian texts were
 often a kind of revelation to the Indians themselves. They brought
 them better knowledge of their own cultural traditions; and the
 praise and admiration shown by Westerners aroused in Indians
@@ -64,8 +64,8 @@ Pillai (1827-1900), whose Christian hymns are formally based on the *Tēvāram*.
 More specifically, in Tamil India (as elsewhere, e.g. in Bengal),
 there was great need felt by the British administrators to learn the
 "vernacular". The old Portuguese and Latin grammars were inaccessible,
-dated or incomprehensible, and indigenous grammars
-―anyhow not available yet in print-would be of no use for the
+dated or incomprehensible, and indigenous grammars—anyhow
+ not available yet in print—would be of no use for the
 beginners. So the first "modern" grammars of Tamil began to appear,
 written partly in Tamil prose, partly in English. Probably the first
 of these printed grammars for wider use was *A Tamel Expositor* by
@@ -83,15 +83,15 @@ Pillai and others.
 
 [^early-british-appreciation-tamil]: The early British administrators, missionaries etc. were much impressed
 by Tamil culture. W. Taylor: "(Tamil) is one of the most copious, refined
-and polished languages spoken by man" (quoted by G. E. Gover, The FolkSongs
-of *Southern* India, Madras, 1871, viii-ix). P. Percival: "Perhaps no
+and polished languages spoken by man" (quoted by G. E. Gover, *The Folk-Songs of Southern India*,
+ Madras, 1871, viii-ix). P. Percival: "Perhaps no
 language combines greater force with equal brevity; and it may be asserted
 that no human speech is more close and philosophic in its expression as an
-exponent of the mind" (quoted ib.). E. Hoole: "God 'left not Himself
-without witness' among the Tamil people. . . The acquisition of the language
+exponent of the mind" (quoted *ib*.). E. Hoole: "God 'left not Himself
+without witness' among the Tamil people ... The acquisition of the language
 in which the remains of Tamil wisdom are preserved is no easy task.
 Aptitude, genius, industry, perseverance, are necessary to the Tamil scholar"
-(E. J. Robinson, *Tamil* Wisdom, With an Introduction by the late Rev.
+(E. J. Robinson, *Tamil Wisdom*, With an Introduction by the late Rev.
 Elijah Hoole, London, 1873, ix-x).
 
 Another important institution where the contacts of Western
@@ -141,7 +141,7 @@ Tamilnad and in India, were printing and journalism.
 
 The very beginnings of printing, sporadic both in time, space
 and output, were all connected with missionary activities. Here
-was the origin of Gonzalves' *Kiristuvavaṇakkam* (1577),[^british-museum-first-tamil-book] one of
+was the origin of Gonzalves' *Kiṟistuvavaṇakkam* (1577),[^british-museum-first-tamil-book] one of
 the first if not the first book printed in India, Philip de Melho's
 Tamil *New Testament* printed in 1749 etc. The two most important
 early printing establishments in the South were founded at Ambalakkadu
@@ -151,10 +151,10 @@ roughly after 1835, which played such a decisive role in the origin
 and development of modern prose.
 
 [^british-museum-first-tamil-book]: According to Albertine Gaur of the British Museum, the first Tamil
-printed book was a translation of Francis Xavier's Doutrina Christe by
+printed book was a translation of Francis Xavier's *Doutrina Christe* by
 Henrique Henriques, published in 1578 in Goa, cf. "European Missionaries
-and the Study of Dravidian Languages", *Proceed.* of *the* I *Intern*. Conference
-*Seminar* of *Tamil* Studies, Vol. II, Kuala Lumpur, 1969, pp. 322-328.
+and the Study of Dravidian Languages", *Proceed. of the I Intern. Conference Seminar of Tamil Studies*,
+ Vol. II, Kuala Lumpur, 1969, pp. 322-328.
 
 On August 3rd, 1835, a law was passed which abolished the
 previous acts of 1823, 1825 and 1827 concerning printing and
@@ -188,7 +188,7 @@ from *guru* to *chela,* or written on palm-leaves which were
 almost unavailable, printed and published in a great number of
 copies which were cheap and easy to obtain. It was such a novelty
 that many of the pandits who called this manner of treating old
-literary texts *elutā eļuttu*, i.e. “unwritten script", actually opposed it.
+literary texts *eḻutā eḻuttu*, i.e. “unwritten script", actually opposed it.
 One of the points which made tremendous difference between a
 palm-leaf manuscript copy of a text and its printed edition was the
 price. Thus e.g. according to John Murdoch, the Rev. P. Percival
@@ -197,12 +197,12 @@ Beschi's *Caturakarāti* 10 English pounds; when the same work was
 printed after 1835, its price fell down to 2½ shillings.
 
 The "rediscovery" of ancient Tamil literature occurred in the
-transition period of the later 19th Century when-to use the happy
+transition period of the later 19th Century when—to use the happy
 phrase of A. K. Ramanujan—“both paper and palm leaf were
 used". The man most responsible for making possible the transition
 was U. V. Swaminatha Aiyar (1855-1942), by editing and printing
 the most important and inaccessible of ancient manuscripts. The
-late medieval Saivite and Vaiṣṇavite scholars "apparently tabooed
+late medieval Śaivite and Vaiṣṇavite scholars "apparently tabooed
 as irreligious all secular texts which included the earliest and the
 greatest of Tamil literary texts; they disallowed from study all
 Jain and Buddhist texts ... Under this intellectual taboo, a great
@@ -214,7 +214,7 @@ a liberal-minded *munsif* named Rāmacuvāmi Mutaliār. He records
 the date as 1880, October 21, a Thursday- and all students of
 Tamil literature should think of that date as ‘etched in red letters'".[^date-of-meeting]
 
-[^date-of-meeting]: A. K. Ramanujan, *Language and "Modernization":* The *Tamil* Example,
+[^date-of-meeting]: A. K. Ramanujan, *Language and "Modernization": The Tamil Example*,
 University of Chicago, 1968. Xeroxed, Private Distribution Only. By courtesy
 of the author.
 
@@ -230,11 +230,11 @@ texts.
 However, it seems that we should go at least twenty years back
 for the true 'rediscoverer' of ancient Tamil literature. In 1868,
 Rev. H. Bower, an Englishman, published the first book of
-*Cīvakacintāmaṇi* (*Nāmakaļ Ilampakam*): *The Chintamani.* First *Book*
-*Called Namagal Ilambagam*; with *the Commentary of Nachinarkiniyar,*
-*and* with *analysis and notes* in English*, Tamil and* English *Indexes*,
-*and* an *English Introduction explaining the Jaina system* on which
-*the book is based; by Rev.* H. *Bower*, *with the assistance of E. Muttaiya*
+*Cīvakacintāmaṇi (Nāmakaļ Ilampakam): The Chintamani. First Book*
+*Called Namagal Ilambagam; with the Commentary of Nachinarkiniyar,*
+*and with analysis and notes in English, Tamil and English Indexes*,
+*and an English Introduction explaining the Jaina system on which*
+*the book is based; by Rev. H. Bower, with the assistance of E. Muttaiya*
 *Pillai*. Printed by H. W. Laurie, at the Christian Knowledge
 Society Press, No. 18, Church Street, Vepery, 1868. Bower's edition
 was of a surprisingly high standard.[^bower-published-before-saminathaiyar]
@@ -245,18 +245,18 @@ Without trying in any way to detract from the great merits due
 to U. V. Swaminatha Aiyar, we have to justly admit that S. V.
 Damodaram Pillai (1823-1901) deserves equal admiration and
 gratitude for his editions of literary (e.g. *Kalittokai*, 1887) and
-especially grammatical texts (e.g. *Viracōliyam*, 1881, Iṟaiyaṉār's
-*Akapporuḷ,* 1883, Tolkāppiyam *Poruḷ.*, 1885). It was probably
+especially grammatical texts (e.g. *Vīracōḻiyam*, 1881, Iṟaiyaṉār's
+*Akapporuḷ,* 1883, *Tolkāppiyam* *Poruḷ.*, 1885). It was probably
 Damodaram Pillai more than *anyone* else who started the search
 after old manuscripts. Without doubt he was the one who was
 first engaged in the rediscovery of the earliest classical literature.
 Before him, probably nobody knew for sure about the existence
 of an anthology called *Eṭṭuttokai*; pandits were not sure even of
-the famous epic, whether it was *Cilappati kāram* or *Ciṟappatikāram*.
+the famous epic, whether it was *Cilappatikāram* or *Ciṟappatikāram*.
 And worse than that: there were even doubts and suspicions as to
 the genuine nature and authenticity of the ancient texts, so much
 so that Damodaram Pillai had to write in a kind of self-defence:
-"Śrīmat Căminātaiyar is my witness, as I am a witness to him".
+"Śrīmat Cāminātaiyar is my witness, as I am a witness to him".
 Perseverance and modesty were the two most characteristic features
 of this man, who was as great as Swaminatha Aiyar, but whose
 greatness and merits have never been truly acknowledged.
@@ -283,8 +283,8 @@ Tamil journalism.
 At the beginning of the century, it were mission-owned and
 government establishments that began publishing Tamil weeklies
 and monthlies. The first, and at the same time typical of these
-Christian-oriented Tamil journals was Tamilppattirikai (alias
-*Tamilital),* established in 1831, a monthly, published by the Madras
+Christian-oriented Tamil journals was *Tamiḻppattirikai* (alias
+*Tamiḻitaḻ),* established in 1831, a monthly, published by the Madras
 Religious Tract Society.
 
 In 1840, a Christian-oriented journal for children was started
@@ -295,7 +295,7 @@ were founded in Madras: *Missionary Glance* in Nagarcoil, *Friendly*
 
 About six or more weeklies to monthlies to quarterlies were
 started between 1840-1855; in 1855, a very important weekly, the
-*Tinavarttamani,* appeared for the first time. It was published every
+*Tinavarttamaṇi,* appeared for the first time. It was published every
 Friday, and its founder and editor was Rev. P. Percival. Though
 Christian in orientation, this was the first full-blooded Tamil
 journal in its language, and in general atmosphere. It published
@@ -306,33 +306,33 @@ Viswanatha Pillai.
 
 The first period of Tamil journalism, typical for its Christian,
 missionary orientation,[^exception-in-early-tamil-journalism] and for the absence of dailies, came to an
-end after 1880 with the foundation of *Cutecamittiran* (Swadeshamitran),
+end after 1880 with the foundation of *Cutēcamittiraṉ* (Swadeshamitran),
 the excellent and well-known daily paper of Madras,
 which, by its political outlook, language and cultural orientation
 set up an entirely different and much higher standard for Tamil
 journalism.
 
-[^exception-in-early-tamil-journalism]: An exception was the *Tattuvapōtini*, founded in St Thome, Mylapore, in
-1864 by the Madras Brahma Samaj, followed by *Vivēkavilakkam*, another
+[^exception-in-early-tamil-journalism]: An exception was the *Tattuvapōtiṉi*, founded in St Thome, Mylapore, in
+1864 by the Madras Brahma Samaj, followed by *Vivēkaviḷakkam*, another
 journal of the Samaj, in 1865.
 
 Between 1831-1880, that is in about fifty years, roughly 46
 weeklies, monthlies and quarterlies were founded in Madras Presidency.
 Between 1880-1900, that is within twenty years alone,
 approximately 60 Tamil dailies to quarterlies were born. This
-number is rather impressive in itself. And starting with *Cutēcami-*
-ttiran, there was place, in Tamil journalism, for regular newsediting,
+number is rather impressive in itself. And starting with *Cutēcamittiraṉ*,
+ there was place, in Tamil journalism, for regular news-editing,
 for political and social satire, for regular essays, and, most
 important of all, for the short story. Typical for the new type of
 periodical, devoted more to literature and culture than anything
-else was the monthly *Ňānapōtini*, published since 1897 in Madras
+else was the monthly *Ňāṉapōtiṉi*, published since 1897 in Madras
 by M. S. Purnalingam Pillai, the author of the first history of Tamil
-literature. The joint editor of this—for its time quite outstandingachievement
+literature. The joint editor of this—for its time quite outstanding—achievement
 was Suryanarayana Sastri (1871-1903), a noted poet,
 dramatist, journalist and scholar.
 
 For any successful attack on the theoretical problem posed
-above the origin and evolution of modern Tamil prose as suchwe
+above—the origin and evolution of modern Tamil prose as such—we
 have to make a distinction between belletristic writing (prosefiction)
 and all other types of prose; second, between direct influence
 and an accelerating impulse, a trigger-like effect.
@@ -349,17 +349,17 @@ these men who stand at the craddle of modern prose. Foreigners
 like Roberto de Nobili and C. J. Beschi, traditional scholars like
 Minakshisundaram Pillai (1815-1876).
 
-Mināṭcicuntaram Pillai was an extremely prolific poet and
+Mīṉāṭcicuntaram Piḷḷai was an extremely prolific poet and
 translator from Sanskrit, but his poetry[^minatcicuntaram-pillai-poetry] is now almost forgotten.
 His enormous importance lies in the fact that he gathered round
-himself a charmed circle of disciples-in the manner of a Samuel
+himself a charmed circle of disciples—in the manner of a Samuel
 Johnson and some of the most distinguished scholars and prosewriters
 of Tamilnad owned their skill, enthusiasm and knowledge
 to this fascinating man—the most noted among them perhaps
 Thyagaraja Chettiar and U. V. Swaminatha Aiyar.
 
-[^minatcicuntaram-pillai-poetry]: *22* *purāṇas*, *10* *pillaittamils*, *11* *antātis*, *2 kalampakams*, *7* *mālais*, *3*
-*kovais*, *9* *ulās* and *1 līlai*.
+[^minatcicuntaram-pillai-poetry]: *22* *purāṇas*, 10 *piḷḷaittamiḻs*, 11 *antātis*, 2 *kalampakams*, 7 *mālais*, 3
+*kovais*, 9 *ulās* and 1 *līlai*.
 
 For prose writing as such, however, a more important personality
 was Āṟumuka Nāvalar (1822-1876) of Jaffna. The incentive for
@@ -369,20 +369,20 @@ defence. Soon a stream of powerful Tamil prose gushed out of him,
 prose which was expressive, vigorous, and tolerably free of Sanskrit
 influence though somewhat pedantic and dry. He established his
 own press in Jaffna and the books which he published—though
-containing perhaps childishly controversial matters-actually
+containing perhaps childishly controversial matters—actually
 meant the origin of modern Tamil prose-style. His prose is very
-severe, spotlessly correct and very polished.[^saying-about-arumuka-navalar] He composed a Saiva
-catechism, *Caivavināviṭai*, formally based on current Roman
+severe, spotlessly correct and very polished.[^saying-about-arumuka-navalar] He composed a Śaiva
+catechism, *Caivaviṉāviṭai*, formally based on current Roman
 Catholic catechisms. He was also the teacher of Percival, whom he
 actively helped with his translation of the Bible into Tamil. For
 the development of Tamil belletristic writing most important of
 his contribution is probably his very readable rendering of the
-*Periyapuraṇam* into prose.
+*Periyapurāṇam* into prose.
 
-[^saying-about-arumuka-navalar]: A current saying about him was *vaitālum valuvinṟi vaivārē*, "Even in
+[^saying-about-arumuka-navalar]: A current saying about him was *vaitālum vaḻuviṉṟi vaivārē*, "Even in
 abuse he would speek faultlessly". Once, so the story goes, he went to the
 bazaar to buy some coconuts and asked about the price in the following
-manner: "*Ammaiye*, *nīvir tenkankāykaļai māral ennaṇamo*?" Unfortunately
+manner: "*Ammaiye, nīvir teṅkaṅkāykaḷai māṟal eṅṅaṉamō*?" Unfortunately
 this can be appreciated only by those who know at least some Tamil.
 
 Apart from these men, and a host of others who were their
@@ -409,7 +409,7 @@ Pillai.
 
 Under governor Joseph François Dupleix, Anandarangam acted
 as the Prime Minister of the French colony. He invested his money
-well in textile industries, printing, and merchandise of different
+well—in textile industries, printing, and merchandise of different
 sort; he even owned a big ship by name of *Anandappuravi* which
 carried his merchandise from European to Chinese ports. He was
 also a patron of literature, and we have at least three panegyric
@@ -433,7 +433,7 @@ without adding much of his own imagination, but very lively, and
 obviously very truthfully: the joys and sorrows of his own household,
 echoes of battles and policies in India and Europe, appointments
 and withdrawals of French officials, goings and comings of
-ships, festivals and ceremonies in temples and churches-it is as
+ships, festivals and ceremonies in temples and churches—it is as
 if one would watch a documentary movie showing the life of French
 Tamilnad in the middle of the 18th Century day by day.
 
@@ -458,7 +458,7 @@ character:
 But some of the entries read very well.
 
 > "16th of Oct., 1745: \
-> Today in the evening, the Christians with their wives-the Pariahs, \ Indians dressed in European garments, Whites and Tamils—all gathered at the place where they usually come to hear their *pūjā.* K. R. Mudaliyar's son Asarappa Mudaliar with his wife Selvam also came to the place where their religious ceremonies are held. The woman was all dressed in the garments of their caste; she was heavily perfumed with many odours and aromas; she had on a transparent muslin saree. When she approached the honourable padre who was very near to the Swami, and as she was kneeling deep in thought on the place where one hears the Christian *pūjā,* as soon as that cloud of perfumes hit the nose of the padre, he discarded the holy words and catching his nose he pricked her hair-knot with a rattan cane and shouted: 'Are you a married woman? Or are you a whore? Isn't your husband ashamed of you? To come to church with this muslin saree on-one can see your whole body, your breasts, and even your hairy orifice! Get up and home with you, you virtuous one, your mass is ended!"
+> Today in the evening, the Christians with their wives—the Pariahs, Indians dressed in European garments, Whites and Tamils—all gathered at the place where they usually come to hear their *pūjā.* K. R. Mudaliyar's son Asarappa Mudaliar with his wife Selvam also came to the place where their religious ceremonies are held. The woman was all dressed in the garments of their caste; she was heavily perfumed with many odours and aromas; she had on a transparent muslin saree. When she approached the honourable padre who was very near to the Swami, and as she was kneeling deep in thought on the place where one hears the Christian *pūjā,* as soon as that cloud of perfumes hit the nose of the padre, he discarded the holy words and catching his nose he pricked her hair-knot with a rattan cane and shouted: 'Are you a married woman? Or are you a whore? Isn't your husband ashamed of you? To come to church with this muslin saree on—one can see your whole body, your breasts, and even your hairy orifice! Get up and home with you, you virtuous one, your mass is ended!"
 
 All this is written in the most deliciously colloquial language
 with a number of spelling errors which would offend any purist and
@@ -494,7 +494,7 @@ introductions to bardic songs were also in prose.[^bardic-song-intros-narrative-
 some Sanskritized prose in Peruntēvaṇār's *Pāratam* (9th Cent.).
 And, finally, we come to a large, lengthy literary work in Tamil
 prose, the Śrīpurāṇam of Maṇṭalapuruṭar (prob. 16th Cent.), a
-*purana* of the sixty-three Jaina saints. All these facts show that
+*purāṇa* of the sixty-three Jaina saints. All these facts show that
 there had always been in Tamil literature a perfectly adequate
 capacity to develop prose-writing, that there had always been a
 kind of accumulator of different prose-styles, narrative, descriptive,
@@ -502,7 +502,7 @@ factographic and eruditory, which could generate prose if need
 arose.
 
 [^cilappatikaram-narrative-prose]: E.g. the *uraiperu kaṭṭurai* is a piece of narrative prose. Another genuine
-piece of prose-fiction contained in the epic is the *uraippaṭṭumaṭai* at the
+piece of prose-fiction contained in the epic is the *uraippāṭṭumaṭai* at the
 beginning of Canto 29; in Daniélou's Engl. translation this part is found on
 pp. 187-189 (the syntax of this particular piece of prose is indeed awkward
 and cumbersome; the whole paragraph contains only one finite verb-form
@@ -515,9 +515,9 @@ Europe upon India which should not be underestimated (or even
 rejected!). However, European influences were “more immediately
 effective in the social sphere" and "much less formative in the
 actual birth” of modern prose-fiction.[^birth-modern-prose-fiction] If need arose, prose could
-be written easily-witness the eloquence of Anandarangam Pillai's
-*Diary* which is, truly enough, predominantly documentary, facto1
-graphic writing but which also contains elements of narrative prose
+be written easily—witness the eloquence of Anandarangam Pillai's
+*Diary* which is, truly enough, predominantly documentary, factographic
+ writing but which also contains elements of narrative prose
 and description in its anecdotic passages (and, what is also important,
 we do not know for sure that his is the only written document
 of that type; rather, we may hope that one day more of such
@@ -529,7 +529,7 @@ never developed at all), one should bear in mind that this "influence"
 should be rather understood more generally and broadly
 as an “impact", for it was a diverse, far-reaching and long-term
 effect[^european-influence-indirect-long-term-effect] rather than individual, direct and absolutely decisive influence.
-On the other hand, it is significant, that--at least as far
+On the other hand, it is significant, that—at least as far
 as we know at this stage of our knowledge—the strong “mainstream"
 out of which almost all if indeed not all modern Tamil prose developed
 was the one strong current of scholarly, commentary-like,

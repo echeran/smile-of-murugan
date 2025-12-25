@@ -5,16 +5,16 @@ the greatest language-tamer among Tamil poets, certainly one of
 the greatest formalists in Tamil literature. And that is also why
 some scholars would say of him and his work: “As religion and as
 poetry his verses are not much ... (they show) a revelling in the
-erotic element first and then a religious reaction against it
+erotic element first and then a religious reaction against it ... His
 other works are mere word-jugglery for the lover of literature".[^word-jugglery]
 
-[^name-etymology]: The name Aruṇakiri or Aruṇakirinātar means "(The lord of) the Aruṇahill
+[^name-etymology]: The name Aruṇakiri or Aruṇakirinātar means "(The lord of) the Aruṇa-hill
 (of the fiery hill, *or*, mountain of light)", i.e. of Aruṇācalam. The poet was
 born in Tiruvaṇṇāmalai, under the Aruṇācalam mountain; much later, in
-our century, the place became the site of the *āśvam* founded by Sri Ramaṇa
+our century, the place became the site of the *āśram* founded by Sri Ramaṇa
 Mahāṛṣi.
 
-[^word-jugglery]: C. and H. Jesudasan, op. cit. pp. 212-213.
+[^word-jugglery]: C. and H. Jesudasan, *op. cit.* pp. 212-213.
 
 Why this judgement? Because this wizard of language and
 rhythm has indeed reached the dangerous brink between true
@@ -28,38 +28,38 @@ type of Tamil poets who have achieved a complete and harmonious
 integration of two cultures: Sanskritic and Tamil. In this type,
 there is a total penetration of the Tamil structure by the Sanskrit
 structure, and the result is a happy and immensely rich blend. In
-Aruṇakiri, it is an ambrosial amalgam above all in the expressionside
+Aruṇakiri, it is an ambrosial amalgam above all in the expression-side
 of his poetry, in language and prosody. Even in stanzas which
 are very heavily Sanskritized,[^sanskritized-verses] the final effect is marvellous, e.g.
 
 [^sanskritized-verses]: Considered to be a grave sin by some critics: "His poetry is heavily
-packed with Sanskrit words". C. and H. Jesudasan, op. cit. p. 212.
+packed with Sanskrit words". C. and H. Jesudasan, *op. cit.* p. 212.
 
->|       *ēltalampukal kāvēriyāl vilai*
->|       *cola manṭala mītē manōkara*
->|       *rāca kempira nāṭāļum nāyaka*
+>|       *ēḻtalampukaḻ kāvēriyāḷ viḷai*
+>|       *coḻa maṇṭala mītē maṉōkara*
+>|       *rāca kempira nāṭāḷum nāyaka*
 >|       *vayalūrā*
 >|      
 >|       "O lord of the fields,
 >|       o prince who rules
 >|       above the vast and charming kingdom,
 >|       the Cholamandalam, fertile by Kāvēri
->|       famous for its seven shrines
+>|       famous for its seven shrines ..."
 
 Here, the ratio is about 60% of Tamil words to 40% of Sanskrit.
 But in the next stanza
 
->|       *tipa mankala* cōti *namōnama*
->|       *tuya ampala līlā namōnama*
+>|       *tīpa maṅkaḷa cōtī *namōnama*
+>|       *tūya ampala līlā namōnama*
 >|       *tēva kuňcara pākā namōnama*
->|       *arultārāy*
+>|               *aruḷtārāy*
 
 there is less than 30% of Tamil items and more than 70% of
 Sanskrit loanwords. Observe the *cantam*, the rhythmic pattern:
 
-<center><p>*tána tánana tánā tanánana*;</p></center>
+<center><p>*tā́na tánana tā́nā tanā́nana*;</p></center>
 
-this is maintained throughout the stanza, ending with *tánanāná*:
+this is maintained throughout the stanza, ending with *tánanānā́*:
 *arultārāy.*
 
 Two of the four main properties of Aruṇakiri's songs are revealed
@@ -71,7 +71,7 @@ rhythmic pattern.
 from him in a deluge." C. and H. Jesudasan, op. *cit.* p. 212.
 
 [^source-tamil-sanskrit]: In a sense, Aruṇakiri's god is also a happy blend of the two cultures, and
-his two wives symbolize this fact: Teyvayānai, the daughter of Indra,
+his two wives symbolize this fact: Teyvayāṉai, the daughter of Indra,
 stands for Sanskrit, Vaḷḷi for Tamil. Murukaṉ himself has been always
 considered the prince of poets, cf. Kumarakuruparar's invocation: “O
 Prince Bard of *Caṅkam* literature!"
@@ -83,50 +83,50 @@ indigenous metrical system of Tamil which was not syllabic, but
 *acai*-based (cf. the beginning of Chapter 5). *cantam* is a rigidly set
 pattern of rhythm, based on syllabic quantity. The beginnings of
 its influence in Tamil prosody are naturally connected with the
-adoption of fixed melody-types (*pan*) for poetry which is identified
+adoption of fixed melody-types (*paṇ*) for poetry which is identified
 with (devotional) singing. Poetry as (devotional) song set to a
-fixed melody evolved in Saiva and Vaiṣṇava bhakti texts, and hence
+fixed melody evolved in Śaiva and Vaiṣṇava *bhakti* texts, and hence
 also the first poets who employed, on the Sanskritic models,
 quantitative prosody of the *cantam (chandas*) type, were Campantar
-and Tirumālicai Āḻvār, two early Saiva and Vaiṣṇava bhaktas.[^cantam] The
+and Tirumāḻicai Āḻvār, two early Śaiva and Vaiṣṇava *bhaktas*.[^cantam] The
 influence of *cantam* grew steadily until it reached its peak in the
 poems of Aruṇakiri.[^cantam-poem-structure] This is part of the process whereby the connection
 between poetry and music becomes closer and closer, more
-and more intimate, until the *kīrttanai* is born-a form in which
+and more intimate, until the *kīrttaṉai* is born—a form in which
 music is as indispensable as the text itself. And Aruṇakiri's
 Tiruppukaḻ, singing the 'praise of the Lord', is one of the basic
 foundations of *kīrttaṉai*; only it has no refrain yet, no *pallavi* (like
 *kīrttaṉai)*.
 
-[^cantam]: The poets noted for skillful use of *cantam* were, after Tirumālicai Āḻvār
+[^cantam]: The poets noted for skillful use of *cantam* were, after Tirumāḻicai Āḻvār
 (8th Cent.) who has probably been the one most responsible for its introduction
 into Tamil prosody (in his *Tiruccantaviruttam*): Tirumaṅkai Āḻvār,
-Paṭṭiṉattar the Elder, Nampiyāṇṭār Nampi, Cayankoṇṭār, Oṭṭakkūttaṉ,
+Paṭṭiṉattār the Elder, Nampiyāṇṭār Nampi, Cayaṅkoṇṭār, Oṭṭakkūttaṉ,
 Villi, and, of course, Aruṇakiri.
 
 [^cantam-poem-structure]: A poem in *cantam* has, in *addition* to other formal properties (prosodic
 pattern, *toṭai*, i.e. "rhymes", alliteration, assonance etc.), a rigidly set
-rhythmic pattern in terms of syllabic quantity. E.g. in Tiruppukaḻ 418:
-*tirumakalulāvum | irupuyamurāri | tirumurukanāma* | *perumāļ kāņ*; the *cantam*
-is *tána tána tánā'na | tána tána tánā'na* | *tána tána tánā'na* | *tána tā'nā*, i.e.
---- 00/000000/0-00000/00000.00
+rhythmic pattern in terms of syllabic quantity. E.g. in *Tiruppukaḻ* 418:
+*tirumakaḷulāvum / irupuyamurāri / tirumurukanāma / perumāḷ kāṇ*; the *cantam*
+is *tána tána tánā'na / tána tána tánā'na / tána tána tánā'na / tána tā'nā*, i.e.
+`◡◡ ◡◡ ◡—◡ / ◡◡ ◡◡ ◡—◡ / ◡◡ ◡◡ ◡—◡ / ◡◡ --`
 
 In thought-content and themes, Aruṇakiri is one of the peaks in
-a particular line of *bhakti* poets; another poet of the same line-yet
+a particular line of *bhakti* poets; another poet of the same line—yet
 different because deeper, because more of a thinker and mystic
 than Aruṇakiri, and less of a poet, yet basically belonging to the
-same type Tayumāṇavar (1706-1744), admired and loved Aruṇakiri,
+same type—Tayumāṇavar (1706-1744), admired and loved Aruṇakiri,
 and praised him more than once, e.g.
 
->|       *aiyā aruṇakiri appā unaippōla*
->|       *meyyāka* ōr col *viļampinar yār*
+>|       *aiyā aruṇakiri appā uṉaippōla*
+>|       *meyyāka ōr col viḷampiṉar yār*
 
 "O sir, Aruṇakiri, friend, who ever uttered such true words as
-you?" And elsewhere he speaks about him as *maturam poliyum*
+you?" And elsewhere he speaks about him as *maturam poḻiyum*
 *aruṇakiri*, "Aruṇakiri, who pours forth sweetness".
 
 Typical is also the legend of the poet's life; it is a characteristically
-late bhakti legend. The hero leads a wretched life. Without his
+late *bhakti* legend. The hero leads a wretched life. Without his
 personal merit, and so to say in the last moment, God in his
 mercy intervenes, turning the scoundrel into a saint, into a *bhakta*
 and into a poet. And once more the deity is localized in a particular
@@ -140,8 +140,8 @@ in her heart, when all others turned their back on him because with
 progressing years his lack of self-control and his daring increased.
 
 The poet describes in vivid colours this stage of his life, speaking
-about his *kāmukan akappaṭṭa ācai,* "the passions of a lewd man",
-about his *vilaimātar kaṇivāyil kanṇalivu vaitta* putti “blind mind
+about his *kāmukaṉ akappaṭṭa ācai,* "the passions of a lewd man",
+about his *vilaimātar kaṉivāyil kanṇaḻivu vaitta putti* “blind mind
 guided only by the senses inflamed by harlots".
 
 After having ruined his health[^poor-health] and reputation and having
@@ -155,17 +155,17 @@ his wretched life.
 ulcer; according to another version, from a venereal disease.
 
 
-However he did not shatter his limbs by the terrible fall, but
+However—he did not shatter his limbs by the terrible fall, but
 landed softly in the arms of a holy man who just at that moment
 appeared unexpectedly at the bottom of the gopura and who was
 none else but the god Murukaṉ himself. After having thus saved
 Aruṇakiri's life he expelled from his heart the threefold craving—
-*mannācai ponnācai peṇṇācai*—the desire for earth, gold and women,
+*maṇṇācai poṇṇācai peṇṇācai*—the desire for earth, gold and women,
 he touched with the point of his spear Aruṇakiri's tongue and
-exclaimed: nī *pāṭuka*! Sing! Naturally, Aruṇakiri was in no mood
+exclaimed: *nī pāṭuka*! Sing! Naturally, Aruṇakiri was in no mood
 to sing, not to mention the fact that he did not know how or what
 to sing. And so Lord Murukaṉ himself sang the first verse beginning
-with the words *muttaitaru* pattittirunakai *kurupara* "O my guru
+with the words *muttaitaru pattittirunakai kurupara* "O my guru
 ... with the lovely smile of your pearl-like teeth!"
 
 The next moment Aruṇakiri was a new person. Even the physical
@@ -181,37 +181,37 @@ Thus far the legend.
 
 About the real Aruṇakiri we know very little. He himself mentions
 a ruler by name of Praudhadevaraya, who probably is no else than
-the noted Deva Raya II, the Vijayanagara king known as *Gajabēṭe-*
-*kara* "Hunter of elephants". He was a great patron of poets and
+the noted Deva Raya II, the Vijayanagara king known as *Gajabēṭekara*
+ "Hunter of elephants". He was a great patron of poets and
 a great builder, reigning from 1426 till 1446. On the other hand, a
 Sanskrit poet, Rajendra Kavi, who lived in the 15th Cent., speaks
 of a Sarvabhauma Dindima Kavi as of his father, and there is some
 reason to identify this *kavi* with Aruṇakiri.
 
-Aruṇakiri left behind a huge poetic work: 1367 stanzas of *Tirup-*
-*pukaḻ,* praises of Murukaṉ, the eternally young, the handsome lover
+Aruṇakiri left behind a huge poetic work: 1367 stanzas of *Tiruppukaḻ,*
+ praises of Murukaṉ, the eternally young, the handsome lover
 and warrior, symbol of youth and strength, victory, of movement
 and change in life and nature, the patron of poets and god of
 travellers. Apart form *Tiruppukaḻ,* Aruṇakiri is the author of many
 hundreds of other poems, forming several large collections (the
-chief among them being *Kantaralankāram* of 102 stanzas and
-*Kantaranupūti* of 51 stanzas), imbued with tremendous knowledge
+chief among them being *Kantaralaṅkāram* of 102 stanzas and
+*Kantaraṉupūti* of 51 stanzas), imbued with tremendous knowledge
 of mythology and legends, and characterized by perfection of form
 and sovereign command of diction and prosody.
 
 ![A South *Indian* wood*-carving* from *Tamilnad.* Property of the author.](img/page-241-tamil-wood-carving.png)
 
 The work of Aruṇakiri may be described as religious, lyrical
-hymnody, interwoven with Saiva Siddhānta philosophic doctrines,
+hymnody, interwoven with Śaiva Siddhānta philosophic doctrines,
 and fed profusedly by Aryan and indigenous mythology. At the same
 time, however, his poetry has a vitality gushing from the poet's
 own inner experience; the poet's all-embracing and glowing love for
 all aspects of life, from the beauty of a pearl or an emerald through
-flowers, birds, beasts to men-especially women-and ultimately
+flowers, birds, beasts to men—especially women—and ultimately
 for God.
 
 Several streams converge and merge in his work: the hymnic
-tradition of Saiva and Vaiṣṇava *bhakti,* the reflective stream of
+tradition of Śaiva and Vaiṣṇava *bhakti,* the reflective stream of
 Śaiva Siddhānta philosophy, the ancient inheritance of bardic
 poetry, both *puṟam* and *akam,* the vast resources of Aryan mythology,
 the deep wells of indigenous Tamil myths and legends connected
@@ -223,8 +223,8 @@ lyrical poetry of personal experience with rich autobiographical
 material, reflective lyrical poetry with elements of philosophy, and
 straightforward hymns praising Lord Murukaṉ.
 
-If we apply the scheme of the segments S₁₂O₁₂ we see that all
-these segments are usually present, but the segments S₂O₂ are
+If we apply the scheme of the segments S<sub>1</sub> S<sub>2</sub> O<sub>1</sub> O<sub>2</sub> we see that all
+these segments are usually present, but the segments S<sub>2</sub> O<sub>2</sub> are
 predominant. As an illustration, here is Tiruppukaḻ 200. The first
 portion comprises segments (S<sub>1</sub>)S<sub>2</sub>:
 
@@ -257,7 +257,7 @@ And, finally, O<sub>2</sub> which is quite developed:
 >|       great hero, destroyer of demoniac pride!"
 
 O<sub>2</sub> is of course based on both Sanskritic and Tamil mythology:
-Guha is Aryan--but the lover of Vaḷḷi is Tamil; child of Umai, brother
+Guha is Aryan—but the lover of Vaḷḷi is Tamil; child of Umai, brother
 of Gaṇeṣa, destroyer of the demons is probably Sanskritic; but he
 who lives in Tiruvēṟakam on the shores of Kāviri is indigenous.
 
@@ -284,7 +284,7 @@ who lives in Tiruvēṟakam on the shores of Kāviri is indigenous.
 >|       Conquer and bless me".
 >|
 >|       ---
->|       *(Tiruppukal* ii, 26)
+>|       *(Tiruppukaḻ* ii, 26)
 >|       (Transl. S. Kokilam)
 
 This motive appears again and again: Aruṇakiri, the sinner and
@@ -316,16 +316,16 @@ repeat themselves in a dull and uninteresting manner.
 >|       ---
 >|       (Transl. S. Kokilam)
 
-In the second type of Aruṇakiri's poetry-the philosophical
-stanzas with no autobiographical material—the segments (O₁) O2 are
+In the second type of Aruṇakiri's poetry—the philosophical
+stanzas with no autobiographical material—the segments (O<sub>1</sub>)O<sub>2</sub> are
 usually the only segments present. As an illustration, a perfectly
-beautiful quatrain form *Kantaraṇupūti* (51) may be quoted. First
+beautiful quatrain form *Kantaraṉupūti* (51) may be quoted. First
 the music of the original:
 
->|       *uruvāy aruvāy ulatāy ilatāy*
->|       *maruvāy malaray maṇiyāy oļiyāyk*
+>|       *uruvāy aruvāy uḷatāy ilatāy*
+>|       *maruvāy malaray maṇiyāy oḷiyāyk*
 >|       *karuvāy uyirāy katiyāy vitiyāyk*
->|       *kuruvay varuvāy aruļvāy kukanē*
+>|       *kuruvāy varuvāy aruḷvāy kukaṉē*
 >|       
 >|       "You who have form and who are formless,
 >|       you who are both being and non-being,
@@ -337,7 +337,7 @@ the music of the original:
 >|       and bestow your grace, o Guha”.
 
 I suggest that this stanza is no "word-jugglery” but perfection
-itself as far as philosophic poetry goes—both in thought-content
+itself—as far as philosophic poetry goes—both in thought-content
 and in form: a whole philosophy is expressed in three lines of poetry
 which sounds like music. This is Aruṇakiri's real greatness: he has
 reached extreme limits in his masterly use of the phonaesthetic
@@ -351,22 +351,22 @@ in the *ōcai* or 'basic tone and rhythmic flow' of his stanzas.
 *vaṇṇam* (Skt. *varṇa*) is the prevalent phonaesthetic quality of
 a stanza, determined by the quantitative relations and structural
 positions of vocoid and contoid phonemes. Aruṇakiri is famous for
-this feature of his poems. The stanza from *Kantaranupūti* which
-was just quoted is an instance of a prevalent *iṭaiyina vaṇṇam* or
-"sonant, liquid colour" (prevalence of y,r,*l, v*, 1, *1)*. The stanza is,
+this feature of his poems. The stanza from *Kantaraṉupūti* which
+was just quoted is an instance of a prevalent *iṭaiyiṉa vaṇṇam* or
+"sonant, liquid colour" (prevalence of *y*,*r*,*l*, *v*, *ḷ*, *ḻ*)* The stanza is,
 however, carefully patterned from the point of its thought-content,
-too the basic principle being that of positive: negative pairs and
+too—the basic principle being that of positive: negative pairs and
 pairs of actor: action or result.
 
-*uru(vu)* "form": *aru(vu)* "formlessness"
-*ulatu* "existence": *ilatu* "non-existence"
-*malar* "blossom”: *maru* “fragrance"
-*maṇi* "jewel": *oḷi* "lustre"
-*karu* "seed" *uyir* "life"
-*kati* “mode”: *viti* “act"
+* *uru(vu)* "form": *aru(vu)* "formlessness"
+* *ulatu* "existence": *ilatu* "non-existence"
+* *malar* "blossom”: *maru* “fragrance"
+* *maṇi* "jewel": *oḷi* "lustre"
+* *karu* "seed" *uyir* "life"
+* *kati* “mode”: *viti* “act"
 
 Some of his poems are a blend of reflection and prayer, like the
-following one *(Tiruppukal* VI.186):
+following one *(Tiruppukaḻ* VI.186):
 
 >|       "We need clothes
 >|       to dress
@@ -379,7 +379,7 @@ following one *(Tiruppukal* VI.186):
 >|       as protector of kith and kin
 >|       Life passes by
 >|       as it withers aimless
->|       \ \ \ \ \ \ \ \ So
+>|               So
 >|       be merciful to me
 >|       Give me the knowledge
 >|       of realization
@@ -393,7 +393,7 @@ following one *(Tiruppukal* VI.186):
 
 Finally, as an instance of the pure prayers, praises, hymns
 addressed to Murukaṉ, we have chosen one in which Aruṇakiri the
-*bhakta* points to himself as a maid of the Lord *(Tiruppukal* V.69):
+*bhakta* points to himself as a maid of the Lord *(Tiruppukaḻ* V.69):
 
 >|       "Lord with the spear
 >|       worshipped by
@@ -421,11 +421,11 @@ addressed to Murukaṉ, we have chosen one in which Aruṇakiri the
 >|       and the call of black *kuyils* from the shore
 >|       echo of the sea
 >|       merged with waves of thoughts
->|       From the murderous arrows of Manmatan
+>|       From the murderous arrows of Maṉmataṉ
 >|       rescue this woman with creeper-like waist
 >|       from being destroyed in sorrows
 >|       You adorned with the *kura* flower
->|       grant me your garland of kaṭappa blossoms
+>|       grant me your garland of *kaṭappa* blossoms
 >|       strung round your wide arms!"
 >|
 >|       ---
@@ -439,20 +439,20 @@ his *Agni and Other Poems*:
 >|       "Like a child unto the barren womb,
 >|       Like a mine of new-found treasures,
 >|       Like a floor of diamonds,
->|       so be my songs.
+>|               so be my songs.
 >|       
 >|       Like the wilful embrace of Love's soft bosom,
 >|       Like a string of the purest gems,
 >|       Like a garden of fragrant blossoms,
 >|       Like the river that descends from heaven,
->|       even so be my songs.
+>|               even so be my songs.
 >|       Like the daughter of the ocean,
 >|       
 >|       Like eyes unto poets,
 >|       Like a stream full to the brim easy to drink of,
 >|       Like the vase of the nectar of Thy beauty,
 >|       So be my wondrous songs of love,
->|       by Thy grace, o Lord".
+>|               by Thy grace, o Lord".
 
 Lastly, there is one more feature of Aruṇakiri's poetry that
 should be mentioned: his conception of Murukaṉ. True to the
@@ -464,16 +464,16 @@ patron of poetry, and the god of the Tamil language.
 >|       "The bridegroom of Vaḷḷi
 >|       with tresses adorned with garlands
 >|       is ready to foster
->|       even those who curse and abusein
->|       threefold Tamil!"
+>|       even those who curse and abuse—
+>|       in threefold Tamil!"
 
 And, elsewhere, Aruṇakiri cries out, full of rapture, in verses in
 which Tamil and Sanskrit blend in resonant music:
 
->|       *muttamil* vitva
->|       *vinōtā! kītā*!
->|       *marravar* oppilā
->|       *rūpā*! tīpā!
+>|       *muttamiḻ vitva*
+>|       *vinōtā! kītā!*
+>|       *maṟṟavar oppilā*
+>|       *rūpā! tīpā!*
 >|       
 >|       "O beauty, o wisdom of three-fold Tamil!
 >|       O song!

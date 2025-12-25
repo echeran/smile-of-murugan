@@ -1,10 +1,10 @@
 # The Prose Of The Commentators
 
-"Like the oil pressed out of sesamum-seed,
-so grammar derives from literature".
+> "Like the oil pressed out of sesamum-seed,
+> so grammar derives from literature".
 
 The primacy of literature before grammar was mentioned in our
-discussion of the Tolkāppiyam. Analogically, before there was a
+discussion of the *Tolkāppiyam*. Analogically, before there was a
 commentary, *urai*, there must have been the original text, *mūlam*.
 Although, according to Pērāciriyar (13th Cent. A.D.), there had
 been a time when there were no commentaries, and literary works
@@ -14,7 +14,7 @@ hardly imagine a classical text without a commentary. And there
 are texts to which the commentaries are considered decidedly more
 important and relevant than the text itself.[^some-commentaries-more-important-than-text]
 
-[^literature-commentaries-everyone-understood]: Tolk*. Marapiyal* ss. 98, 101, Pērāciriyar's comm.
+[^literature-commentaries-everyone-understood]: *Tolk. Marapiyal* ss. 98, 101, Pērāciriyar's comm.
 
 [^some-commentaries-more-important-than-text]: E.g. Nakkīrar's celebrated commentary to *Iṟaiyaṉār Akapporuḷ* alias
 *Kaḷaviyal.*
@@ -26,15 +26,15 @@ Bharatidasan and Kannadasan, composed a few works as "commentaries"
 in verse upon ancient classical texts.[^bharatidasan-commentary-in-verse] But, generally
 speaking, it is the prose-commentaries one usually has in mind
 when discussing the important cultural phenomenon which is
-called urai.[^terms-etymology]
-
+called *urai*.[^terms-etymology]
+s
 [^commentaries-in-verse-not-typical]: Cf. U. Vē. Cāminātaiyar, *Tiruvalluvarum tirukkuralum,* 8.
 
-[^bharatidasan-commentary-in-verse]: Cf. Päratitācan (Bharatidasan) *Kavitaikal,* 2nd vol., containing a
+[^bharatidasan-commentary-in-verse]: Cf. Pāratitācan (Bharatidasan) *Kavitaikal,* 2nd vol., containing a
 "verse-commentary" on some *Kuṟuntokai* poems, and Kannadasan's poetic
 comments upon *Muttoḷḷāyiram*.
 
-[^terms-etymology]: For the etymology of the two basic terms: *mūlam* < Sanskr. *mula-*
+[^terms-etymology]: For the etymology of the two basic terms: *mūlam* < Sanskr. *mūla-*
 “root, base, fundament, basic, original text"; *urai* (Dr. ?) "word, speech;
 word of praise; comment, commentary; to say, speak, utter, comment".
 
@@ -67,7 +67,7 @@ and polemics were quite welcome; finally, there was
 the tendency to systematize, to be as exhaustive and as explicit as
 possible; reading became study.
 
-[^bhakti-not-lit]: It is significant that, in this respect, the *bhakti* hymns, especially Saiva
+[^bhakti-not-lit]: It is significant that, in this respect, the *bhakti* hymns, especially Śaiva
 bhakti literature, were not considered "literature": they were not supposed
 to be commented upon; there was a sort of tabu on any commenting upon
 these hymns.
@@ -90,7 +90,7 @@ printed along with) the original text under the term *kuṟippurai* or
 
 Somewhat more explicit and detailed commentaries (like the old
 anonymous commentary to *Puṟanāṉūṟu* or Parimēlaḻakar's commenry
-on *paripāṭal)* are called *polippurai* or "abstracts", "summaries".
+on *Paripāṭal)* are called *poḻippurai* or "abstracts", "summaries".
 
 In course of time, commentaries became more involved and
 intricate, their form developed with the growth of ideas and the
@@ -99,15 +99,15 @@ former generations of scholars, and finally, after the texts were
 recorded in writing, much more complicated patterns evolved,
 including quotations of a number of examples, polemic passages,
 etc. These detailed, complicated commentaries are termed *virivurai*
-or *viritturai*, "detailed commentaries, dissertations”, and *viļakkurai,*
-*viļakkavurai*, “exemplifying commentary".
+or *viritturai*, "detailed commentaries, dissertations”, and *viḷakkurai,*
+*viḷakkavurai*, “exemplifying commentary".
 
 There can be hardly any doubt that, originally, commentaries
 were transmitted orally in the same way as the underlying literary
 texts. This fact is explicitly mentioned e.g. in the famous commentary
 of Nakkīrar (8th Cent. A.D.) to *Iṟaiyaṉār Akapporuḷ.* It
-says: ini *urai naṭantu vantavāru collutum* "Now we shall reveal the
-way (āru) how the commentary came down [to us] (*naṭantu vanta*)”;
+says: *iṉi urai naṭantu vantavāṟu collutum* "Now we shall reveal the
+way (āṟu) how the commentary came down [to us] (*naṭantu vanta*)”;
 and it goes on to report how the commentary passed from Nakkīrar
 to his son, etc., and how, finally, after having passed through eight
 generations of scholiasts, it was finally fixed by a Nilakaṇṭan of
@@ -116,12 +116,12 @@ Muciṟi.
 The origin of the commentaries may be sought in discourses
 between the teachers and the students, in other words, in the
 initiatory and personal structure of learning. There are many
-commentaries which still retain the character of *vināviṭai—*“questitions
+commentaries which still retain the character of *viṉāviṭai*—“questitions
 (and) answers". In most commentaries, statements are interrupted
-with brief questions like *ennai* "what?" or *atu eññanam*
+with brief questions like *eṉṉai* "what?" or *atu eṅṅaṉam*
 "How is that?" Many statements are introduced with phrases like
-*ahtu ennanam enin,* lit. "if you say how is that" or *iccūttiram ennuta-*
-lirrō *venin* "if you ask whether this is what this *sūtra* says”, which
+*aẖtu eṅṅaṉam eṉiṉ,* lit. "if you say how is that" or *iccūttiram eṉṉutaliṟṟō veṉiṉ*
+ "if you ask whether this is what this *sūtra* says”, which
 show that such statements are in fact answers to questions. Such
 phrases became established and recurrent formulae in course
 of time.
@@ -130,21 +130,21 @@ As time went by, the great classical commentaries became in
 part unintelligible. Thus a need arose to comment upon them, and
 the super-commentaries or commentaries on commentaries (*uraikkurai*)
 were born. A typical case is, e.g., that of the great commentary
-of Parimēlaḻakar on the "Sacred *Kural”*. In the 17th Century,
+of Parimēlaḻakar on the "Sacred *Kuṟaḷ”*. In the 17th Century,
 T. Irattiņa Kavirāyar composed a commentary to Parimēlaḻakar's
-commentary (called *Nunporuḷ mālai*). Another super-commentary
+commentary (called *Nuṇporuḷ mālai*). Another super-commentary
 was written in 1869, and another in 1885 (by Murugesa Mudaliar).
 We have, in addition, five other modern commentaries which
 comment upon Parimēlaḻakar's classical work.
 
-The function of a commentary should, ideally-according to the
-traditional view-be,
+The function of a commentary should, ideally—according to the
+traditional view—be,
 
 a) to split and dissect, analyze and examine the text word by
 word and to give, in paraphrase, the meaning of each item in the
 text;
 
-b) to quote examples and illustrations; and parallel loci from
+b) to quote examples and illustrations; and parallel *loci* from
 other texts;
 
 c) to discuss, in form of questions and answers, the merits and
@@ -169,22 +169,22 @@ of the earliest extant recorded commentary, Nakkīrar on *Iṟaiyaṉār*
 distinguished:
 
 1. *karutturai*: should reflect and explain the sense of the text
-*(karuttu* "thought: sense");
-1. *kanṇalitturai*: should split the utterances into constituent
-words and give the gloss for each word (*kaṇṇalivu* is the *terminus*
+*(karuttu* = "thought: sense");
+1. *kanṇaḻitturai*: should split the utterances into constituent
+words and give the gloss for each word (*kaṇṇaḻivu* is the *terminus*
 *technicus* for the process of "dissolving" the *sandhi*—the syntactophonemic
-and morphophonemic rules-and splitting up a stretch
-of text into isolated words); also termed *patavurai,* lit. "wordcommentary";
-1. polippurai, the abstract, the summary of the text (polippu,
-"compendium, digest, synopsis"); also termed *mutipu,* “summary”);
+and morphophonemic rules—and splitting up a stretch
+of text into isolated words); also termed *patavurai,* lit. "word-commentary";
+1. *poḻippurai*, the abstract, the summary of the text (*poḻippu*,
+"compendium, digest, synopsis"); also termed *muṭipu,* “summary”);
 1. *akalavurai* or *akalam*: the detailed and elaborate exposition
 with examples and discussions (*akalam,* lit. “breadth, width").
 
 The best commentaries usually combine all these aspects and
 procedures. Thus e.g. U. V. Cuvāminātaiyar's Commentary on
 *Kuṟuntokai* (1937) proceeds along the following scheme: 1) *varia*
-*lectiones* (textual variations, piratipētam, abbreviation p-*m*); 2)
-"word-commentary" (*patavurai*) ;3) summary (muṭipu); 4) basic
+*lectiones* (textual variations, *piratipētam*, abbreviation *p-m*); 2)
+"word-commentary" (*patavurai*) ;3) summary (*muṭipu*); 4) basic
 sense, basic idea (*karuttu*); 5) detailed exposition (*vicēṭavurai*) including
 parallelisms and concordances.
 
@@ -204,16 +204,16 @@ a) *kāṇṭikai,* which paraphrases the text, explains the meaning
 of the original (usually in form of questions and answers), and
 gives illustrations, and
 
-b) virutti, which, in addition to the functions mentioned above,
+b) *virutti*, which, in addition to the functions mentioned above,
 critically evaluates other commentaries, engages in discussion, and
 supplements the text with its own data.
 
-The prefatory verses-*payiram* (or *puravurai*)—to a work can
+The prefatory verses—*pāyiram* (or *puṟavurai*)—to a work can
 also be considered as a sort of commentary since they provide
 information (usually embodying current oral tradition) about the
 author's name, origin, education and learning, about his patron,
-etc.[^typical-manner-of-titles] There are two basic types of prefatory verses: the *potu* pāyiram,
-"general preface", and the ciṟappu pāyiram, “specific preface". Later,
+etc.[^typical-manner-of-titles] There are two basic types of prefatory verses: the *potu pāyiram*,
+"general preface", and the *ciṟappu pāyiram*, “specific preface". Later,
 however, there was some development in this genre, too, and the
 late medieval state of affairs may be symbolized by the following
 diagram:
@@ -221,10 +221,10 @@ diagram:
 [^typical-manner-of-titles]: It should also give the title of the book and explain it. Traditionally, a
 book should be entitled in either of the following five manners: 1. according
 to its author, e.g. *Akattiyam* (written by Agastya); 2. according to its patron
-(e.g. *Ilantiraiyam*); 3. according to its size and/or the number of its parts
-(e.g. *Pannirupaṭalam,* lit. "12 chapters"); 4. according to its content and
+(e.g. *Iḷantiraiyam*); 3. according to its size and/or the number of its parts
+(e.g. *Paṉṉirupaṭalam,* lit. "12 chapters"); 4. according to its content and
 importance (e.g. *Kaḷaviyal* "The Treatise on Secret Love"); 5. by an "arbitrary"
-or "primitive" descriptive term (e.g. *Nikanṭu* “Dictionary”).
+or "primitive" descriptive term (e.g. *Nikaṇṭu* “Dictionary”).
 
 
 ![](img/page-252-late-medieval-prefatory-categories.png)
@@ -257,11 +257,11 @@ the grammar, Pavaṇanti:
 "specific preface" (aphorisms 1-3).
 
 1) It must have a place in one of the three orders of a literary
-work, the primary, original (*mutal)*, the deductive, derived (*vali*), the
+work, the primary, original (*mutal)*, the deductive, derived (*vaḻi*), the
 supporting or supplemental (*puṭai, cārpu*) (5-8).
 
 1) It must be advantageous for the reader in his quest after one
-or the other of the four grand objects-virtue, wealth, pleasure
+or the other of the four grand objects—virtue, wealth, pleasure
 or deliverance (9).
 
 1) It must agree with one or more of the *7* principles of authorship
@@ -280,8 +280,8 @@ clarity (12).
 
 7) It must possess the 32 niceties (*utti*) (13).
 
-8) It must be composed in terms of ōttu (section), *paṭalam*
-(chapter) and *cuttiram (sūtra,* aphorism). An aphorism of expository
+8) It must be composed in terms of *ōttu* (section), *paṭalam*
+(chapter) and *cuttiram* (*sūtra,* aphorism). An aphorism of expository
 literature must follow another aphorism in regular and natural
 order like the flow of a river; it must have "lion's look” (i.e. "look"
 forward and backward); it must “leap with ease like a frog"; and
@@ -305,7 +305,7 @@ only from the data provided by commentaries. They have preserved
 names of writers and titles of works which have otherwise got lost.
 More important than that, the commentators, in giving illustrations
 and examples, have preserved a number of verses and lines of lost
-works, or stray individual poems *(tanipāṭal*) which would have
+works, or stray individual poems *(taṉipāṭal*) which would have
 otherwise never reached us. Of particular interest and import is
 the fact that they have conserved folklore material (tales, proverbs,
 even folksongs). A wealth of cultural and sociological material has
@@ -313,7 +313,7 @@ also been amassed by the commentators.
 
 The commentaries have also great value for the historical linguist,
 reflecting the development of the language of a particular type—
-the expository style of Standard Tamil-through almost ten
+the expository style of Standard Tamil—through almost ten
 centuries. And there is of course their primary function: to comment
 upon the original texts.
 
@@ -326,17 +326,17 @@ the same time, scholars, editors, and commentators themselves and
 as direct heirs of the medieval commentatorial and scholastic
 tradition, they themselves wrote important commentaries: foremost
 among those who were, on the one hand, responsible for the
-creation of modern Tamil prose-fiction and non-fiction—and, on
+creation of modern Tamil prose—fiction and non-fiction—and, on
 the other hand, composed, themselves, valuable commentaries,
-based in structure, language and style-on the classical medieval
+based in structure, language and style—on the classical medieval
 works, were Āṟumuka Nāvalar of Jaffna (1822-1876), the great
 editor Dr. U. V. Cuvāminātaiyar (1855-1942), the great purist
-Marai Malai Aṭikaḷ (1876-1950), and the many-sided Tiru. Vi.
+Maṟai Malai Aṭikaḷ (1876-1950), and the many-sided Tiru. Vi.
 Kalyāṇacuntara Mutaliyār (1883-1953).
 
 The first full-fledged commentary which has come down to us
-is Nakkīrar's commentary on Iṟaiyaṉār's Akapporuḷ (alias *Kaļa-*
-*viyal)*. It probably belongs to the 8th Cent. A.D., but its final shape
+is Nakkīrar's commentary on Iṟaiyaṉār's *Akapporuḷ* (alias *Kaḷaviyal)*.
+ It probably belongs to the 8th Cent. A.D., but its final shape
 may be later.[^date-first-commentary] It is so very important because it consists of pages
 and pages of prose, which seems to grow, quite organically, out of
 the most popular classical Tamil metre, the *akaval (āciriyam)*. “One
@@ -357,7 +357,7 @@ text of the commentary, at least as far as our knowledge goes. Later careful
 investigation of the text can fix a more precise date. The final shape of the
 commentary may be later: 10th-11th Cent. A.D.
 
-[^first-commentary-akaval-prose]: C. and J. Jesudasan, *History* of *Tamil Literature,* 196-7.
+[^first-commentary-akaval-prose]: C. and J. Jesudasan, *History of Tamil Literature,* 196-7.
 
 I am afraid I can hardly agree with this judgement. It is true that
 Nakkīrar's prose is ornate, “poetic", full of similes and metaphors.
@@ -373,22 +373,22 @@ actually heard the rhythm of *akaval* (a metre which he must
 have known extremely well) and listened attentively to the *akaval*
 *ōcai,* the "narrative musical tone” of that metre. For this is precisely
 the rhythm of his prose. M. V. Aravintan, the author of an excellent
-book in Tamil called *uraiyāciriyarkaḷ*, “Commentators” (Madras,
+book in Tamil called *Uraiyāciriyarkaḷ*, “Commentators” (Madras,
 1968), gives an illustration which shows how very much is, in its
 structure, Nakkīrar's prose "*akaval*-like”.[^nakkirar-prose-akaval-like]
 
-[^outstanding-prosaic-work]: He calls it *oru ciranta urainaṭainul,* “an outstanding prosaic work”. In
-*Ninkalum cuvaiyunkal* (1954), 195-6.
+[^outstanding-prosaic-work]: He calls it *oru ciṟanta urainaṭainūl,* “an outstanding prosaic work”. In
+*Niṅkaḷum cuvaiyuṅkaḷ* (1954), 195-6.
 
-[^nakkirar-prose-akaval-like]: Nakkīrar's commentary: innūl *ceytār* yārō enin, *māl varai puraiyum*
-*māṭakkūṭal ālavāyiṟ pal purai pacunkatirk kulavittinkaļaik kuṟunkaṇṇiyāka*
-*utaiya alalavir* cōti *arumaraik katavul enpatu* (*ed*. 1939, p. 3).
+[^nakkirar-prose-akaval-like]: Nakkīrar's commentary: *innūl ceytār yārō eṉiṉ, māl varai puraiyum*
+*māṭakkūṭal ālavāyiṟ pal purai pacuṅkatirk kuḻavittiṅkaḷaik kuṟuṅkaṇṇiyāka*
+*uṭaiya aḻalavir cōti arumaṟaik kaṭavuḷ eṉpatu* (*ed*. 1939, p. 3).
 
 One of the great qualities of this commentary is its liveliness,
 the fact that it is not at all pedantic, not at all dry; we do not find
 in it those endlessly involved complex sentences where we lose our
 breath in the search for a finite verb, stumbling across innumerable
-boulders of absolutives-constructions which are so cherished by
+boulders of absolutives—constructions which are so cherished by
 some of the medieval commentators. On the contrary: Nakkīrar's
 utterances are comparatively short, well-built, balanced; and in
 a particularly effective way he knows how to use the combination
@@ -406,20 +406,20 @@ If there is a difference between this commentary and all other
 later commentaries, it is in the fact that Nakkīrar's work is not
 so much a piece of expository and eruditory literature as rather
 a "poem in prose". It lacks the deep scholarship, the searching
-intellectualism, the argumentative, even polemic tone-and also
+intellectualism, the argumentative, even polemic tone—and also
 the insolence, pedantism, and errors of later commentaries.
 
 There are a few truly great pages and paragraphs in this commentary.
-One of them is e.g. in praise of *anpu,* “affection, love”;
+One of them is e.g. in praise of *aṉpu,* “affection, love”;
 the loving person's characteristic features are "to die with the
 dying, to suffer with the suffering, to give generously, to speak
 sweet and gentle words, to love ardently in union and to pine
 anxiously in separation". The lover should be "wise, faithful, understanding
 and resolute"; the woman should be “modest, shy, timid
-and virtuous". Or consider the following similes: "like the sandaltree,
+and virtuous". Or consider the following similes: "like the sandal-tree,
 standing scorched and fading in the summer-heat, when it
 sprouts again after it received rain" *(cūttirai* 3); or this striking one:
-"she became pale and her heart melted and thawed like a waxfigure
+"she became pale and her heart melted and thawed like a wax-figure
 placed before glowing flame, like a dimmed, blurred reflection
 when one blows on the surface of a mirror...".
 
@@ -428,7 +428,7 @@ While the underlying text may be superior to the commentary[^text-versus-comment
 this magnificent piece of prose at the very source of its prosaic
 literary tradition sometime in the 8th Cent. A.D.
 
-[^text-versus-commentary-quality]: C. and H. Jesudasan, op. cit. p. 196.
+[^text-versus-commentary-quality]: C. and H. Jesudasan, *op. cit.* p. 196.
 
 Iḷampūraṇar wrote a commentary on the *Tolkāppiyam* some time
 in the 11th-12th Century. His style was compared to a "quietly
@@ -449,24 +449,24 @@ According to V. V. S. Aiyar,[^peraciriyar-style] "his style is grammatical, grap
 and simple. This is the best specimen of elegant and simple prose".
 T. P. Meenakshisundaran finds his style "dignified". I have to
 admire, above all, Pērāciriyar's ability to attune the style of his
-writing to the diction and style of the *mulam*, of the underlying
+writing to the diction and style of the *mūlam*, of the underlying
 text he was commenting upon. In the commentary to *Tolkāppiyam,*
 his style is terse, elegant, sharp, well-chiselled; however, in the
-commentary to Māṇikkavācakar's *Tirukkōvayār*, it is mellow,
+commentary to Māṇikkavācakar's *Tirukkōvaiyār*, it is mellow,
 sweet, melodious, and at the same time, admirably simple.
 
 [^peraciriyar-style]: Tamil—the *Language and Literature,* ed. 1950, 4.
 
-Aṭiyārkkunallar's commentary on the "Lay of the Anklet” is
+Aṭiyārkkunallār's commentary on the "Lay of the Anklet” is
 above all a mine of information and data, including some about
 a number of literary works now lost. However, his sentences are
 complex, long and broad, epic in character. His style is very high
 and learned. Occasionally, his commentary reads itself like a learned
 epic poem.
 
-Parimēlaḻakar (2nd half of the 13th--1st half of the 14th Cent.),
+Parimēlaḻakar (2nd half of the 13th—1st half of the 14th Cent.),
 a Brahmin of Kāňcipuram, is considered by many the "prince" of
-Tamil commentators. According to V. V. S. Aiyar (op. cit. 42), “his
+Tamil commentators. According to V. V. S. Aiyar (*op. cit.* 42), “his
 prose is very terse and in some places too brief to be easily
 intelligible ... Like the style of the great poet whose work he had
 taken to annotate, his style also is so much compressed in form that
@@ -479,8 +479,8 @@ I would not go as far as to say that he "twisted the text" "to
 fit his Brahmin prejudices", but Brahmanic, Sanskrit sources
 certainly enriched and influenced his thinking, as well as his
 vocabulary and style. The one quality which is traditionally
-attributed to Parimēlaḻakar's thinking and writing is teḷḷu, *teļivu,*
-*tenmai*, i.e. 'clarity'. This quality gives him a great power of argumentation,
+attributed to Parimēlaḻakar's thinking and writing is *teḷḷu, teḷivu,*
+*teṇmai*, i.e. 'clarity'. This quality gives him a great power of argumentation,
 one of the characteristic features of his commentaries.
 
 There are, however, students of Tamil who prefer Nacciņārkkiņiyar
@@ -494,16 +494,16 @@ very vivid and vehement author. He is also very learned, sometimes
 tending to display his great learning, and very sophisticated. I think,
 though, that he honestly tries to be impartial; that his commentaries
 show minute and critical observation; a clear mind and a vast erudition.
-His commentaries may always be classified as viruttis. According
+His commentaries may always be classified as *viruttis*. According
 to V. V. S. Aiyar (op. *cit.* p. 41), “it may be said that good prose
 writing commences with" Nacciṉārkkiṉiyar.
 
 [^self-projection]: C. and H. Jesudasan, *op*. cit. p. 216.
 
 The so-called *maṇipravāḷa*[^manipravalam] style was accepted as legitimate by
-the Sanskrit-oriented *Viracōliyam* (11th or 12th Cent. A.D.), a very
-interesting grammar writen by Puttiramittiran, a Buddhist. Though
-*manipravāļam* must be evaluated, in an overall estimation and
+the Sanskrit-oriented *Vīracōḻiyam* (11th or 12th Cent. A.D.), a very
+interesting grammar writen by Puttiramittiraṉ, a Buddhist. Though
+*maṇipravāḷam* must be evaluated, in an overall estimation and
 assessment of the history of Tamil language and literature, rather
 negatively, it was a very picturesque, colourful and plastic style
 which had its own charm. Characteristic for this hybrid jargon
@@ -511,12 +511,12 @@ is of course the exceedingly high percentage of Sanskrit loans,
 between 30-50% of the total vocabulary in a text (according to a
 count by J. J. Glazov, 1964, the percentage of Sanskrit loans in Tamil
 varies from 18 to 25%). Commentaries were written in this language
-mainly on Vaiṣṇava bhakti poems. To give an instance of this
+mainly on Vaiṣṇava *bhakti* poems. To give an instance of this
 diction: in a piece of *maṇipravāḷa* prose containing approximately
 125 words, I counted more than 35 Sanskrit loans including such
-*tatsama* ("appropriation" phase) loan-words like *prahāsikka,* atiprīti,
-*kastūri*, etc. Linguistically, there are three basic features of *maṇi-*
-*pravāļa* style: 1) high number of Sanskrit loan-words; but this
+*tatsama* ("appropriation" phase) loan-words like *prahāsikka,* *atiprīti*,
+*kastūri*, etc. Linguistically, there are three basic features of *maṇipravāḷa*
+ style: 1) high number of Sanskrit loan-words; but this
 feature alone does not sufficiently characterize *maṇipravāḷa*; the
 loans must be, mostly, 2) unadepted to Tamil phonemic system,
 i.e. must be of the *tatsama* type; and 3) a great number of structural
@@ -526,7 +526,7 @@ syntactic features of Sanskrit are found in Tamil constructions, etc.).
 
 [^manipravalam]: The term means "(white) pearls + (red) coral"; the pearls usually
 symbolize Sanskrit, the coral Tamil. According to a Malayalam grammar,
-*Līlātilakam*, *manipravāļa* means *bhāṣāsamskytayogam*, i.e. "the union of the
+*Līlātilakam*, *maṇipravāḷa* means *bhāṣāsamskytayogam*, i.e. "the union of the
 indigenous speech and Sanskrit".
 
 The commentatorial tradition has never been quite broken. When
@@ -542,8 +542,8 @@ though in a much lesser degree than previously.[^master-disciple-tradition]
 M. V. Venugopala Pillai (born 1896), one of the great teachers of the indigenous
 Tamil scholastic tradition. He is an outstanding editor and glossator,
 and and excellent and kind teacher. In this connection, I recall the words of
-M. Eliade (*Yoga*: *Immortality* and *Freedom*, 2nd ed. 1959, 5): "Strictly
-speaking, all traditional disciplines or crafts are, in India, taught by
+M. Eliade (*Yoga*: *Immortality and Freedom*, 2nd ed. 1959, 5): "Strictly
+speaking, ... all traditional disciplines or crafts are, in India, taught by
 masters and are thus initiations; for millenniums they have been transmitted
 orally, 'from mouth to ear". This fact is one of the most important components
 in the atmosphere which produced commentatorial literature.
@@ -553,10 +553,10 @@ In the "period of transition", when the Tamil country passed
 gradually into Muslim and then English hands, and when Tamil
 as a literary language was sadly neglected, the tradition of the
 commentaries was still kept alive, and the greatest literary personality
-from the *mutts,* the monasteries, Civañāṉa Muṇivar († *1785*),
+from the *mutts,* the monasteries, Civañāṉa Muṉivar († 1785),
 was a great commentator-probably a greater commentator and
 prose-writer than a poet. It is especially his monumental commentary
-on *Civaňāṇapōtam* which contains his best prose-passages.
+on *Civaňāṉapōtam* which contains his best prose-passages.
 
 And so we come to those "makers of modern Tamil", already
 mentioned, who were directly indebted, in their prose-writings, to
@@ -565,10 +565,10 @@ probably the most important of those who "bridged" medieval and
 modern prose, was the controversial Āṟumuka Nāvalar (1822-1876).
 He was a very prolific writer, editor, translator, and commentator.
 Besides a great number of original prose-works (narrations of
-*puranic* stories in prose, polemic writings against Christian missionaries)
+*purāṇic* stories in prose, polemic writings against Christian missionaries)
 and in addition to some translations (the Bible), he has written
 a number of commentaries, the chief of them a *kāṇṭikai urai* to
-the standard grammar *Naṉṉūl,* and a commentary to *Kōyilpurāņṇam*.
+the standard grammar *Naṉṉūl,* and a commentary to *Kōyilpurāṇam*.
 Although today we would probably describe his prose as dry,
 pedantic and monotonous, colourless and full of restraint, he
 deserves praise and gratitude for some of the great changes he
@@ -585,9 +585,9 @@ trends which are characteristic for a kind of Tamil prose even today.
 But, in an over-all assessment of his work, one has to agree
 with the opinion of T. P. Meenakshisundaran who says: "Ārumukanavalar
 of the nineteenth century is the father of modern literary
-prose the simple, elegant but grammatically correct prose".[^argumukanavalar-modern-prose]
+prose—the simple, elegant but grammatically correct prose".[^argumukanavalar-modern-prose]
 
-[^argumukanavalar-modern-prose]: C. and H. Jesudasan, op. cit. p. 176.
+[^argumukanavalar-modern-prose]: C. and H. Jesudasan, *op. cit.* p. 176.
 
 In the commentaries was thus incorporated a tremendous force
 of potentialities, a generator of syntactic and stylistic possibilities
@@ -610,7 +610,7 @@ changed drastically.
 *Cilappatikāram* XVIII, 11.51
 
 >|       "'O, Sun of burning rays! Is my husband a thief?'
->|       'He is not *a* thief, o woman with black fish-shaped eyes!
+>|       'He is not a thief, o woman with black fish-shaped eyes!
 >|       Glowing fire will devour this town!' so said a voice".
 
 Aṭiyārkkunallār's commentary on these lines:
@@ -620,29 +620,28 @@ is a thief. So she said, and he declared standing (there) in a bodiless
 state: Your husband is not a thief, o woman; look (how) this town
 which proclaimed him a thief, will be devoured by fire.
 
-*oḷḷeri =* 'the fire which will listen to your command';
-*ivvur* 'this town' 'this town which said this'.
+*oḷḷeri* = 'the fire which will listen to your command';
+*ivvūr* 'this town' 'this town which said this'.
 
-*unṇumivvur* 'will-eat this town' = *ivvūraiyuṇṇum* 'will-eat
+*unṇumivvūr* 'will-eat this town' = *ivvūraiyuṇṇum* 'will-eat
 this town-accusative suffix'; a finite verb".
 
 ## Appendix 2
 
 As an example of those medieval invocatory stanzas in praise
-of god *(kaṭavuļvāļttu*) which usually introduce Tamil poetic works
-I give a very close translation of Peruntēvaṇār's introductory poem
-to *Puṟanāṉūṟu.* Peruntēvaṇār's date was probably the 9th Cent.
+of god *(kaṭavuḷvāḻttu*) which usually introduce Tamil poetic works
+I give a very close translation of Peruntēvaṉār's introductory poem
+to *Puṟanāṉūṟu.* Peruntēvaṉār's date was probably the 9th Cent.
 
-*In praise of God. Sung by Peruntēvaṇār who composed the Pāratam.*
+*In praise of God. Sung by Peruntēvaṉār who composed the Pāratam.*
 
 >|       The perfect ascetic[^siva]
 >|       with abundant locks of falling hair
 >|       and with a jar which knows not want of water[^ganga]
->|       He
->|       the protector of all creatures alive
->|       The *konrai*-flower[^konrai-flower] which smells sweet after the rains
+>|       He—the protector of all creatures alive
+>|       The *koṉṟai*-flower[^konrai-flower] which smells sweet after the rains
 >|       his chaplet
->|       The *konrai*-flower-a wreath of many flowers
+>|       The *koṉṟai*-flower—a wreath of many flowers
 >|       on his chest
 >|       And the pure white bull[^nandi]
 >|       he rides
@@ -659,12 +658,12 @@ to *Puṟanāṉūṟu.* Peruntēvaṇār's date was probably the 9th Cent.
 
 [^siva]: Śiva
 
-[^ganga]:  Gaṅgā; Śiva is *Ganga-dhara,* Bearer-of-the-Gangā;
+[^ganga]:  Gaṅgā; Śiva is *Ganga-dhara,* Bearer-of-the-Gaṅgā;
 
 [^konrai-flower]: Indian laburnum, *Cassia fistula;* red I.1., *C. marginata (DED*
 1808)
 
-[^nandi]: Nandi, the vehicle of Siva (cf. *Mahābhārata* 13.6401).
+[^nandi]: Nandi, the vehicle of Śiva (cf. *Mahābhārata* 13.6401).
 The bull also appears on Śiva's banner as his emblem; Śiva is thus
 *Vṛṣabha-dhvaja,* “He whose banner is the bull"
 
@@ -678,7 +677,7 @@ into halves, one was male, the other female. The male in that female
 procreates the universe". Hence he is called *Ardhanariśvara,* “The
 Hermaphrodite"
 
-[^crescent-moon]: Siva bears on his head as a diadem the
+[^crescent-moon]: Śiva bears on his head as a diadem the
 crescent of the fifth-day moon
 
 [^everyone-praising-sivan]: i.e. the gods (*sura*), the antigods
@@ -687,7 +686,7 @@ crescent of the fifth-day moon
 half-men *(garuḍa*) the guardians of earthly treasures *(yakṣa)*, the
 demons *(rākṣasa*), the celestial musicians *(gandharva)*, the perfect
 ones *(siddha)*, heavenly panegyrists *(cāraṇa*), benevolent aerial
-spirits (*vidyadhara*), serpents *(nāga*), ghosts (*bhūta*), vampires
+spirits (*vidyādhara*), serpents *(nāga*), ghosts (*bhūta*), vampires
 *(vetāla)*, hosts of stars *(tārāgaṇa*), aerial beings (*ākāśavāsi*), inhabitants
 of paradise *(bhogabhūmi)*.
 
@@ -695,12 +694,12 @@ of paradise *(bhogabhūmi)*.
 
 As an instance of ciṟappuppāyiram, "The specific preface", I give
 here an English rendering of the famous and very important preface
-to *Tolkāppiyam* by Paṇampāraṇār.
+to *Tolkāppiyam* by Paṉampāraṉār.
 
 >|       In the beautiful world
 >|       which speaks Tamil
 >|       between
->|       Northern Venkatam[^venkatam-tirupati] and Southern Kumari[^southern-kumari]
+>|       Northern Vēṅkaṭam[^venkatam-tirupati] and Southern Kumari[^southern-kumari]
 >|       he explored
 >|       the sounds, the words, and the things,[^tolkappiyam-three-books]
 >|       and he has fathomed
@@ -708,11 +707,11 @@ to *Tolkāppiyam* by Paṇampāraṇār.
 >|       and inquired into the ancient books[^ancient-books]
 >|       in the land stirred with Straight Tamil,[^centamil]
 >|       and he designed a perfect plan
->|       and gathered knowledge as in faultless words[^faultless-words]
+>|       and gathered knowledge as in faultless words[^faultless-words]—
 >|       he, the ascetic[^ascetic]
 >|       established in ample fame,
 >|       who revealed his name as Tolkāppiyaṉ[^tolkappiyan] versed
->|       in aintiram[^aintiram]
+>|       in *aintiram*[^aintiram]
 >|       surrounded by the surging waves;
 >|       and he has shown the system and the order
 >|       which starts with sounds
@@ -721,7 +720,7 @@ to *Tolkāppiyam* by Paṇampāraṇār.
 >|       of the Teacher of Ataṅkōṭu,[^atankotu]
 >|       ripe in the wisdom of the four Vedas,[^four-scriptures]
 >|       whose tongue resounded with *dharma,*[^darmam]
->|       in the assembly of Pantiyan,[^which-pantiyan-king]
+>|       in the assembly of Pāṇṭiyaṉ,[^which-pantiyan-king]
 >|       glorious and land-bestowing.
 
 
@@ -729,14 +728,13 @@ to *Tolkāppiyam* by Paṇampāraṇār.
 Madras, a place which has been always considered the northern
 boundary of Tamiḻnāṭu
 
-[^southern-kumari]: Ta. *tenkumari*, prob. Kumarimuņai,
+[^southern-kumari]: Ta. *teṉkumari*, prob. Kumarimuṉai,
 Cape Comorin; but may also refer to the river Kumari
 
-[^tolkappiyam-three-books]: Ta.
-*eḻuttu*, *col*, *poruḷ*, i.e. the three main subjects of the three books
+[^tolkappiyam-three-books]: Ta. *eḻuttu*, *col*, *poruḷ*, i.e. the three main subjects of the three books
 *(atikāram*) of the grammar
 
-[^speech-and-poetry]: Ta. *valakku,* the colloquial, spoken
+[^speech-and-poetry]: Ta. *vaḻakku,* the colloquial, spoken
 language; *ceyyuḷ,* the poetry, the language of poetry, the literary
 language
 
@@ -758,28 +756,28 @@ faultless".
 [^ascetic]: *paṭimaiyōn* = (Jain) ascetic
 
 [^tolkappiyan]: Nacciṉārkkiṉiyar uses
-this occasion to give his account of the legend about Tolkāppiyaṉ
+this occasion to give his account of the legend about Tolkāppiyaṉ =
 Tiraṇatūmākkiṉi
 
-[^aintiram]: *aintiram* the *aindra* grammatical system;
+[^aintiram]: *aintiram* = the *aindra* grammatical system;
 for some "Dravidian"-minded nationalists this sounds too "Aryan",
-and so they read it as *ain tiram,* and interpret it as "five-fold skill"
-(i.e. *eḻuttu, col*, poruḷ, yāppu*, ani*); amusing but false.
+and so they read it as *ain tiṟam,* and interpret it as "five-fold skill"
+(i.e. *eḻuttu*, *col*, *poruḷ*, *yāppu*, *aṇi*); amusing but false.
 
 [^atankotu]:  Who this
-was, we do not know; the word *ācāṇ* is identical in meaning with
+was, we do not know; the word *ācāṉ* is identical in meaning with
 *āciriyaṉ* "teacher, preceptor, *guru*" (epigraphic *ācirikar, asiriyka),*
 but also with *arukaṉ* < *Argha-*! It occurs frequently in Malayalam
 names (cf. e.g. the well-known poet from Kerala, Kumāran Ācān).
-The commentator says *Atanköōṭṭāciriyar,* "The teacher of A."; this
+The commentator says *Atankōṭṭāciriyar,* "The teacher of A."; this
 is one of the data which point (vaguely) to a connection between the
-*Tolkāppiyam* and South Kerala
+*Tolkāppiyam* and South Kerala.
 
-[^four-scriptures]: *nāṇmarai*
+[^four-scriptures]: *nāṇmaṟai*
 
-[^darmam]: *aram*
+[^darmam]: *aṟam*
 
 [^which-pantiyan-king]:  We
 do not know who this Pāṇṭiyaṉ king was. But it again seems to
-point to Southern Tamilnad or (todays) South Kerala.
+point to Southern Tamilnad or (today's) South Kerala.
 
