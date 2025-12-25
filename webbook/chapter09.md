@@ -592,7 +592,7 @@ S. Vaiyapuri Pillai also points to Tolkāppiyaṉ using the term
 *ilakkaṇam* <Pkt. *lakhana-*, Skt. *lakṣaṇa-* in the sense of "grammar”;
 this, he says, was first introduced by Pataňjali (cf. *HTLL,* p. 49).[^grammar-etymology]
 
-[^grammar-etymology]: Cf. *Tolk. Col.* 27. Before Patañjali, only the term *vyäkaraṇa-* was used to
+[^grammar-etymology]: Cf. *Tolk. Col.* 27. Before Patañjali, only the term *vyākaraṇa-* was used to
 denote "grammar". Cf. also Tolkāppiyaṉ's use of the loan-translation *kuṟi*
 "sign" (cf. Skt. *lakṣaṇa-* in the same meaning) to denote “grammar" in
 *Tolk*. *Poruḷ.* 50. These points are discussed at length in Tamil by S. Vaiyapuri

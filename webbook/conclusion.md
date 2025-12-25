@@ -91,7 +91,7 @@ be enriched by their general knowledge.
 >|       ninnati *yulli vantanen*
 >|       
 >|       ---
->|       (*Tirumurukärruppatai* 268...279)
+>|       (*Tirumurukārruppatai* 268...279)
 
 >|       "O lion
 >|       among poets with mellifluous speech

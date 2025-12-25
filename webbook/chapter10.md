@@ -38,7 +38,7 @@ Vaḷḷuvar”), 4. *Poyyāmoḻi* “The falseless word", 5. *Vāyuṟai vā�
  "The Tamil Veda".
 
 [^extra-titles]: In addition to these traditional names, three more titles occur (*Tiruvaḷḷuvappayaṉ*
- in *Yāpparunkalakāvikai* 40 *urai, Tamiḻmuṉunūl* in Parimēlaḻakar's
+ in *Yāpparuṅkalakāvikai* 40 *urai, Tamiḻmuṉunūl* in Parimēlaḻakar's
 *Commentary*, and *Tiruvaḷḷuvamālai*, cf. S. Vaiyapuri Pillai, *Tamiḻc*
 *cuṭar maṇikaḷ* 101). According to S. Vaiyapuri, Nos 1, 4, 5 and 8 are taken
 from *Tiruvaḷḷuvamālai,* a later eulogy, a collection of stanzas in praise of the

@@ -469,7 +469,7 @@ Commentary on just two words of the 1st *sūtram* of Iṟaiyaṉār's
 *Akapporuḷ* (*aṉpiṉ aintiṇai* “the five situations of love"). He bases
 his *exposé* on tradition and on the *TP* which he quotes whenever
 necessary. After an engaging and charming discussion of what is
-*anpu* "love" (ed. 1939, pp. 18-20), Nakkīrar asks: "What does
+*aṉpu* "love" (ed. 1939, pp. 18-20), Nakkīrar asks: "What does
 *aintiṇai* mean?" And his answer to this question is a brilliant
 treatment of the theory of the five physiographic regions and the
 five basic love-situations.

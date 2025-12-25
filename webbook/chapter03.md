@@ -703,7 +703,7 @@ is "(The coin) of the king Siri Satakaṇi (Śrī Śātakarṇi) Vasiṭiputa
  This king established himself
 on the *Śātavāhana* throne perhaps in 168 or 170 A.D.[^sewell-historical-inscriptions] This short
 bilingual is only a slight corroboration of our dating, but it *is* a kind
-of evidence: first, it shows the use of Brähmi for epigraphic Tamil in
+of evidence: first, it shows the use of Brāhmi for epigraphic Tamil in
 the 2nd Cent. A.D.; second, it shows the use of Tamil as an important
 language side by side with Prakrit—probably a *lingua-franca*
  of the South of that time (the *Śātakarṇis* were an *Ãndhra,*
