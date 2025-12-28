@@ -189,7 +189,7 @@ frequently, however, very influential, and sometimes rather
 affluent. When a poet in *Puṟ*. 208. 7-8 says: "I am not singing for
 money" and "I am not a poet who barters his art", it implies the
 existence of "mercenary" singers. Some of the poems speak even of
-the duty, of the obligation (*kataṉ,* lit. "debt") towards the minstrels
+the duty, of the obligation (*kaṭaṉ,* lit. "debt") towards the minstrels
 which the ruling monarchs and chieftains have to perform *(Pur.* 201. 14, 203. II).
 
 The learning of the minstrels was oral, acquired by imitation and
@@ -233,7 +233,7 @@ were minstrels who sang their songs to the accompaniment of the
 and in such medieval texts as the *Nantikkalampakam* (anonymous,
 of the time of Pallava Nandivarman III, 846-869; historically a
 reliable text), the *pāṇar* are compared with *pēy,* “the devils, the
-demons", and with *nay*, "the dogs".
+demons", and with *nāy*, "the dogs".
 
 *kūttar* 
 : were dancing minstrels, performers of choral dramas (a
