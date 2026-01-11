@@ -618,7 +618,7 @@ caste", *ā* "female of ox, sambur and buffalo".
 
 | | Lover's Union | Patient Waiting | Lover's Unfaithfulness | Anxiety, Separation | Elopement, Separation |
 |-|-|-|-|-|-|
-| Typical flower<br>(=name of region and poetic theme) | *kuriñci* | *mullai* | *marutam* | *neytal* | *pālai* |
+| Typical flower (=name of region and poetic theme) | *kuriñci* | *mullai* | *marutam* | *neytal* | *pālai* |
 | Landscape | mountains | forest, pasture | cultivated countryside | seashore | wasteland |
 | Season | cold season, early frost | rainy season | all seasons | all seasons | summer, late dew |
 | Time | night | evening | dawn | sunrise | midday |

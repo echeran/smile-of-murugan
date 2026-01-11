@@ -804,10 +804,10 @@ pattern of S<sub>1</sub> O<sub>1</sub> (O<sub>2</sub>).
 
 |     | S<sub>1</sub>                                         | S<sub>2</sub> | O<sub>1</sub>                           | O<sub>2</sub>                           |
 | --- | ----------------------------------------------------- | ------------- | --------------------------------------- | --------------------------------------- |
-| 1   | Is the very last of Śiva's devotees                   |               | Made him his own through his mercy      | Rides the bull<br>Is clad in tiger-skin |
+| 1   | Is the very last of Śiva's devotees                   |               | Made him his own through his mercy      | Rides the bull / Is clad in tiger-skin |
 |     | Fears to be forsaken by Śiva                          |               | Gives him up                            | King of Uttarak.                        |
-|     | Is tired and faints.<br>Prays to be supported by Śiva |               | (Supports him)                          | Has matted locks<br>The Lord            |
-| 2   | Lives in ignorance                                    |               | Loathes the devotee<br>Gives him up     | Jewel                                   |
+|     | Is tired and faints. / Prays to be supported by Śiva |               | (Supports him)                          | Has matted locks / The Lord            |
+| 2   | Lives in ignorance                                    |               | Loathes the devotee / Gives him up     | Jewel                                   |
 |     | Refuses the grace                                     |               | Destroys the devotee's chain of actions |                                         |
 |     | Fears to be forsaken by Śiva                          |               | Makes him his own                       | King of Uttarak.                        |
 |     | Considers himself to be a miserable dog               |               | Bears with the devotee's lies           | He who is great                         |

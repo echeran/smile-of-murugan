@@ -128,10 +128,10 @@ In A.K. Ramanujan's charming translation:
 The prosodic pattern is as follows:
 
 <div style="margin-left: 20%">
-＝ — / ＝ — / — ＝ / ＝ — <br>
-— — / — — / ＝ — / — — <br>
-＝ — / ＝ — / ＝ — <br>
-＝ ＝ / — ＝ / ＝ — / — —
+<div>＝ — / ＝ — / — ＝ / ＝ —</div>
+<div>— — / — — / ＝ — / — —</div>
+<div>＝ — / ＝ — / ＝ —</div>
+<div>＝ ＝ / — ＝ / ＝ — / — —</div>
 </div>
 
 We observe in this stanza four lines of four feet, the penultimate
@@ -282,10 +282,10 @@ metre, and hence the earliest type of stanzaic structure extant in the
 language. The metric patterns are
 
 <div style="margin-left: 20%">
-＝ ＝ / ＝ — / — ＝ / ＝ — — <br>
-— ＝ / — ＝ / — — / — — <br>
-＝ — / ＝ — / — — — <br>
-＝ — / ＝ — / — ＝ — / — —
+<div>＝ ＝ / ＝ — / — ＝ / ＝ — —</div>
+<div>— ＝ / — ＝ / — — / — —</div>
+<div>＝ — / ＝ — / — — —</div>
+<div>＝ — / ＝ — / — ＝ — / — —</div>
 </div>
 
 Before we go into the rhetoric analysis, let us observe yet another
@@ -968,16 +968,16 @@ Tamil text:
 >|        *Tiṇai*: *marutam*
 >|        Theme: What she said to her girl-friend on the spot where he took her.
 
-<br>
-
-1. Prosodic pattern:<br>5 lines, each of them four feet, the penultime three feet;
-<div style="margin-left: 20%">
-－ － / － － / － － / － － <br>
-－ ＝ / － － / － ＝ / － － <br>
-＝ － / － － / ＝ ＝ / － － <br>
-＝ ＝ / － － / － － <br>
-＝ － / － ＝ / ＝ － / － －
-</div>The metre is *akaval (āciriyam)*.
+1. Prosodic pattern:\
+    lines, each of them four feet, the penultime three feet;
+    <div style="margin-left: 20%">
+    <div>— — / — — / — — / — —</div>
+    <div>— ＝ / — — / — ＝ / — —</div>
+    <div>＝ — / — — / ＝ ＝ / — —</div>
+    <div>＝ ＝ / — — / — —</div>
+    <div>＝ — / — ＝ / ＝ — / — —</div>
+    </div>
+    The metre is *akaval (āciriyam)*.
 
 1. Word-by-word translation:
     (a) Who-ever (was) not (there) only-he the thief
@@ -987,57 +987,57 @@ Tamil text:
     (e) heron was alone (he) took (me) day
 
     Translation A
-    <br>
-    <blockquote>None else was there, but only he, the thief;<br>
-    Should he be false, what should I do?<br>
-    <br>
-    And when we met, there was in our sight<br>
-    Only the stork, with leg as thin as a wisp of straw,<br>
-    That into the gliding water peered for prey.<br>
-    <br>
-    (C. and H. Jesudasan, *A History of Tamil Literature*, 1961)<br>
-    </blockquote>
+    
+    >| None else was there, but only he, the thief;
+    >| Should he be false, what should I do?
+    >| 
+    >| And when we met, there was in our sight
+    >| Only the stork, with leg as thin as a wisp of straw,
+    >| That into the gliding water peered for prey.
+    >| 
+    >| (C. and H. Jesudasan, *A History of Tamil Literature*, 1961)
+    
 
     Translation B
-    <br>
-    <blockquote>There were no witnesses
-    when he embraced me.<br>
-    <br>
-    (If he leaves me now, what can I do?)<br>
-    Only a heron stood by,<br>
-    its thin gold legs like millet stalks,<br>
-    eying the aaral-fish,<br>
-    in the flowing water.<br>
-    <br>
-    (E. Annamalai - H. Schiffman, *Mahfil* IV, 3-4, 1968)<br>
-    </blockquote>
+    
+    >| There were no witnesses
+    >| when he embraced me.
+    >| 
+    >| (If he leaves me now, what can I do?)
+    >| Only a heron stood by,
+    >| its thin gold legs like millet stalks,
+    >| eying the aaral-fish,
+    >| in the flowing water.
+    >| 
+    >| (E. Annamalai - H. Schiffman, *Mahfil* IV, 3-4, 1968)
+    
 
     Translation C
-    <br>
-    <blockquote>Only the thief was there, no one else.<br>
-    And if he should lie, what can I do?<br>
-    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>There was only<br>
-    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>a thin-legged heron standing<br>
-    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on legs yellow as millet stems<br>
-    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>and looking<br>
-    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>for lampreys<br>
-    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>in the running water<br>
-    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>when he took me.<br>
-    <br>
-    (A. K. Ramanujan, The Interior *Landscape*, 1967)<br>
-    </blockquote>
+    
+    >| Only the thief was there, no one else.
+    >| And if he should lie, what can I do?
+    >|         There was only
+    >|                 a thin-legged heron standing
+    >|         on legs yellow as millet stems
+    >|         and looking
+    >|                 for lampreys
+    >|         in the running water
+    >|                 when he took me.
+    >| 
+    >| (A. K. Ramanujan, The Interior *Landscape*, 1967)
+    
 
     Translation D
-    <br>
-    <blockquote>None else was there but he,<br>
-    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>the thief.<br>
-    If he denies it, what shall I do?<br>
-    Only a heron stood by,<br>
-    its thin gold legs like millet stalks<br>
-    eyeing the *āral*-fish<br>
-    in the gliding water<br>
-    on the day<br>
-    he took me.<br>
-    <br>
-    (K. Zvelebil, 1967)<br>
-    </blockquote>
+    
+    >| None else was there but he,
+    >|                                 the thief.
+    >| If he denies it, what shall I do?
+    >| Only a heron stood by,
+    >| its thin gold legs like millet stalks
+    >| eyeing the *āral*-fish
+    >| in the gliding water
+    >| on the day
+    >| he took me.
+    >| 
+    >| (K. Zvelebil, 1967)
+    
