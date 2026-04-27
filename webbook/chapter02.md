@@ -381,7 +381,7 @@ qualities. There is even a specific term for this ideal man, appearing
 again and again in many stanzas—in fact one of the key-words of
 Tamil poetry, if not the key-word of the best in Tamil culture. I
 have in mind the term *cāṉṟōr*. This is a participial noun derived
-from the verb stem *cal* "to be abundant, full, suitable, filling, great,
+from the verb stem *cāl* "to be abundant, full, suitable, filling, great,
 noble"; the noun *cāl* means “fullness, abundance”*, cālpu* “excellence,
 nobility" (*DED* 2037 a). Hence *cāṉṟōṉ*, pl. *cāṉṟōr* means “a
 complete, a whole man, a perfect, noble man".
