@@ -200,7 +200,7 @@ the work. What is important are the characters and the style.
 Rajam Iyer has for the first time in Tamil prose-writing—created
 a number of characters which belong irrevocably to Tamil literature
 and will never disappear into oblivion. Kamalāmpāḷ, the heroine
-of the novel, and Poņṇammāļ, the lovely scandal-monger, Pēyāṇṭi
+of the novel, and Poņṇammāḷ, the lovely scandal-monger, Pēyāṇṭi
 Tēvaṉ, the robber, Amaiyappa Pillai, the teacher in the village
 school, Cuppu, the scandalous shrew who is unable to pronounce
 her r's correctly. A rare sense of humour pervades the book. From

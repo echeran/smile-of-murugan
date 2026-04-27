@@ -262,7 +262,7 @@ main *genres*: *akam* or *akapporuḷ*, and *puṟam* or *puṟapporuḷ*.
 *akam*
 : the meanings given in *DED* 8 are “inside, house, place,
 agricultural tract, breast, mind"; it occurs in all SDr
-languages + Tuļu and Telugu. This in itself should be
+languages + Tuḷu and Telugu. This in itself should be
 rather relevant. In the cultural and literary spheres, it also
 means "inner life", "private life" and, more specifically,
 "all aspects of *love*”, i.e. *premarital*, *marital* and *extramarital*
@@ -551,7 +551,7 @@ for Dr. cognates) "woman of the hill-tribe, woman of the *Kuṟava* tribe".
 lit. "husband, man”, *cērppaṉ* (cf. *cērppu* "sea-coast") "he of the sea-coast;
 chief of the sea-coast".
 
-[^fisherman-tribe]: *nuļai* "fishermen-tribe, fishermen-caste”; *nuḷaicci* "she of the fishermentribe";
+[^fisherman-tribe]: *nuḷai* "fishermen-tribe, fishermen-caste”; *nuḷaicci* "she of the fishermentribe";
 *paratti* “id.".
 
 [^kaviri-town]: E.g. *Kāvirippaṭṭiṉam*, lit. "the harbour-town on the Kaviri”, the

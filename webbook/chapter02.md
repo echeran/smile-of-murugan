@@ -195,8 +195,8 @@ which the ruling monarchs and chieftains have to perform *(Pur.* 201. 14, 203. I
 The learning of the minstrels was oral, acquired by imitation and
 practice; the basis of their knowledge was purely auditory. Cf. the
 term *kēḷvi* "learning" (specifically of the poets): primary meaning
-"hearing, sound” (<*kēļ*), or *kiḷavi* "word, speech, language,
-utterance" <*kiļa* "to speak", i.e. "to be heard" (*DED* 1677,
+"hearing, sound” (<*kēḷ*), or *kiḷavi* "word, speech, language,
+utterance" <*kiḷa* "to speak", i.e. "to be heard" (*DED* 1677,
 Burrow *BSOAS* 1943, 128); *kiḷavi* is used most frequently for
 "poetic utterance": all this points to the oral-auditory nature of
 early Tamil literature.
@@ -249,7 +249,7 @@ instrument in this case was the *taṭāri* or *kiṇai* “small drum".
 *akavunar, akavalar* or *akavar* < *akavu*
 : “to utter a sound as a peacock,
 to sing, call, summon", i.e. "summoners, callers". Probably
-"heralds". We also come across the term *akavaṉ makaļir* “women
+"heralds". We also come across the term *akavaṉ makaḷir* “women
 heralds".
 
 *viṟaliyar*

@@ -230,7 +230,7 @@ texts.
 However, it seems that we should go at least twenty years back
 for the true 'rediscoverer' of ancient Tamil literature. In 1868,
 Rev. H. Bower, an Englishman, published the first book of
-*Cīvakacintāmaṇi (Nāmakaļ Ilampakam): The Chintamani. First Book*
+*Cīvakacintāmaṇi (Nāmakaḷ Ilampakam): The Chintamani. First Book*
 *Called Namagal Ilambagam; with the Commentary of Nachinarkiniyar,*
 *and with analysis and notes in English, Tamil and English Indexes*,
 *and an English Introduction explaining the Jaina system on which*

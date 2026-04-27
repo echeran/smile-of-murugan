@@ -85,7 +85,7 @@ the proclaiming boys analogous to a trumpet-major of an army".[^chief-trumpet-ma
 royal drummers, and priests for Paraiyas. Ma. *vaḷḷuvaṉ* a priest of the Parayas,
 a low-caste sage, a caste of slaves.
 
-Almost every religious group in India has claimed the *Tirukkuṟaļ*
+Almost every religious group in India has claimed the *Tirukkuṟaḷ*
 for itself, including the Christians. G. U. Pope sees the poet as an
 eclectic, who came, in Mayilāpur, into contact with Christian
 teachers (like Pantaenus of Alexandria), “imbibing Christian ideas,
@@ -534,8 +534,8 @@ unity prevails throughout the entire text in that it employs one
 kind of metre which is eminently suitable to gnomic poetry. The
 *veṇpā* is the most difficult, and the most highly esteemed of stanzaic
 structures of classical Tamil literature. There are five different
-kinds of this stanza. The *Tirukkuṟaļ* uses just one of them, the
-*kuraļveṇpā.* Here are its structural properties:
+kinds of this stanza. The *Tirukkuṟaḷ* uses just one of them, the
+*kuraḷveṇpā.* Here are its structural properties:
 
 a) Only feet of three or two metrical units may be employed.
 b) The stanza must always end in a foot of the following type:

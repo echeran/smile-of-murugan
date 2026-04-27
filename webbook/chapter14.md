@@ -487,7 +487,7 @@ was possible to maintain eternal youth. It was possible, so they
 maintained, to get over the five limitations of *narai,* "grey hair",
 *tirai*, "dim vision", *mūppu*, “old age", *nōy,* “disease", and *maraṇam*,
 “death”. Rōma Riși says explicitly in *Ñāṉam* 12: “If you ask what
-is the sign (*aṭaiyāļam*) of *corūpa mutti* (= true liberation of body
+is the sign (*aṭaiyāḷam*) of *corūpa mutti* (= true liberation of body
 and spirit), it is the physical body *(tūla tēkam*) aglow with the fire
 (of immortality)".
 

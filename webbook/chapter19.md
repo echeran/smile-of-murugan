@@ -714,7 +714,7 @@ is nothing new to tell ...".
 
 Ramamirtham has so far written more than one hundred short
 stories and two novels *(Putra*, 1st part 1965, *Apitā,* 1970). The
-collections of short stories comprise *Jaṉaṉi* (1957), *Itaḻkaļ* (1959,
+collections of short stories comprise *Jaṉaṉi* (1957), *Itaḻkaḷ* (1959,
 'Petals'), *Paccaikkaṉavu* (1961, 'Green Dream'), Kañkā (1962),
 *Añcali* (1963 'Gesture of Worship') Alaikaḷ (1964 'Waves') and
 *Tayā* (1966). He works in the Punjab National Bank in Madras.
